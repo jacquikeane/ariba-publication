@@ -1,0 +1,2 @@
+Sample	Ant6-Ia_AGly	Aph3-III_AGly	ErmB_MLS	Sat4A_AGly
+subset.1.reads	Ant6-Ia_1633?	Aph3-III_268*?	ErmB_841*?	Sat4A_586*?

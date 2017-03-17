@@ -1,0 +1,2 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Shigella_sonnei_53G_uid84383	    8951	     339	  7982.3	2.62e-23	   89.68	   93.17	18.43	   89.68	   93.17	18.43	    9607	gi|377520096|ref|NC_016822.1|

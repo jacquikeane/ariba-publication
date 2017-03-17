@@ -1,0 +1,16 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    5185	     154	  4740.3	2.62e-23	   85.22	   96.39	253.43	   85.22	   96.39	253.43	    5379	gi|383327320|ref|NC_017022.1|
+Streptococcus_agalactiae_2603V_R_uid57943	     219	     129	    23.0	2.62e-02	    0.66	    4.85	2.40	    1.32	    5.56	4.84	    4516	gi|22536185|ref|NC_004116.1|
+Clostridium_pasteurianum_BC1_uid201478	     276	     168	    26.3	2.62e-03	    0.39	    4.71	1.05	    0.98	    5.37	2.63	    5862	gi|488768999|ref|NC_021182.1|
+Tetragenococcus_halophilus_uid74441	     256	     129	    41.6	2.62e-06	    0.34	    5.67	1.19	    1.51	    7.05	5.30	    4513	gi|352516173|ref|NC_016052.1|
+Flexibacter_litoralis_DSM_6794_uid168257	     332	     174	    49.6	2.62e-08	    0.31	    5.48	0.84	    0.80	    6.47	2.15	    6060	gi|392395704|ref|NC_018018.1|
+Enterococcus_faecalis_V583_uid57669	     294	     163	    37.4	2.62e-06	    0.25	    5.16	0.74	    3.43	    7.81	9.96	    5695	gi|29374661|ref|NC_004668.1|
+Clostridium_difficile_630_uid57679	     294	     157	    42.0	2.62e-07	    0.19	    5.38	0.56	    0.87	    6.46	2.58	    5461	gi|126697566|ref|NC_009089.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     303	     157	    46.0	2.62e-07	    0.17	    5.52	0.52	    4.62	   10.10	14.00	    5493	gi|392987295|ref|NC_018081.1|
+Staphylococcus_aureus_SA40_uid221289	     289	     192	    19.6	2.62e-02	    0.17	    4.31	0.42	    1.08	    5.54	2.67	    6698	gi|545636471|ref|NC_022443.1|
+Bacillus_cereus_ATCC_10987_uid57673	     351	     232	    24.4	2.62e-03	    0.10	    4.34	0.20	    0.99	    5.37	2.03	    8085	gi|42779081|ref|NC_003909.8|
+Clostridium_saccharoperbutylacetonicum_ATCC_27021_uid189747	     318	     205	    24.5	2.62e-03	    0.07	    4.45	0.16	    0.77	    6.01	1.74	    7144	gi|451816898|ref|NC_020291.1|
+Flavobacterium_johnsoniae_UW101_uid58493	     325	     213	    23.5	2.62e-02	    0.07	    4.38	0.15	    1.06	    5.79	2.37	    7421	gi|146297766|ref|NC_009441.1|
+Enterococcus_mundtii_QU_25_uid229420	     303	     186	    28.0	2.62e-03	    0.06	    4.67	0.14	    3.34	    8.38	8.57	    6488	gi|558684762|ref|NC_022878.1|
+Clostridium_botulinum_E3_Alaska_E43_uid59157	     196	     104	    28.1	2.62e-03	    0.05	    5.39	0.23	    0.47	    7.54	2.13	    3633	gi|188587536|ref|NC_010723.1|
+Listeria_monocytogenes_SLCC2376_uid175111	     232	     145	    20.0	2.62e-02	    0.02	    4.58	0.05	    0.70	    6.46	2.33	    5062	gi|404406483|ref|NC_018590.1|

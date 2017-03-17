@@ -1,0 +1,2 @@
+Sample	ErmB_MLS	VanR-B_Gly
+subset.1.reads	ErmB_841*?	VanR-B_1472*?

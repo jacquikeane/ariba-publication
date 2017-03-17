@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Aac6-Im_AGly	Aph2-Ib_AGly	Aph3-III_AGly	MsrC_MLS	VanB_Gly	VanH-B_Gly	VanR-B_Gly	VanS-B_Gly	VanW-B_Gly	VanX-B_Gly	VanY-B_Gly
+subset.24.reads	Aac6-Ii_591*	Aac6-Im_594	Aph2-Ib_1453*	Aph3-III_268*	MsrC_304*?	VanB_1060*	VanH-B_552*	VanR-B_1472	VanS-B_1672*	VanW-B_487	VanX-B_1191	VanY-B_1502*

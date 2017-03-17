@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Dfr_Tmt	ErmB_MLS	ErmC_MLS	MsrC_MLS	TetL_Tet	TetM_Tet	VanB_Gly	VanH-B_Gly	VanR-B_Gly	VanS-B_Gly	VanW-B_Gly	VanX-B_Gly	VanY-B_Gly
+subset.18.reads	Aac6-Ii_591*	DfrG_1081	ErmB_841*	ErmT_854*	MsrC_304*	TetL_1674*?	TetM_831*	VanB_1060	VanH-B_552*	VanR-B_1472	VanS-B_1672*	VanW-B_487	VanX-B_1191	VanY-B_1502

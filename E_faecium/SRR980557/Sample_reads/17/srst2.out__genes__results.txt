@@ -1,0 +1,2 @@
+Sample	VanB_Gly	VanH-B_Gly	VanR-B_Gly	VanS-B_Gly	VanX-B_Gly
+subset.17.reads	VanB_1060	VanH-B_552*	VanR-B_1472*?	VanS-B_1672*?	VanX-B_1191

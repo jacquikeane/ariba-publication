@@ -1,0 +1,2 @@
+Sample	Aph3-III_AGly	ErmB_MLS	MsrC_MLS	TetM_Tet	VanH-B_Gly	VanR-B_Gly	VanS-B_Gly	VanW-B_Gly	VanX-B_Gly
+subset.3.reads	Aph3-III_268*?	ErmB_841*?	MsrC_304*?	TetM_831*?	VanH-B_552*?	VanR-B_1472*?	VanS-B_1672*?	VanW-B_487*?	VanX-B_1191*?

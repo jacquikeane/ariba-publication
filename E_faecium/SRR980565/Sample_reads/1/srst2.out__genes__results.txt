@@ -1,0 +1,2 @@
+Sample	Ant6-Ia_AGly	LnuB_MLS
+subset.1.reads	Ant6-Ia_1633*?	LnuB_1508*?

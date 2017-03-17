@@ -1,0 +1,2 @@
+Sample	Ant6-Ia_AGly	Aph3-III_AGly	ErmB_MLS	LnuB_MLS	TetM_Tet	VanH-B_Gly	VanW-B_Gly
+subset.2.reads	Ant6-Ia_1633?	Aph3-III_268*?	ErmB_841*?	LnuB_1508*?	TetM_831*?	VanH-B_552*?	VanW-B_487*?

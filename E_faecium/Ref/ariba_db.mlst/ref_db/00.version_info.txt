@@ -1,0 +1,5 @@
+ARIBA run with this command:
+/home/ubuntu/.local/bin/ariba prepareref pubmlstget Enterococcus faecium ariba_db.mlst
+from this directory: /mnt/docker/ARIBA/E_faecium/Ref
+
+

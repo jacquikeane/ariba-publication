@@ -1,0 +1,30 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    4913	     343	  3973.5	2.62e-23	   76.75	   91.34	653.32	   76.75	   91.34	653.32	    5379	gi|383327320|ref|NC_017022.1|
+Streptococcus_pasteurianus_ATCC_43144_uid68019	     526	     327	    46.3	2.62e-07	    0.50	   10.25	4.71	    1.35	   11.07	12.60	    5132	gi|336063372|ref|NC_015600.1|
+Staphylococcus_pseudintermedius_ED99_uid162109	     745	     506	    45.7	2.62e-07	    0.46	    9.39	2.74	    1.26	   10.22	7.56	    7935	gi|386318029|ref|NC_017568.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     740	     350	   139.3	2.62e-23	    0.44	   13.47	3.82	    4.75	   18.10	41.19	    5493	gi|392987295|ref|NC_018081.1|
+Flavobacterium_johnsoniae_UW101_uid58493	     798	     473	    83.0	2.62e-16	    0.28	   10.75	1.78	    0.95	   11.72	6.08	    7421	gi|146297766|ref|NC_009441.1|
+Clostridium_saccharoperbutylacetonicum_ATCC_27021_uid189747	     772	     456	    81.6	2.62e-15	    0.28	   10.81	1.80	    0.88	   12.00	5.74	    7144	gi|451816898|ref|NC_020291.1|
+Enterococcus_mundtii_QU_25_uid229420	     773	     414	   108.8	2.62e-21	    0.25	   11.91	1.87	    3.55	   15.98	26.07	    6488	gi|558684762|ref|NC_022878.1|
+Enterococcus_faecalis_V583_uid57669	     638	     363	    75.5	2.62e-14	    0.24	   11.20	2.00	    3.12	   14.82	25.95	    5695	gi|29374661|ref|NC_004668.1|
+Flexibacter_litoralis_DSM_6794_uid168257	     692	     386	    86.6	2.62e-16	    0.20	   11.42	1.50	    0.64	   13.63	4.89	    6060	gi|392395704|ref|NC_018018.1|
+Bacillus_cereus_ATCC_10987_uid57673	     766	     516	    48.9	2.62e-08	    0.14	    9.47	0.83	    1.22	   11.28	7.18	    8085	gi|42779081|ref|NC_003909.8|
+Clostridium_lentocellum_DSM_5427_uid49117	     668	     494	    26.2	2.62e-03	    0.13	    8.63	0.77	    0.71	   10.15	4.32	    7742	gi|326789139|ref|NC_015275.1|
+Lysinibacillus_sphaericus_C3_41_uid58945	     793	     625	    19.8	2.62e-02	    0.12	    8.09	0.60	    1.05	    9.52	5.11	    9808	gi|169825618|ref|NC_010382.1|
+Enterococcus_casseliflavus_EC20_uid55693	     660	     466	    33.5	2.62e-05	    0.12	    9.04	0.77	    2.19	   11.75	14.39	    7304	gi|478483683|ref|NC_020995.1|
+Leptospira_biflexa_serovar_Patoc__Patoc_1__Ames__uid58511	     528	     385	    22.5	2.62e-02	    0.11	    8.75	0.91	    0.64	   10.64	5.09	    6034	gi|189909570|ref|NC_010842.1|, gi|189912848|ref|NC_010845.1|
+Caldicellulosiruptor_bescii_DSM_6725_uid59201	     363	     246	    22.3	2.62e-02	    0.11	    9.40	1.27	    0.52	   11.62	6.21	    3863	gi|222528057|ref|NC_012034.1|
+Marivirga_tractuosa_DSM_4126_uid60837	     561	     421	    19.9	2.62e-02	    0.10	    8.49	0.72	    0.43	   10.13	3.15	    6604	gi|313674129|ref|NC_014759.1|
+Clostridium_cellulovorans_743B_uid51503	     537	     386	    24.9	2.62e-03	    0.08	    8.88	0.62	    0.78	   11.41	5.85	    6046	gi|302872922|ref|NC_014393.1|
+Thermoanaerobacterium_xylanolyticum_LX_11_uid63163	     470	     334	    23.1	2.62e-02	    0.08	    8.98	0.68	    0.52	   11.38	4.59	    5235	gi|333895862|ref|NC_015555.1|
+Thermoanaerobacter_italicus_Ab9_uid46241	     350	     231	    24.5	2.62e-03	    0.08	    9.67	0.98	    0.52	   13.02	6.69	    3618	gi|289577265|ref|NC_013921.1|
+Candidatus_Protochlamydia_amoebophila_UWE25_uid58079	     354	     245	    19.7	2.62e-02	    0.07	    9.20	0.87	    0.28	   11.78	3.39	    3847	gi|46445634|ref|NC_005861.1|
+Fusobacterium_nucleatum_ATCC_25586_uid57885	     204	     124	    19.7	2.62e-02	    0.07	   10.52	1.66	    0.34	   16.19	8.03	    1939	gi|19703352|ref|NC_003454.1|
+Clostridium_botulinum_E3_Alaska_E43_uid59157	     346	     232	    22.6	2.62e-02	    0.07	    9.52	0.86	    0.48	   13.40	6.23	    3633	gi|188587536|ref|NC_010723.1|
+Clostridium_difficile_M120_uid158361	     473	     330	    25.3	2.62e-03	    0.07	    9.13	0.59	    0.77	   12.90	6.93	    5180	gi|383843665|ref|NC_017174.1|
+Listeria_ivanovii_PAM_55_uid73473	     456	     329	    20.4	2.62e-02	    0.06	    8.83	0.54	    0.97	   12.04	9.00	    5164	gi|347547510|ref|NC_016011.1|
+Carnobacterium_maltaromaticum_LMA28_uid179370	     576	     378	    41.2	2.62e-06	    0.05	    9.72	0.39	    1.31	   13.91	10.27	    5923	gi|508605261|ref|NC_019425.2|
+Lactococcus_lactis_cremoris_SK11_uid57983	     458	     333	    19.8	2.62e-02	    0.05	    8.78	0.40	    1.09	   12.57	9.06	    5219	gi|116510843|ref|NC_008527.1|
+Tetragenococcus_halophilus_uid74441	     407	     288	    20.5	2.62e-02	    0.05	    9.02	0.46	    1.10	   13.14	11.10	    4513	gi|352516173|ref|NC_016052.1|
+Flavobacterium_psychrophilum_JIP02_86_uid61627	     362	     250	    20.4	2.62e-02	    0.04	    9.23	0.45	    0.47	   13.48	5.53	    3923	gi|511542232|ref|NC_009613.3|
+Arcobacter_butzleri_RM4018_uid58557	     224	     138	    20.5	2.62e-02	    0.02	   10.37	0.47	    0.23	   15.92	5.12	    2161	gi|157736271|ref|NC_009850.1|

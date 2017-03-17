@@ -1,0 +1,2 @@
+Sample	ST	atpA	ddl	gdh	purK	gyd	pstS	adk	mismatches	uncertainty	depth	maxMAF
+reads	252	1	5	1	1	1	1	1	0	-	731.847142857	0.0479192938209

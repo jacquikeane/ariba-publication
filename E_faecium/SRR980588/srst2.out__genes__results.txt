@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	MsrC_MLS
+reads	Aac6-Ii_591*	MsrC_304*

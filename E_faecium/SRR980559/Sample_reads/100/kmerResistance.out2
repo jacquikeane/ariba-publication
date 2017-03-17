@@ -1,0 +1,9 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    4849	     107	  4536.8	2.62e-23	   74.01	   90.15	91.35	   74.01	   90.15	91.35	    5379	gi|383327320|ref|NC_017022.1|
+Enterococcus_faecium_Aus0085_uid214432	     198	     109	    25.8	2.62e-03	    2.87	    3.62	3.53	   73.99	   88.28	91.02	    5471	gi|529232713|ref|NC_021994.1|
+Bacillus_cereus_ATCC_10987_uid57673	     262	     161	    24.1	2.62e-03	    0.67	    3.24	0.57	    1.52	    3.76	1.30	    8085	gi|42779081|ref|NC_003909.8|
+Enterococcus_hirae_ATCC_9790_uid70619	     203	     109	    28.0	2.62e-03	    0.50	    3.70	0.63	    4.76	    8.06	5.98	    5493	gi|392987295|ref|NC_018081.1|
+Clostridium_difficile_630_uid57679	     204	     109	    29.0	2.62e-04	    0.30	    3.74	0.37	    0.85	    4.58	1.05	    5461	gi|126697566|ref|NC_009089.1|
+Clostridium_saccharoperbutylacetonicum_ATCC_27021_uid189747	     256	     142	    32.4	2.62e-04	    0.20	    3.58	0.19	    0.76	    4.33	0.71	    7144	gi|451816898|ref|NC_020291.1|
+Flexibacter_litoralis_DSM_6794_uid168257	     230	     121	    34.0	2.62e-05	    0.17	    3.80	0.19	    0.64	    4.64	0.72	    6060	gi|392395704|ref|NC_018018.1|
+Flavobacterium_johnsoniae_UW101_uid58493	     235	     148	    19.8	2.62e-02	    0.14	    3.17	0.13	    0.92	    4.27	0.86	    7421	gi|146297766|ref|NC_009441.1|

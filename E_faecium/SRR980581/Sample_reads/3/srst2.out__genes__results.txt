@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Ant6-Ia_AGly	TetM_Tet	VanH-B_Gly	VanR-B_Gly	VanS-B_Gly
+subset.3.reads	Aac6-Ii_591*?	Ant6-Ia_1633?	TetM_831*	VanH-B_552*?	VanR-B_1472*?	VanS-B_1672*?

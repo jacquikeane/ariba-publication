@@ -1,0 +1,5 @@
+Sample	DB	gene	allele	coverage	depth	diffs	uncertainty	divergence	length	maxMAF	clusterid	seqid	annotation
+reads	ARGannot.r1	Sat4A_AGly	Sat4A_586	93.554	2.037	3snp35holes	edge1.0	0.591	543	0.5	407	586	no;no;Sat4A;AGly;X92945;38870-39412;543
+reads	ARGannot.r1	ErmB_MLS	ErmB_841	100.0	4577.721	4snp		0.542	738	0.283	323	841	no;no;ErmB;MLS;M11180;714-1451;738
+reads	ARGannot.r1	MsrC_MLS	MsrC_304	100.0	931.555	15snp		1.014	1479	0.159	36	304	no;no;MsrC;MLS;AY004350;496-1974;1479
+reads	ARGannot.r1	Aac6-Ii_AGly	Aac6-Ii_591	100.0	800.249	1snp		0.182	549	0.043	402	591	no;yes;Aac6-Ii;AGly;L12710;169-717;549

@@ -1,0 +1,2 @@
+Sample	Aac6-Aph2_AGly	Ant6-Ia_AGly	Aph3-III_AGly	Dfr_Tmt	ErmB_MLS	Sat4A_AGly	TetL_Tet	TetM_Tet	VanB_Gly	VanW-B_Gly	VanY-B_Gly
+subset.2.reads	Aac6-Aph2_1686*?	Ant6-Ia_1633*?	Aph3-III_268*?	DfrG_1081*?	ErmB_841*?	Sat4A_586*?	TetL_1674	TetM_831*	VanB_1060*?	VanW-B_487*?	VanY-B_1502*?

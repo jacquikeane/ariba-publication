@@ -1,0 +1,2 @@
+Sample	Aac6-Aph2_AGly	Aac6-Ii_AGly	Ant6-Ia_AGly	Aph3-III_AGly	CatA9_Phe	CatA_Phe	Dfr_Tmt	ErmB_MLS	MsrC_MLS	Sat4A_AGly	TetM_Tet
+reads	Aac6-Aph2_1686	Aac6-Ii_591*	Ant6-Ia_1633	Aph3-III_268	CatA9_1475*?	Cat-pC223_1184	DfrG_1081	ErmB_841*	MsrC_304*	Sat4A_586	TetM_831*

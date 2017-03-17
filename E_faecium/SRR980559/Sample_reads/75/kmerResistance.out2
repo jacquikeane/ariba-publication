@@ -1,0 +1,6 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    4841	      88	  4582.9	2.62e-23	   74.03	   90.00	68.74	   74.03	   90.00	68.74	    5379	gi|383327320|ref|NC_017022.1|
+Enterococcus_faecium_Aus0085_uid214432	     188	      90	    34.8	2.62e-05	    2.86	    3.44	2.65	   74.02	   88.17	68.51	    5471	gi|529232713|ref|NC_021994.1|
+Enterococcus_faecalis_V583_uid57669	     167	      93	    20.9	2.62e-02	    0.46	    2.93	0.42	    3.72	    5.25	3.38	    5695	gi|29374661|ref|NC_004668.1|
+Mycoplasma_pulmonis_UAB_CTIP_uid61569	      62	      21	    20.7	2.62e-02	    0.13	    4.93	0.51	    0.32	    5.64	1.31	    1258	gi|15828471|ref|NC_002771.1|
+Clostridium_pasteurianum_BC1_uid201478	     173	      96	    22.0	2.62e-02	    0.11	    2.95	0.09	    0.68	    3.57	0.57	    5862	gi|488768999|ref|NC_021182.1|

@@ -1,0 +1,13 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    5118	     124	  4758.2	2.62e-23	   64.85	   95.15	105.54	   64.85	   95.15	105.54	    5379	gi|383327320|ref|NC_017022.1|
+Enterococcus_faecium_Aus0085_uid214432	     210	     126	    21.0	2.62e-02	    2.99	    3.84	4.85	   62.96	   90.84	102.12	    5471	gi|529232713|ref|NC_021994.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     236	     126	    33.1	2.62e-05	    0.59	    4.30	0.98	    3.76	    8.65	6.23	    5493	gi|392987295|ref|NC_018081.1|
+Bacillus_thuringiensis_MC28_uid176369	     288	     190	    19.9	2.62e-02	    0.39	    3.48	0.42	    1.27	    4.05	1.40	    8272	gi|407703236|ref|NC_018693.1|
+Clostridium_autoethanogenum_DSM_10061_uid225029	     209	     124	    21.4	2.62e-02	    0.36	    3.87	0.61	    0.79	    4.59	1.31	    5406	gi|554377794|ref|NC_022592.1|
+Brachyspira_intermedia_PWS_A_uid158369	     163	      81	    28.0	2.62e-03	    0.36	    4.66	0.92	    0.62	    5.63	1.60	    3497	gi|384207496|ref|NC_017243.1|
+Carnobacterium_WN1359_uid225603	     172	      96	    21.5	2.62e-02	    0.33	    4.12	0.72	    1.93	    5.84	4.19	    4175	gi|554648462|ref|NC_022606.1|
+Lactococcus_lactis_cremoris_NZ9000_uid167481	     221	     126	    25.9	2.62e-03	    0.25	    4.03	0.39	    0.95	    5.16	1.52	    5480	gi|389853198|ref|NC_017949.1|
+Carnobacterium_maltaromaticum_LMA28_uid179370	     228	     136	    23.1	2.62e-02	    0.23	    3.85	0.35	    1.33	    5.40	2.00	    5923	gi|508605261|ref|NC_019425.2|
+Flexibacter_litoralis_DSM_6794_uid168257	     248	     140	    30.4	2.62e-04	    0.15	    4.09	0.21	    0.76	    5.23	1.12	    6060	gi|392395704|ref|NC_018018.1|
+Clostridium_botulinum_E3_Alaska_E43_uid59157	     157	      84	    22.4	2.62e-02	    0.14	    4.32	0.35	    0.58	    5.62	1.44	    3633	gi|188587536|ref|NC_010723.1|
+Flavobacterium_johnsoniae_UW101_uid58493	     265	     171	    20.3	2.62e-02	    0.14	    3.57	0.17	    1.07	    4.69	1.31	    7421	gi|146297766|ref|NC_009441.1|

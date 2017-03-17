@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Aph3-III_AGly	ErmB_MLS	MsrC_MLS	Sat4A_AGly	TetM_Tet
+reads	Aac6-Ii_591*	Aph3-III_268*?	ErmB_841*?	MsrC_304*	Sat4A_586*?	TetM_831*?

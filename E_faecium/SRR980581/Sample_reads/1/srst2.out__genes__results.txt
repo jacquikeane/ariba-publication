@@ -1,0 +1,2 @@
+Sample	TetM_Tet
+subset.1.reads	TetM_831*?

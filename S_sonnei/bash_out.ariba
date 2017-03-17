@@ -1,0 +1,3250 @@
+ERR024604	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024604	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024604/ariba/report.tsv
+ERR024604		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024604/reads_1.fastq.gz ERR024604/reads_2.fastq.gz ERR024604/ariba"
+ERR024604		User time (seconds): 242.94
+ERR024604		System time (seconds): 74.20
+ERR024604		Percent of CPU this job got: 93%
+ERR024604		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:39.18
+ERR024604		Average shared text size (kbytes): 0
+ERR024604		Average unshared data size (kbytes): 0
+ERR024604		Average stack size (kbytes): 0
+ERR024604		Average total size (kbytes): 0
+ERR024604		Maximum resident set size (kbytes): 145244
+ERR024604		Average resident set size (kbytes): 0
+ERR024604		Major (requiring I/O) page faults: 0
+ERR024604		Minor (reclaiming a frame) page faults: 19371544
+ERR024604		Voluntary context switches: 25770
+ERR024604		Involuntary context switches: 559030
+ERR024604		Swaps: 0
+ERR024604		File system inputs: 0
+ERR024604		File system outputs: 2846032
+ERR024604		Socket messages sent: 0
+ERR024604		Socket messages received: 0
+ERR024604		Signals delivered: 0
+ERR024604		Page size (bytes): 4096
+ERR024604		Exit status: 0
+ERR024605	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024605	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024605/ariba/report.tsv
+ERR024605		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024605/reads_1.fastq.gz ERR024605/reads_2.fastq.gz ERR024605/ariba"
+ERR024605		User time (seconds): 345.86
+ERR024605		System time (seconds): 76.98
+ERR024605		Percent of CPU this job got: 94%
+ERR024605		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:28.24
+ERR024605		Average shared text size (kbytes): 0
+ERR024605		Average unshared data size (kbytes): 0
+ERR024605		Average stack size (kbytes): 0
+ERR024605		Average total size (kbytes): 0
+ERR024605		Maximum resident set size (kbytes): 145980
+ERR024605		Average resident set size (kbytes): 0
+ERR024605		Major (requiring I/O) page faults: 0
+ERR024605		Minor (reclaiming a frame) page faults: 20454048
+ERR024605		Voluntary context switches: 24948
+ERR024605		Involuntary context switches: 295495
+ERR024605		Swaps: 0
+ERR024605		File system inputs: 24
+ERR024605		File system outputs: 3098688
+ERR024605		Socket messages sent: 0
+ERR024605		Socket messages received: 0
+ERR024605		Signals delivered: 0
+ERR024605		Page size (bytes): 4096
+ERR024605		Exit status: 0
+ERR024606	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024606	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024606/ariba/report.tsv
+ERR024606		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024606/reads_1.fastq.gz ERR024606/reads_2.fastq.gz ERR024606/ariba"
+ERR024606		User time (seconds): 373.68
+ERR024606		System time (seconds): 60.10
+ERR024606		Percent of CPU this job got: 94%
+ERR024606		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:40.52
+ERR024606		Average shared text size (kbytes): 0
+ERR024606		Average unshared data size (kbytes): 0
+ERR024606		Average stack size (kbytes): 0
+ERR024606		Average total size (kbytes): 0
+ERR024606		Maximum resident set size (kbytes): 145988
+ERR024606		Average resident set size (kbytes): 0
+ERR024606		Major (requiring I/O) page faults: 0
+ERR024606		Minor (reclaiming a frame) page faults: 18567103
+ERR024606		Voluntary context switches: 27049
+ERR024606		Involuntary context switches: 359264
+ERR024606		Swaps: 0
+ERR024606		File system inputs: 0
+ERR024606		File system outputs: 3321328
+ERR024606		Socket messages sent: 0
+ERR024606		Socket messages received: 0
+ERR024606		Signals delivered: 0
+ERR024606		Page size (bytes): 4096
+ERR024606		Exit status: 0
+ERR024607	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024607	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024607/ariba/report.tsv
+ERR024607		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024607/reads_1.fastq.gz ERR024607/reads_2.fastq.gz ERR024607/ariba"
+ERR024607		User time (seconds): 317.66
+ERR024607		System time (seconds): 53.24
+ERR024607		Percent of CPU this job got: 94%
+ERR024607		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:33.65
+ERR024607		Average shared text size (kbytes): 0
+ERR024607		Average unshared data size (kbytes): 0
+ERR024607		Average stack size (kbytes): 0
+ERR024607		Average total size (kbytes): 0
+ERR024607		Maximum resident set size (kbytes): 145792
+ERR024607		Average resident set size (kbytes): 0
+ERR024607		Major (requiring I/O) page faults: 0
+ERR024607		Minor (reclaiming a frame) page faults: 17052203
+ERR024607		Voluntary context switches: 25080
+ERR024607		Involuntary context switches: 320287
+ERR024607		Swaps: 0
+ERR024607		File system inputs: 0
+ERR024607		File system outputs: 2992472
+ERR024607		Socket messages sent: 0
+ERR024607		Socket messages received: 0
+ERR024607		Signals delivered: 0
+ERR024607		Page size (bytes): 4096
+ERR024607		Exit status: 0
+ERR024608	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024608	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024608/ariba/report.tsv
+ERR024608		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024608/reads_1.fastq.gz ERR024608/reads_2.fastq.gz ERR024608/ariba"
+ERR024608		User time (seconds): 394.67
+ERR024608		System time (seconds): 60.68
+ERR024608		Percent of CPU this job got: 93%
+ERR024608		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:06.47
+ERR024608		Average shared text size (kbytes): 0
+ERR024608		Average unshared data size (kbytes): 0
+ERR024608		Average stack size (kbytes): 0
+ERR024608		Average total size (kbytes): 0
+ERR024608		Maximum resident set size (kbytes): 146196
+ERR024608		Average resident set size (kbytes): 0
+ERR024608		Major (requiring I/O) page faults: 0
+ERR024608		Minor (reclaiming a frame) page faults: 19686461
+ERR024608		Voluntary context switches: 28105
+ERR024608		Involuntary context switches: 361865
+ERR024608		Swaps: 0
+ERR024608		File system inputs: 8
+ERR024608		File system outputs: 3472368
+ERR024608		Socket messages sent: 0
+ERR024608		Socket messages received: 0
+ERR024608		Signals delivered: 0
+ERR024608		Page size (bytes): 4096
+ERR024608		Exit status: 0
+ERR024609	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024609	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024609/ariba/report.tsv
+ERR024609		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024609/reads_1.fastq.gz ERR024609/reads_2.fastq.gz ERR024609/ariba"
+ERR024609		User time (seconds): 386.97
+ERR024609		System time (seconds): 60.79
+ERR024609		Percent of CPU this job got: 93%
+ERR024609		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:56.52
+ERR024609		Average shared text size (kbytes): 0
+ERR024609		Average unshared data size (kbytes): 0
+ERR024609		Average stack size (kbytes): 0
+ERR024609		Average total size (kbytes): 0
+ERR024609		Maximum resident set size (kbytes): 146472
+ERR024609		Average resident set size (kbytes): 0
+ERR024609		Major (requiring I/O) page faults: 0
+ERR024609		Minor (reclaiming a frame) page faults: 19538986
+ERR024609		Voluntary context switches: 27963
+ERR024609		Involuntary context switches: 391895
+ERR024609		Swaps: 0
+ERR024609		File system inputs: 0
+ERR024609		File system outputs: 3441512
+ERR024609		Socket messages sent: 0
+ERR024609		Socket messages received: 0
+ERR024609		Signals delivered: 0
+ERR024609		Page size (bytes): 4096
+ERR024609		Exit status: 0
+ERR024610	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024610	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024610/ariba/report.tsv
+ERR024610		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024610/reads_1.fastq.gz ERR024610/reads_2.fastq.gz ERR024610/ariba"
+ERR024610		User time (seconds): 318.58
+ERR024610		System time (seconds): 55.42
+ERR024610		Percent of CPU this job got: 93%
+ERR024610		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:38.75
+ERR024610		Average shared text size (kbytes): 0
+ERR024610		Average unshared data size (kbytes): 0
+ERR024610		Average stack size (kbytes): 0
+ERR024610		Average total size (kbytes): 0
+ERR024610		Maximum resident set size (kbytes): 145844
+ERR024610		Average resident set size (kbytes): 0
+ERR024610		Major (requiring I/O) page faults: 0
+ERR024610		Minor (reclaiming a frame) page faults: 17737806
+ERR024610		Voluntary context switches: 26278
+ERR024610		Involuntary context switches: 278482
+ERR024610		Swaps: 0
+ERR024610		File system inputs: 8
+ERR024610		File system outputs: 3058112
+ERR024610		Socket messages sent: 0
+ERR024610		Socket messages received: 0
+ERR024610		Signals delivered: 0
+ERR024610		Page size (bytes): 4096
+ERR024610		Exit status: 0
+ERR024611	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024611	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024611/ariba/report.tsv
+ERR024611		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024611/reads_1.fastq.gz ERR024611/reads_2.fastq.gz ERR024611/ariba"
+ERR024611		User time (seconds): 302.72
+ERR024611		System time (seconds): 56.02
+ERR024611		Percent of CPU this job got: 92%
+ERR024611		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:25.89
+ERR024611		Average shared text size (kbytes): 0
+ERR024611		Average unshared data size (kbytes): 0
+ERR024611		Average stack size (kbytes): 0
+ERR024611		Average total size (kbytes): 0
+ERR024611		Maximum resident set size (kbytes): 145728
+ERR024611		Average resident set size (kbytes): 0
+ERR024611		Major (requiring I/O) page faults: 0
+ERR024611		Minor (reclaiming a frame) page faults: 17807022
+ERR024611		Voluntary context switches: 26298
+ERR024611		Involuntary context switches: 308275
+ERR024611		Swaps: 0
+ERR024611		File system inputs: 8
+ERR024611		File system outputs: 3063872
+ERR024611		Socket messages sent: 0
+ERR024611		Socket messages received: 0
+ERR024611		Signals delivered: 0
+ERR024611		Page size (bytes): 4096
+ERR024611		Exit status: 0
+ERR024612	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024612	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024612/ariba/report.tsv
+ERR024612		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024612/reads_1.fastq.gz ERR024612/reads_2.fastq.gz ERR024612/ariba"
+ERR024612		User time (seconds): 316.72
+ERR024612		System time (seconds): 56.98
+ERR024612		Percent of CPU this job got: 93%
+ERR024612		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:41.69
+ERR024612		Average shared text size (kbytes): 0
+ERR024612		Average unshared data size (kbytes): 0
+ERR024612		Average stack size (kbytes): 0
+ERR024612		Average total size (kbytes): 0
+ERR024612		Maximum resident set size (kbytes): 146032
+ERR024612		Average resident set size (kbytes): 0
+ERR024612		Major (requiring I/O) page faults: 0
+ERR024612		Minor (reclaiming a frame) page faults: 18418844
+ERR024612		Voluntary context switches: 26708
+ERR024612		Involuntary context switches: 521121
+ERR024612		Swaps: 0
+ERR024612		File system inputs: 8
+ERR024612		File system outputs: 3083784
+ERR024612		Socket messages sent: 0
+ERR024612		Socket messages received: 0
+ERR024612		Signals delivered: 0
+ERR024612		Page size (bytes): 4096
+ERR024612		Exit status: 0
+ERR024614	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024614	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024614/ariba/report.tsv
+ERR024614		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024614/reads_1.fastq.gz ERR024614/reads_2.fastq.gz ERR024614/ariba"
+ERR024614		User time (seconds): 345.98
+ERR024614		System time (seconds): 57.03
+ERR024614		Percent of CPU this job got: 94%
+ERR024614		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:08.64
+ERR024614		Average shared text size (kbytes): 0
+ERR024614		Average unshared data size (kbytes): 0
+ERR024614		Average stack size (kbytes): 0
+ERR024614		Average total size (kbytes): 0
+ERR024614		Maximum resident set size (kbytes): 145616
+ERR024614		Average resident set size (kbytes): 0
+ERR024614		Major (requiring I/O) page faults: 0
+ERR024614		Minor (reclaiming a frame) page faults: 18254500
+ERR024614		Voluntary context switches: 25738
+ERR024614		Involuntary context switches: 348006
+ERR024614		Swaps: 0
+ERR024614		File system inputs: 0
+ERR024614		File system outputs: 3123056
+ERR024614		Socket messages sent: 0
+ERR024614		Socket messages received: 0
+ERR024614		Signals delivered: 0
+ERR024614		Page size (bytes): 4096
+ERR024614		Exit status: 0
+ERR024616	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024616	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024616/ariba/report.tsv
+ERR024616		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024616/reads_1.fastq.gz ERR024616/reads_2.fastq.gz ERR024616/ariba"
+ERR024616		User time (seconds): 383.32
+ERR024616		System time (seconds): 69.19
+ERR024616		Percent of CPU this job got: 92%
+ERR024616		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:07.17
+ERR024616		Average shared text size (kbytes): 0
+ERR024616		Average unshared data size (kbytes): 0
+ERR024616		Average stack size (kbytes): 0
+ERR024616		Average total size (kbytes): 0
+ERR024616		Maximum resident set size (kbytes): 146648
+ERR024616		Average resident set size (kbytes): 0
+ERR024616		Major (requiring I/O) page faults: 0
+ERR024616		Minor (reclaiming a frame) page faults: 22290372
+ERR024616		Voluntary context switches: 31307
+ERR024616		Involuntary context switches: 470439
+ERR024616		Swaps: 0
+ERR024616		File system inputs: 16
+ERR024616		File system outputs: 3644472
+ERR024616		Socket messages sent: 0
+ERR024616		Socket messages received: 0
+ERR024616		Signals delivered: 0
+ERR024616		Page size (bytes): 4096
+ERR024616		Exit status: 0
+ERR024617	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024617	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024617/ariba/report.tsv
+ERR024617		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024617/reads_1.fastq.gz ERR024617/reads_2.fastq.gz ERR024617/ariba"
+ERR024617		User time (seconds): 353.40
+ERR024617		System time (seconds): 61.72
+ERR024617		Percent of CPU this job got: 92%
+ERR024617		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:29.13
+ERR024617		Average shared text size (kbytes): 0
+ERR024617		Average unshared data size (kbytes): 0
+ERR024617		Average stack size (kbytes): 0
+ERR024617		Average total size (kbytes): 0
+ERR024617		Maximum resident set size (kbytes): 148128
+ERR024617		Average resident set size (kbytes): 0
+ERR024617		Major (requiring I/O) page faults: 0
+ERR024617		Minor (reclaiming a frame) page faults: 19659987
+ERR024617		Voluntary context switches: 28167
+ERR024617		Involuntary context switches: 526827
+ERR024617		Swaps: 0
+ERR024617		File system inputs: 8
+ERR024617		File system outputs: 3330488
+ERR024617		Socket messages sent: 0
+ERR024617		Socket messages received: 0
+ERR024617		Signals delivered: 0
+ERR024617		Page size (bytes): 4096
+ERR024617		Exit status: 0
+ERR024618	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024618	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024618/ariba/report.tsv
+ERR024618		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024618/reads_1.fastq.gz ERR024618/reads_2.fastq.gz ERR024618/ariba"
+ERR024618		User time (seconds): 360.33
+ERR024618		System time (seconds): 67.52
+ERR024618		Percent of CPU this job got: 91%
+ERR024618		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:47.32
+ERR024618		Average shared text size (kbytes): 0
+ERR024618		Average unshared data size (kbytes): 0
+ERR024618		Average stack size (kbytes): 0
+ERR024618		Average total size (kbytes): 0
+ERR024618		Maximum resident set size (kbytes): 145888
+ERR024618		Average resident set size (kbytes): 0
+ERR024618		Major (requiring I/O) page faults: 0
+ERR024618		Minor (reclaiming a frame) page faults: 21617508
+ERR024618		Voluntary context switches: 31544
+ERR024618		Involuntary context switches: 511319
+ERR024618		Swaps: 0
+ERR024618		File system inputs: 0
+ERR024618		File system outputs: 3569304
+ERR024618		Socket messages sent: 0
+ERR024618		Socket messages received: 0
+ERR024618		Signals delivered: 0
+ERR024618		Page size (bytes): 4096
+ERR024618		Exit status: 0
+ERR024619	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024619	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024619/ariba/report.tsv
+ERR024619		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024619/reads_1.fastq.gz ERR024619/reads_2.fastq.gz ERR024619/ariba"
+ERR024619		User time (seconds): 313.44
+ERR024619		System time (seconds): 63.98
+ERR024619		Percent of CPU this job got: 91%
+ERR024619		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:52.54
+ERR024619		Average shared text size (kbytes): 0
+ERR024619		Average unshared data size (kbytes): 0
+ERR024619		Average stack size (kbytes): 0
+ERR024619		Average total size (kbytes): 0
+ERR024619		Maximum resident set size (kbytes): 145788
+ERR024619		Average resident set size (kbytes): 0
+ERR024619		Major (requiring I/O) page faults: 0
+ERR024619		Minor (reclaiming a frame) page faults: 20419405
+ERR024619		Voluntary context switches: 29903
+ERR024619		Involuntary context switches: 363309
+ERR024619		Swaps: 0
+ERR024619		File system inputs: 8
+ERR024619		File system outputs: 3372312
+ERR024619		Socket messages sent: 0
+ERR024619		Socket messages received: 0
+ERR024619		Signals delivered: 0
+ERR024619		Page size (bytes): 4096
+ERR024619		Exit status: 0
+ERR024620	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024620	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024620/ariba/report.tsv
+ERR024620		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024620/reads_1.fastq.gz ERR024620/reads_2.fastq.gz ERR024620/ariba"
+ERR024620		User time (seconds): 351.50
+ERR024620		System time (seconds): 64.67
+ERR024620		Percent of CPU this job got: 92%
+ERR024620		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:31.36
+ERR024620		Average shared text size (kbytes): 0
+ERR024620		Average unshared data size (kbytes): 0
+ERR024620		Average stack size (kbytes): 0
+ERR024620		Average total size (kbytes): 0
+ERR024620		Maximum resident set size (kbytes): 146072
+ERR024620		Average resident set size (kbytes): 0
+ERR024620		Major (requiring I/O) page faults: 0
+ERR024620		Minor (reclaiming a frame) page faults: 20423726
+ERR024620		Voluntary context switches: 29469
+ERR024620		Involuntary context switches: 290491
+ERR024620		Swaps: 0
+ERR024620		File system inputs: 0
+ERR024620		File system outputs: 3440416
+ERR024620		Socket messages sent: 0
+ERR024620		Socket messages received: 0
+ERR024620		Signals delivered: 0
+ERR024620		Page size (bytes): 4096
+ERR024620		Exit status: 0
+ERR024621	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024621	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024621/ariba/report.tsv
+ERR024621		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024621/reads_1.fastq.gz ERR024621/reads_2.fastq.gz ERR024621/ariba"
+ERR024621		User time (seconds): 370.13
+ERR024621		System time (seconds): 68.97
+ERR024621		Percent of CPU this job got: 91%
+ERR024621		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:58.29
+ERR024621		Average shared text size (kbytes): 0
+ERR024621		Average unshared data size (kbytes): 0
+ERR024621		Average stack size (kbytes): 0
+ERR024621		Average total size (kbytes): 0
+ERR024621		Maximum resident set size (kbytes): 146612
+ERR024621		Average resident set size (kbytes): 0
+ERR024621		Major (requiring I/O) page faults: 0
+ERR024621		Minor (reclaiming a frame) page faults: 21843456
+ERR024621		Voluntary context switches: 30935
+ERR024621		Involuntary context switches: 517162
+ERR024621		Swaps: 0
+ERR024621		File system inputs: 0
+ERR024621		File system outputs: 3585296
+ERR024621		Socket messages sent: 0
+ERR024621		Socket messages received: 0
+ERR024621		Signals delivered: 0
+ERR024621		Page size (bytes): 4096
+ERR024621		Exit status: 0
+ERR024622	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024622	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024622/ariba/report.tsv
+ERR024622		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024622/reads_1.fastq.gz ERR024622/reads_2.fastq.gz ERR024622/ariba"
+ERR024622		User time (seconds): 359.74
+ERR024622		System time (seconds): 61.17
+ERR024622		Percent of CPU this job got: 91%
+ERR024622		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:39.38
+ERR024622		Average shared text size (kbytes): 0
+ERR024622		Average unshared data size (kbytes): 0
+ERR024622		Average stack size (kbytes): 0
+ERR024622		Average total size (kbytes): 0
+ERR024622		Maximum resident set size (kbytes): 146116
+ERR024622		Average resident set size (kbytes): 0
+ERR024622		Major (requiring I/O) page faults: 0
+ERR024622		Minor (reclaiming a frame) page faults: 19529522
+ERR024622		Voluntary context switches: 28336
+ERR024622		Involuntary context switches: 272197
+ERR024622		Swaps: 0
+ERR024622		File system inputs: 16
+ERR024622		File system outputs: 3319856
+ERR024622		Socket messages sent: 0
+ERR024622		Socket messages received: 0
+ERR024622		Signals delivered: 0
+ERR024622		Page size (bytes): 4096
+ERR024622		Exit status: 0
+ERR024625	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024625	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024625/ariba/report.tsv
+ERR024625		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024625/reads_1.fastq.gz ERR024625/reads_2.fastq.gz ERR024625/ariba"
+ERR024625		User time (seconds): 323.34
+ERR024625		System time (seconds): 64.12
+ERR024625		Percent of CPU this job got: 90%
+ERR024625		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:06.08
+ERR024625		Average shared text size (kbytes): 0
+ERR024625		Average unshared data size (kbytes): 0
+ERR024625		Average stack size (kbytes): 0
+ERR024625		Average total size (kbytes): 0
+ERR024625		Maximum resident set size (kbytes): 146140
+ERR024625		Average resident set size (kbytes): 0
+ERR024625		Major (requiring I/O) page faults: 0
+ERR024625		Minor (reclaiming a frame) page faults: 20581002
+ERR024625		Voluntary context switches: 30128
+ERR024625		Involuntary context switches: 416455
+ERR024625		Swaps: 0
+ERR024625		File system inputs: 0
+ERR024625		File system outputs: 3326848
+ERR024625		Socket messages sent: 0
+ERR024625		Socket messages received: 0
+ERR024625		Signals delivered: 0
+ERR024625		Page size (bytes): 4096
+ERR024625		Exit status: 0
+ERR024626	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024626	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024626/ariba/report.tsv
+ERR024626		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024626/reads_1.fastq.gz ERR024626/reads_2.fastq.gz ERR024626/ariba"
+ERR024626		User time (seconds): 332.94
+ERR024626		System time (seconds): 61.66
+ERR024626		Percent of CPU this job got: 91%
+ERR024626		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:11.88
+ERR024626		Average shared text size (kbytes): 0
+ERR024626		Average unshared data size (kbytes): 0
+ERR024626		Average stack size (kbytes): 0
+ERR024626		Average total size (kbytes): 0
+ERR024626		Maximum resident set size (kbytes): 145736
+ERR024626		Average resident set size (kbytes): 0
+ERR024626		Major (requiring I/O) page faults: 0
+ERR024626		Minor (reclaiming a frame) page faults: 19521572
+ERR024626		Voluntary context switches: 28750
+ERR024626		Involuntary context switches: 482161
+ERR024626		Swaps: 0
+ERR024626		File system inputs: 0
+ERR024626		File system outputs: 3317656
+ERR024626		Socket messages sent: 0
+ERR024626		Socket messages received: 0
+ERR024626		Signals delivered: 0
+ERR024626		Page size (bytes): 4096
+ERR024626		Exit status: 0
+ERR024627	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR024627	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR024627/ariba/report.tsv
+ERR024627		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR024627/reads_1.fastq.gz ERR024627/reads_2.fastq.gz ERR024627/ariba"
+ERR024627		User time (seconds): 322.98
+ERR024627		System time (seconds): 59.77
+ERR024627		Percent of CPU this job got: 91%
+ERR024627		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:56.13
+ERR024627		Average shared text size (kbytes): 0
+ERR024627		Average unshared data size (kbytes): 0
+ERR024627		Average stack size (kbytes): 0
+ERR024627		Average total size (kbytes): 0
+ERR024627		Maximum resident set size (kbytes): 145744
+ERR024627		Average resident set size (kbytes): 0
+ERR024627		Major (requiring I/O) page faults: 0
+ERR024627		Minor (reclaiming a frame) page faults: 19008529
+ERR024627		Voluntary context switches: 27598
+ERR024627		Involuntary context switches: 445651
+ERR024627		Swaps: 0
+ERR024627		File system inputs: 24
+ERR024627		File system outputs: 3165744
+ERR024627		Socket messages sent: 0
+ERR024627		Socket messages received: 0
+ERR024627		Signals delivered: 0
+ERR024627		Page size (bytes): 4096
+ERR024627		Exit status: 0
+ERR025682	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025682	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025682/ariba/report.tsv
+ERR025682		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025682/reads_1.fastq.gz ERR025682/reads_2.fastq.gz ERR025682/ariba"
+ERR025682		User time (seconds): 300.04
+ERR025682		System time (seconds): 63.26
+ERR025682		Percent of CPU this job got: 91%
+ERR025682		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:38.32
+ERR025682		Average shared text size (kbytes): 0
+ERR025682		Average unshared data size (kbytes): 0
+ERR025682		Average stack size (kbytes): 0
+ERR025682		Average total size (kbytes): 0
+ERR025682		Maximum resident set size (kbytes): 146112
+ERR025682		Average resident set size (kbytes): 0
+ERR025682		Major (requiring I/O) page faults: 0
+ERR025682		Minor (reclaiming a frame) page faults: 20049604
+ERR025682		Voluntary context switches: 30385
+ERR025682		Involuntary context switches: 337446
+ERR025682		Swaps: 0
+ERR025682		File system inputs: 48
+ERR025682		File system outputs: 3349696
+ERR025682		Socket messages sent: 0
+ERR025682		Socket messages received: 0
+ERR025682		Signals delivered: 0
+ERR025682		Page size (bytes): 4096
+ERR025682		Exit status: 0
+ERR025683	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025683	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025683/ariba/report.tsv
+ERR025683		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025683/reads_1.fastq.gz ERR025683/reads_2.fastq.gz ERR025683/ariba"
+ERR025683		User time (seconds): 258.88
+ERR025683		System time (seconds): 57.97
+ERR025683		Percent of CPU this job got: 91%
+ERR025683		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:47.13
+ERR025683		Average shared text size (kbytes): 0
+ERR025683		Average unshared data size (kbytes): 0
+ERR025683		Average stack size (kbytes): 0
+ERR025683		Average total size (kbytes): 0
+ERR025683		Maximum resident set size (kbytes): 145492
+ERR025683		Average resident set size (kbytes): 0
+ERR025683		Major (requiring I/O) page faults: 0
+ERR025683		Minor (reclaiming a frame) page faults: 18697857
+ERR025683		Voluntary context switches: 29038
+ERR025683		Involuntary context switches: 355801
+ERR025683		Swaps: 0
+ERR025683		File system inputs: 8
+ERR025683		File system outputs: 3000384
+ERR025683		Socket messages sent: 0
+ERR025683		Socket messages received: 0
+ERR025683		Signals delivered: 0
+ERR025683		Page size (bytes): 4096
+ERR025683		Exit status: 0
+ERR025684	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025684	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025684/ariba/report.tsv
+ERR025684		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025684/reads_1.fastq.gz ERR025684/reads_2.fastq.gz ERR025684/ariba"
+ERR025684		User time (seconds): 234.04
+ERR025684		System time (seconds): 57.58
+ERR025684		Percent of CPU this job got: 90%
+ERR025684		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:21.15
+ERR025684		Average shared text size (kbytes): 0
+ERR025684		Average unshared data size (kbytes): 0
+ERR025684		Average stack size (kbytes): 0
+ERR025684		Average total size (kbytes): 0
+ERR025684		Maximum resident set size (kbytes): 145440
+ERR025684		Average resident set size (kbytes): 0
+ERR025684		Major (requiring I/O) page faults: 0
+ERR025684		Minor (reclaiming a frame) page faults: 18509738
+ERR025684		Voluntary context switches: 28424
+ERR025684		Involuntary context switches: 374084
+ERR025684		Swaps: 0
+ERR025684		File system inputs: 40
+ERR025684		File system outputs: 2991168
+ERR025684		Socket messages sent: 0
+ERR025684		Socket messages received: 0
+ERR025684		Signals delivered: 0
+ERR025684		Page size (bytes): 4096
+ERR025684		Exit status: 0
+ERR025685	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025685	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025685/ariba/report.tsv
+ERR025685		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025685/reads_1.fastq.gz ERR025685/reads_2.fastq.gz ERR025685/ariba"
+ERR025685		User time (seconds): 330.17
+ERR025685		System time (seconds): 59.56
+ERR025685		Percent of CPU this job got: 91%
+ERR025685		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:04.22
+ERR025685		Average shared text size (kbytes): 0
+ERR025685		Average unshared data size (kbytes): 0
+ERR025685		Average stack size (kbytes): 0
+ERR025685		Average total size (kbytes): 0
+ERR025685		Maximum resident set size (kbytes): 146212
+ERR025685		Average resident set size (kbytes): 0
+ERR025685		Major (requiring I/O) page faults: 0
+ERR025685		Minor (reclaiming a frame) page faults: 18759992
+ERR025685		Voluntary context switches: 27247
+ERR025685		Involuntary context switches: 451631
+ERR025685		Swaps: 0
+ERR025685		File system inputs: 0
+ERR025685		File system outputs: 3181272
+ERR025685		Socket messages sent: 0
+ERR025685		Socket messages received: 0
+ERR025685		Signals delivered: 0
+ERR025685		Page size (bytes): 4096
+ERR025685		Exit status: 0
+ERR025686	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025686	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025686/ariba/report.tsv
+ERR025686		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025686/reads_1.fastq.gz ERR025686/reads_2.fastq.gz ERR025686/ariba"
+ERR025686		User time (seconds): 334.98
+ERR025686		System time (seconds): 64.11
+ERR025686		Percent of CPU this job got: 91%
+ERR025686		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:16.93
+ERR025686		Average shared text size (kbytes): 0
+ERR025686		Average unshared data size (kbytes): 0
+ERR025686		Average stack size (kbytes): 0
+ERR025686		Average total size (kbytes): 0
+ERR025686		Maximum resident set size (kbytes): 146192
+ERR025686		Average resident set size (kbytes): 0
+ERR025686		Major (requiring I/O) page faults: 0
+ERR025686		Minor (reclaiming a frame) page faults: 20264324
+ERR025686		Voluntary context switches: 31117
+ERR025686		Involuntary context switches: 479448
+ERR025686		Swaps: 0
+ERR025686		File system inputs: 0
+ERR025686		File system outputs: 3452760
+ERR025686		Socket messages sent: 0
+ERR025686		Socket messages received: 0
+ERR025686		Signals delivered: 0
+ERR025686		Page size (bytes): 4096
+ERR025686		Exit status: 0
+ERR025687	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025687	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025687/ariba/report.tsv
+ERR025687		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025687/reads_1.fastq.gz ERR025687/reads_2.fastq.gz ERR025687/ariba"
+ERR025687		User time (seconds): 297.94
+ERR025687		System time (seconds): 62.61
+ERR025687		Percent of CPU this job got: 90%
+ERR025687		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:37.72
+ERR025687		Average shared text size (kbytes): 0
+ERR025687		Average unshared data size (kbytes): 0
+ERR025687		Average stack size (kbytes): 0
+ERR025687		Average total size (kbytes): 0
+ERR025687		Maximum resident set size (kbytes): 146048
+ERR025687		Average resident set size (kbytes): 0
+ERR025687		Major (requiring I/O) page faults: 0
+ERR025687		Minor (reclaiming a frame) page faults: 20092593
+ERR025687		Voluntary context switches: 31408
+ERR025687		Involuntary context switches: 317241
+ERR025687		Swaps: 0
+ERR025687		File system inputs: 0
+ERR025687		File system outputs: 3374616
+ERR025687		Socket messages sent: 0
+ERR025687		Socket messages received: 0
+ERR025687		Signals delivered: 0
+ERR025687		Page size (bytes): 4096
+ERR025687		Exit status: 0
+ERR025688	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025688	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025688/ariba/report.tsv
+ERR025688		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025688/reads_1.fastq.gz ERR025688/reads_2.fastq.gz ERR025688/ariba"
+ERR025688		User time (seconds): 262.88
+ERR025688		System time (seconds): 62.99
+ERR025688		Percent of CPU this job got: 90%
+ERR025688		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:59.99
+ERR025688		Average shared text size (kbytes): 0
+ERR025688		Average unshared data size (kbytes): 0
+ERR025688		Average stack size (kbytes): 0
+ERR025688		Average total size (kbytes): 0
+ERR025688		Maximum resident set size (kbytes): 145760
+ERR025688		Average resident set size (kbytes): 0
+ERR025688		Major (requiring I/O) page faults: 0
+ERR025688		Minor (reclaiming a frame) page faults: 19916593
+ERR025688		Voluntary context switches: 30680
+ERR025688		Involuntary context switches: 295951
+ERR025688		Swaps: 0
+ERR025688		File system inputs: 0
+ERR025688		File system outputs: 3252528
+ERR025688		Socket messages sent: 0
+ERR025688		Socket messages received: 0
+ERR025688		Signals delivered: 0
+ERR025688		Page size (bytes): 4096
+ERR025688		Exit status: 0
+ERR025689	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025689	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025689/ariba/report.tsv
+ERR025689		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025689/reads_1.fastq.gz ERR025689/reads_2.fastq.gz ERR025689/ariba"
+ERR025689		User time (seconds): 251.88
+ERR025689		System time (seconds): 60.50
+ERR025689		Percent of CPU this job got: 91%
+ERR025689		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:42.68
+ERR025689		Average shared text size (kbytes): 0
+ERR025689		Average unshared data size (kbytes): 0
+ERR025689		Average stack size (kbytes): 0
+ERR025689		Average total size (kbytes): 0
+ERR025689		Maximum resident set size (kbytes): 145892
+ERR025689		Average resident set size (kbytes): 0
+ERR025689		Major (requiring I/O) page faults: 0
+ERR025689		Minor (reclaiming a frame) page faults: 19327655
+ERR025689		Voluntary context switches: 30003
+ERR025689		Involuntary context switches: 319456
+ERR025689		Swaps: 0
+ERR025689		File system inputs: 0
+ERR025689		File system outputs: 3082168
+ERR025689		Socket messages sent: 0
+ERR025689		Socket messages received: 0
+ERR025689		Signals delivered: 0
+ERR025689		Page size (bytes): 4096
+ERR025689		Exit status: 0
+ERR025690	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025690	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025690/ariba/report.tsv
+ERR025690		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025690/reads_1.fastq.gz ERR025690/reads_2.fastq.gz ERR025690/ariba"
+ERR025690		User time (seconds): 294.31
+ERR025690		System time (seconds): 67.58
+ERR025690		Percent of CPU this job got: 90%
+ERR025690		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:40.90
+ERR025690		Average shared text size (kbytes): 0
+ERR025690		Average unshared data size (kbytes): 0
+ERR025690		Average stack size (kbytes): 0
+ERR025690		Average total size (kbytes): 0
+ERR025690		Maximum resident set size (kbytes): 145988
+ERR025690		Average resident set size (kbytes): 0
+ERR025690		Major (requiring I/O) page faults: 0
+ERR025690		Minor (reclaiming a frame) page faults: 21372243
+ERR025690		Voluntary context switches: 30756
+ERR025690		Involuntary context switches: 535554
+ERR025690		Swaps: 0
+ERR025690		File system inputs: 0
+ERR025690		File system outputs: 3359672
+ERR025690		Socket messages sent: 0
+ERR025690		Socket messages received: 0
+ERR025690		Signals delivered: 0
+ERR025690		Page size (bytes): 4096
+ERR025690		Exit status: 0
+ERR025691	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025691	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025691/ariba/report.tsv
+ERR025691		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025691/reads_1.fastq.gz ERR025691/reads_2.fastq.gz ERR025691/ariba"
+ERR025691		User time (seconds): 279.06
+ERR025691		System time (seconds): 53.92
+ERR025691		Percent of CPU this job got: 91%
+ERR025691		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:03.51
+ERR025691		Average shared text size (kbytes): 0
+ERR025691		Average unshared data size (kbytes): 0
+ERR025691		Average stack size (kbytes): 0
+ERR025691		Average total size (kbytes): 0
+ERR025691		Maximum resident set size (kbytes): 145288
+ERR025691		Average resident set size (kbytes): 0
+ERR025691		Major (requiring I/O) page faults: 0
+ERR025691		Minor (reclaiming a frame) page faults: 17244792
+ERR025691		Voluntary context switches: 25274
+ERR025691		Involuntary context switches: 441190
+ERR025691		Swaps: 0
+ERR025691		File system inputs: 0
+ERR025691		File system outputs: 2898112
+ERR025691		Socket messages sent: 0
+ERR025691		Socket messages received: 0
+ERR025691		Signals delivered: 0
+ERR025691		Page size (bytes): 4096
+ERR025691		Exit status: 0
+ERR025692	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025692	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025692/ariba/report.tsv
+ERR025692		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025692/reads_1.fastq.gz ERR025692/reads_2.fastq.gz ERR025692/ariba"
+ERR025692		User time (seconds): 281.21
+ERR025692		System time (seconds): 56.51
+ERR025692		Percent of CPU this job got: 91%
+ERR025692		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:07.44
+ERR025692		Average shared text size (kbytes): 0
+ERR025692		Average unshared data size (kbytes): 0
+ERR025692		Average stack size (kbytes): 0
+ERR025692		Average total size (kbytes): 0
+ERR025692		Maximum resident set size (kbytes): 145432
+ERR025692		Average resident set size (kbytes): 0
+ERR025692		Major (requiring I/O) page faults: 0
+ERR025692		Minor (reclaiming a frame) page faults: 17875399
+ERR025692		Voluntary context switches: 25652
+ERR025692		Involuntary context switches: 511066
+ERR025692		Swaps: 0
+ERR025692		File system inputs: 0
+ERR025692		File system outputs: 2965168
+ERR025692		Socket messages sent: 0
+ERR025692		Socket messages received: 0
+ERR025692		Signals delivered: 0
+ERR025692		Page size (bytes): 4096
+ERR025692		Exit status: 0
+ERR025693	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025693	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025693/ariba/report.tsv
+ERR025693		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025693/reads_1.fastq.gz ERR025693/reads_2.fastq.gz ERR025693/ariba"
+ERR025693		User time (seconds): 322.13
+ERR025693		System time (seconds): 64.28
+ERR025693		Percent of CPU this job got: 91%
+ERR025693		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:02.16
+ERR025693		Average shared text size (kbytes): 0
+ERR025693		Average unshared data size (kbytes): 0
+ERR025693		Average stack size (kbytes): 0
+ERR025693		Average total size (kbytes): 0
+ERR025693		Maximum resident set size (kbytes): 146124
+ERR025693		Average resident set size (kbytes): 0
+ERR025693		Major (requiring I/O) page faults: 0
+ERR025693		Minor (reclaiming a frame) page faults: 20160603
+ERR025693		Voluntary context switches: 30485
+ERR025693		Involuntary context switches: 485221
+ERR025693		Swaps: 0
+ERR025693		File system inputs: 0
+ERR025693		File system outputs: 3460280
+ERR025693		Socket messages sent: 0
+ERR025693		Socket messages received: 0
+ERR025693		Signals delivered: 0
+ERR025693		Page size (bytes): 4096
+ERR025693		Exit status: 0
+ERR025695	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025695	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025695/ariba/report.tsv
+ERR025695		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025695/reads_1.fastq.gz ERR025695/reads_2.fastq.gz ERR025695/ariba"
+ERR025695		User time (seconds): 276.03
+ERR025695		System time (seconds): 61.04
+ERR025695		Percent of CPU this job got: 90%
+ERR025695		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:10.60
+ERR025695		Average shared text size (kbytes): 0
+ERR025695		Average unshared data size (kbytes): 0
+ERR025695		Average stack size (kbytes): 0
+ERR025695		Average total size (kbytes): 0
+ERR025695		Maximum resident set size (kbytes): 145668
+ERR025695		Average resident set size (kbytes): 0
+ERR025695		Major (requiring I/O) page faults: 0
+ERR025695		Minor (reclaiming a frame) page faults: 19572986
+ERR025695		Voluntary context switches: 30154
+ERR025695		Involuntary context switches: 317887
+ERR025695		Swaps: 0
+ERR025695		File system inputs: 0
+ERR025695		File system outputs: 3240624
+ERR025695		Socket messages sent: 0
+ERR025695		Socket messages received: 0
+ERR025695		Signals delivered: 0
+ERR025695		Page size (bytes): 4096
+ERR025695		Exit status: 0
+ERR025696	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025696	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025696/ariba/report.tsv
+ERR025696		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025696/reads_1.fastq.gz ERR025696/reads_2.fastq.gz ERR025696/ariba"
+ERR025696		User time (seconds): 227.86
+ERR025696		System time (seconds): 56.92
+ERR025696		Percent of CPU this job got: 90%
+ERR025696		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:14.28
+ERR025696		Average shared text size (kbytes): 0
+ERR025696		Average unshared data size (kbytes): 0
+ERR025696		Average stack size (kbytes): 0
+ERR025696		Average total size (kbytes): 0
+ERR025696		Maximum resident set size (kbytes): 144876
+ERR025696		Average resident set size (kbytes): 0
+ERR025696		Major (requiring I/O) page faults: 0
+ERR025696		Minor (reclaiming a frame) page faults: 18356240
+ERR025696		Voluntary context switches: 26318
+ERR025696		Involuntary context switches: 341116
+ERR025696		Swaps: 0
+ERR025696		File system inputs: 0
+ERR025696		File system outputs: 2837080
+ERR025696		Socket messages sent: 0
+ERR025696		Socket messages received: 0
+ERR025696		Signals delivered: 0
+ERR025696		Page size (bytes): 4096
+ERR025696		Exit status: 0
+ERR025697	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025697	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025697/ariba/report.tsv
+ERR025697		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025697/reads_1.fastq.gz ERR025697/reads_2.fastq.gz ERR025697/ariba"
+ERR025697		User time (seconds): 275.16
+ERR025697		System time (seconds): 61.12
+ERR025697		Percent of CPU this job got: 90%
+ERR025697		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:10.47
+ERR025697		Average shared text size (kbytes): 0
+ERR025697		Average unshared data size (kbytes): 0
+ERR025697		Average stack size (kbytes): 0
+ERR025697		Average total size (kbytes): 0
+ERR025697		Maximum resident set size (kbytes): 145956
+ERR025697		Average resident set size (kbytes): 0
+ERR025697		Major (requiring I/O) page faults: 0
+ERR025697		Minor (reclaiming a frame) page faults: 19567824
+ERR025697		Voluntary context switches: 29060
+ERR025697		Involuntary context switches: 344669
+ERR025697		Swaps: 0
+ERR025697		File system inputs: 0
+ERR025697		File system outputs: 3183864
+ERR025697		Socket messages sent: 0
+ERR025697		Socket messages received: 0
+ERR025697		Signals delivered: 0
+ERR025697		Page size (bytes): 4096
+ERR025697		Exit status: 0
+ERR025698	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025698	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025698/ariba/report.tsv
+ERR025698		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025698/reads_1.fastq.gz ERR025698/reads_2.fastq.gz ERR025698/ariba"
+ERR025698		User time (seconds): 366.33
+ERR025698		System time (seconds): 61.46
+ERR025698		Percent of CPU this job got: 90%
+ERR025698		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:51.45
+ERR025698		Average shared text size (kbytes): 0
+ERR025698		Average unshared data size (kbytes): 0
+ERR025698		Average stack size (kbytes): 0
+ERR025698		Average total size (kbytes): 0
+ERR025698		Maximum resident set size (kbytes): 146044
+ERR025698		Average resident set size (kbytes): 0
+ERR025698		Major (requiring I/O) page faults: 0
+ERR025698		Minor (reclaiming a frame) page faults: 19580205
+ERR025698		Voluntary context switches: 29730
+ERR025698		Involuntary context switches: 615247
+ERR025698		Swaps: 0
+ERR025698		File system inputs: 0
+ERR025698		File system outputs: 3384432
+ERR025698		Socket messages sent: 0
+ERR025698		Socket messages received: 0
+ERR025698		Signals delivered: 0
+ERR025698		Page size (bytes): 4096
+ERR025698		Exit status: 0
+ERR025699	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025699	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025699/ariba/report.tsv
+ERR025699		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025699/reads_1.fastq.gz ERR025699/reads_2.fastq.gz ERR025699/ariba"
+ERR025699		User time (seconds): 339.42
+ERR025699		System time (seconds): 62.66
+ERR025699		Percent of CPU this job got: 91%
+ERR025699		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:18.93
+ERR025699		Average shared text size (kbytes): 0
+ERR025699		Average unshared data size (kbytes): 0
+ERR025699		Average stack size (kbytes): 0
+ERR025699		Average total size (kbytes): 0
+ERR025699		Maximum resident set size (kbytes): 146156
+ERR025699		Average resident set size (kbytes): 0
+ERR025699		Major (requiring I/O) page faults: 0
+ERR025699		Minor (reclaiming a frame) page faults: 20134375
+ERR025699		Voluntary context switches: 29127
+ERR025699		Involuntary context switches: 484279
+ERR025699		Swaps: 0
+ERR025699		File system inputs: 16
+ERR025699		File system outputs: 3355000
+ERR025699		Socket messages sent: 0
+ERR025699		Socket messages received: 0
+ERR025699		Signals delivered: 0
+ERR025699		Page size (bytes): 4096
+ERR025699		Exit status: 0
+ERR025700	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025700	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025700/ariba/report.tsv
+ERR025700		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025700/reads_1.fastq.gz ERR025700/reads_2.fastq.gz ERR025700/ariba"
+ERR025700		User time (seconds): 277.37
+ERR025700		System time (seconds): 65.46
+ERR025700		Percent of CPU this job got: 90%
+ERR025700		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:19.40
+ERR025700		Average shared text size (kbytes): 0
+ERR025700		Average unshared data size (kbytes): 0
+ERR025700		Average stack size (kbytes): 0
+ERR025700		Average total size (kbytes): 0
+ERR025700		Maximum resident set size (kbytes): 145580
+ERR025700		Average resident set size (kbytes): 0
+ERR025700		Major (requiring I/O) page faults: 0
+ERR025700		Minor (reclaiming a frame) page faults: 20859499
+ERR025700		Voluntary context switches: 31695
+ERR025700		Involuntary context switches: 450139
+ERR025700		Swaps: 0
+ERR025700		File system inputs: 0
+ERR025700		File system outputs: 3376184
+ERR025700		Socket messages sent: 0
+ERR025700		Socket messages received: 0
+ERR025700		Signals delivered: 0
+ERR025700		Page size (bytes): 4096
+ERR025700		Exit status: 0
+ERR025701	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025701	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025701/ariba/report.tsv
+ERR025701		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025701/reads_1.fastq.gz ERR025701/reads_2.fastq.gz ERR025701/ariba"
+ERR025701		User time (seconds): 288.82
+ERR025701		System time (seconds): 58.82
+ERR025701		Percent of CPU this job got: 92%
+ERR025701		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:17.62
+ERR025701		Average shared text size (kbytes): 0
+ERR025701		Average unshared data size (kbytes): 0
+ERR025701		Average stack size (kbytes): 0
+ERR025701		Average total size (kbytes): 0
+ERR025701		Maximum resident set size (kbytes): 145516
+ERR025701		Average resident set size (kbytes): 0
+ERR025701		Major (requiring I/O) page faults: 0
+ERR025701		Minor (reclaiming a frame) page faults: 18998411
+ERR025701		Voluntary context switches: 26260
+ERR025701		Involuntary context switches: 482173
+ERR025701		Swaps: 0
+ERR025701		File system inputs: 24
+ERR025701		File system outputs: 2898864
+ERR025701		Socket messages sent: 0
+ERR025701		Socket messages received: 0
+ERR025701		Signals delivered: 0
+ERR025701		Page size (bytes): 4096
+ERR025701		Exit status: 0
+ERR025702	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025702	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025702/ariba/report.tsv
+ERR025702		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025702/reads_1.fastq.gz ERR025702/reads_2.fastq.gz ERR025702/ariba"
+ERR025702		User time (seconds): 249.34
+ERR025702		System time (seconds): 60.68
+ERR025702		Percent of CPU this job got: 91%
+ERR025702		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:40.55
+ERR025702		Average shared text size (kbytes): 0
+ERR025702		Average unshared data size (kbytes): 0
+ERR025702		Average stack size (kbytes): 0
+ERR025702		Average total size (kbytes): 0
+ERR025702		Maximum resident set size (kbytes): 145488
+ERR025702		Average resident set size (kbytes): 0
+ERR025702		Major (requiring I/O) page faults: 0
+ERR025702		Minor (reclaiming a frame) page faults: 19336150
+ERR025702		Voluntary context switches: 30247
+ERR025702		Involuntary context switches: 340999
+ERR025702		Swaps: 0
+ERR025702		File system inputs: 0
+ERR025702		File system outputs: 3193944
+ERR025702		Socket messages sent: 0
+ERR025702		Socket messages received: 0
+ERR025702		Signals delivered: 0
+ERR025702		Page size (bytes): 4096
+ERR025702		Exit status: 0
+ERR025703	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025703	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025703/ariba/report.tsv
+ERR025703		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025703/reads_1.fastq.gz ERR025703/reads_2.fastq.gz ERR025703/ariba"
+ERR025703		User time (seconds): 319.82
+ERR025703		System time (seconds): 62.44
+ERR025703		Percent of CPU this job got: 92%
+ERR025703		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:52.70
+ERR025703		Average shared text size (kbytes): 0
+ERR025703		Average unshared data size (kbytes): 0
+ERR025703		Average stack size (kbytes): 0
+ERR025703		Average total size (kbytes): 0
+ERR025703		Maximum resident set size (kbytes): 146220
+ERR025703		Average resident set size (kbytes): 0
+ERR025703		Major (requiring I/O) page faults: 0
+ERR025703		Minor (reclaiming a frame) page faults: 19622452
+ERR025703		Voluntary context switches: 29824
+ERR025703		Involuntary context switches: 332430
+ERR025703		Swaps: 0
+ERR025703		File system inputs: 0
+ERR025703		File system outputs: 3288112
+ERR025703		Socket messages sent: 0
+ERR025703		Socket messages received: 0
+ERR025703		Signals delivered: 0
+ERR025703		Page size (bytes): 4096
+ERR025703		Exit status: 0
+ERR025704	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025704	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025704/ariba/report.tsv
+ERR025704		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025704/reads_1.fastq.gz ERR025704/reads_2.fastq.gz ERR025704/ariba"
+ERR025704		User time (seconds): 283.86
+ERR025704		System time (seconds): 60.70
+ERR025704		Percent of CPU this job got: 92%
+ERR025704		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:11.51
+ERR025704		Average shared text size (kbytes): 0
+ERR025704		Average unshared data size (kbytes): 0
+ERR025704		Average stack size (kbytes): 0
+ERR025704		Average total size (kbytes): 0
+ERR025704		Maximum resident set size (kbytes): 145752
+ERR025704		Average resident set size (kbytes): 0
+ERR025704		Major (requiring I/O) page faults: 0
+ERR025704		Minor (reclaiming a frame) page faults: 19110778
+ERR025704		Voluntary context switches: 28451
+ERR025704		Involuntary context switches: 281273
+ERR025704		Swaps: 0
+ERR025704		File system inputs: 0
+ERR025704		File system outputs: 3117008
+ERR025704		Socket messages sent: 0
+ERR025704		Socket messages received: 0
+ERR025704		Signals delivered: 0
+ERR025704		Page size (bytes): 4096
+ERR025704		Exit status: 0
+ERR025705	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025705	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025705/ariba/report.tsv
+ERR025705		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025705/reads_1.fastq.gz ERR025705/reads_2.fastq.gz ERR025705/ariba"
+ERR025705		User time (seconds): 291.72
+ERR025705		System time (seconds): 58.06
+ERR025705		Percent of CPU this job got: 92%
+ERR025705		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:18.02
+ERR025705		Average shared text size (kbytes): 0
+ERR025705		Average unshared data size (kbytes): 0
+ERR025705		Average stack size (kbytes): 0
+ERR025705		Average total size (kbytes): 0
+ERR025705		Maximum resident set size (kbytes): 145780
+ERR025705		Average resident set size (kbytes): 0
+ERR025705		Major (requiring I/O) page faults: 0
+ERR025705		Minor (reclaiming a frame) page faults: 18633026
+ERR025705		Voluntary context switches: 26969
+ERR025705		Involuntary context switches: 291748
+ERR025705		Swaps: 0
+ERR025705		File system inputs: 0
+ERR025705		File system outputs: 3026712
+ERR025705		Socket messages sent: 0
+ERR025705		Socket messages received: 0
+ERR025705		Signals delivered: 0
+ERR025705		Page size (bytes): 4096
+ERR025705		Exit status: 0
+ERR025706	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025706	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025706/ariba/report.tsv
+ERR025706		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025706/reads_1.fastq.gz ERR025706/reads_2.fastq.gz ERR025706/ariba"
+ERR025706		User time (seconds): 277.57
+ERR025706		System time (seconds): 58.85
+ERR025706		Percent of CPU this job got: 92%
+ERR025706		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:03.52
+ERR025706		Average shared text size (kbytes): 0
+ERR025706		Average unshared data size (kbytes): 0
+ERR025706		Average stack size (kbytes): 0
+ERR025706		Average total size (kbytes): 0
+ERR025706		Maximum resident set size (kbytes): 145592
+ERR025706		Average resident set size (kbytes): 0
+ERR025706		Major (requiring I/O) page faults: 0
+ERR025706		Minor (reclaiming a frame) page faults: 19125659
+ERR025706		Voluntary context switches: 28329
+ERR025706		Involuntary context switches: 267007
+ERR025706		Swaps: 0
+ERR025706		File system inputs: 0
+ERR025706		File system outputs: 3063688
+ERR025706		Socket messages sent: 0
+ERR025706		Socket messages received: 0
+ERR025706		Signals delivered: 0
+ERR025706		Page size (bytes): 4096
+ERR025706		Exit status: 0
+ERR025708	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025708	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025708/ariba/report.tsv
+ERR025708		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025708/reads_1.fastq.gz ERR025708/reads_2.fastq.gz ERR025708/ariba"
+ERR025708		User time (seconds): 265.12
+ERR025708		System time (seconds): 61.55
+ERR025708		Percent of CPU this job got: 93%
+ERR025708		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:50.58
+ERR025708		Average shared text size (kbytes): 0
+ERR025708		Average unshared data size (kbytes): 0
+ERR025708		Average stack size (kbytes): 0
+ERR025708		Average total size (kbytes): 0
+ERR025708		Maximum resident set size (kbytes): 145728
+ERR025708		Average resident set size (kbytes): 0
+ERR025708		Major (requiring I/O) page faults: 0
+ERR025708		Minor (reclaiming a frame) page faults: 19774988
+ERR025708		Voluntary context switches: 28905
+ERR025708		Involuntary context switches: 350117
+ERR025708		Swaps: 0
+ERR025708		File system inputs: 0
+ERR025708		File system outputs: 3118104
+ERR025708		Socket messages sent: 0
+ERR025708		Socket messages received: 0
+ERR025708		Signals delivered: 0
+ERR025708		Page size (bytes): 4096
+ERR025708		Exit status: 0
+ERR025709	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025709	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025709/ariba/report.tsv
+ERR025709		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025709/reads_1.fastq.gz ERR025709/reads_2.fastq.gz ERR025709/ariba"
+ERR025709		User time (seconds): 287.14
+ERR025709		System time (seconds): 58.47
+ERR025709		Percent of CPU this job got: 93%
+ERR025709		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:09.65
+ERR025709		Average shared text size (kbytes): 0
+ERR025709		Average unshared data size (kbytes): 0
+ERR025709		Average stack size (kbytes): 0
+ERR025709		Average total size (kbytes): 0
+ERR025709		Maximum resident set size (kbytes): 145728
+ERR025709		Average resident set size (kbytes): 0
+ERR025709		Major (requiring I/O) page faults: 0
+ERR025709		Minor (reclaiming a frame) page faults: 18927991
+ERR025709		Voluntary context switches: 29137
+ERR025709		Involuntary context switches: 282497
+ERR025709		Swaps: 0
+ERR025709		File system inputs: 0
+ERR025709		File system outputs: 3167400
+ERR025709		Socket messages sent: 0
+ERR025709		Socket messages received: 0
+ERR025709		Signals delivered: 0
+ERR025709		Page size (bytes): 4096
+ERR025709		Exit status: 0
+ERR025710	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025710	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025710/ariba/report.tsv
+ERR025710		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025710/reads_1.fastq.gz ERR025710/reads_2.fastq.gz ERR025710/ariba"
+ERR025710		User time (seconds): 311.63
+ERR025710		System time (seconds): 60.18
+ERR025710		Percent of CPU this job got: 91%
+ERR025710		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:45.19
+ERR025710		Average shared text size (kbytes): 0
+ERR025710		Average unshared data size (kbytes): 0
+ERR025710		Average stack size (kbytes): 0
+ERR025710		Average total size (kbytes): 0
+ERR025710		Maximum resident set size (kbytes): 145672
+ERR025710		Average resident set size (kbytes): 0
+ERR025710		Major (requiring I/O) page faults: 0
+ERR025710		Minor (reclaiming a frame) page faults: 19181786
+ERR025710		Voluntary context switches: 28639
+ERR025710		Involuntary context switches: 377811
+ERR025710		Swaps: 0
+ERR025710		File system inputs: 8
+ERR025710		File system outputs: 3235464
+ERR025710		Socket messages sent: 0
+ERR025710		Socket messages received: 0
+ERR025710		Signals delivered: 0
+ERR025710		Page size (bytes): 4096
+ERR025710		Exit status: 0
+ERR025711	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025711	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025711/ariba/report.tsv
+ERR025711		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025711/reads_1.fastq.gz ERR025711/reads_2.fastq.gz ERR025711/ariba"
+ERR025711		User time (seconds): 386.79
+ERR025711		System time (seconds): 59.72
+ERR025711		Percent of CPU this job got: 93%
+ERR025711		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:59.61
+ERR025711		Average shared text size (kbytes): 0
+ERR025711		Average unshared data size (kbytes): 0
+ERR025711		Average stack size (kbytes): 0
+ERR025711		Average total size (kbytes): 0
+ERR025711		Maximum resident set size (kbytes): 146056
+ERR025711		Average resident set size (kbytes): 0
+ERR025711		Major (requiring I/O) page faults: 0
+ERR025711		Minor (reclaiming a frame) page faults: 19095076
+ERR025711		Voluntary context switches: 28615
+ERR025711		Involuntary context switches: 380922
+ERR025711		Swaps: 0
+ERR025711		File system inputs: 0
+ERR025711		File system outputs: 3430176
+ERR025711		Socket messages sent: 0
+ERR025711		Socket messages received: 0
+ERR025711		Signals delivered: 0
+ERR025711		Page size (bytes): 4096
+ERR025711		Exit status: 0
+ERR025712	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025712	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025712/ariba/report.tsv
+ERR025712		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025712/reads_1.fastq.gz ERR025712/reads_2.fastq.gz ERR025712/ariba"
+ERR025712		User time (seconds): 362.07
+ERR025712		System time (seconds): 61.17
+ERR025712		Percent of CPU this job got: 92%
+ERR025712		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:36.27
+ERR025712		Average shared text size (kbytes): 0
+ERR025712		Average unshared data size (kbytes): 0
+ERR025712		Average stack size (kbytes): 0
+ERR025712		Average total size (kbytes): 0
+ERR025712		Maximum resident set size (kbytes): 145940
+ERR025712		Average resident set size (kbytes): 0
+ERR025712		Major (requiring I/O) page faults: 0
+ERR025712		Minor (reclaiming a frame) page faults: 19616856
+ERR025712		Voluntary context switches: 28272
+ERR025712		Involuntary context switches: 340862
+ERR025712		Swaps: 0
+ERR025712		File system inputs: 0
+ERR025712		File system outputs: 3334552
+ERR025712		Socket messages sent: 0
+ERR025712		Socket messages received: 0
+ERR025712		Signals delivered: 0
+ERR025712		Page size (bytes): 4096
+ERR025712		Exit status: 0
+ERR025713	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025713	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025713/ariba/report.tsv
+ERR025713		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025713/reads_1.fastq.gz ERR025713/reads_2.fastq.gz ERR025713/ariba"
+ERR025713		User time (seconds): 344.35
+ERR025713		System time (seconds): 59.70
+ERR025713		Percent of CPU this job got: 93%
+ERR025713		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:13.36
+ERR025713		Average shared text size (kbytes): 0
+ERR025713		Average unshared data size (kbytes): 0
+ERR025713		Average stack size (kbytes): 0
+ERR025713		Average total size (kbytes): 0
+ERR025713		Maximum resident set size (kbytes): 145868
+ERR025713		Average resident set size (kbytes): 0
+ERR025713		Major (requiring I/O) page faults: 0
+ERR025713		Minor (reclaiming a frame) page faults: 19124908
+ERR025713		Voluntary context switches: 27581
+ERR025713		Involuntary context switches: 392659
+ERR025713		Swaps: 0
+ERR025713		File system inputs: 0
+ERR025713		File system outputs: 3192840
+ERR025713		Socket messages sent: 0
+ERR025713		Socket messages received: 0
+ERR025713		Signals delivered: 0
+ERR025713		Page size (bytes): 4096
+ERR025713		Exit status: 0
+ERR025714	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025714	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025714/ariba/report.tsv
+ERR025714		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025714/reads_1.fastq.gz ERR025714/reads_2.fastq.gz ERR025714/ariba"
+ERR025714		User time (seconds): 297.24
+ERR025714		System time (seconds): 60.76
+ERR025714		Percent of CPU this job got: 92%
+ERR025714		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:27.20
+ERR025714		Average shared text size (kbytes): 0
+ERR025714		Average unshared data size (kbytes): 0
+ERR025714		Average stack size (kbytes): 0
+ERR025714		Average total size (kbytes): 0
+ERR025714		Maximum resident set size (kbytes): 145784
+ERR025714		Average resident set size (kbytes): 0
+ERR025714		Major (requiring I/O) page faults: 0
+ERR025714		Minor (reclaiming a frame) page faults: 19506172
+ERR025714		Voluntary context switches: 26740
+ERR025714		Involuntary context switches: 237456
+ERR025714		Swaps: 0
+ERR025714		File system inputs: 72
+ERR025714		File system outputs: 2992344
+ERR025714		Socket messages sent: 0
+ERR025714		Socket messages received: 0
+ERR025714		Signals delivered: 0
+ERR025714		Page size (bytes): 4096
+ERR025714		Exit status: 0
+ERR025715	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025715	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025715/ariba/report.tsv
+ERR025715		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025715/reads_1.fastq.gz ERR025715/reads_2.fastq.gz ERR025715/ariba"
+ERR025715		User time (seconds): 264.69
+ERR025715		System time (seconds): 57.71
+ERR025715		Percent of CPU this job got: 91%
+ERR025715		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:50.99
+ERR025715		Average shared text size (kbytes): 0
+ERR025715		Average unshared data size (kbytes): 0
+ERR025715		Average stack size (kbytes): 0
+ERR025715		Average total size (kbytes): 0
+ERR025715		Maximum resident set size (kbytes): 145580
+ERR025715		Average resident set size (kbytes): 0
+ERR025715		Major (requiring I/O) page faults: 0
+ERR025715		Minor (reclaiming a frame) page faults: 18261021
+ERR025715		Voluntary context switches: 26448
+ERR025715		Involuntary context switches: 344451
+ERR025715		Swaps: 0
+ERR025715		File system inputs: 0
+ERR025715		File system outputs: 2972088
+ERR025715		Socket messages sent: 0
+ERR025715		Socket messages received: 0
+ERR025715		Signals delivered: 0
+ERR025715		Page size (bytes): 4096
+ERR025715		Exit status: 0
+ERR025716	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025716	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025716/ariba/report.tsv
+ERR025716		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025716/reads_1.fastq.gz ERR025716/reads_2.fastq.gz ERR025716/ariba"
+ERR025716		User time (seconds): 362.52
+ERR025716		System time (seconds): 60.94
+ERR025716		Percent of CPU this job got: 92%
+ERR025716		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:36.37
+ERR025716		Average shared text size (kbytes): 0
+ERR025716		Average unshared data size (kbytes): 0
+ERR025716		Average stack size (kbytes): 0
+ERR025716		Average total size (kbytes): 0
+ERR025716		Maximum resident set size (kbytes): 146600
+ERR025716		Average resident set size (kbytes): 0
+ERR025716		Major (requiring I/O) page faults: 0
+ERR025716		Minor (reclaiming a frame) page faults: 19414618
+ERR025716		Voluntary context switches: 28318
+ERR025716		Involuntary context switches: 316016
+ERR025716		Swaps: 0
+ERR025716		File system inputs: 16
+ERR025716		File system outputs: 3335728
+ERR025716		Socket messages sent: 0
+ERR025716		Socket messages received: 0
+ERR025716		Signals delivered: 0
+ERR025716		Page size (bytes): 4096
+ERR025716		Exit status: 0
+ERR025717	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025717	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025717/ariba/report.tsv
+ERR025717		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025717/reads_1.fastq.gz ERR025717/reads_2.fastq.gz ERR025717/ariba"
+ERR025717		User time (seconds): 348.92
+ERR025717		System time (seconds): 60.66
+ERR025717		Percent of CPU this job got: 92%
+ERR025717		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:21.42
+ERR025717		Average shared text size (kbytes): 0
+ERR025717		Average unshared data size (kbytes): 0
+ERR025717		Average stack size (kbytes): 0
+ERR025717		Average total size (kbytes): 0
+ERR025717		Maximum resident set size (kbytes): 146696
+ERR025717		Average resident set size (kbytes): 0
+ERR025717		Major (requiring I/O) page faults: 0
+ERR025717		Minor (reclaiming a frame) page faults: 19476836
+ERR025717		Voluntary context switches: 29404
+ERR025717		Involuntary context switches: 331104
+ERR025717		Swaps: 0
+ERR025717		File system inputs: 0
+ERR025717		File system outputs: 3362928
+ERR025717		Socket messages sent: 0
+ERR025717		Socket messages received: 0
+ERR025717		Signals delivered: 0
+ERR025717		Page size (bytes): 4096
+ERR025717		Exit status: 0
+ERR025718	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025718	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025718/ariba/report.tsv
+ERR025718		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025718/reads_1.fastq.gz ERR025718/reads_2.fastq.gz ERR025718/ariba"
+ERR025718		User time (seconds): 365.72
+ERR025718		System time (seconds): 60.82
+ERR025718		Percent of CPU this job got: 93%
+ERR025718		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:38.31
+ERR025718		Average shared text size (kbytes): 0
+ERR025718		Average unshared data size (kbytes): 0
+ERR025718		Average stack size (kbytes): 0
+ERR025718		Average total size (kbytes): 0
+ERR025718		Maximum resident set size (kbytes): 146700
+ERR025718		Average resident set size (kbytes): 0
+ERR025718		Major (requiring I/O) page faults: 0
+ERR025718		Minor (reclaiming a frame) page faults: 19630500
+ERR025718		Voluntary context switches: 29691
+ERR025718		Involuntary context switches: 415541
+ERR025718		Swaps: 0
+ERR025718		File system inputs: 0
+ERR025718		File system outputs: 3420168
+ERR025718		Socket messages sent: 0
+ERR025718		Socket messages received: 0
+ERR025718		Signals delivered: 0
+ERR025718		Page size (bytes): 4096
+ERR025718		Exit status: 0
+ERR025719	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025719	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025719/ariba/report.tsv
+ERR025719		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025719/reads_1.fastq.gz ERR025719/reads_2.fastq.gz ERR025719/ariba"
+ERR025719		User time (seconds): 356.86
+ERR025719		System time (seconds): 62.15
+ERR025719		Percent of CPU this job got: 93%
+ERR025719		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:29.19
+ERR025719		Average shared text size (kbytes): 0
+ERR025719		Average unshared data size (kbytes): 0
+ERR025719		Average stack size (kbytes): 0
+ERR025719		Average total size (kbytes): 0
+ERR025719		Maximum resident set size (kbytes): 146712
+ERR025719		Average resident set size (kbytes): 0
+ERR025719		Major (requiring I/O) page faults: 0
+ERR025719		Minor (reclaiming a frame) page faults: 19823552
+ERR025719		Voluntary context switches: 29454
+ERR025719		Involuntary context switches: 331878
+ERR025719		Swaps: 0
+ERR025719		File system inputs: 0
+ERR025719		File system outputs: 3434856
+ERR025719		Socket messages sent: 0
+ERR025719		Socket messages received: 0
+ERR025719		Signals delivered: 0
+ERR025719		Page size (bytes): 4096
+ERR025719		Exit status: 0
+ERR025721	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025721	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025721/ariba/report.tsv
+ERR025721		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025721/reads_1.fastq.gz ERR025721/reads_2.fastq.gz ERR025721/ariba"
+ERR025721		User time (seconds): 282.17
+ERR025721		System time (seconds): 60.56
+ERR025721		Percent of CPU this job got: 91%
+ERR025721		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:14.20
+ERR025721		Average shared text size (kbytes): 0
+ERR025721		Average unshared data size (kbytes): 0
+ERR025721		Average stack size (kbytes): 0
+ERR025721		Average total size (kbytes): 0
+ERR025721		Maximum resident set size (kbytes): 145444
+ERR025721		Average resident set size (kbytes): 0
+ERR025721		Major (requiring I/O) page faults: 0
+ERR025721		Minor (reclaiming a frame) page faults: 19721745
+ERR025721		Voluntary context switches: 28793
+ERR025721		Involuntary context switches: 411471
+ERR025721		Swaps: 0
+ERR025721		File system inputs: 0
+ERR025721		File system outputs: 3165232
+ERR025721		Socket messages sent: 0
+ERR025721		Socket messages received: 0
+ERR025721		Signals delivered: 0
+ERR025721		Page size (bytes): 4096
+ERR025721		Exit status: 0
+ERR025722	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025722	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025722/ariba/report.tsv
+ERR025722		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025722/reads_1.fastq.gz ERR025722/reads_2.fastq.gz ERR025722/ariba"
+ERR025722		User time (seconds): 214.43
+ERR025722		System time (seconds): 50.85
+ERR025722		Percent of CPU this job got: 90%
+ERR025722		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:53.50
+ERR025722		Average shared text size (kbytes): 0
+ERR025722		Average unshared data size (kbytes): 0
+ERR025722		Average stack size (kbytes): 0
+ERR025722		Average total size (kbytes): 0
+ERR025722		Maximum resident set size (kbytes): 144968
+ERR025722		Average resident set size (kbytes): 0
+ERR025722		Major (requiring I/O) page faults: 0
+ERR025722		Minor (reclaiming a frame) page faults: 16467926
+ERR025722		Voluntary context switches: 24733
+ERR025722		Involuntary context switches: 558169
+ERR025722		Swaps: 0
+ERR025722		File system inputs: 0
+ERR025722		File system outputs: 2676896
+ERR025722		Socket messages sent: 0
+ERR025722		Socket messages received: 0
+ERR025722		Signals delivered: 0
+ERR025722		Page size (bytes): 4096
+ERR025722		Exit status: 0
+ERR025723	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025723	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025723/ariba/report.tsv
+ERR025723		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025723/reads_1.fastq.gz ERR025723/reads_2.fastq.gz ERR025723/ariba"
+ERR025723		User time (seconds): 209.76
+ERR025723		System time (seconds): 52.26
+ERR025723		Percent of CPU this job got: 91%
+ERR025723		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:47.59
+ERR025723		Average shared text size (kbytes): 0
+ERR025723		Average unshared data size (kbytes): 0
+ERR025723		Average stack size (kbytes): 0
+ERR025723		Average total size (kbytes): 0
+ERR025723		Maximum resident set size (kbytes): 144808
+ERR025723		Average resident set size (kbytes): 0
+ERR025723		Major (requiring I/O) page faults: 0
+ERR025723		Minor (reclaiming a frame) page faults: 16902845
+ERR025723		Voluntary context switches: 27306
+ERR025723		Involuntary context switches: 338032
+ERR025723		Swaps: 0
+ERR025723		File system inputs: 0
+ERR025723		File system outputs: 2768416
+ERR025723		Socket messages sent: 0
+ERR025723		Socket messages received: 0
+ERR025723		Signals delivered: 0
+ERR025723		Page size (bytes): 4096
+ERR025723		Exit status: 0
+ERR025724	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025724	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025724/ariba/report.tsv
+ERR025724		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025724/reads_1.fastq.gz ERR025724/reads_2.fastq.gz ERR025724/ariba"
+ERR025724		User time (seconds): 316.62
+ERR025724		System time (seconds): 54.52
+ERR025724		Percent of CPU this job got: 92%
+ERR025724		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:41.02
+ERR025724		Average shared text size (kbytes): 0
+ERR025724		Average unshared data size (kbytes): 0
+ERR025724		Average stack size (kbytes): 0
+ERR025724		Average total size (kbytes): 0
+ERR025724		Maximum resident set size (kbytes): 145820
+ERR025724		Average resident set size (kbytes): 0
+ERR025724		Major (requiring I/O) page faults: 0
+ERR025724		Minor (reclaiming a frame) page faults: 17122969
+ERR025724		Voluntary context switches: 25402
+ERR025724		Involuntary context switches: 394958
+ERR025724		Swaps: 0
+ERR025724		File system inputs: 0
+ERR025724		File system outputs: 3045360
+ERR025724		Socket messages sent: 0
+ERR025724		Socket messages received: 0
+ERR025724		Signals delivered: 0
+ERR025724		Page size (bytes): 4096
+ERR025724		Exit status: 0
+ERR025725	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025725	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025725/ariba/report.tsv
+ERR025725		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025725/reads_1.fastq.gz ERR025725/reads_2.fastq.gz ERR025725/ariba"
+ERR025725		User time (seconds): 280.78
+ERR025725		System time (seconds): 59.33
+ERR025725		Percent of CPU this job got: 91%
+ERR025725		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:10.75
+ERR025725		Average shared text size (kbytes): 0
+ERR025725		Average unshared data size (kbytes): 0
+ERR025725		Average stack size (kbytes): 0
+ERR025725		Average total size (kbytes): 0
+ERR025725		Maximum resident set size (kbytes): 145840
+ERR025725		Average resident set size (kbytes): 0
+ERR025725		Major (requiring I/O) page faults: 0
+ERR025725		Minor (reclaiming a frame) page faults: 18900466
+ERR025725		Voluntary context switches: 27927
+ERR025725		Involuntary context switches: 336857
+ERR025725		Swaps: 0
+ERR025725		File system inputs: 0
+ERR025725		File system outputs: 3164240
+ERR025725		Socket messages sent: 0
+ERR025725		Socket messages received: 0
+ERR025725		Signals delivered: 0
+ERR025725		Page size (bytes): 4096
+ERR025725		Exit status: 0
+ERR025726	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025726	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025726/ariba/report.tsv
+ERR025726		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025726/reads_1.fastq.gz ERR025726/reads_2.fastq.gz ERR025726/ariba"
+ERR025726		User time (seconds): 265.25
+ERR025726		System time (seconds): 52.88
+ERR025726		Percent of CPU this job got: 92%
+ERR025726		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:42.74
+ERR025726		Average shared text size (kbytes): 0
+ERR025726		Average unshared data size (kbytes): 0
+ERR025726		Average stack size (kbytes): 0
+ERR025726		Average total size (kbytes): 0
+ERR025726		Maximum resident set size (kbytes): 145480
+ERR025726		Average resident set size (kbytes): 0
+ERR025726		Major (requiring I/O) page faults: 0
+ERR025726		Minor (reclaiming a frame) page faults: 17211109
+ERR025726		Voluntary context switches: 26652
+ERR025726		Involuntary context switches: 400666
+ERR025726		Swaps: 0
+ERR025726		File system inputs: 0
+ERR025726		File system outputs: 2945952
+ERR025726		Socket messages sent: 0
+ERR025726		Socket messages received: 0
+ERR025726		Signals delivered: 0
+ERR025726		Page size (bytes): 4096
+ERR025726		Exit status: 0
+ERR025727	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025727	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025727/ariba/report.tsv
+ERR025727		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025727/reads_1.fastq.gz ERR025727/reads_2.fastq.gz ERR025727/ariba"
+ERR025727		User time (seconds): 264.18
+ERR025727		System time (seconds): 57.42
+ERR025727		Percent of CPU this job got: 94%
+ERR025727		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:38.97
+ERR025727		Average shared text size (kbytes): 0
+ERR025727		Average unshared data size (kbytes): 0
+ERR025727		Average stack size (kbytes): 0
+ERR025727		Average total size (kbytes): 0
+ERR025727		Maximum resident set size (kbytes): 145520
+ERR025727		Average resident set size (kbytes): 0
+ERR025727		Major (requiring I/O) page faults: 0
+ERR025727		Minor (reclaiming a frame) page faults: 18424045
+ERR025727		Voluntary context switches: 26681
+ERR025727		Involuntary context switches: 247112
+ERR025727		Swaps: 0
+ERR025727		File system inputs: 0
+ERR025727		File system outputs: 3042680
+ERR025727		Socket messages sent: 0
+ERR025727		Socket messages received: 0
+ERR025727		Signals delivered: 0
+ERR025727		Page size (bytes): 4096
+ERR025727		Exit status: 0
+ERR025728	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025728	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025728/ariba/report.tsv
+ERR025728		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025728/reads_1.fastq.gz ERR025728/reads_2.fastq.gz ERR025728/ariba"
+ERR025728		User time (seconds): 196.52
+ERR025728		System time (seconds): 49.79
+ERR025728		Percent of CPU this job got: 95%
+ERR025728		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:19.12
+ERR025728		Average shared text size (kbytes): 0
+ERR025728		Average unshared data size (kbytes): 0
+ERR025728		Average stack size (kbytes): 0
+ERR025728		Average total size (kbytes): 0
+ERR025728		Maximum resident set size (kbytes): 144800
+ERR025728		Average resident set size (kbytes): 0
+ERR025728		Major (requiring I/O) page faults: 0
+ERR025728		Minor (reclaiming a frame) page faults: 16150702
+ERR025728		Voluntary context switches: 23081
+ERR025728		Involuntary context switches: 261796
+ERR025728		Swaps: 0
+ERR025728		File system inputs: 56
+ERR025728		File system outputs: 2573224
+ERR025728		Socket messages sent: 0
+ERR025728		Socket messages received: 0
+ERR025728		Signals delivered: 0
+ERR025728		Page size (bytes): 4096
+ERR025728		Exit status: 0
+ERR025729	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025729	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025729/ariba/report.tsv
+ERR025729		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025729/reads_1.fastq.gz ERR025729/reads_2.fastq.gz ERR025729/ariba"
+ERR025729		User time (seconds): 260.49
+ERR025729		System time (seconds): 53.35
+ERR025729		Percent of CPU this job got: 96%
+ERR025729		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:26.78
+ERR025729		Average shared text size (kbytes): 0
+ERR025729		Average unshared data size (kbytes): 0
+ERR025729		Average stack size (kbytes): 0
+ERR025729		Average total size (kbytes): 0
+ERR025729		Maximum resident set size (kbytes): 145496
+ERR025729		Average resident set size (kbytes): 0
+ERR025729		Major (requiring I/O) page faults: 0
+ERR025729		Minor (reclaiming a frame) page faults: 17124566
+ERR025729		Voluntary context switches: 25007
+ERR025729		Involuntary context switches: 262641
+ERR025729		Swaps: 0
+ERR025729		File system inputs: 0
+ERR025729		File system outputs: 2910152
+ERR025729		Socket messages sent: 0
+ERR025729		Socket messages received: 0
+ERR025729		Signals delivered: 0
+ERR025729		Page size (bytes): 4096
+ERR025729		Exit status: 0
+ERR025730	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025730	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025730/ariba/report.tsv
+ERR025730		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025730/reads_1.fastq.gz ERR025730/reads_2.fastq.gz ERR025730/ariba"
+ERR025730		User time (seconds): 227.26
+ERR025730		System time (seconds): 53.62
+ERR025730		Percent of CPU this job got: 95%
+ERR025730		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:53.32
+ERR025730		Average shared text size (kbytes): 0
+ERR025730		Average unshared data size (kbytes): 0
+ERR025730		Average stack size (kbytes): 0
+ERR025730		Average total size (kbytes): 0
+ERR025730		Maximum resident set size (kbytes): 144976
+ERR025730		Average resident set size (kbytes): 0
+ERR025730		Major (requiring I/O) page faults: 0
+ERR025730		Minor (reclaiming a frame) page faults: 17081902
+ERR025730		Voluntary context switches: 24782
+ERR025730		Involuntary context switches: 500051
+ERR025730		Swaps: 0
+ERR025730		File system inputs: 0
+ERR025730		File system outputs: 2810120
+ERR025730		Socket messages sent: 0
+ERR025730		Socket messages received: 0
+ERR025730		Signals delivered: 0
+ERR025730		Page size (bytes): 4096
+ERR025730		Exit status: 0
+ERR025731	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025731	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025731/ariba/report.tsv
+ERR025731		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025731/reads_1.fastq.gz ERR025731/reads_2.fastq.gz ERR025731/ariba"
+ERR025731		User time (seconds): 251.81
+ERR025731		System time (seconds): 53.08
+ERR025731		Percent of CPU this job got: 96%
+ERR025731		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:17.53
+ERR025731		Average shared text size (kbytes): 0
+ERR025731		Average unshared data size (kbytes): 0
+ERR025731		Average stack size (kbytes): 0
+ERR025731		Average total size (kbytes): 0
+ERR025731		Maximum resident set size (kbytes): 145444
+ERR025731		Average resident set size (kbytes): 0
+ERR025731		Major (requiring I/O) page faults: 0
+ERR025731		Minor (reclaiming a frame) page faults: 17103137
+ERR025731		Voluntary context switches: 24589
+ERR025731		Involuntary context switches: 267296
+ERR025731		Swaps: 0
+ERR025731		File system inputs: 16
+ERR025731		File system outputs: 2863056
+ERR025731		Socket messages sent: 0
+ERR025731		Socket messages received: 0
+ERR025731		Signals delivered: 0
+ERR025731		Page size (bytes): 4096
+ERR025731		Exit status: 0
+ERR025732	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025732	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025732/ariba/report.tsv
+ERR025732		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025732/reads_1.fastq.gz ERR025732/reads_2.fastq.gz ERR025732/ariba"
+ERR025732		User time (seconds): 390.24
+ERR025732		System time (seconds): 55.10
+ERR025732		Percent of CPU this job got: 96%
+ERR025732		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:42.20
+ERR025732		Average shared text size (kbytes): 0
+ERR025732		Average unshared data size (kbytes): 0
+ERR025732		Average stack size (kbytes): 0
+ERR025732		Average total size (kbytes): 0
+ERR025732		Maximum resident set size (kbytes): 146156
+ERR025732		Average resident set size (kbytes): 0
+ERR025732		Major (requiring I/O) page faults: 0
+ERR025732		Minor (reclaiming a frame) page faults: 17491794
+ERR025732		Voluntary context switches: 25242
+ERR025732		Involuntary context switches: 502615
+ERR025732		Swaps: 0
+ERR025732		File system inputs: 0
+ERR025732		File system outputs: 3212416
+ERR025732		Socket messages sent: 0
+ERR025732		Socket messages received: 0
+ERR025732		Signals delivered: 0
+ERR025732		Page size (bytes): 4096
+ERR025732		Exit status: 0
+ERR025734	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025734	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025734/ariba/report.tsv
+ERR025734		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025734/reads_1.fastq.gz ERR025734/reads_2.fastq.gz ERR025734/ariba"
+ERR025734		User time (seconds): 276.76
+ERR025734		System time (seconds): 53.35
+ERR025734		Percent of CPU this job got: 96%
+ERR025734		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:43.22
+ERR025734		Average shared text size (kbytes): 0
+ERR025734		Average unshared data size (kbytes): 0
+ERR025734		Average stack size (kbytes): 0
+ERR025734		Average total size (kbytes): 0
+ERR025734		Maximum resident set size (kbytes): 145264
+ERR025734		Average resident set size (kbytes): 0
+ERR025734		Major (requiring I/O) page faults: 0
+ERR025734		Minor (reclaiming a frame) page faults: 17233265
+ERR025734		Voluntary context switches: 23446
+ERR025734		Involuntary context switches: 510534
+ERR025734		Swaps: 0
+ERR025734		File system inputs: 0
+ERR025734		File system outputs: 2716832
+ERR025734		Socket messages sent: 0
+ERR025734		Socket messages received: 0
+ERR025734		Signals delivered: 0
+ERR025734		Page size (bytes): 4096
+ERR025734		Exit status: 0
+ERR025735	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025735	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025735/ariba/report.tsv
+ERR025735		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025735/reads_1.fastq.gz ERR025735/reads_2.fastq.gz ERR025735/ariba"
+ERR025735		User time (seconds): 233.07
+ERR025735		System time (seconds): 53.50
+ERR025735		Percent of CPU this job got: 95%
+ERR025735		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:58.83
+ERR025735		Average shared text size (kbytes): 0
+ERR025735		Average unshared data size (kbytes): 0
+ERR025735		Average stack size (kbytes): 0
+ERR025735		Average total size (kbytes): 0
+ERR025735		Maximum resident set size (kbytes): 145124
+ERR025735		Average resident set size (kbytes): 0
+ERR025735		Major (requiring I/O) page faults: 0
+ERR025735		Minor (reclaiming a frame) page faults: 17119407
+ERR025735		Voluntary context switches: 25295
+ERR025735		Involuntary context switches: 266943
+ERR025735		Swaps: 0
+ERR025735		File system inputs: 0
+ERR025735		File system outputs: 2853528
+ERR025735		Socket messages sent: 0
+ERR025735		Socket messages received: 0
+ERR025735		Signals delivered: 0
+ERR025735		Page size (bytes): 4096
+ERR025735		Exit status: 0
+ERR025736	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025736	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025736/ariba/report.tsv
+ERR025736		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025736/reads_1.fastq.gz ERR025736/reads_2.fastq.gz ERR025736/ariba"
+ERR025736		User time (seconds): 221.34
+ERR025736		System time (seconds): 54.22
+ERR025736		Percent of CPU this job got: 95%
+ERR025736		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:49.97
+ERR025736		Average shared text size (kbytes): 0
+ERR025736		Average unshared data size (kbytes): 0
+ERR025736		Average stack size (kbytes): 0
+ERR025736		Average total size (kbytes): 0
+ERR025736		Maximum resident set size (kbytes): 145044
+ERR025736		Average resident set size (kbytes): 0
+ERR025736		Major (requiring I/O) page faults: 0
+ERR025736		Minor (reclaiming a frame) page faults: 17048120
+ERR025736		Voluntary context switches: 24755
+ERR025736		Involuntary context switches: 467923
+ERR025736		Swaps: 0
+ERR025736		File system inputs: 32
+ERR025736		File system outputs: 2795592
+ERR025736		Socket messages sent: 0
+ERR025736		Socket messages received: 0
+ERR025736		Signals delivered: 0
+ERR025736		Page size (bytes): 4096
+ERR025736		Exit status: 0
+ERR025737	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025737	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025737/ariba/report.tsv
+ERR025737		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025737/reads_1.fastq.gz ERR025737/reads_2.fastq.gz ERR025737/ariba"
+ERR025737		User time (seconds): 282.69
+ERR025737		System time (seconds): 55.49
+ERR025737		Percent of CPU this job got: 96%
+ERR025737		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:51.26
+ERR025737		Average shared text size (kbytes): 0
+ERR025737		Average unshared data size (kbytes): 0
+ERR025737		Average stack size (kbytes): 0
+ERR025737		Average total size (kbytes): 0
+ERR025737		Maximum resident set size (kbytes): 145840
+ERR025737		Average resident set size (kbytes): 0
+ERR025737		Major (requiring I/O) page faults: 0
+ERR025737		Minor (reclaiming a frame) page faults: 17695983
+ERR025737		Voluntary context switches: 26154
+ERR025737		Involuntary context switches: 318577
+ERR025737		Swaps: 0
+ERR025737		File system inputs: 224
+ERR025737		File system outputs: 3013928
+ERR025737		Socket messages sent: 0
+ERR025737		Socket messages received: 0
+ERR025737		Signals delivered: 0
+ERR025737		Page size (bytes): 4096
+ERR025737		Exit status: 0
+ERR025738	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025738	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025738/ariba/report.tsv
+ERR025738		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025738/reads_1.fastq.gz ERR025738/reads_2.fastq.gz ERR025738/ariba"
+ERR025738		User time (seconds): 259.66
+ERR025738		System time (seconds): 54.50
+ERR025738		Percent of CPU this job got: 95%
+ERR025738		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:29.83
+ERR025738		Average shared text size (kbytes): 0
+ERR025738		Average unshared data size (kbytes): 0
+ERR025738		Average stack size (kbytes): 0
+ERR025738		Average total size (kbytes): 0
+ERR025738		Maximum resident set size (kbytes): 145464
+ERR025738		Average resident set size (kbytes): 0
+ERR025738		Major (requiring I/O) page faults: 0
+ERR025738		Minor (reclaiming a frame) page faults: 17222388
+ERR025738		Voluntary context switches: 24981
+ERR025738		Involuntary context switches: 507442
+ERR025738		Swaps: 0
+ERR025738		File system inputs: 0
+ERR025738		File system outputs: 2936672
+ERR025738		Socket messages sent: 0
+ERR025738		Socket messages received: 0
+ERR025738		Signals delivered: 0
+ERR025738		Page size (bytes): 4096
+ERR025738		Exit status: 0
+ERR025739	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025739	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025739/ariba/report.tsv
+ERR025739		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025739/reads_1.fastq.gz ERR025739/reads_2.fastq.gz ERR025739/ariba"
+ERR025739		User time (seconds): 222.98
+ERR025739		System time (seconds): 54.53
+ERR025739		Percent of CPU this job got: 95%
+ERR025739		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:51.46
+ERR025739		Average shared text size (kbytes): 0
+ERR025739		Average unshared data size (kbytes): 0
+ERR025739		Average stack size (kbytes): 0
+ERR025739		Average total size (kbytes): 0
+ERR025739		Maximum resident set size (kbytes): 145108
+ERR025739		Average resident set size (kbytes): 0
+ERR025739		Major (requiring I/O) page faults: 0
+ERR025739		Minor (reclaiming a frame) page faults: 17470540
+ERR025739		Voluntary context switches: 25018
+ERR025739		Involuntary context switches: 390842
+ERR025739		Swaps: 0
+ERR025739		File system inputs: 0
+ERR025739		File system outputs: 2833072
+ERR025739		Socket messages sent: 0
+ERR025739		Socket messages received: 0
+ERR025739		Signals delivered: 0
+ERR025739		Page size (bytes): 4096
+ERR025739		Exit status: 0
+ERR025740	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025740	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025740/ariba/report.tsv
+ERR025740		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025740/reads_1.fastq.gz ERR025740/reads_2.fastq.gz ERR025740/ariba"
+ERR025740		User time (seconds): 208.33
+ERR025740		System time (seconds): 51.95
+ERR025740		Percent of CPU this job got: 95%
+ERR025740		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:33.68
+ERR025740		Average shared text size (kbytes): 0
+ERR025740		Average unshared data size (kbytes): 0
+ERR025740		Average stack size (kbytes): 0
+ERR025740		Average total size (kbytes): 0
+ERR025740		Maximum resident set size (kbytes): 144964
+ERR025740		Average resident set size (kbytes): 0
+ERR025740		Major (requiring I/O) page faults: 0
+ERR025740		Minor (reclaiming a frame) page faults: 16685229
+ERR025740		Voluntary context switches: 23132
+ERR025740		Involuntary context switches: 263314
+ERR025740		Swaps: 0
+ERR025740		File system inputs: 136
+ERR025740		File system outputs: 2617816
+ERR025740		Socket messages sent: 0
+ERR025740		Socket messages received: 0
+ERR025740		Signals delivered: 0
+ERR025740		Page size (bytes): 4096
+ERR025740		Exit status: 0
+ERR025741	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025741	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025741/ariba/report.tsv
+ERR025741		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025741/reads_1.fastq.gz ERR025741/reads_2.fastq.gz ERR025741/ariba"
+ERR025741		User time (seconds): 262.14
+ERR025741		System time (seconds): 53.97
+ERR025741		Percent of CPU this job got: 95%
+ERR025741		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:30.51
+ERR025741		Average shared text size (kbytes): 0
+ERR025741		Average unshared data size (kbytes): 0
+ERR025741		Average stack size (kbytes): 0
+ERR025741		Average total size (kbytes): 0
+ERR025741		Maximum resident set size (kbytes): 145656
+ERR025741		Average resident set size (kbytes): 0
+ERR025741		Major (requiring I/O) page faults: 0
+ERR025741		Minor (reclaiming a frame) page faults: 17317772
+ERR025741		Voluntary context switches: 24990
+ERR025741		Involuntary context switches: 260262
+ERR025741		Swaps: 0
+ERR025741		File system inputs: 48
+ERR025741		File system outputs: 2907992
+ERR025741		Socket messages sent: 0
+ERR025741		Socket messages received: 0
+ERR025741		Signals delivered: 0
+ERR025741		Page size (bytes): 4096
+ERR025741		Exit status: 0
+ERR025742	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025742	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025742/ariba/report.tsv
+ERR025742		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025742/reads_1.fastq.gz ERR025742/reads_2.fastq.gz ERR025742/ariba"
+ERR025742		User time (seconds): 265.68
+ERR025742		System time (seconds): 52.16
+ERR025742		Percent of CPU this job got: 96%
+ERR025742		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:30.61
+ERR025742		Average shared text size (kbytes): 0
+ERR025742		Average unshared data size (kbytes): 0
+ERR025742		Average stack size (kbytes): 0
+ERR025742		Average total size (kbytes): 0
+ERR025742		Maximum resident set size (kbytes): 145124
+ERR025742		Average resident set size (kbytes): 0
+ERR025742		Major (requiring I/O) page faults: 0
+ERR025742		Minor (reclaiming a frame) page faults: 16628073
+ERR025742		Voluntary context switches: 24469
+ERR025742		Involuntary context switches: 511642
+ERR025742		Swaps: 0
+ERR025742		File system inputs: 0
+ERR025742		File system outputs: 2845160
+ERR025742		Socket messages sent: 0
+ERR025742		Socket messages received: 0
+ERR025742		Signals delivered: 0
+ERR025742		Page size (bytes): 4096
+ERR025742		Exit status: 0
+ERR025743	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025743	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025743/ariba/report.tsv
+ERR025743		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025743/reads_1.fastq.gz ERR025743/reads_2.fastq.gz ERR025743/ariba"
+ERR025743		User time (seconds): 281.62
+ERR025743		System time (seconds): 53.64
+ERR025743		Percent of CPU this job got: 96%
+ERR025743		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:49.19
+ERR025743		Average shared text size (kbytes): 0
+ERR025743		Average unshared data size (kbytes): 0
+ERR025743		Average stack size (kbytes): 0
+ERR025743		Average total size (kbytes): 0
+ERR025743		Maximum resident set size (kbytes): 145748
+ERR025743		Average resident set size (kbytes): 0
+ERR025743		Major (requiring I/O) page faults: 0
+ERR025743		Minor (reclaiming a frame) page faults: 17395011
+ERR025743		Voluntary context switches: 25420
+ERR025743		Involuntary context switches: 522346
+ERR025743		Swaps: 0
+ERR025743		File system inputs: 0
+ERR025743		File system outputs: 2977824
+ERR025743		Socket messages sent: 0
+ERR025743		Socket messages received: 0
+ERR025743		Signals delivered: 0
+ERR025743		Page size (bytes): 4096
+ERR025743		Exit status: 0
+ERR025744	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025744	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025744/ariba/report.tsv
+ERR025744		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025744/reads_1.fastq.gz ERR025744/reads_2.fastq.gz ERR025744/ariba"
+ERR025744		User time (seconds): 238.06
+ERR025744		System time (seconds): 53.01
+ERR025744		Percent of CPU this job got: 95%
+ERR025744		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:03.64
+ERR025744		Average shared text size (kbytes): 0
+ERR025744		Average unshared data size (kbytes): 0
+ERR025744		Average stack size (kbytes): 0
+ERR025744		Average total size (kbytes): 0
+ERR025744		Maximum resident set size (kbytes): 145188
+ERR025744		Average resident set size (kbytes): 0
+ERR025744		Major (requiring I/O) page faults: 0
+ERR025744		Minor (reclaiming a frame) page faults: 17099202
+ERR025744		Voluntary context switches: 25460
+ERR025744		Involuntary context switches: 321467
+ERR025744		Swaps: 0
+ERR025744		File system inputs: 0
+ERR025744		File system outputs: 2861224
+ERR025744		Socket messages sent: 0
+ERR025744		Socket messages received: 0
+ERR025744		Signals delivered: 0
+ERR025744		Page size (bytes): 4096
+ERR025744		Exit status: 0
+ERR025746	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025746	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025746/ariba/report.tsv
+ERR025746		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025746/reads_1.fastq.gz ERR025746/reads_2.fastq.gz ERR025746/ariba"
+ERR025746		User time (seconds): 322.88
+ERR025746		System time (seconds): 52.03
+ERR025746		Percent of CPU this job got: 96%
+ERR025746		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:29.06
+ERR025746		Average shared text size (kbytes): 0
+ERR025746		Average unshared data size (kbytes): 0
+ERR025746		Average stack size (kbytes): 0
+ERR025746		Average total size (kbytes): 0
+ERR025746		Maximum resident set size (kbytes): 145840
+ERR025746		Average resident set size (kbytes): 0
+ERR025746		Major (requiring I/O) page faults: 0
+ERR025746		Minor (reclaiming a frame) page faults: 16684928
+ERR025746		Voluntary context switches: 23475
+ERR025746		Involuntary context switches: 227080
+ERR025746		Swaps: 0
+ERR025746		File system inputs: 0
+ERR025746		File system outputs: 2908320
+ERR025746		Socket messages sent: 0
+ERR025746		Socket messages received: 0
+ERR025746		Signals delivered: 0
+ERR025746		Page size (bytes): 4096
+ERR025746		Exit status: 0
+ERR025747	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025747	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025747/ariba/report.tsv
+ERR025747		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025747/reads_1.fastq.gz ERR025747/reads_2.fastq.gz ERR025747/ariba"
+ERR025747		User time (seconds): 263.49
+ERR025747		System time (seconds): 51.34
+ERR025747		Percent of CPU this job got: 96%
+ERR025747		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:27.69
+ERR025747		Average shared text size (kbytes): 0
+ERR025747		Average unshared data size (kbytes): 0
+ERR025747		Average stack size (kbytes): 0
+ERR025747		Average total size (kbytes): 0
+ERR025747		Maximum resident set size (kbytes): 145616
+ERR025747		Average resident set size (kbytes): 0
+ERR025747		Major (requiring I/O) page faults: 0
+ERR025747		Minor (reclaiming a frame) page faults: 16640206
+ERR025747		Voluntary context switches: 23503
+ERR025747		Involuntary context switches: 284351
+ERR025747		Swaps: 0
+ERR025747		File system inputs: 0
+ERR025747		File system outputs: 2767888
+ERR025747		Socket messages sent: 0
+ERR025747		Socket messages received: 0
+ERR025747		Signals delivered: 0
+ERR025747		Page size (bytes): 4096
+ERR025747		Exit status: 0
+ERR025748	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025748	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025748/ariba/report.tsv
+ERR025748		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025748/reads_1.fastq.gz ERR025748/reads_2.fastq.gz ERR025748/ariba"
+ERR025748		User time (seconds): 192.97
+ERR025748		System time (seconds): 47.10
+ERR025748		Percent of CPU this job got: 95%
+ERR025748		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:10.79
+ERR025748		Average shared text size (kbytes): 0
+ERR025748		Average unshared data size (kbytes): 0
+ERR025748		Average stack size (kbytes): 0
+ERR025748		Average total size (kbytes): 0
+ERR025748		Maximum resident set size (kbytes): 144588
+ERR025748		Average resident set size (kbytes): 0
+ERR025748		Major (requiring I/O) page faults: 0
+ERR025748		Minor (reclaiming a frame) page faults: 15359462
+ERR025748		Voluntary context switches: 20352
+ERR025748		Involuntary context switches: 500189
+ERR025748		Swaps: 0
+ERR025748		File system inputs: 0
+ERR025748		File system outputs: 2298528
+ERR025748		Socket messages sent: 0
+ERR025748		Socket messages received: 0
+ERR025748		Signals delivered: 0
+ERR025748		Page size (bytes): 4096
+ERR025748		Exit status: 0
+ERR025749	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025749	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025749/ariba/report.tsv
+ERR025749		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025749/reads_1.fastq.gz ERR025749/reads_2.fastq.gz ERR025749/ariba"
+ERR025749		User time (seconds): 302.25
+ERR025749		System time (seconds): 48.64
+ERR025749		Percent of CPU this job got: 96%
+ERR025749		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:03.48
+ERR025749		Average shared text size (kbytes): 0
+ERR025749		Average unshared data size (kbytes): 0
+ERR025749		Average stack size (kbytes): 0
+ERR025749		Average total size (kbytes): 0
+ERR025749		Maximum resident set size (kbytes): 145240
+ERR025749		Average resident set size (kbytes): 0
+ERR025749		Major (requiring I/O) page faults: 0
+ERR025749		Minor (reclaiming a frame) page faults: 15647277
+ERR025749		Voluntary context switches: 21776
+ERR025749		Involuntary context switches: 513951
+ERR025749		Swaps: 0
+ERR025749		File system inputs: 0
+ERR025749		File system outputs: 2626072
+ERR025749		Socket messages sent: 0
+ERR025749		Socket messages received: 0
+ERR025749		Signals delivered: 0
+ERR025749		Page size (bytes): 4096
+ERR025749		Exit status: 0
+ERR025750	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025750	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025750/ariba/report.tsv
+ERR025750		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025750/reads_1.fastq.gz ERR025750/reads_2.fastq.gz ERR025750/ariba"
+ERR025750		User time (seconds): 279.02
+ERR025750		System time (seconds): 51.11
+ERR025750		Percent of CPU this job got: 96%
+ERR025750		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:43.04
+ERR025750		Average shared text size (kbytes): 0
+ERR025750		Average unshared data size (kbytes): 0
+ERR025750		Average stack size (kbytes): 0
+ERR025750		Average total size (kbytes): 0
+ERR025750		Maximum resident set size (kbytes): 145472
+ERR025750		Average resident set size (kbytes): 0
+ERR025750		Major (requiring I/O) page faults: 0
+ERR025750		Minor (reclaiming a frame) page faults: 16305557
+ERR025750		Voluntary context switches: 22392
+ERR025750		Involuntary context switches: 375983
+ERR025750		Swaps: 0
+ERR025750		File system inputs: 0
+ERR025750		File system outputs: 2693752
+ERR025750		Socket messages sent: 0
+ERR025750		Socket messages received: 0
+ERR025750		Signals delivered: 0
+ERR025750		Page size (bytes): 4096
+ERR025750		Exit status: 0
+ERR025751	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025751	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025751/ariba/report.tsv
+ERR025751		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025751/reads_1.fastq.gz ERR025751/reads_2.fastq.gz ERR025751/ariba"
+ERR025751		User time (seconds): 239.66
+ERR025751		System time (seconds): 51.25
+ERR025751		Percent of CPU this job got: 95%
+ERR025751		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:03.14
+ERR025751		Average shared text size (kbytes): 0
+ERR025751		Average unshared data size (kbytes): 0
+ERR025751		Average stack size (kbytes): 0
+ERR025751		Average total size (kbytes): 0
+ERR025751		Maximum resident set size (kbytes): 145004
+ERR025751		Average resident set size (kbytes): 0
+ERR025751		Major (requiring I/O) page faults: 0
+ERR025751		Minor (reclaiming a frame) page faults: 16381380
+ERR025751		Voluntary context switches: 23586
+ERR025751		Involuntary context switches: 498419
+ERR025751		Swaps: 0
+ERR025751		File system inputs: 0
+ERR025751		File system outputs: 2691176
+ERR025751		Socket messages sent: 0
+ERR025751		Socket messages received: 0
+ERR025751		Signals delivered: 0
+ERR025751		Page size (bytes): 4096
+ERR025751		Exit status: 0
+ERR025752	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025752	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025752/ariba/report.tsv
+ERR025752		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025752/reads_1.fastq.gz ERR025752/reads_2.fastq.gz ERR025752/ariba"
+ERR025752		User time (seconds): 236.46
+ERR025752		System time (seconds): 52.66
+ERR025752		Percent of CPU this job got: 95%
+ERR025752		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:04.16
+ERR025752		Average shared text size (kbytes): 0
+ERR025752		Average unshared data size (kbytes): 0
+ERR025752		Average stack size (kbytes): 0
+ERR025752		Average total size (kbytes): 0
+ERR025752		Maximum resident set size (kbytes): 145160
+ERR025752		Average resident set size (kbytes): 0
+ERR025752		Major (requiring I/O) page faults: 0
+ERR025752		Minor (reclaiming a frame) page faults: 16886963
+ERR025752		Voluntary context switches: 24815
+ERR025752		Involuntary context switches: 501579
+ERR025752		Swaps: 0
+ERR025752		File system inputs: 0
+ERR025752		File system outputs: 2855592
+ERR025752		Socket messages sent: 0
+ERR025752		Socket messages received: 0
+ERR025752		Signals delivered: 0
+ERR025752		Page size (bytes): 4096
+ERR025752		Exit status: 0
+ERR025753	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025753	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025753/ariba/report.tsv
+ERR025753		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025753/reads_1.fastq.gz ERR025753/reads_2.fastq.gz ERR025753/ariba"
+ERR025753		User time (seconds): 347.15
+ERR025753		System time (seconds): 55.82
+ERR025753		Percent of CPU this job got: 96%
+ERR025753		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:57.86
+ERR025753		Average shared text size (kbytes): 0
+ERR025753		Average unshared data size (kbytes): 0
+ERR025753		Average stack size (kbytes): 0
+ERR025753		Average total size (kbytes): 0
+ERR025753		Maximum resident set size (kbytes): 146424
+ERR025753		Average resident set size (kbytes): 0
+ERR025753		Major (requiring I/O) page faults: 0
+ERR025753		Minor (reclaiming a frame) page faults: 17793724
+ERR025753		Voluntary context switches: 25322
+ERR025753		Involuntary context switches: 486461
+ERR025753		Swaps: 0
+ERR025753		File system inputs: 16
+ERR025753		File system outputs: 3177304
+ERR025753		Socket messages sent: 0
+ERR025753		Socket messages received: 0
+ERR025753		Signals delivered: 0
+ERR025753		Page size (bytes): 4096
+ERR025753		Exit status: 0
+ERR025754	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025754	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025754/ariba/report.tsv
+ERR025754		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025754/reads_1.fastq.gz ERR025754/reads_2.fastq.gz ERR025754/ariba"
+ERR025754		User time (seconds): 312.86
+ERR025754		System time (seconds): 58.42
+ERR025754		Percent of CPU this job got: 96%
+ERR025754		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:24.48
+ERR025754		Average shared text size (kbytes): 0
+ERR025754		Average unshared data size (kbytes): 0
+ERR025754		Average stack size (kbytes): 0
+ERR025754		Average total size (kbytes): 0
+ERR025754		Maximum resident set size (kbytes): 145640
+ERR025754		Average resident set size (kbytes): 0
+ERR025754		Major (requiring I/O) page faults: 0
+ERR025754		Minor (reclaiming a frame) page faults: 18667388
+ERR025754		Voluntary context switches: 25657
+ERR025754		Involuntary context switches: 502888
+ERR025754		Swaps: 0
+ERR025754		File system inputs: 8
+ERR025754		File system outputs: 3163632
+ERR025754		Socket messages sent: 0
+ERR025754		Socket messages received: 0
+ERR025754		Signals delivered: 0
+ERR025754		Page size (bytes): 4096
+ERR025754		Exit status: 0
+ERR025755	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025755	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025755/ariba/report.tsv
+ERR025755		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025755/reads_1.fastq.gz ERR025755/reads_2.fastq.gz ERR025755/ariba"
+ERR025755		User time (seconds): 322.75
+ERR025755		System time (seconds): 52.66
+ERR025755		Percent of CPU this job got: 96%
+ERR025755		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:28.60
+ERR025755		Average shared text size (kbytes): 0
+ERR025755		Average unshared data size (kbytes): 0
+ERR025755		Average stack size (kbytes): 0
+ERR025755		Average total size (kbytes): 0
+ERR025755		Maximum resident set size (kbytes): 145980
+ERR025755		Average resident set size (kbytes): 0
+ERR025755		Major (requiring I/O) page faults: 0
+ERR025755		Minor (reclaiming a frame) page faults: 16941144
+ERR025755		Voluntary context switches: 24208
+ERR025755		Involuntary context switches: 285248
+ERR025755		Swaps: 0
+ERR025755		File system inputs: 0
+ERR025755		File system outputs: 2959368
+ERR025755		Socket messages sent: 0
+ERR025755		Socket messages received: 0
+ERR025755		Signals delivered: 0
+ERR025755		Page size (bytes): 4096
+ERR025755		Exit status: 0
+ERR025756	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025756	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025756/ariba/report.tsv
+ERR025756		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025756/reads_1.fastq.gz ERR025756/reads_2.fastq.gz ERR025756/ariba"
+ERR025756		User time (seconds): 290.60
+ERR025756		System time (seconds): 53.86
+ERR025756		Percent of CPU this job got: 96%
+ERR025756		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:58.70
+ERR025756		Average shared text size (kbytes): 0
+ERR025756		Average unshared data size (kbytes): 0
+ERR025756		Average stack size (kbytes): 0
+ERR025756		Average total size (kbytes): 0
+ERR025756		Maximum resident set size (kbytes): 146016
+ERR025756		Average resident set size (kbytes): 0
+ERR025756		Major (requiring I/O) page faults: 0
+ERR025756		Minor (reclaiming a frame) page faults: 16889474
+ERR025756		Voluntary context switches: 23976
+ERR025756		Involuntary context switches: 505228
+ERR025756		Swaps: 0
+ERR025756		File system inputs: 0
+ERR025756		File system outputs: 2886200
+ERR025756		Socket messages sent: 0
+ERR025756		Socket messages received: 0
+ERR025756		Signals delivered: 0
+ERR025756		Page size (bytes): 4096
+ERR025756		Exit status: 0
+ERR025758	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025758	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025758/ariba/report.tsv
+ERR025758		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025758/reads_1.fastq.gz ERR025758/reads_2.fastq.gz ERR025758/ariba"
+ERR025758		User time (seconds): 323.93
+ERR025758		System time (seconds): 55.79
+ERR025758		Percent of CPU this job got: 96%
+ERR025758		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:33.73
+ERR025758		Average shared text size (kbytes): 0
+ERR025758		Average unshared data size (kbytes): 0
+ERR025758		Average stack size (kbytes): 0
+ERR025758		Average total size (kbytes): 0
+ERR025758		Maximum resident set size (kbytes): 145616
+ERR025758		Average resident set size (kbytes): 0
+ERR025758		Major (requiring I/O) page faults: 0
+ERR025758		Minor (reclaiming a frame) page faults: 18082473
+ERR025758		Voluntary context switches: 24844
+ERR025758		Involuntary context switches: 517584
+ERR025758		Swaps: 0
+ERR025758		File system inputs: 0
+ERR025758		File system outputs: 2980736
+ERR025758		Socket messages sent: 0
+ERR025758		Socket messages received: 0
+ERR025758		Signals delivered: 0
+ERR025758		Page size (bytes): 4096
+ERR025758		Exit status: 0
+ERR025759	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025759	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025759/ariba/report.tsv
+ERR025759		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025759/reads_1.fastq.gz ERR025759/reads_2.fastq.gz ERR025759/ariba"
+ERR025759		User time (seconds): 291.10
+ERR025759		System time (seconds): 60.62
+ERR025759		Percent of CPU this job got: 95%
+ERR025759		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:08.57
+ERR025759		Average shared text size (kbytes): 0
+ERR025759		Average unshared data size (kbytes): 0
+ERR025759		Average stack size (kbytes): 0
+ERR025759		Average total size (kbytes): 0
+ERR025759		Maximum resident set size (kbytes): 145608
+ERR025759		Average resident set size (kbytes): 0
+ERR025759		Major (requiring I/O) page faults: 0
+ERR025759		Minor (reclaiming a frame) page faults: 19455034
+ERR025759		Voluntary context switches: 30164
+ERR025759		Involuntary context switches: 298660
+ERR025759		Swaps: 0
+ERR025759		File system inputs: 0
+ERR025759		File system outputs: 3225168
+ERR025759		Socket messages sent: 0
+ERR025759		Socket messages received: 0
+ERR025759		Signals delivered: 0
+ERR025759		Page size (bytes): 4096
+ERR025759		Exit status: 0
+ERR025761	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025761	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025761/ariba/report.tsv
+ERR025761		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025761/reads_1.fastq.gz ERR025761/reads_2.fastq.gz ERR025761/ariba"
+ERR025761		User time (seconds): 368.22
+ERR025761		System time (seconds): 61.65
+ERR025761		Percent of CPU this job got: 96%
+ERR025761		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:26.06
+ERR025761		Average shared text size (kbytes): 0
+ERR025761		Average unshared data size (kbytes): 0
+ERR025761		Average stack size (kbytes): 0
+ERR025761		Average total size (kbytes): 0
+ERR025761		Maximum resident set size (kbytes): 146096
+ERR025761		Average resident set size (kbytes): 0
+ERR025761		Major (requiring I/O) page faults: 0
+ERR025761		Minor (reclaiming a frame) page faults: 19622398
+ERR025761		Voluntary context switches: 29222
+ERR025761		Involuntary context switches: 513717
+ERR025761		Swaps: 0
+ERR025761		File system inputs: 24
+ERR025761		File system outputs: 3426680
+ERR025761		Socket messages sent: 0
+ERR025761		Socket messages received: 0
+ERR025761		Signals delivered: 0
+ERR025761		Page size (bytes): 4096
+ERR025761		Exit status: 0
+ERR025762	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025762	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025762/ariba/report.tsv
+ERR025762		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025762/reads_1.fastq.gz ERR025762/reads_2.fastq.gz ERR025762/ariba"
+ERR025762		User time (seconds): 304.78
+ERR025762		System time (seconds): 55.30
+ERR025762		Percent of CPU this job got: 96%
+ERR025762		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:14.85
+ERR025762		Average shared text size (kbytes): 0
+ERR025762		Average unshared data size (kbytes): 0
+ERR025762		Average stack size (kbytes): 0
+ERR025762		Average total size (kbytes): 0
+ERR025762		Maximum resident set size (kbytes): 145736
+ERR025762		Average resident set size (kbytes): 0
+ERR025762		Major (requiring I/O) page faults: 0
+ERR025762		Minor (reclaiming a frame) page faults: 17556349
+ERR025762		Voluntary context switches: 26459
+ERR025762		Involuntary context switches: 402679
+ERR025762		Swaps: 0
+ERR025762		File system inputs: 0
+ERR025762		File system outputs: 3014176
+ERR025762		Socket messages sent: 0
+ERR025762		Socket messages received: 0
+ERR025762		Signals delivered: 0
+ERR025762		Page size (bytes): 4096
+ERR025762		Exit status: 0
+ERR025763	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025763	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025763/ariba/report.tsv
+ERR025763		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025763/reads_1.fastq.gz ERR025763/reads_2.fastq.gz ERR025763/ariba"
+ERR025763		User time (seconds): 235.82
+ERR025763		System time (seconds): 54.48
+ERR025763		Percent of CPU this job got: 95%
+ERR025763		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:03.60
+ERR025763		Average shared text size (kbytes): 0
+ERR025763		Average unshared data size (kbytes): 0
+ERR025763		Average stack size (kbytes): 0
+ERR025763		Average total size (kbytes): 0
+ERR025763		Maximum resident set size (kbytes): 145240
+ERR025763		Average resident set size (kbytes): 0
+ERR025763		Major (requiring I/O) page faults: 0
+ERR025763		Minor (reclaiming a frame) page faults: 17636828
+ERR025763		Voluntary context switches: 26729
+ERR025763		Involuntary context switches: 212275
+ERR025763		Swaps: 0
+ERR025763		File system inputs: 0
+ERR025763		File system outputs: 2845048
+ERR025763		Socket messages sent: 0
+ERR025763		Socket messages received: 0
+ERR025763		Signals delivered: 0
+ERR025763		Page size (bytes): 4096
+ERR025763		Exit status: 0
+ERR025764	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025764	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025764/ariba/report.tsv
+ERR025764		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025764/reads_1.fastq.gz ERR025764/reads_2.fastq.gz ERR025764/ariba"
+ERR025764		User time (seconds): 252.12
+ERR025764		System time (seconds): 61.38
+ERR025764		Percent of CPU this job got: 95%
+ERR025764		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:28.41
+ERR025764		Average shared text size (kbytes): 0
+ERR025764		Average unshared data size (kbytes): 0
+ERR025764		Average stack size (kbytes): 0
+ERR025764		Average total size (kbytes): 0
+ERR025764		Maximum resident set size (kbytes): 145432
+ERR025764		Average resident set size (kbytes): 0
+ERR025764		Major (requiring I/O) page faults: 0
+ERR025764		Minor (reclaiming a frame) page faults: 19509890
+ERR025764		Voluntary context switches: 29615
+ERR025764		Involuntary context switches: 507647
+ERR025764		Swaps: 0
+ERR025764		File system inputs: 0
+ERR025764		File system outputs: 3112776
+ERR025764		Socket messages sent: 0
+ERR025764		Socket messages received: 0
+ERR025764		Signals delivered: 0
+ERR025764		Page size (bytes): 4096
+ERR025764		Exit status: 0
+ERR025765	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025765	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025765/ariba/report.tsv
+ERR025765		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025765/reads_1.fastq.gz ERR025765/reads_2.fastq.gz ERR025765/ariba"
+ERR025765		User time (seconds): 308.70
+ERR025765		System time (seconds): 56.72
+ERR025765		Percent of CPU this job got: 95%
+ERR025765		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:21.08
+ERR025765		Average shared text size (kbytes): 0
+ERR025765		Average unshared data size (kbytes): 0
+ERR025765		Average stack size (kbytes): 0
+ERR025765		Average total size (kbytes): 0
+ERR025765		Maximum resident set size (kbytes): 145732
+ERR025765		Average resident set size (kbytes): 0
+ERR025765		Major (requiring I/O) page faults: 0
+ERR025765		Minor (reclaiming a frame) page faults: 18251713
+ERR025765		Voluntary context switches: 27175
+ERR025765		Involuntary context switches: 492905
+ERR025765		Swaps: 0
+ERR025765		File system inputs: 0
+ERR025765		File system outputs: 3055176
+ERR025765		Socket messages sent: 0
+ERR025765		Socket messages received: 0
+ERR025765		Signals delivered: 0
+ERR025765		Page size (bytes): 4096
+ERR025765		Exit status: 0
+ERR025767	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025767	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025767/ariba/report.tsv
+ERR025767		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025767/reads_1.fastq.gz ERR025767/reads_2.fastq.gz ERR025767/ariba"
+ERR025767		User time (seconds): 360.72
+ERR025767		System time (seconds): 60.57
+ERR025767		Percent of CPU this job got: 96%
+ERR025767		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:16.86
+ERR025767		Average shared text size (kbytes): 0
+ERR025767		Average unshared data size (kbytes): 0
+ERR025767		Average stack size (kbytes): 0
+ERR025767		Average total size (kbytes): 0
+ERR025767		Maximum resident set size (kbytes): 146264
+ERR025767		Average resident set size (kbytes): 0
+ERR025767		Major (requiring I/O) page faults: 0
+ERR025767		Minor (reclaiming a frame) page faults: 19265177
+ERR025767		Voluntary context switches: 28672
+ERR025767		Involuntary context switches: 516527
+ERR025767		Swaps: 0
+ERR025767		File system inputs: 0
+ERR025767		File system outputs: 3302656
+ERR025767		Socket messages sent: 0
+ERR025767		Socket messages received: 0
+ERR025767		Signals delivered: 0
+ERR025767		Page size (bytes): 4096
+ERR025767		Exit status: 0
+ERR025768	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR025768	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR025768/ariba/report.tsv
+ERR025768		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR025768/reads_1.fastq.gz ERR025768/reads_2.fastq.gz ERR025768/ariba"
+ERR025768		User time (seconds): 288.87
+ERR025768		System time (seconds): 59.28
+ERR025768		Percent of CPU this job got: 95%
+ERR025768		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:02.69
+ERR025768		Average shared text size (kbytes): 0
+ERR025768		Average unshared data size (kbytes): 0
+ERR025768		Average stack size (kbytes): 0
+ERR025768		Average total size (kbytes): 0
+ERR025768		Maximum resident set size (kbytes): 145756
+ERR025768		Average resident set size (kbytes): 0
+ERR025768		Major (requiring I/O) page faults: 0
+ERR025768		Minor (reclaiming a frame) page faults: 18964187
+ERR025768		Voluntary context switches: 28719
+ERR025768		Involuntary context switches: 421498
+ERR025768		Swaps: 0
+ERR025768		File system inputs: 0
+ERR025768		File system outputs: 3121840
+ERR025768		Socket messages sent: 0
+ERR025768		Socket messages received: 0
+ERR025768		Signals delivered: 0
+ERR025768		Page size (bytes): 4096
+ERR025768		Exit status: 0
+ERR028671	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028671	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028671/ariba/report.tsv
+ERR028671		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028671/reads_1.fastq.gz ERR028671/reads_2.fastq.gz ERR028671/ariba"
+ERR028671		User time (seconds): 271.61
+ERR028671		System time (seconds): 60.25
+ERR028671		Percent of CPU this job got: 95%
+ERR028671		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:48.85
+ERR028671		Average shared text size (kbytes): 0
+ERR028671		Average unshared data size (kbytes): 0
+ERR028671		Average stack size (kbytes): 0
+ERR028671		Average total size (kbytes): 0
+ERR028671		Maximum resident set size (kbytes): 145528
+ERR028671		Average resident set size (kbytes): 0
+ERR028671		Major (requiring I/O) page faults: 0
+ERR028671		Minor (reclaiming a frame) page faults: 19577913
+ERR028671		Voluntary context switches: 29678
+ERR028671		Involuntary context switches: 377346
+ERR028671		Swaps: 0
+ERR028671		File system inputs: 0
+ERR028671		File system outputs: 3163480
+ERR028671		Socket messages sent: 0
+ERR028671		Socket messages received: 0
+ERR028671		Signals delivered: 0
+ERR028671		Page size (bytes): 4096
+ERR028671		Exit status: 0
+ERR028672	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028672	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028672/ariba/report.tsv
+ERR028672		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028672/reads_1.fastq.gz ERR028672/reads_2.fastq.gz ERR028672/ariba"
+ERR028672		User time (seconds): 296.41
+ERR028672		System time (seconds): 61.60
+ERR028672		Percent of CPU this job got: 95%
+ERR028672		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:13.55
+ERR028672		Average shared text size (kbytes): 0
+ERR028672		Average unshared data size (kbytes): 0
+ERR028672		Average stack size (kbytes): 0
+ERR028672		Average total size (kbytes): 0
+ERR028672		Maximum resident set size (kbytes): 145760
+ERR028672		Average resident set size (kbytes): 0
+ERR028672		Major (requiring I/O) page faults: 0
+ERR028672		Minor (reclaiming a frame) page faults: 19658716
+ERR028672		Voluntary context switches: 30171
+ERR028672		Involuntary context switches: 337554
+ERR028672		Swaps: 0
+ERR028672		File system inputs: 0
+ERR028672		File system outputs: 3261720
+ERR028672		Socket messages sent: 0
+ERR028672		Socket messages received: 0
+ERR028672		Signals delivered: 0
+ERR028672		Page size (bytes): 4096
+ERR028672		Exit status: 0
+ERR028673	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028673	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028673/ariba/report.tsv
+ERR028673		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028673/reads_1.fastq.gz ERR028673/reads_2.fastq.gz ERR028673/ariba"
+ERR028673		User time (seconds): 527.89
+ERR028673		System time (seconds): 63.25
+ERR028673		Percent of CPU this job got: 97%
+ERR028673		Elapsed (wall clock) time (h:mm:ss or m:ss): 10:07.95
+ERR028673		Average shared text size (kbytes): 0
+ERR028673		Average unshared data size (kbytes): 0
+ERR028673		Average stack size (kbytes): 0
+ERR028673		Average total size (kbytes): 0
+ERR028673		Maximum resident set size (kbytes): 146272
+ERR028673		Average resident set size (kbytes): 0
+ERR028673		Major (requiring I/O) page faults: 0
+ERR028673		Minor (reclaiming a frame) page faults: 20096615
+ERR028673		Voluntary context switches: 28252
+ERR028673		Involuntary context switches: 249151
+ERR028673		Swaps: 0
+ERR028673		File system inputs: 0
+ERR028673		File system outputs: 3823376
+ERR028673		Socket messages sent: 0
+ERR028673		Socket messages received: 0
+ERR028673		Signals delivered: 0
+ERR028673		Page size (bytes): 4096
+ERR028673		Exit status: 0
+ERR028674	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028674	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028674/ariba/report.tsv
+ERR028674		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028674/reads_1.fastq.gz ERR028674/reads_2.fastq.gz ERR028674/ariba"
+ERR028674		User time (seconds): 366.93
+ERR028674		System time (seconds): 57.32
+ERR028674		Percent of CPU this job got: 96%
+ERR028674		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:18.82
+ERR028674		Average shared text size (kbytes): 0
+ERR028674		Average unshared data size (kbytes): 0
+ERR028674		Average stack size (kbytes): 0
+ERR028674		Average total size (kbytes): 0
+ERR028674		Maximum resident set size (kbytes): 146284
+ERR028674		Average resident set size (kbytes): 0
+ERR028674		Major (requiring I/O) page faults: 0
+ERR028674		Minor (reclaiming a frame) page faults: 18333947
+ERR028674		Voluntary context switches: 26354
+ERR028674		Involuntary context switches: 465737
+ERR028674		Swaps: 0
+ERR028674		File system inputs: 0
+ERR028674		File system outputs: 3126200
+ERR028674		Socket messages sent: 0
+ERR028674		Socket messages received: 0
+ERR028674		Signals delivered: 0
+ERR028674		Page size (bytes): 4096
+ERR028674		Exit status: 0
+ERR028675	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028675	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028675/ariba/report.tsv
+ERR028675		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028675/reads_1.fastq.gz ERR028675/reads_2.fastq.gz ERR028675/ariba"
+ERR028675		User time (seconds): 275.91
+ERR028675		System time (seconds): 56.52
+ERR028675		Percent of CPU this job got: 95%
+ERR028675		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:47.19
+ERR028675		Average shared text size (kbytes): 0
+ERR028675		Average unshared data size (kbytes): 0
+ERR028675		Average stack size (kbytes): 0
+ERR028675		Average total size (kbytes): 0
+ERR028675		Maximum resident set size (kbytes): 145780
+ERR028675		Average resident set size (kbytes): 0
+ERR028675		Major (requiring I/O) page faults: 0
+ERR028675		Minor (reclaiming a frame) page faults: 17940627
+ERR028675		Voluntary context switches: 28308
+ERR028675		Involuntary context switches: 473329
+ERR028675		Swaps: 0
+ERR028675		File system inputs: 0
+ERR028675		File system outputs: 3065240
+ERR028675		Socket messages sent: 0
+ERR028675		Socket messages received: 0
+ERR028675		Signals delivered: 0
+ERR028675		Page size (bytes): 4096
+ERR028675		Exit status: 0
+ERR028676	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028676	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028676/ariba/report.tsv
+ERR028676		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028676/reads_1.fastq.gz ERR028676/reads_2.fastq.gz ERR028676/ariba"
+ERR028676		User time (seconds): 351.57
+ERR028676		System time (seconds): 62.33
+ERR028676		Percent of CPU this job got: 96%
+ERR028676		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:10.92
+ERR028676		Average shared text size (kbytes): 0
+ERR028676		Average unshared data size (kbytes): 0
+ERR028676		Average stack size (kbytes): 0
+ERR028676		Average total size (kbytes): 0
+ERR028676		Maximum resident set size (kbytes): 146052
+ERR028676		Average resident set size (kbytes): 0
+ERR028676		Major (requiring I/O) page faults: 0
+ERR028676		Minor (reclaiming a frame) page faults: 19928467
+ERR028676		Voluntary context switches: 29185
+ERR028676		Involuntary context switches: 553346
+ERR028676		Swaps: 0
+ERR028676		File system inputs: 0
+ERR028676		File system outputs: 3409096
+ERR028676		Socket messages sent: 0
+ERR028676		Socket messages received: 0
+ERR028676		Signals delivered: 0
+ERR028676		Page size (bytes): 4096
+ERR028676		Exit status: 0
+ERR028677	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028677	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028677/ariba/report.tsv
+ERR028677		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028677/reads_1.fastq.gz ERR028677/reads_2.fastq.gz ERR028677/ariba"
+ERR028677		User time (seconds): 277.65
+ERR028677		System time (seconds): 57.62
+ERR028677		Percent of CPU this job got: 95%
+ERR028677		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:49.59
+ERR028677		Average shared text size (kbytes): 0
+ERR028677		Average unshared data size (kbytes): 0
+ERR028677		Average stack size (kbytes): 0
+ERR028677		Average total size (kbytes): 0
+ERR028677		Maximum resident set size (kbytes): 145344
+ERR028677		Average resident set size (kbytes): 0
+ERR028677		Major (requiring I/O) page faults: 0
+ERR028677		Minor (reclaiming a frame) page faults: 18755764
+ERR028677		Voluntary context switches: 27574
+ERR028677		Involuntary context switches: 354299
+ERR028677		Swaps: 0
+ERR028677		File system inputs: 0
+ERR028677		File system outputs: 2984176
+ERR028677		Socket messages sent: 0
+ERR028677		Socket messages received: 0
+ERR028677		Signals delivered: 0
+ERR028677		Page size (bytes): 4096
+ERR028677		Exit status: 0
+ERR028678	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028678	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028678/ariba/report.tsv
+ERR028678		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028678/reads_1.fastq.gz ERR028678/reads_2.fastq.gz ERR028678/ariba"
+ERR028678		User time (seconds): 288.55
+ERR028678		System time (seconds): 62.42
+ERR028678		Percent of CPU this job got: 95%
+ERR028678		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:07.18
+ERR028678		Average shared text size (kbytes): 0
+ERR028678		Average unshared data size (kbytes): 0
+ERR028678		Average stack size (kbytes): 0
+ERR028678		Average total size (kbytes): 0
+ERR028678		Maximum resident set size (kbytes): 145628
+ERR028678		Average resident set size (kbytes): 0
+ERR028678		Major (requiring I/O) page faults: 0
+ERR028678		Minor (reclaiming a frame) page faults: 20076900
+ERR028678		Voluntary context switches: 31339
+ERR028678		Involuntary context switches: 310397
+ERR028678		Swaps: 0
+ERR028678		File system inputs: 0
+ERR028678		File system outputs: 3300064
+ERR028678		Socket messages sent: 0
+ERR028678		Socket messages received: 0
+ERR028678		Signals delivered: 0
+ERR028678		Page size (bytes): 4096
+ERR028678		Exit status: 0
+ERR028679	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028679	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028679/ariba/report.tsv
+ERR028679		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028679/reads_1.fastq.gz ERR028679/reads_2.fastq.gz ERR028679/ariba"
+ERR028679		User time (seconds): 305.26
+ERR028679		System time (seconds): 57.46
+ERR028679		Percent of CPU this job got: 95%
+ERR028679		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:18.48
+ERR028679		Average shared text size (kbytes): 0
+ERR028679		Average unshared data size (kbytes): 0
+ERR028679		Average stack size (kbytes): 0
+ERR028679		Average total size (kbytes): 0
+ERR028679		Maximum resident set size (kbytes): 145972
+ERR028679		Average resident set size (kbytes): 0
+ERR028679		Major (requiring I/O) page faults: 0
+ERR028679		Minor (reclaiming a frame) page faults: 18564520
+ERR028679		Voluntary context switches: 27489
+ERR028679		Involuntary context switches: 368549
+ERR028679		Swaps: 0
+ERR028679		File system inputs: 0
+ERR028679		File system outputs: 3116944
+ERR028679		Socket messages sent: 0
+ERR028679		Socket messages received: 0
+ERR028679		Signals delivered: 0
+ERR028679		Page size (bytes): 4096
+ERR028679		Exit status: 0
+ERR028680	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028680	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028680/ariba/report.tsv
+ERR028680		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028680/reads_1.fastq.gz ERR028680/reads_2.fastq.gz ERR028680/ariba"
+ERR028680		User time (seconds): 268.85
+ERR028680		System time (seconds): 55.48
+ERR028680		Percent of CPU this job got: 95%
+ERR028680		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:38.21
+ERR028680		Average shared text size (kbytes): 0
+ERR028680		Average unshared data size (kbytes): 0
+ERR028680		Average stack size (kbytes): 0
+ERR028680		Average total size (kbytes): 0
+ERR028680		Maximum resident set size (kbytes): 145364
+ERR028680		Average resident set size (kbytes): 0
+ERR028680		Major (requiring I/O) page faults: 0
+ERR028680		Minor (reclaiming a frame) page faults: 18026337
+ERR028680		Voluntary context switches: 26142
+ERR028680		Involuntary context switches: 290599
+ERR028680		Swaps: 0
+ERR028680		File system inputs: 0
+ERR028680		File system outputs: 2928560
+ERR028680		Socket messages sent: 0
+ERR028680		Socket messages received: 0
+ERR028680		Signals delivered: 0
+ERR028680		Page size (bytes): 4096
+ERR028680		Exit status: 0
+ERR028681	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028681	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028681/ariba/report.tsv
+ERR028681		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028681/reads_1.fastq.gz ERR028681/reads_2.fastq.gz ERR028681/ariba"
+ERR028681		User time (seconds): 279.94
+ERR028681		System time (seconds): 62.60
+ERR028681		Percent of CPU this job got: 95%
+ERR028681		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:58.90
+ERR028681		Average shared text size (kbytes): 0
+ERR028681		Average unshared data size (kbytes): 0
+ERR028681		Average stack size (kbytes): 0
+ERR028681		Average total size (kbytes): 0
+ERR028681		Maximum resident set size (kbytes): 146072
+ERR028681		Average resident set size (kbytes): 0
+ERR028681		Major (requiring I/O) page faults: 0
+ERR028681		Minor (reclaiming a frame) page faults: 19918501
+ERR028681		Voluntary context switches: 29949
+ERR028681		Involuntary context switches: 265216
+ERR028681		Swaps: 0
+ERR028681		File system inputs: 0
+ERR028681		File system outputs: 3205616
+ERR028681		Socket messages sent: 0
+ERR028681		Socket messages received: 0
+ERR028681		Signals delivered: 0
+ERR028681		Page size (bytes): 4096
+ERR028681		Exit status: 0
+ERR028684	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028684	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028684/ariba/report.tsv
+ERR028684		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028684/reads_1.fastq.gz ERR028684/reads_2.fastq.gz ERR028684/ariba"
+ERR028684		User time (seconds): 362.52
+ERR028684		System time (seconds): 61.12
+ERR028684		Percent of CPU this job got: 96%
+ERR028684		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:20.28
+ERR028684		Average shared text size (kbytes): 0
+ERR028684		Average unshared data size (kbytes): 0
+ERR028684		Average stack size (kbytes): 0
+ERR028684		Average total size (kbytes): 0
+ERR028684		Maximum resident set size (kbytes): 146392
+ERR028684		Average resident set size (kbytes): 0
+ERR028684		Major (requiring I/O) page faults: 0
+ERR028684		Minor (reclaiming a frame) page faults: 19678470
+ERR028684		Voluntary context switches: 28693
+ERR028684		Involuntary context switches: 329843
+ERR028684		Swaps: 0
+ERR028684		File system inputs: 0
+ERR028684		File system outputs: 3344888
+ERR028684		Socket messages sent: 0
+ERR028684		Socket messages received: 0
+ERR028684		Signals delivered: 0
+ERR028684		Page size (bytes): 4096
+ERR028684		Exit status: 0
+ERR028685	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028685	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028685/ariba/report.tsv
+ERR028685		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028685/reads_1.fastq.gz ERR028685/reads_2.fastq.gz ERR028685/ariba"
+ERR028685		User time (seconds): 431.15
+ERR028685		System time (seconds): 65.91
+ERR028685		Percent of CPU this job got: 96%
+ERR028685		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:35.14
+ERR028685		Average shared text size (kbytes): 0
+ERR028685		Average unshared data size (kbytes): 0
+ERR028685		Average stack size (kbytes): 0
+ERR028685		Average total size (kbytes): 0
+ERR028685		Maximum resident set size (kbytes): 146596
+ERR028685		Average resident set size (kbytes): 0
+ERR028685		Major (requiring I/O) page faults: 0
+ERR028685		Minor (reclaiming a frame) page faults: 21039041
+ERR028685		Voluntary context switches: 30189
+ERR028685		Involuntary context switches: 359278
+ERR028685		Swaps: 0
+ERR028685		File system inputs: 0
+ERR028685		File system outputs: 3614752
+ERR028685		Socket messages sent: 0
+ERR028685		Socket messages received: 0
+ERR028685		Signals delivered: 0
+ERR028685		Page size (bytes): 4096
+ERR028685		Exit status: 0
+ERR028686	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028686	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028686/ariba/report.tsv
+ERR028686		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028686/reads_1.fastq.gz ERR028686/reads_2.fastq.gz ERR028686/ariba"
+ERR028686		User time (seconds): 323.54
+ERR028686		System time (seconds): 63.33
+ERR028686		Percent of CPU this job got: 95%
+ERR028686		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:43.41
+ERR028686		Average shared text size (kbytes): 0
+ERR028686		Average unshared data size (kbytes): 0
+ERR028686		Average stack size (kbytes): 0
+ERR028686		Average total size (kbytes): 0
+ERR028686		Maximum resident set size (kbytes): 145736
+ERR028686		Average resident set size (kbytes): 0
+ERR028686		Major (requiring I/O) page faults: 0
+ERR028686		Minor (reclaiming a frame) page faults: 20330025
+ERR028686		Voluntary context switches: 31347
+ERR028686		Involuntary context switches: 278821
+ERR028686		Swaps: 0
+ERR028686		File system inputs: 0
+ERR028686		File system outputs: 3381744
+ERR028686		Socket messages sent: 0
+ERR028686		Socket messages received: 0
+ERR028686		Signals delivered: 0
+ERR028686		Page size (bytes): 4096
+ERR028686		Exit status: 0
+ERR028687	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028687	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028687/ariba/report.tsv
+ERR028687		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028687/reads_1.fastq.gz ERR028687/reads_2.fastq.gz ERR028687/ariba"
+ERR028687		User time (seconds): 384.62
+ERR028687		System time (seconds): 63.34
+ERR028687		Percent of CPU this job got: 96%
+ERR028687		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:45.05
+ERR028687		Average shared text size (kbytes): 0
+ERR028687		Average unshared data size (kbytes): 0
+ERR028687		Average stack size (kbytes): 0
+ERR028687		Average total size (kbytes): 0
+ERR028687		Maximum resident set size (kbytes): 146652
+ERR028687		Average resident set size (kbytes): 0
+ERR028687		Major (requiring I/O) page faults: 0
+ERR028687		Minor (reclaiming a frame) page faults: 20662911
+ERR028687		Voluntary context switches: 29502
+ERR028687		Involuntary context switches: 362134
+ERR028687		Swaps: 0
+ERR028687		File system inputs: 0
+ERR028687		File system outputs: 3370120
+ERR028687		Socket messages sent: 0
+ERR028687		Socket messages received: 0
+ERR028687		Signals delivered: 0
+ERR028687		Page size (bytes): 4096
+ERR028687		Exit status: 0
+ERR028688	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028688	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028688/ariba/report.tsv
+ERR028688		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028688/reads_1.fastq.gz ERR028688/reads_2.fastq.gz ERR028688/ariba"
+ERR028688		User time (seconds): 316.51
+ERR028688		System time (seconds): 57.50
+ERR028688		Percent of CPU this job got: 96%
+ERR028688		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:29.26
+ERR028688		Average shared text size (kbytes): 0
+ERR028688		Average unshared data size (kbytes): 0
+ERR028688		Average stack size (kbytes): 0
+ERR028688		Average total size (kbytes): 0
+ERR028688		Maximum resident set size (kbytes): 145700
+ERR028688		Average resident set size (kbytes): 0
+ERR028688		Major (requiring I/O) page faults: 0
+ERR028688		Minor (reclaiming a frame) page faults: 18528073
+ERR028688		Voluntary context switches: 26430
+ERR028688		Involuntary context switches: 404118
+ERR028688		Swaps: 0
+ERR028688		File system inputs: 0
+ERR028688		File system outputs: 3012288
+ERR028688		Socket messages sent: 0
+ERR028688		Socket messages received: 0
+ERR028688		Signals delivered: 0
+ERR028688		Page size (bytes): 4096
+ERR028688		Exit status: 0
+ERR028689	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028689	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028689/ariba/report.tsv
+ERR028689		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028689/reads_1.fastq.gz ERR028689/reads_2.fastq.gz ERR028689/ariba"
+ERR028689		User time (seconds): 403.26
+ERR028689		System time (seconds): 61.00
+ERR028689		Percent of CPU this job got: 96%
+ERR028689		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:01.48
+ERR028689		Average shared text size (kbytes): 0
+ERR028689		Average unshared data size (kbytes): 0
+ERR028689		Average stack size (kbytes): 0
+ERR028689		Average total size (kbytes): 0
+ERR028689		Maximum resident set size (kbytes): 146216
+ERR028689		Average resident set size (kbytes): 0
+ERR028689		Major (requiring I/O) page faults: 0
+ERR028689		Minor (reclaiming a frame) page faults: 19552822
+ERR028689		Voluntary context switches: 27455
+ERR028689		Involuntary context switches: 552499
+ERR028689		Swaps: 0
+ERR028689		File system inputs: 0
+ERR028689		File system outputs: 3352504
+ERR028689		Socket messages sent: 0
+ERR028689		Socket messages received: 0
+ERR028689		Signals delivered: 0
+ERR028689		Page size (bytes): 4096
+ERR028689		Exit status: 0
+ERR028690	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028690	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028690/ariba/report.tsv
+ERR028690		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028690/reads_1.fastq.gz ERR028690/reads_2.fastq.gz ERR028690/ariba"
+ERR028690		User time (seconds): 327.22
+ERR028690		System time (seconds): 61.36
+ERR028690		Percent of CPU this job got: 95%
+ERR028690		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:45.26
+ERR028690		Average shared text size (kbytes): 0
+ERR028690		Average unshared data size (kbytes): 0
+ERR028690		Average stack size (kbytes): 0
+ERR028690		Average total size (kbytes): 0
+ERR028690		Maximum resident set size (kbytes): 146124
+ERR028690		Average resident set size (kbytes): 0
+ERR028690		Major (requiring I/O) page faults: 0
+ERR028690		Minor (reclaiming a frame) page faults: 19882323
+ERR028690		Voluntary context switches: 29243
+ERR028690		Involuntary context switches: 353974
+ERR028690		Swaps: 0
+ERR028690		File system inputs: 0
+ERR028690		File system outputs: 3281512
+ERR028690		Socket messages sent: 0
+ERR028690		Socket messages received: 0
+ERR028690		Signals delivered: 0
+ERR028690		Page size (bytes): 4096
+ERR028690		Exit status: 0
+ERR028691	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028691	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028691/ariba/report.tsv
+ERR028691		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028691/reads_1.fastq.gz ERR028691/reads_2.fastq.gz ERR028691/ariba"
+ERR028691		User time (seconds): 285.90
+ERR028691		System time (seconds): 58.06
+ERR028691		Percent of CPU this job got: 95%
+ERR028691		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:59.82
+ERR028691		Average shared text size (kbytes): 0
+ERR028691		Average unshared data size (kbytes): 0
+ERR028691		Average stack size (kbytes): 0
+ERR028691		Average total size (kbytes): 0
+ERR028691		Maximum resident set size (kbytes): 146592
+ERR028691		Average resident set size (kbytes): 0
+ERR028691		Major (requiring I/O) page faults: 0
+ERR028691		Minor (reclaiming a frame) page faults: 18289030
+ERR028691		Voluntary context switches: 27222
+ERR028691		Involuntary context switches: 312992
+ERR028691		Swaps: 0
+ERR028691		File system inputs: 0
+ERR028691		File system outputs: 3075392
+ERR028691		Socket messages sent: 0
+ERR028691		Socket messages received: 0
+ERR028691		Signals delivered: 0
+ERR028691		Page size (bytes): 4096
+ERR028691		Exit status: 0
+ERR028692	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028692	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028692/ariba/report.tsv
+ERR028692		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028692/reads_1.fastq.gz ERR028692/reads_2.fastq.gz ERR028692/ariba"
+ERR028692		User time (seconds): 368.27
+ERR028692		System time (seconds): 58.05
+ERR028692		Percent of CPU this job got: 96%
+ERR028692		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:21.49
+ERR028692		Average shared text size (kbytes): 0
+ERR028692		Average unshared data size (kbytes): 0
+ERR028692		Average stack size (kbytes): 0
+ERR028692		Average total size (kbytes): 0
+ERR028692		Maximum resident set size (kbytes): 146152
+ERR028692		Average resident set size (kbytes): 0
+ERR028692		Major (requiring I/O) page faults: 0
+ERR028692		Minor (reclaiming a frame) page faults: 18399051
+ERR028692		Voluntary context switches: 25285
+ERR028692		Involuntary context switches: 215066
+ERR028692		Swaps: 0
+ERR028692		File system inputs: 8
+ERR028692		File system outputs: 3089744
+ERR028692		Socket messages sent: 0
+ERR028692		Socket messages received: 0
+ERR028692		Signals delivered: 0
+ERR028692		Page size (bytes): 4096
+ERR028692		Exit status: 0
+ERR028693	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028693	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028693/ariba/report.tsv
+ERR028693		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028693/reads_1.fastq.gz ERR028693/reads_2.fastq.gz ERR028693/ariba"
+ERR028693		User time (seconds): 356.66
+ERR028693		System time (seconds): 64.17
+ERR028693		Percent of CPU this job got: 96%
+ERR028693		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:17.21
+ERR028693		Average shared text size (kbytes): 0
+ERR028693		Average unshared data size (kbytes): 0
+ERR028693		Average stack size (kbytes): 0
+ERR028693		Average total size (kbytes): 0
+ERR028693		Maximum resident set size (kbytes): 146432
+ERR028693		Average resident set size (kbytes): 0
+ERR028693		Major (requiring I/O) page faults: 0
+ERR028693		Minor (reclaiming a frame) page faults: 20605061
+ERR028693		Voluntary context switches: 29469
+ERR028693		Involuntary context switches: 382171
+ERR028693		Swaps: 0
+ERR028693		File system inputs: 0
+ERR028693		File system outputs: 3386632
+ERR028693		Socket messages sent: 0
+ERR028693		Socket messages received: 0
+ERR028693		Signals delivered: 0
+ERR028693		Page size (bytes): 4096
+ERR028693		Exit status: 0
+ERR028694	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028694	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028694/ariba/report.tsv
+ERR028694		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028694/reads_1.fastq.gz ERR028694/reads_2.fastq.gz ERR028694/ariba"
+ERR028694		User time (seconds): 364.38
+ERR028694		System time (seconds): 62.24
+ERR028694		Percent of CPU this job got: 96%
+ERR028694		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:23.08
+ERR028694		Average shared text size (kbytes): 0
+ERR028694		Average unshared data size (kbytes): 0
+ERR028694		Average stack size (kbytes): 0
+ERR028694		Average total size (kbytes): 0
+ERR028694		Maximum resident set size (kbytes): 146472
+ERR028694		Average resident set size (kbytes): 0
+ERR028694		Major (requiring I/O) page faults: 0
+ERR028694		Minor (reclaiming a frame) page faults: 20016306
+ERR028694		Voluntary context switches: 28939
+ERR028694		Involuntary context switches: 341853
+ERR028694		Swaps: 0
+ERR028694		File system inputs: 0
+ERR028694		File system outputs: 3347192
+ERR028694		Socket messages sent: 0
+ERR028694		Socket messages received: 0
+ERR028694		Signals delivered: 0
+ERR028694		Page size (bytes): 4096
+ERR028694		Exit status: 0
+ERR028695	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028695	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028695/ariba/report.tsv
+ERR028695		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028695/reads_1.fastq.gz ERR028695/reads_2.fastq.gz ERR028695/ariba"
+ERR028695		User time (seconds): 399.57
+ERR028695		System time (seconds): 63.31
+ERR028695		Percent of CPU this job got: 96%
+ERR028695		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:59.38
+ERR028695		Average shared text size (kbytes): 0
+ERR028695		Average unshared data size (kbytes): 0
+ERR028695		Average stack size (kbytes): 0
+ERR028695		Average total size (kbytes): 0
+ERR028695		Maximum resident set size (kbytes): 146176
+ERR028695		Average resident set size (kbytes): 0
+ERR028695		Major (requiring I/O) page faults: 0
+ERR028695		Minor (reclaiming a frame) page faults: 19805171
+ERR028695		Voluntary context switches: 28430
+ERR028695		Involuntary context switches: 347342
+ERR028695		Swaps: 0
+ERR028695		File system inputs: 0
+ERR028695		File system outputs: 3465240
+ERR028695		Socket messages sent: 0
+ERR028695		Socket messages received: 0
+ERR028695		Signals delivered: 0
+ERR028695		Page size (bytes): 4096
+ERR028695		Exit status: 0
+ERR028697	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028697	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028697/ariba/report.tsv
+ERR028697		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028697/reads_1.fastq.gz ERR028697/reads_2.fastq.gz ERR028697/ariba"
+ERR028697		User time (seconds): 454.29
+ERR028697		System time (seconds): 63.70
+ERR028697		Percent of CPU this job got: 96%
+ERR028697		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:54.65
+ERR028697		Average shared text size (kbytes): 0
+ERR028697		Average unshared data size (kbytes): 0
+ERR028697		Average stack size (kbytes): 0
+ERR028697		Average total size (kbytes): 0
+ERR028697		Maximum resident set size (kbytes): 145836
+ERR028697		Average resident set size (kbytes): 0
+ERR028697		Major (requiring I/O) page faults: 0
+ERR028697		Minor (reclaiming a frame) page faults: 20165335
+ERR028697		Voluntary context switches: 28157
+ERR028697		Involuntary context switches: 352787
+ERR028697		Swaps: 0
+ERR028697		File system inputs: 0
+ERR028697		File system outputs: 3594584
+ERR028697		Socket messages sent: 0
+ERR028697		Socket messages received: 0
+ERR028697		Signals delivered: 0
+ERR028697		Page size (bytes): 4096
+ERR028697		Exit status: 0
+ERR028699	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028699	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028699/ariba/report.tsv
+ERR028699		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028699/reads_1.fastq.gz ERR028699/reads_2.fastq.gz ERR028699/ariba"
+ERR028699		User time (seconds): 438.82
+ERR028699		System time (seconds): 63.58
+ERR028699		Percent of CPU this job got: 96%
+ERR028699		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:39.61
+ERR028699		Average shared text size (kbytes): 0
+ERR028699		Average unshared data size (kbytes): 0
+ERR028699		Average stack size (kbytes): 0
+ERR028699		Average total size (kbytes): 0
+ERR028699		Maximum resident set size (kbytes): 146644
+ERR028699		Average resident set size (kbytes): 0
+ERR028699		Major (requiring I/O) page faults: 0
+ERR028699		Minor (reclaiming a frame) page faults: 20139058
+ERR028699		Voluntary context switches: 27487
+ERR028699		Involuntary context switches: 268185
+ERR028699		Swaps: 0
+ERR028699		File system inputs: 0
+ERR028699		File system outputs: 3618032
+ERR028699		Socket messages sent: 0
+ERR028699		Socket messages received: 0
+ERR028699		Signals delivered: 0
+ERR028699		Page size (bytes): 4096
+ERR028699		Exit status: 0
+ERR028700	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028700	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028700/ariba/report.tsv
+ERR028700		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028700/reads_1.fastq.gz ERR028700/reads_2.fastq.gz ERR028700/ariba"
+ERR028700		User time (seconds): 416.46
+ERR028700		System time (seconds): 66.79
+ERR028700		Percent of CPU this job got: 96%
+ERR028700		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:19.13
+ERR028700		Average shared text size (kbytes): 0
+ERR028700		Average unshared data size (kbytes): 0
+ERR028700		Average stack size (kbytes): 0
+ERR028700		Average total size (kbytes): 0
+ERR028700		Maximum resident set size (kbytes): 146272
+ERR028700		Average resident set size (kbytes): 0
+ERR028700		Major (requiring I/O) page faults: 0
+ERR028700		Minor (reclaiming a frame) page faults: 20876631
+ERR028700		Voluntary context switches: 29354
+ERR028700		Involuntary context switches: 272683
+ERR028700		Swaps: 0
+ERR028700		File system inputs: 0
+ERR028700		File system outputs: 3635008
+ERR028700		Socket messages sent: 0
+ERR028700		Socket messages received: 0
+ERR028700		Signals delivered: 0
+ERR028700		Page size (bytes): 4096
+ERR028700		Exit status: 0
+ERR028702	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028702	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028702/ariba/report.tsv
+ERR028702		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028702/reads_1.fastq.gz ERR028702/reads_2.fastq.gz ERR028702/ariba"
+ERR028702		User time (seconds): 510.24
+ERR028702		System time (seconds): 66.61
+ERR028702		Percent of CPU this job got: 97%
+ERR028702		Elapsed (wall clock) time (h:mm:ss or m:ss): 9:52.15
+ERR028702		Average shared text size (kbytes): 0
+ERR028702		Average unshared data size (kbytes): 0
+ERR028702		Average stack size (kbytes): 0
+ERR028702		Average total size (kbytes): 0
+ERR028702		Maximum resident set size (kbytes): 146640
+ERR028702		Average resident set size (kbytes): 0
+ERR028702		Major (requiring I/O) page faults: 0
+ERR028702		Minor (reclaiming a frame) page faults: 20853239
+ERR028702		Voluntary context switches: 28778
+ERR028702		Involuntary context switches: 261181
+ERR028702		Swaps: 0
+ERR028702		File system inputs: 0
+ERR028702		File system outputs: 3927120
+ERR028702		Socket messages sent: 0
+ERR028702		Socket messages received: 0
+ERR028702		Signals delivered: 0
+ERR028702		Page size (bytes): 4096
+ERR028702		Exit status: 0
+ERR028703	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028703	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028703/ariba/report.tsv
+ERR028703		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028703/reads_1.fastq.gz ERR028703/reads_2.fastq.gz ERR028703/ariba"
+ERR028703		User time (seconds): 486.12
+ERR028703		System time (seconds): 64.83
+ERR028703		Percent of CPU this job got: 96%
+ERR028703		Elapsed (wall clock) time (h:mm:ss or m:ss): 9:28.01
+ERR028703		Average shared text size (kbytes): 0
+ERR028703		Average unshared data size (kbytes): 0
+ERR028703		Average stack size (kbytes): 0
+ERR028703		Average total size (kbytes): 0
+ERR028703		Maximum resident set size (kbytes): 146168
+ERR028703		Average resident set size (kbytes): 0
+ERR028703		Major (requiring I/O) page faults: 0
+ERR028703		Minor (reclaiming a frame) page faults: 20478339
+ERR028703		Voluntary context switches: 27315
+ERR028703		Involuntary context switches: 452011
+ERR028703		Swaps: 0
+ERR028703		File system inputs: 0
+ERR028703		File system outputs: 3754032
+ERR028703		Socket messages sent: 0
+ERR028703		Socket messages received: 0
+ERR028703		Signals delivered: 0
+ERR028703		Page size (bytes): 4096
+ERR028703		Exit status: 0
+ERR028704	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028704	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028704/ariba/report.tsv
+ERR028704		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028704/reads_1.fastq.gz ERR028704/reads_2.fastq.gz ERR028704/ariba"
+ERR028704		User time (seconds): 440.13
+ERR028704		System time (seconds): 65.42
+ERR028704		Percent of CPU this job got: 96%
+ERR028704		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:43.69
+ERR028704		Average shared text size (kbytes): 0
+ERR028704		Average unshared data size (kbytes): 0
+ERR028704		Average stack size (kbytes): 0
+ERR028704		Average total size (kbytes): 0
+ERR028704		Maximum resident set size (kbytes): 146632
+ERR028704		Average resident set size (kbytes): 0
+ERR028704		Major (requiring I/O) page faults: 0
+ERR028704		Minor (reclaiming a frame) page faults: 21001347
+ERR028704		Voluntary context switches: 28475
+ERR028704		Involuntary context switches: 271646
+ERR028704		Swaps: 0
+ERR028704		File system inputs: 24
+ERR028704		File system outputs: 3670864
+ERR028704		Socket messages sent: 0
+ERR028704		Socket messages received: 0
+ERR028704		Signals delivered: 0
+ERR028704		Page size (bytes): 4096
+ERR028704		Exit status: 0
+ERR028705	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028705	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028705/ariba/report.tsv
+ERR028705		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028705/reads_1.fastq.gz ERR028705/reads_2.fastq.gz ERR028705/ariba"
+ERR028705		User time (seconds): 448.13
+ERR028705		System time (seconds): 65.37
+ERR028705		Percent of CPU this job got: 96%
+ERR028705		Elapsed (wall clock) time (h:mm:ss or m:ss): 8:51.72
+ERR028705		Average shared text size (kbytes): 0
+ERR028705		Average unshared data size (kbytes): 0
+ERR028705		Average stack size (kbytes): 0
+ERR028705		Average total size (kbytes): 0
+ERR028705		Maximum resident set size (kbytes): 146148
+ERR028705		Average resident set size (kbytes): 0
+ERR028705		Major (requiring I/O) page faults: 0
+ERR028705		Minor (reclaiming a frame) page faults: 20381359
+ERR028705		Voluntary context switches: 27456
+ERR028705		Involuntary context switches: 204552
+ERR028705		Swaps: 0
+ERR028705		File system inputs: 0
+ERR028705		File system outputs: 3677040
+ERR028705		Socket messages sent: 0
+ERR028705		Socket messages received: 0
+ERR028705		Signals delivered: 0
+ERR028705		Page size (bytes): 4096
+ERR028705		Exit status: 0
+ERR028706	self.mlst_profile_file /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/pubmlst.profile.txt
+ERR028706	self.report_file_filtered /mnt/docker/ARIBA/S_sonnei/ERR028706/ariba/report.tsv
+ERR028706		Command being timed: "ariba run /mnt/docker/ARIBA/S_sonnei/Ref/ariba_db/ ERR028706/reads_1.fastq.gz ERR028706/reads_2.fastq.gz ERR028706/ariba"
+ERR028706		User time (seconds): 345.16
+ERR028706		System time (seconds): 59.66
+ERR028706		Percent of CPU this job got: 96%
+ERR028706		Elapsed (wall clock) time (h:mm:ss or m:ss): 7:00.40
+ERR028706		Average shared text size (kbytes): 0
+ERR028706		Average unshared data size (kbytes): 0
+ERR028706		Average stack size (kbytes): 0
+ERR028706		Average total size (kbytes): 0
+ERR028706		Maximum resident set size (kbytes): 146240
+ERR028706		Average resident set size (kbytes): 0
+ERR028706		Major (requiring I/O) page faults: 0
+ERR028706		Minor (reclaiming a frame) page faults: 19205734
+ERR028706		Voluntary context switches: 26010
+ERR028706		Involuntary context switches: 320972
+ERR028706		Swaps: 0
+ERR028706		File system inputs: 0
+ERR028706		File system outputs: 3176720
+ERR028706		Socket messages sent: 0
+ERR028706		Socket messages received: 0
+ERR028706		Signals delivered: 0
+ERR028706		Page size (bytes): 4096
+ERR028706		Exit status: 0

@@ -1,0 +1,2434 @@
+SRR980548	Settings:
+SRR980548	  Output files: "/mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta.*.bt2"
+SRR980548	  Line rate: 6 (line is 64 bytes)
+SRR980548	  Lines per side: 1 (side is 64 bytes)
+SRR980548	  Offset rate: 4 (one in 16)
+SRR980548	  FTable chars: 10
+SRR980548	  Strings: unpacked
+SRR980548	  Max bucket size: default
+SRR980548	  Max bucket size, sqrt multiplier: default
+SRR980548	  Max bucket size, len divisor: 4
+SRR980548	  Difference-cover sample period: 1024
+SRR980548	  Endianness: little
+SRR980548	  Actual local endianness: little
+SRR980548	  Sanity checking: disabled
+SRR980548	  Assertions: disabled
+SRR980548	  Random seed: 0
+SRR980548	  Sizeofs: void*:8, int:4, long:8, size_t:8
+SRR980548	Input files DNA, FASTA:
+SRR980548	  /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta
+SRR980548	Reading reference sizes
+SRR980548	  Time reading reference sizes: 00:00:00
+SRR980548	Calculating joined length
+SRR980548	Writing header
+SRR980548	Reserving space for joined string
+SRR980548	Joining reference sequences
+SRR980548	  Time to join reference sequences: 00:00:00
+SRR980548	bmax according to bmaxDivN setting: 75809
+SRR980548	Using parameters --bmax 56857 --dcv 1024
+SRR980548	  Doing ahead-of-time memory usage test
+SRR980548	  Passed!  Constructing with these parameters: --bmax 56857 --dcv 1024
+SRR980548	Constructing suffix-array element generator
+SRR980548	Building DifferenceCoverSample
+SRR980548	  Building sPrime
+SRR980548	  Building sPrimeOrder
+SRR980548	  V-Sorting samples
+SRR980548	  V-Sorting samples time: 00:00:00
+SRR980548	  Allocating rank array
+SRR980548	  Ranking v-sort output
+SRR980548	  Ranking v-sort output time: 00:00:00
+SRR980548	  Invoking Larsson-Sadakane on ranks
+SRR980548	  Invoking Larsson-Sadakane on ranks time: 00:00:00
+SRR980548	  Sanity-checking and returning
+SRR980548	Building samples
+SRR980548	Reserving space for 12 sample suffixes
+SRR980548	Generating random suffixes
+SRR980548	QSorting 12 sample offsets, eliminating duplicates
+SRR980548	QSorting sample offsets, eliminating duplicates time: 00:00:00
+SRR980548	Multikey QSorting 12 samples
+SRR980548	  (Using difference cover)
+SRR980548	  Multikey QSorting samples time: 00:00:00
+SRR980548	Calculating bucket sizes
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Split 1, merged 6; iterating...
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Split 1, merged 1; iterating...
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Split 1, merged 0; iterating...
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Avg bucket size: 37903.6 (target: 56856)
+SRR980548	Converting suffix-array elements to index image
+SRR980548	Allocating ftab, absorbFtab
+SRR980548	Entering Ebwt loop
+SRR980548	Getting block 1 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 24497
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 24498
+SRR980548	Getting block 2 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 51010
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 51011
+SRR980548	Getting block 3 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 11170
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 11171
+SRR980548	Getting block 4 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 53253
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 53254
+SRR980548	Getting block 5 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 48744
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 48745
+SRR980548	Getting block 6 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 49080
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 49081
+SRR980548	Getting block 7 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 36977
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 36978
+SRR980548	Getting block 8 of 8
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 28498
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 28499
+SRR980548	Exited Ebwt loop
+SRR980548	fchr[A]: 0
+SRR980548	fchr[C]: 100675
+SRR980548	fchr[G]: 159526
+SRR980548	fchr[T]: 228497
+SRR980548	fchr[$]: 303236
+SRR980548	Exiting Ebwt::buildToDisk()
+SRR980548	Returning from initFromVector
+SRR980548	Wrote 4309487 bytes to primary EBWT file: /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta.1.bt2
+SRR980548	Wrote 75816 bytes to secondary EBWT file: /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta.2.bt2
+SRR980548	Re-opening _in1 and _in2 as input streams
+SRR980548	Returning from Ebwt constructor
+SRR980548	Headers:
+SRR980548	    len: 303236
+SRR980548	    bwtLen: 303237
+SRR980548	    sz: 75809
+SRR980548	    bwtSz: 75810
+SRR980548	    lineRate: 6
+SRR980548	    offRate: 4
+SRR980548	    offMask: 0xfffffff0
+SRR980548	    ftabChars: 10
+SRR980548	    eftabLen: 20
+SRR980548	    eftabSz: 80
+SRR980548	    ftabLen: 1048577
+SRR980548	    ftabSz: 4194308
+SRR980548	    offsLen: 18953
+SRR980548	    offsSz: 75812
+SRR980548	    lineSz: 64
+SRR980548	    sideSz: 64
+SRR980548	    sideBwtSz: 48
+SRR980548	    sideBwtLen: 192
+SRR980548	    numSides: 1580
+SRR980548	    numLines: 1580
+SRR980548	    ebwtTotLen: 101120
+SRR980548	    ebwtTotSz: 101120
+SRR980548	    color: 0
+SRR980548	    reverse: 0
+SRR980548	Total time for call to driver() for forward index: 00:00:00
+SRR980548	Reading reference sizes
+SRR980548	  Time reading reference sizes: 00:00:00
+SRR980548	Calculating joined length
+SRR980548	Writing header
+SRR980548	Reserving space for joined string
+SRR980548	Joining reference sequences
+SRR980548	  Time to join reference sequences: 00:00:00
+SRR980548	  Time to reverse reference sequence: 00:00:00
+SRR980548	bmax according to bmaxDivN setting: 75809
+SRR980548	Using parameters --bmax 56857 --dcv 1024
+SRR980548	  Doing ahead-of-time memory usage test
+SRR980548	  Passed!  Constructing with these parameters: --bmax 56857 --dcv 1024
+SRR980548	Constructing suffix-array element generator
+SRR980548	Building DifferenceCoverSample
+SRR980548	  Building sPrime
+SRR980548	  Building sPrimeOrder
+SRR980548	  V-Sorting samples
+SRR980548	  V-Sorting samples time: 00:00:00
+SRR980548	  Allocating rank array
+SRR980548	  Ranking v-sort output
+SRR980548	  Ranking v-sort output time: 00:00:00
+SRR980548	  Invoking Larsson-Sadakane on ranks
+SRR980548	  Invoking Larsson-Sadakane on ranks time: 00:00:01
+SRR980548	  Sanity-checking and returning
+SRR980548	Building samples
+SRR980548	Reserving space for 12 sample suffixes
+SRR980548	Generating random suffixes
+SRR980548	QSorting 12 sample offsets, eliminating duplicates
+SRR980548	QSorting sample offsets, eliminating duplicates time: 00:00:00
+SRR980548	Multikey QSorting 12 samples
+SRR980548	  (Using difference cover)
+SRR980548	  Multikey QSorting samples time: 00:00:00
+SRR980548	Calculating bucket sizes
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Split 1, merged 7; iterating...
+SRR980548	  Binary sorting into buckets
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Binary sorting into buckets time: 00:00:00
+SRR980548	Splitting and merging
+SRR980548	  Splitting and merging time: 00:00:00
+SRR980548	Avg bucket size: 43318.6 (target: 56856)
+SRR980548	Converting suffix-array elements to index image
+SRR980548	Allocating ftab, absorbFtab
+SRR980548	Entering Ebwt loop
+SRR980548	Getting block 1 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 55994
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 55995
+SRR980548	Getting block 2 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 43824
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 43825
+SRR980548	Getting block 3 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 49532
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 49533
+SRR980548	Getting block 4 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 44160
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 44161
+SRR980548	Getting block 5 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 29432
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 29433
+SRR980548	Getting block 6 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 45975
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 45976
+SRR980548	Getting block 7 of 7
+SRR980548	  Reserving size (56857) for bucket
+SRR980548	  Calculating Z arrays
+SRR980548	  Calculating Z arrays time: 00:00:00
+SRR980548	  Entering block accumulator loop:
+SRR980548	  10%
+SRR980548	  20%
+SRR980548	  30%
+SRR980548	  40%
+SRR980548	  50%
+SRR980548	  60%
+SRR980548	  70%
+SRR980548	  80%
+SRR980548	  90%
+SRR980548	  100%
+SRR980548	  Block accumulator loop time: 00:00:00
+SRR980548	  Sorting block of length 34313
+SRR980548	  (Using difference cover)
+SRR980548	  Sorting block time: 00:00:00
+SRR980548	Returning block of 34314
+SRR980548	Exited Ebwt loop
+SRR980548	fchr[A]: 0
+SRR980548	fchr[C]: 100675
+SRR980548	fchr[G]: 159526
+SRR980548	fchr[T]: 228497
+SRR980548	fchr[$]: 303236
+SRR980548	Exiting Ebwt::buildToDisk()
+SRR980548	Returning from initFromVector
+SRR980548	Wrote 4309487 bytes to primary EBWT file: /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta.rev.1.bt2
+SRR980548	Wrote 75816 bytes to secondary EBWT file: /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta.rev.2.bt2
+SRR980548	Re-opening _in1 and _in2 as input streams
+SRR980548	Returning from Ebwt constructor
+SRR980548	Headers:
+SRR980548	    len: 303236
+SRR980548	    bwtLen: 303237
+SRR980548	    sz: 75809
+SRR980548	    bwtSz: 75810
+SRR980548	    lineRate: 6
+SRR980548	    offRate: 4
+SRR980548	    offMask: 0xfffffff0
+SRR980548	    ftabChars: 10
+SRR980548	    eftabLen: 20
+SRR980548	    eftabSz: 80
+SRR980548	    ftabLen: 1048577
+SRR980548	    ftabSz: 4194308
+SRR980548	    offsLen: 18953
+SRR980548	    offsSz: 75812
+SRR980548	    lineSz: 64
+SRR980548	    sideSz: 64
+SRR980548	    sideBwtSz: 48
+SRR980548	    sideBwtLen: 192
+SRR980548	    numSides: 1580
+SRR980548	    numLines: 1580
+SRR980548	    ebwtTotLen: 101120
+SRR980548	    ebwtTotSz: 101120
+SRR980548	    color: 0
+SRR980548	    reverse: 1
+SRR980548	Total time for backward call to driver() for mirror index: 00:00:01
+SRR980548	18559693 reads; of these:
+SRR980548	  18559693 (100.00%) were paired; of these:
+SRR980548	    18510887 (99.74%) aligned concordantly 0 times
+SRR980548	    35413 (0.19%) aligned concordantly exactly 1 time
+SRR980548	    13393 (0.07%) aligned concordantly >1 times
+SRR980548	    ----
+SRR980548	    18510887 pairs aligned concordantly 0 times; of these:
+SRR980548	      76 (0.00%) aligned discordantly 1 time
+SRR980548	    ----
+SRR980548	    18510811 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980548	      37021622 mates make up the pairs; of these:
+SRR980548	        36995253 (99.93%) aligned 0 times
+SRR980548	        14936 (0.04%) aligned exactly 1 time
+SRR980548	        11433 (0.03%) aligned >1 times
+SRR980548	0.33% overall alignment rate
+SRR980548	[samopen] SAM header is present: 593 sequences.
+SRR980548	[bam_sort_core] merging from 2 files...
+SRR980548	[mpileup] 1 samples in 1 input files
+SRR980548	<mpileup> Set max per-file depth to 8000
+SRR980548	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980548	  vals = special.bdtr(k, n, p)
+SRR980548	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980548	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980548		Command being timed: "srst2 --input_pe SRR980548/reads_1.fastq.gz SRR980548/reads_2.fastq.gz --output SRR980548/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980548		User time (seconds): 1836.44
+SRR980548		System time (seconds): 42.20
+SRR980548		Percent of CPU this job got: 98%
+SRR980548		Elapsed (wall clock) time (h:mm:ss or m:ss): 31:51.13
+SRR980548		Average shared text size (kbytes): 0
+SRR980548		Average unshared data size (kbytes): 0
+SRR980548		Average stack size (kbytes): 0
+SRR980548		Average total size (kbytes): 0
+SRR980548		Maximum resident set size (kbytes): 669336
+SRR980548		Average resident set size (kbytes): 0
+SRR980548		Major (requiring I/O) page faults: 0
+SRR980548		Minor (reclaiming a frame) page faults: 459575
+SRR980548		Voluntary context switches: 2252939
+SRR980548		Involuntary context switches: 1054788
+SRR980548		Swaps: 0
+SRR980548		File system inputs: 0
+SRR980548		File system outputs: 5726312
+SRR980548		Socket messages sent: 0
+SRR980548		Socket messages received: 0
+SRR980548		Signals delivered: 0
+SRR980548		Page size (bytes): 4096
+SRR980548		Exit status: 0
+SRR980549	14785806 reads; of these:
+SRR980549	  14785806 (100.00%) were paired; of these:
+SRR980549	    14682965 (99.30%) aligned concordantly 0 times
+SRR980549	    90652 (0.61%) aligned concordantly exactly 1 time
+SRR980549	    12189 (0.08%) aligned concordantly >1 times
+SRR980549	    ----
+SRR980549	    14682965 pairs aligned concordantly 0 times; of these:
+SRR980549	      126 (0.00%) aligned discordantly 1 time
+SRR980549	    ----
+SRR980549	    14682839 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980549	      29365678 mates make up the pairs; of these:
+SRR980549	        29334918 (99.90%) aligned 0 times
+SRR980549	        20620 (0.07%) aligned exactly 1 time
+SRR980549	        10140 (0.03%) aligned >1 times
+SRR980549	0.80% overall alignment rate
+SRR980549	[samopen] SAM header is present: 593 sequences.
+SRR980549	[bam_sort_core] merging from 2 files...
+SRR980549	[mpileup] 1 samples in 1 input files
+SRR980549	<mpileup> Set max per-file depth to 8000
+SRR980549	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980549	  vals = special.bdtr(k, n, p)
+SRR980549	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980549	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980549		Command being timed: "srst2 --input_pe SRR980549/reads_1.fastq.gz SRR980549/reads_2.fastq.gz --output SRR980549/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980549		User time (seconds): 1578.10
+SRR980549		System time (seconds): 34.32
+SRR980549		Percent of CPU this job got: 97%
+SRR980549		Elapsed (wall clock) time (h:mm:ss or m:ss): 27:27.48
+SRR980549		Average shared text size (kbytes): 0
+SRR980549		Average unshared data size (kbytes): 0
+SRR980549		Average stack size (kbytes): 0
+SRR980549		Average total size (kbytes): 0
+SRR980549		Maximum resident set size (kbytes): 670140
+SRR980549		Average resident set size (kbytes): 0
+SRR980549		Major (requiring I/O) page faults: 0
+SRR980549		Minor (reclaiming a frame) page faults: 435996
+SRR980549		Voluntary context switches: 1762352
+SRR980549		Involuntary context switches: 965492
+SRR980549		Swaps: 0
+SRR980549		File system inputs: 0
+SRR980549		File system outputs: 5138552
+SRR980549		Socket messages sent: 0
+SRR980549		Socket messages received: 0
+SRR980549		Signals delivered: 0
+SRR980549		Page size (bytes): 4096
+SRR980549		Exit status: 0
+SRR980550	21420072 reads; of these:
+SRR980550	  21420072 (100.00%) were paired; of these:
+SRR980550	    21344073 (99.65%) aligned concordantly 0 times
+SRR980550	    57070 (0.27%) aligned concordantly exactly 1 time
+SRR980550	    18929 (0.09%) aligned concordantly >1 times
+SRR980550	    ----
+SRR980550	    21344073 pairs aligned concordantly 0 times; of these:
+SRR980550	      114 (0.00%) aligned discordantly 1 time
+SRR980550	    ----
+SRR980550	    21343959 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980550	      42687918 mates make up the pairs; of these:
+SRR980550	        42653803 (99.92%) aligned 0 times
+SRR980550	        19211 (0.05%) aligned exactly 1 time
+SRR980550	        14904 (0.03%) aligned >1 times
+SRR980550	0.43% overall alignment rate
+SRR980550	[samopen] SAM header is present: 593 sequences.
+SRR980550	[bam_sort_core] merging from 2 files...
+SRR980550	[mpileup] 1 samples in 1 input files
+SRR980550	<mpileup> Set max per-file depth to 8000
+SRR980550	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980550	  vals = special.bdtr(k, n, p)
+SRR980550	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980550	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980550		Command being timed: "srst2 --input_pe SRR980550/reads_1.fastq.gz SRR980550/reads_2.fastq.gz --output SRR980550/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980550		User time (seconds): 2311.92
+SRR980550		System time (seconds): 48.30
+SRR980550		Percent of CPU this job got: 97%
+SRR980550		Elapsed (wall clock) time (h:mm:ss or m:ss): 40:19.62
+SRR980550		Average shared text size (kbytes): 0
+SRR980550		Average unshared data size (kbytes): 0
+SRR980550		Average stack size (kbytes): 0
+SRR980550		Average total size (kbytes): 0
+SRR980550		Maximum resident set size (kbytes): 671012
+SRR980550		Average resident set size (kbytes): 0
+SRR980550		Major (requiring I/O) page faults: 0
+SRR980550		Minor (reclaiming a frame) page faults: 553969
+SRR980550		Voluntary context switches: 2557232
+SRR980550		Involuntary context switches: 1471788
+SRR980550		Swaps: 0
+SRR980550		File system inputs: 0
+SRR980550		File system outputs: 7899096
+SRR980550		Socket messages sent: 0
+SRR980550		Socket messages received: 0
+SRR980550		Signals delivered: 0
+SRR980550		Page size (bytes): 4096
+SRR980550		Exit status: 0
+SRR980551	14633937 reads; of these:
+SRR980551	  14633937 (100.00%) were paired; of these:
+SRR980551	    14591152 (99.71%) aligned concordantly 0 times
+SRR980551	    28153 (0.19%) aligned concordantly exactly 1 time
+SRR980551	    14632 (0.10%) aligned concordantly >1 times
+SRR980551	    ----
+SRR980551	    14591152 pairs aligned concordantly 0 times; of these:
+SRR980551	      24 (0.00%) aligned discordantly 1 time
+SRR980551	    ----
+SRR980551	    14591128 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980551	      29182256 mates make up the pairs; of these:
+SRR980551	        29165736 (99.94%) aligned 0 times
+SRR980551	        5822 (0.02%) aligned exactly 1 time
+SRR980551	        10698 (0.04%) aligned >1 times
+SRR980551	0.35% overall alignment rate
+SRR980551	[samopen] SAM header is present: 593 sequences.
+SRR980551	[bam_sort_core] merging from 2 files...
+SRR980551	[mpileup] 1 samples in 1 input files
+SRR980551	<mpileup> Set max per-file depth to 8000
+SRR980551	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980551	  vals = special.bdtr(k, n, p)
+SRR980551	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980551	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980551		Command being timed: "srst2 --input_pe SRR980551/reads_1.fastq.gz SRR980551/reads_2.fastq.gz --output SRR980551/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980551		User time (seconds): 1709.50
+SRR980551		System time (seconds): 34.59
+SRR980551		Percent of CPU this job got: 97%
+SRR980551		Elapsed (wall clock) time (h:mm:ss or m:ss): 29:56.35
+SRR980551		Average shared text size (kbytes): 0
+SRR980551		Average unshared data size (kbytes): 0
+SRR980551		Average stack size (kbytes): 0
+SRR980551		Average total size (kbytes): 0
+SRR980551		Maximum resident set size (kbytes): 671028
+SRR980551		Average resident set size (kbytes): 0
+SRR980551		Major (requiring I/O) page faults: 0
+SRR980551		Minor (reclaiming a frame) page faults: 470165
+SRR980551		Voluntary context switches: 1776424
+SRR980551		Involuntary context switches: 1024647
+SRR980551		Swaps: 0
+SRR980551		File system inputs: 0
+SRR980551		File system outputs: 6101184
+SRR980551		Socket messages sent: 0
+SRR980551		Socket messages received: 0
+SRR980551		Signals delivered: 0
+SRR980551		Page size (bytes): 4096
+SRR980551		Exit status: 0
+SRR980552	19430296 reads; of these:
+SRR980552	  19430296 (100.00%) were paired; of these:
+SRR980552	    19377223 (99.73%) aligned concordantly 0 times
+SRR980552	    36475 (0.19%) aligned concordantly exactly 1 time
+SRR980552	    16598 (0.09%) aligned concordantly >1 times
+SRR980552	    ----
+SRR980552	    19377223 pairs aligned concordantly 0 times; of these:
+SRR980552	      54 (0.00%) aligned discordantly 1 time
+SRR980552	    ----
+SRR980552	    19377169 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980552	      38754338 mates make up the pairs; of these:
+SRR980552	        38728411 (99.93%) aligned 0 times
+SRR980552	        12745 (0.03%) aligned exactly 1 time
+SRR980552	        13182 (0.03%) aligned >1 times
+SRR980552	0.34% overall alignment rate
+SRR980552	[samopen] SAM header is present: 593 sequences.
+SRR980552	[bam_sort_core] merging from 2 files...
+SRR980552	[mpileup] 1 samples in 1 input files
+SRR980552	<mpileup> Set max per-file depth to 8000
+SRR980552	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980552	  vals = special.bdtr(k, n, p)
+SRR980552	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980552	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980552		Command being timed: "srst2 --input_pe SRR980552/reads_1.fastq.gz SRR980552/reads_2.fastq.gz --output SRR980552/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980552		User time (seconds): 2043.06
+SRR980552		System time (seconds): 44.23
+SRR980552		Percent of CPU this job got: 96%
+SRR980552		Elapsed (wall clock) time (h:mm:ss or m:ss): 36:02.76
+SRR980552		Average shared text size (kbytes): 0
+SRR980552		Average unshared data size (kbytes): 0
+SRR980552		Average stack size (kbytes): 0
+SRR980552		Average total size (kbytes): 0
+SRR980552		Maximum resident set size (kbytes): 669840
+SRR980552		Average resident set size (kbytes): 0
+SRR980552		Major (requiring I/O) page faults: 0
+SRR980552		Minor (reclaiming a frame) page faults: 507201
+SRR980552		Voluntary context switches: 2397535
+SRR980552		Involuntary context switches: 1417030
+SRR980552		Swaps: 0
+SRR980552		File system inputs: 8
+SRR980552		File system outputs: 6894752
+SRR980552		Socket messages sent: 0
+SRR980552		Socket messages received: 0
+SRR980552		Signals delivered: 0
+SRR980552		Page size (bytes): 4096
+SRR980552		Exit status: 0
+SRR980553	17981326 reads; of these:
+SRR980553	  17981326 (100.00%) were paired; of these:
+SRR980553	    17914464 (99.63%) aligned concordantly 0 times
+SRR980553	    49471 (0.28%) aligned concordantly exactly 1 time
+SRR980553	    17391 (0.10%) aligned concordantly >1 times
+SRR980553	    ----
+SRR980553	    17914464 pairs aligned concordantly 0 times; of these:
+SRR980553	      42 (0.00%) aligned discordantly 1 time
+SRR980553	    ----
+SRR980553	    17914422 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980553	      35828844 mates make up the pairs; of these:
+SRR980553	        35806765 (99.94%) aligned 0 times
+SRR980553	        11440 (0.03%) aligned exactly 1 time
+SRR980553	        10639 (0.03%) aligned >1 times
+SRR980553	0.43% overall alignment rate
+SRR980553	[samopen] SAM header is present: 593 sequences.
+SRR980553	[bam_sort_core] merging from 2 files...
+SRR980553	[mpileup] 1 samples in 1 input files
+SRR980553	<mpileup> Set max per-file depth to 8000
+SRR980553	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980553	  vals = special.bdtr(k, n, p)
+SRR980553	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980553	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980553		Command being timed: "srst2 --input_pe SRR980553/reads_1.fastq.gz SRR980553/reads_2.fastq.gz --output SRR980553/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980553		User time (seconds): 2028.30
+SRR980553		System time (seconds): 41.92
+SRR980553		Percent of CPU this job got: 96%
+SRR980553		Elapsed (wall clock) time (h:mm:ss or m:ss): 35:54.26
+SRR980553		Average shared text size (kbytes): 0
+SRR980553		Average unshared data size (kbytes): 0
+SRR980553		Average stack size (kbytes): 0
+SRR980553		Average total size (kbytes): 0
+SRR980553		Maximum resident set size (kbytes): 669484
+SRR980553		Average resident set size (kbytes): 0
+SRR980553		Major (requiring I/O) page faults: 0
+SRR980553		Minor (reclaiming a frame) page faults: 517857
+SRR980553		Voluntary context switches: 2285377
+SRR980553		Involuntary context switches: 1489219
+SRR980553		Swaps: 0
+SRR980553		File system inputs: 0
+SRR980553		File system outputs: 7000472
+SRR980553		Socket messages sent: 0
+SRR980553		Socket messages received: 0
+SRR980553		Signals delivered: 0
+SRR980553		Page size (bytes): 4096
+SRR980553		Exit status: 0
+SRR980554	18274393 reads; of these:
+SRR980554	  18274393 (100.00%) were paired; of these:
+SRR980554	    18132287 (99.22%) aligned concordantly 0 times
+SRR980554	    124701 (0.68%) aligned concordantly exactly 1 time
+SRR980554	    17405 (0.10%) aligned concordantly >1 times
+SRR980554	    ----
+SRR980554	    18132287 pairs aligned concordantly 0 times; of these:
+SRR980554	      224 (0.00%) aligned discordantly 1 time
+SRR980554	    ----
+SRR980554	    18132063 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980554	      36264126 mates make up the pairs; of these:
+SRR980554	        36218271 (99.87%) aligned 0 times
+SRR980554	        31829 (0.09%) aligned exactly 1 time
+SRR980554	        14026 (0.04%) aligned >1 times
+SRR980554	0.90% overall alignment rate
+SRR980554	[samopen] SAM header is present: 593 sequences.
+SRR980554	[bam_sort_core] merging from 2 files...
+SRR980554	[mpileup] 1 samples in 1 input files
+SRR980554	<mpileup> Set max per-file depth to 8000
+SRR980554	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980554	  vals = special.bdtr(k, n, p)
+SRR980554	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980554	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980554		Command being timed: "srst2 --input_pe SRR980554/reads_1.fastq.gz SRR980554/reads_2.fastq.gz --output SRR980554/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980554		User time (seconds): 2150.20
+SRR980554		System time (seconds): 44.38
+SRR980554		Percent of CPU this job got: 98%
+SRR980554		Elapsed (wall clock) time (h:mm:ss or m:ss): 37:06.24
+SRR980554		Average shared text size (kbytes): 0
+SRR980554		Average unshared data size (kbytes): 0
+SRR980554		Average stack size (kbytes): 0
+SRR980554		Average total size (kbytes): 0
+SRR980554		Maximum resident set size (kbytes): 671208
+SRR980554		Average resident set size (kbytes): 0
+SRR980554		Major (requiring I/O) page faults: 0
+SRR980554		Minor (reclaiming a frame) page faults: 560227
+SRR980554		Voluntary context switches: 2135698
+SRR980554		Involuntary context switches: 1138103
+SRR980554		Swaps: 0
+SRR980554		File system inputs: 0
+SRR980554		File system outputs: 7560048
+SRR980554		Socket messages sent: 0
+SRR980554		Socket messages received: 0
+SRR980554		Signals delivered: 0
+SRR980554		Page size (bytes): 4096
+SRR980554		Exit status: 0
+SRR980555	19540713 reads; of these:
+SRR980555	  19540713 (100.00%) were paired; of these:
+SRR980555	    19452912 (99.55%) aligned concordantly 0 times
+SRR980555	    70481 (0.36%) aligned concordantly exactly 1 time
+SRR980555	    17320 (0.09%) aligned concordantly >1 times
+SRR980555	    ----
+SRR980555	    19452912 pairs aligned concordantly 0 times; of these:
+SRR980555	      139 (0.00%) aligned discordantly 1 time
+SRR980555	    ----
+SRR980555	    19452773 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980555	      38905546 mates make up the pairs; of these:
+SRR980555	        38877966 (99.93%) aligned 0 times
+SRR980555	        15850 (0.04%) aligned exactly 1 time
+SRR980555	        11730 (0.03%) aligned >1 times
+SRR980555	0.52% overall alignment rate
+SRR980555	[samopen] SAM header is present: 593 sequences.
+SRR980555	[bam_sort_core] merging from 2 files...
+SRR980555	[mpileup] 1 samples in 1 input files
+SRR980555	<mpileup> Set max per-file depth to 8000
+SRR980555	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980555	  vals = special.bdtr(k, n, p)
+SRR980555	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980555	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980555		Command being timed: "srst2 --input_pe SRR980555/reads_1.fastq.gz SRR980555/reads_2.fastq.gz --output SRR980555/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980555		User time (seconds): 2113.46
+SRR980555		System time (seconds): 43.96
+SRR980555		Percent of CPU this job got: 97%
+SRR980555		Elapsed (wall clock) time (h:mm:ss or m:ss): 36:43.35
+SRR980555		Average shared text size (kbytes): 0
+SRR980555		Average unshared data size (kbytes): 0
+SRR980555		Average stack size (kbytes): 0
+SRR980555		Average total size (kbytes): 0
+SRR980555		Maximum resident set size (kbytes): 670404
+SRR980555		Average resident set size (kbytes): 0
+SRR980555		Major (requiring I/O) page faults: 0
+SRR980555		Minor (reclaiming a frame) page faults: 514017
+SRR980555		Voluntary context switches: 2271686
+SRR980555		Involuntary context switches: 1378147
+SRR980555		Swaps: 0
+SRR980555		File system inputs: 0
+SRR980555		File system outputs: 6986176
+SRR980555		Socket messages sent: 0
+SRR980555		Socket messages received: 0
+SRR980555		Signals delivered: 0
+SRR980555		Page size (bytes): 4096
+SRR980555		Exit status: 0
+SRR980556	18908592 reads; of these:
+SRR980556	  18908592 (100.00%) were paired; of these:
+SRR980556	    18838799 (99.63%) aligned concordantly 0 times
+SRR980556	    50920 (0.27%) aligned concordantly exactly 1 time
+SRR980556	    18873 (0.10%) aligned concordantly >1 times
+SRR980556	    ----
+SRR980556	    18838799 pairs aligned concordantly 0 times; of these:
+SRR980556	      92 (0.00%) aligned discordantly 1 time
+SRR980556	    ----
+SRR980556	    18838707 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980556	      37677414 mates make up the pairs; of these:
+SRR980556	        37654319 (99.94%) aligned 0 times
+SRR980556	        12671 (0.03%) aligned exactly 1 time
+SRR980556	        10424 (0.03%) aligned >1 times
+SRR980556	0.43% overall alignment rate
+SRR980556	[samopen] SAM header is present: 593 sequences.
+SRR980556	[bam_sort_core] merging from 2 files...
+SRR980556	[mpileup] 1 samples in 1 input files
+SRR980556	<mpileup> Set max per-file depth to 8000
+SRR980556	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980556	  vals = special.bdtr(k, n, p)
+SRR980556	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980556	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980556		Command being timed: "srst2 --input_pe SRR980556/reads_1.fastq.gz SRR980556/reads_2.fastq.gz --output SRR980556/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980556		User time (seconds): 2141.08
+SRR980556		System time (seconds): 44.21
+SRR980556		Percent of CPU this job got: 97%
+SRR980556		Elapsed (wall clock) time (h:mm:ss or m:ss): 37:17.73
+SRR980556		Average shared text size (kbytes): 0
+SRR980556		Average unshared data size (kbytes): 0
+SRR980556		Average stack size (kbytes): 0
+SRR980556		Average total size (kbytes): 0
+SRR980556		Maximum resident set size (kbytes): 670348
+SRR980556		Average resident set size (kbytes): 0
+SRR980556		Major (requiring I/O) page faults: 0
+SRR980556		Minor (reclaiming a frame) page faults: 523092
+SRR980556		Voluntary context switches: 2214410
+SRR980556		Involuntary context switches: 1185477
+SRR980556		Swaps: 0
+SRR980556		File system inputs: 0
+SRR980556		File system outputs: 7385544
+SRR980556		Socket messages sent: 0
+SRR980556		Socket messages received: 0
+SRR980556		Signals delivered: 0
+SRR980556		Page size (bytes): 4096
+SRR980556		Exit status: 0
+SRR980557	17123154 reads; of these:
+SRR980557	  17123154 (100.00%) were paired; of these:
+SRR980557	    16983050 (99.18%) aligned concordantly 0 times
+SRR980557	    127240 (0.74%) aligned concordantly exactly 1 time
+SRR980557	    12864 (0.08%) aligned concordantly >1 times
+SRR980557	    ----
+SRR980557	    16983050 pairs aligned concordantly 0 times; of these:
+SRR980557	      185 (0.00%) aligned discordantly 1 time
+SRR980557	    ----
+SRR980557	    16982865 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980557	      33965730 mates make up the pairs; of these:
+SRR980557	        33927507 (99.89%) aligned 0 times
+SRR980557	        27193 (0.08%) aligned exactly 1 time
+SRR980557	        11030 (0.03%) aligned >1 times
+SRR980557	0.93% overall alignment rate
+SRR980557	[samopen] SAM header is present: 593 sequences.
+SRR980557	[bam_sort_core] merging from 2 files...
+SRR980557	[mpileup] 1 samples in 1 input files
+SRR980557	<mpileup> Set max per-file depth to 8000
+SRR980557	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980557	  vals = special.bdtr(k, n, p)
+SRR980557	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980557	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980557		Command being timed: "srst2 --input_pe SRR980557/reads_1.fastq.gz SRR980557/reads_2.fastq.gz --output SRR980557/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980557		User time (seconds): 1784.53
+SRR980557		System time (seconds): 38.73
+SRR980557		Percent of CPU this job got: 97%
+SRR980557		Elapsed (wall clock) time (h:mm:ss or m:ss): 31:03.51
+SRR980557		Average shared text size (kbytes): 0
+SRR980557		Average unshared data size (kbytes): 0
+SRR980557		Average stack size (kbytes): 0
+SRR980557		Average total size (kbytes): 0
+SRR980557		Maximum resident set size (kbytes): 670332
+SRR980557		Average resident set size (kbytes): 0
+SRR980557		Major (requiring I/O) page faults: 0
+SRR980557		Minor (reclaiming a frame) page faults: 457680
+SRR980557		Voluntary context switches: 2001480
+SRR980557		Involuntary context switches: 1127513
+SRR980557		Swaps: 0
+SRR980557		File system inputs: 0
+SRR980557		File system outputs: 5552824
+SRR980557		Socket messages sent: 0
+SRR980557		Socket messages received: 0
+SRR980557		Signals delivered: 0
+SRR980557		Page size (bytes): 4096
+SRR980557		Exit status: 0
+SRR980558	15659177 reads; of these:
+SRR980558	  15659177 (100.00%) were paired; of these:
+SRR980558	    15593464 (99.58%) aligned concordantly 0 times
+SRR980558	    55416 (0.35%) aligned concordantly exactly 1 time
+SRR980558	    10297 (0.07%) aligned concordantly >1 times
+SRR980558	    ----
+SRR980558	    15593464 pairs aligned concordantly 0 times; of these:
+SRR980558	      101 (0.00%) aligned discordantly 1 time
+SRR980558	    ----
+SRR980558	    15593363 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980558	      31186726 mates make up the pairs; of these:
+SRR980558	        31160118 (99.91%) aligned 0 times
+SRR980558	        17050 (0.05%) aligned exactly 1 time
+SRR980558	        9558 (0.03%) aligned >1 times
+SRR980558	0.51% overall alignment rate
+SRR980558	[samopen] SAM header is present: 593 sequences.
+SRR980558	[bam_sort_core] merging from 2 files...
+SRR980558	[mpileup] 1 samples in 1 input files
+SRR980558	<mpileup> Set max per-file depth to 8000
+SRR980558	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980558	  vals = special.bdtr(k, n, p)
+SRR980558	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980558	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980558		Command being timed: "srst2 --input_pe SRR980558/reads_1.fastq.gz SRR980558/reads_2.fastq.gz --output SRR980558/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980558		User time (seconds): 1494.67
+SRR980558		System time (seconds): 33.14
+SRR980558		Percent of CPU this job got: 96%
+SRR980558		Elapsed (wall clock) time (h:mm:ss or m:ss): 26:15.66
+SRR980558		Average shared text size (kbytes): 0
+SRR980558		Average unshared data size (kbytes): 0
+SRR980558		Average stack size (kbytes): 0
+SRR980558		Average total size (kbytes): 0
+SRR980558		Maximum resident set size (kbytes): 671264
+SRR980558		Average resident set size (kbytes): 0
+SRR980558		Major (requiring I/O) page faults: 0
+SRR980558		Minor (reclaiming a frame) page faults: 406202
+SRR980558		Voluntary context switches: 1880044
+SRR980558		Involuntary context switches: 1109124
+SRR980558		Swaps: 0
+SRR980558		File system inputs: 0
+SRR980558		File system outputs: 4521968
+SRR980558		Socket messages sent: 0
+SRR980558		Socket messages received: 0
+SRR980558		Signals delivered: 0
+SRR980558		Page size (bytes): 4096
+SRR980558		Exit status: 0
+SRR980559	11771941 reads; of these:
+SRR980559	  11771941 (100.00%) were paired; of these:
+SRR980559	    11719854 (99.56%) aligned concordantly 0 times
+SRR980559	    41479 (0.35%) aligned concordantly exactly 1 time
+SRR980559	    10608 (0.09%) aligned concordantly >1 times
+SRR980559	    ----
+SRR980559	    11719854 pairs aligned concordantly 0 times; of these:
+SRR980559	      83 (0.00%) aligned discordantly 1 time
+SRR980559	    ----
+SRR980559	    11719771 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980559	      23439542 mates make up the pairs; of these:
+SRR980559	        23416155 (99.90%) aligned 0 times
+SRR980559	        13997 (0.06%) aligned exactly 1 time
+SRR980559	        9390 (0.04%) aligned >1 times
+SRR980559	0.54% overall alignment rate
+SRR980559	[samopen] SAM header is present: 593 sequences.
+SRR980559	[bam_sort_core] merging from 2 files...
+SRR980559	[mpileup] 1 samples in 1 input files
+SRR980559	<mpileup> Set max per-file depth to 8000
+SRR980559	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980559	  vals = special.bdtr(k, n, p)
+SRR980559	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980559	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980559		Command being timed: "srst2 --input_pe SRR980559/reads_1.fastq.gz SRR980559/reads_2.fastq.gz --output SRR980559/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980559		User time (seconds): 1333.38
+SRR980559		System time (seconds): 27.75
+SRR980559		Percent of CPU this job got: 96%
+SRR980559		Elapsed (wall clock) time (h:mm:ss or m:ss): 23:31.19
+SRR980559		Average shared text size (kbytes): 0
+SRR980559		Average unshared data size (kbytes): 0
+SRR980559		Average stack size (kbytes): 0
+SRR980559		Average total size (kbytes): 0
+SRR980559		Maximum resident set size (kbytes): 670828
+SRR980559		Average resident set size (kbytes): 0
+SRR980559		Major (requiring I/O) page faults: 0
+SRR980559		Minor (reclaiming a frame) page faults: 407214
+SRR980559		Voluntary context switches: 1453605
+SRR980559		Involuntary context switches: 1001643
+SRR980559		Swaps: 0
+SRR980559		File system inputs: 0
+SRR980559		File system outputs: 4578024
+SRR980559		Socket messages sent: 0
+SRR980559		Socket messages received: 0
+SRR980559		Signals delivered: 0
+SRR980559		Page size (bytes): 4096
+SRR980559		Exit status: 0
+SRR980560	15145149 reads; of these:
+SRR980560	  15145149 (100.00%) were paired; of these:
+SRR980560	    15060468 (99.44%) aligned concordantly 0 times
+SRR980560	    72104 (0.48%) aligned concordantly exactly 1 time
+SRR980560	    12577 (0.08%) aligned concordantly >1 times
+SRR980560	    ----
+SRR980560	    15060468 pairs aligned concordantly 0 times; of these:
+SRR980560	      120 (0.00%) aligned discordantly 1 time
+SRR980560	    ----
+SRR980560	    15060348 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980560	      30120696 mates make up the pairs; of these:
+SRR980560	        30095988 (99.92%) aligned 0 times
+SRR980560	        15343 (0.05%) aligned exactly 1 time
+SRR980560	        9365 (0.03%) aligned >1 times
+SRR980560	0.64% overall alignment rate
+SRR980560	[samopen] SAM header is present: 593 sequences.
+SRR980560	[bam_sort_core] merging from 2 files...
+SRR980560	[mpileup] 1 samples in 1 input files
+SRR980560	<mpileup> Set max per-file depth to 8000
+SRR980560	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980560	  vals = special.bdtr(k, n, p)
+SRR980560	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980560	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980560		Command being timed: "srst2 --input_pe SRR980560/reads_1.fastq.gz SRR980560/reads_2.fastq.gz --output SRR980560/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980560		User time (seconds): 1614.75
+SRR980560		System time (seconds): 34.25
+SRR980560		Percent of CPU this job got: 97%
+SRR980560		Elapsed (wall clock) time (h:mm:ss or m:ss): 28:09.73
+SRR980560		Average shared text size (kbytes): 0
+SRR980560		Average unshared data size (kbytes): 0
+SRR980560		Average stack size (kbytes): 0
+SRR980560		Average total size (kbytes): 0
+SRR980560		Maximum resident set size (kbytes): 669704
+SRR980560		Average resident set size (kbytes): 0
+SRR980560		Major (requiring I/O) page faults: 0
+SRR980560		Minor (reclaiming a frame) page faults: 439079
+SRR980560		Voluntary context switches: 1776085
+SRR980560		Involuntary context switches: 1087220
+SRR980560		Swaps: 0
+SRR980560		File system inputs: 0
+SRR980560		File system outputs: 5274144
+SRR980560		Socket messages sent: 0
+SRR980560		Socket messages received: 0
+SRR980560		Signals delivered: 0
+SRR980560		Page size (bytes): 4096
+SRR980560		Exit status: 0
+SRR980561	13765896 reads; of these:
+SRR980561	  13765896 (100.00%) were paired; of these:
+SRR980561	    13738232 (99.80%) aligned concordantly 0 times
+SRR980561	    13751 (0.10%) aligned concordantly exactly 1 time
+SRR980561	    13913 (0.10%) aligned concordantly >1 times
+SRR980561	    ----
+SRR980561	    13738232 pairs aligned concordantly 0 times; of these:
+SRR980561	      10 (0.00%) aligned discordantly 1 time
+SRR980561	    ----
+SRR980561	    13738222 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980561	      27476444 mates make up the pairs; of these:
+SRR980561	        27463900 (99.95%) aligned 0 times
+SRR980561	        4597 (0.02%) aligned exactly 1 time
+SRR980561	        7947 (0.03%) aligned >1 times
+SRR980561	0.25% overall alignment rate
+SRR980561	[samopen] SAM header is present: 593 sequences.
+SRR980561	[bam_sort_core] merging from 2 files...
+SRR980561	[mpileup] 1 samples in 1 input files
+SRR980561	<mpileup> Set max per-file depth to 8000
+SRR980561	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980561	  vals = special.bdtr(k, n, p)
+SRR980561	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980561	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980561		Command being timed: "srst2 --input_pe SRR980561/reads_1.fastq.gz SRR980561/reads_2.fastq.gz --output SRR980561/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980561		User time (seconds): 1588.32
+SRR980561		System time (seconds): 32.86
+SRR980561		Percent of CPU this job got: 97%
+SRR980561		Elapsed (wall clock) time (h:mm:ss or m:ss): 27:38.57
+SRR980561		Average shared text size (kbytes): 0
+SRR980561		Average unshared data size (kbytes): 0
+SRR980561		Average stack size (kbytes): 0
+SRR980561		Average total size (kbytes): 0
+SRR980561		Maximum resident set size (kbytes): 669996
+SRR980561		Average resident set size (kbytes): 0
+SRR980561		Major (requiring I/O) page faults: 0
+SRR980561		Minor (reclaiming a frame) page faults: 441332
+SRR980561		Voluntary context switches: 1607570
+SRR980561		Involuntary context switches: 900518
+SRR980561		Swaps: 0
+SRR980561		File system inputs: 0
+SRR980561		File system outputs: 5506552
+SRR980561		Socket messages sent: 0
+SRR980561		Socket messages received: 0
+SRR980561		Signals delivered: 0
+SRR980561		Page size (bytes): 4096
+SRR980561		Exit status: 0
+SRR980562	15127375 reads; of these:
+SRR980562	  15127375 (100.00%) were paired; of these:
+SRR980562	    15068627 (99.61%) aligned concordantly 0 times
+SRR980562	    47565 (0.31%) aligned concordantly exactly 1 time
+SRR980562	    11183 (0.07%) aligned concordantly >1 times
+SRR980562	    ----
+SRR980562	    15068627 pairs aligned concordantly 0 times; of these:
+SRR980562	      116 (0.00%) aligned discordantly 1 time
+SRR980562	    ----
+SRR980562	    15068511 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980562	      30137022 mates make up the pairs; of these:
+SRR980562	        30111114 (99.91%) aligned 0 times
+SRR980562	        15252 (0.05%) aligned exactly 1 time
+SRR980562	        10656 (0.04%) aligned >1 times
+SRR980562	0.47% overall alignment rate
+SRR980562	[samopen] SAM header is present: 593 sequences.
+SRR980562	[bam_sort_core] merging from 2 files...
+SRR980562	[mpileup] 1 samples in 1 input files
+SRR980562	<mpileup> Set max per-file depth to 8000
+SRR980562	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980562	  vals = special.bdtr(k, n, p)
+SRR980562	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980562	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980562		Command being timed: "srst2 --input_pe SRR980562/reads_1.fastq.gz SRR980562/reads_2.fastq.gz --output SRR980562/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980562		User time (seconds): 1535.37
+SRR980562		System time (seconds): 34.17
+SRR980562		Percent of CPU this job got: 97%
+SRR980562		Elapsed (wall clock) time (h:mm:ss or m:ss): 26:51.84
+SRR980562		Average shared text size (kbytes): 0
+SRR980562		Average unshared data size (kbytes): 0
+SRR980562		Average stack size (kbytes): 0
+SRR980562		Average total size (kbytes): 0
+SRR980562		Maximum resident set size (kbytes): 671004
+SRR980562		Average resident set size (kbytes): 0
+SRR980562		Major (requiring I/O) page faults: 0
+SRR980562		Minor (reclaiming a frame) page faults: 425809
+SRR980562		Voluntary context switches: 1775460
+SRR980562		Involuntary context switches: 1021335
+SRR980562		Swaps: 0
+SRR980562		File system inputs: 0
+SRR980562		File system outputs: 4945640
+SRR980562		Socket messages sent: 0
+SRR980562		Socket messages received: 0
+SRR980562		Signals delivered: 0
+SRR980562		Page size (bytes): 4096
+SRR980562		Exit status: 0
+SRR980563	15183377 reads; of these:
+SRR980563	  15183377 (100.00%) were paired; of these:
+SRR980563	    15130604 (99.65%) aligned concordantly 0 times
+SRR980563	    39785 (0.26%) aligned concordantly exactly 1 time
+SRR980563	    12988 (0.09%) aligned concordantly >1 times
+SRR980563	    ----
+SRR980563	    15130604 pairs aligned concordantly 0 times; of these:
+SRR980563	      214 (0.00%) aligned discordantly 1 time
+SRR980563	    ----
+SRR980563	    15130390 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980563	      30260780 mates make up the pairs; of these:
+SRR980563	        30243966 (99.94%) aligned 0 times
+SRR980563	        9273 (0.03%) aligned exactly 1 time
+SRR980563	        7541 (0.02%) aligned >1 times
+SRR980563	0.40% overall alignment rate
+SRR980563	[samopen] SAM header is present: 593 sequences.
+SRR980563	[bam_sort_core] merging from 2 files...
+SRR980563	[mpileup] 1 samples in 1 input files
+SRR980563	<mpileup> Set max per-file depth to 8000
+SRR980563	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980563	  vals = special.bdtr(k, n, p)
+SRR980563	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980563	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980563		Command being timed: "srst2 --input_pe SRR980563/reads_1.fastq.gz SRR980563/reads_2.fastq.gz --output SRR980563/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980563		User time (seconds): 1586.12
+SRR980563		System time (seconds): 34.11
+SRR980563		Percent of CPU this job got: 97%
+SRR980563		Elapsed (wall clock) time (h:mm:ss or m:ss): 27:43.00
+SRR980563		Average shared text size (kbytes): 0
+SRR980563		Average unshared data size (kbytes): 0
+SRR980563		Average stack size (kbytes): 0
+SRR980563		Average total size (kbytes): 0
+SRR980563		Maximum resident set size (kbytes): 669592
+SRR980563		Average resident set size (kbytes): 0
+SRR980563		Major (requiring I/O) page faults: 0
+SRR980563		Minor (reclaiming a frame) page faults: 426827
+SRR980563		Voluntary context switches: 1785536
+SRR980563		Involuntary context switches: 1149658
+SRR980563		Swaps: 0
+SRR980563		File system inputs: 0
+SRR980563		File system outputs: 5115632
+SRR980563		Socket messages sent: 0
+SRR980563		Socket messages received: 0
+SRR980563		Signals delivered: 0
+SRR980563		Page size (bytes): 4096
+SRR980563		Exit status: 0
+SRR980564	12823274 reads; of these:
+SRR980564	  12823274 (100.00%) were paired; of these:
+SRR980564	    12780503 (99.67%) aligned concordantly 0 times
+SRR980564	    32812 (0.26%) aligned concordantly exactly 1 time
+SRR980564	    9959 (0.08%) aligned concordantly >1 times
+SRR980564	    ----
+SRR980564	    12780503 pairs aligned concordantly 0 times; of these:
+SRR980564	      165 (0.00%) aligned discordantly 1 time
+SRR980564	    ----
+SRR980564	    12780338 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980564	      25560676 mates make up the pairs; of these:
+SRR980564	        25547155 (99.95%) aligned 0 times
+SRR980564	        7461 (0.03%) aligned exactly 1 time
+SRR980564	        6060 (0.02%) aligned >1 times
+SRR980564	0.39% overall alignment rate
+SRR980564	[samopen] SAM header is present: 593 sequences.
+SRR980564	[mpileup] 1 samples in 1 input files
+SRR980564	<mpileup> Set max per-file depth to 8000
+SRR980564	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980564	  vals = special.bdtr(k, n, p)
+SRR980564	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980564	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980564		Command being timed: "srst2 --input_pe SRR980564/reads_1.fastq.gz SRR980564/reads_2.fastq.gz --output SRR980564/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980564		User time (seconds): 1277.40
+SRR980564		System time (seconds): 28.30
+SRR980564		Percent of CPU this job got: 97%
+SRR980564		Elapsed (wall clock) time (h:mm:ss or m:ss): 22:16.10
+SRR980564		Average shared text size (kbytes): 0
+SRR980564		Average unshared data size (kbytes): 0
+SRR980564		Average stack size (kbytes): 0
+SRR980564		Average total size (kbytes): 0
+SRR980564		Maximum resident set size (kbytes): 650076
+SRR980564		Average resident set size (kbytes): 0
+SRR980564		Major (requiring I/O) page faults: 0
+SRR980564		Minor (reclaiming a frame) page faults: 370655
+SRR980564		Voluntary context switches: 1467016
+SRR980564		Involuntary context switches: 978263
+SRR980564		Swaps: 0
+SRR980564		File system inputs: 0
+SRR980564		File system outputs: 3629072
+SRR980564		Socket messages sent: 0
+SRR980564		Socket messages received: 0
+SRR980564		Signals delivered: 0
+SRR980564		Page size (bytes): 4096
+SRR980564		Exit status: 0
+SRR980565	13523505 reads; of these:
+SRR980565	  13523505 (100.00%) were paired; of these:
+SRR980565	    13479969 (99.68%) aligned concordantly 0 times
+SRR980565	    32730 (0.24%) aligned concordantly exactly 1 time
+SRR980565	    10806 (0.08%) aligned concordantly >1 times
+SRR980565	    ----
+SRR980565	    13479969 pairs aligned concordantly 0 times; of these:
+SRR980565	      227 (0.00%) aligned discordantly 1 time
+SRR980565	    ----
+SRR980565	    13479742 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980565	      26959484 mates make up the pairs; of these:
+SRR980565	        26943643 (99.94%) aligned 0 times
+SRR980565	        8679 (0.03%) aligned exactly 1 time
+SRR980565	        7162 (0.03%) aligned >1 times
+SRR980565	0.38% overall alignment rate
+SRR980565	[samopen] SAM header is present: 593 sequences.
+SRR980565	[bam_sort_core] merging from 2 files...
+SRR980565	[mpileup] 1 samples in 1 input files
+SRR980565	<mpileup> Set max per-file depth to 8000
+SRR980565	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980565	  vals = special.bdtr(k, n, p)
+SRR980565	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980565	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980565		Command being timed: "srst2 --input_pe SRR980565/reads_1.fastq.gz SRR980565/reads_2.fastq.gz --output SRR980565/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980565		User time (seconds): 1384.74
+SRR980565		System time (seconds): 30.16
+SRR980565		Percent of CPU this job got: 97%
+SRR980565		Elapsed (wall clock) time (h:mm:ss or m:ss): 24:08.45
+SRR980565		Average shared text size (kbytes): 0
+SRR980565		Average unshared data size (kbytes): 0
+SRR980565		Average stack size (kbytes): 0
+SRR980565		Average total size (kbytes): 0
+SRR980565		Maximum resident set size (kbytes): 670744
+SRR980565		Average resident set size (kbytes): 0
+SRR980565		Major (requiring I/O) page faults: 0
+SRR980565		Minor (reclaiming a frame) page faults: 393860
+SRR980565		Voluntary context switches: 1575580
+SRR980565		Involuntary context switches: 923450
+SRR980565		Swaps: 0
+SRR980565		File system inputs: 0
+SRR980565		File system outputs: 4368832
+SRR980565		Socket messages sent: 0
+SRR980565		Socket messages received: 0
+SRR980565		Signals delivered: 0
+SRR980565		Page size (bytes): 4096
+SRR980565		Exit status: 0
+SRR980566	15339247 reads; of these:
+SRR980566	  15339247 (100.00%) were paired; of these:
+SRR980566	    15247029 (99.40%) aligned concordantly 0 times
+SRR980566	    79987 (0.52%) aligned concordantly exactly 1 time
+SRR980566	    12231 (0.08%) aligned concordantly >1 times
+SRR980566	    ----
+SRR980566	    15247029 pairs aligned concordantly 0 times; of these:
+SRR980566	      259 (0.00%) aligned discordantly 1 time
+SRR980566	    ----
+SRR980566	    15246770 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980566	      30493540 mates make up the pairs; of these:
+SRR980566	        30466756 (99.91%) aligned 0 times
+SRR980566	        17159 (0.06%) aligned exactly 1 time
+SRR980566	        9625 (0.03%) aligned >1 times
+SRR980566	0.69% overall alignment rate
+SRR980566	[samopen] SAM header is present: 593 sequences.
+SRR980566	[bam_sort_core] merging from 2 files...
+SRR980566	[mpileup] 1 samples in 1 input files
+SRR980566	<mpileup> Set max per-file depth to 8000
+SRR980566	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980566	  vals = special.bdtr(k, n, p)
+SRR980566	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980566	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980566		Command being timed: "srst2 --input_pe SRR980566/reads_1.fastq.gz SRR980566/reads_2.fastq.gz --output SRR980566/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980566		User time (seconds): 1616.52
+SRR980566		System time (seconds): 34.79
+SRR980566		Percent of CPU this job got: 97%
+SRR980566		Elapsed (wall clock) time (h:mm:ss or m:ss): 28:05.91
+SRR980566		Average shared text size (kbytes): 0
+SRR980566		Average unshared data size (kbytes): 0
+SRR980566		Average stack size (kbytes): 0
+SRR980566		Average total size (kbytes): 0
+SRR980566		Maximum resident set size (kbytes): 671812
+SRR980566		Average resident set size (kbytes): 0
+SRR980566		Major (requiring I/O) page faults: 0
+SRR980566		Minor (reclaiming a frame) page faults: 432562
+SRR980566		Voluntary context switches: 1821426
+SRR980566		Involuntary context switches: 1067971
+SRR980566		Swaps: 0
+SRR980566		File system inputs: 0
+SRR980566		File system outputs: 5097392
+SRR980566		Socket messages sent: 0
+SRR980566		Socket messages received: 0
+SRR980566		Signals delivered: 0
+SRR980566		Page size (bytes): 4096
+SRR980566		Exit status: 0
+SRR980567	9438551 reads; of these:
+SRR980567	  9438551 (100.00%) were paired; of these:
+SRR980567	    9379114 (99.37%) aligned concordantly 0 times
+SRR980567	    53440 (0.57%) aligned concordantly exactly 1 time
+SRR980567	    5997 (0.06%) aligned concordantly >1 times
+SRR980567	    ----
+SRR980567	    9379114 pairs aligned concordantly 0 times; of these:
+SRR980567	      124 (0.00%) aligned discordantly 1 time
+SRR980567	    ----
+SRR980567	    9378990 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980567	      18757980 mates make up the pairs; of these:
+SRR980567	        18737754 (99.89%) aligned 0 times
+SRR980567	        14554 (0.08%) aligned exactly 1 time
+SRR980567	        5672 (0.03%) aligned >1 times
+SRR980567	0.74% overall alignment rate
+SRR980567	[samopen] SAM header is present: 593 sequences.
+SRR980567	[mpileup] 1 samples in 1 input files
+SRR980567	<mpileup> Set max per-file depth to 8000
+SRR980567	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980567	  vals = special.bdtr(k, n, p)
+SRR980567	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980567	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980567		Command being timed: "srst2 --input_pe SRR980567/reads_1.fastq.gz SRR980567/reads_2.fastq.gz --output SRR980567/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980567		User time (seconds): 934.42
+SRR980567		System time (seconds): 20.83
+SRR980567		Percent of CPU this job got: 97%
+SRR980567		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:21.67
+SRR980567		Average shared text size (kbytes): 0
+SRR980567		Average unshared data size (kbytes): 0
+SRR980567		Average stack size (kbytes): 0
+SRR980567		Average total size (kbytes): 0
+SRR980567		Maximum resident set size (kbytes): 449784
+SRR980567		Average resident set size (kbytes): 0
+SRR980567		Major (requiring I/O) page faults: 0
+SRR980567		Minor (reclaiming a frame) page faults: 271480
+SRR980567		Voluntary context switches: 1118736
+SRR980567		Involuntary context switches: 857884
+SRR980567		Swaps: 0
+SRR980567		File system inputs: 0
+SRR980567		File system outputs: 2456872
+SRR980567		Socket messages sent: 0
+SRR980567		Socket messages received: 0
+SRR980567		Signals delivered: 0
+SRR980567		Page size (bytes): 4096
+SRR980567		Exit status: 0
+SRR980568	17258309 reads; of these:
+SRR980568	  17258309 (100.00%) were paired; of these:
+SRR980568	    17202297 (99.68%) aligned concordantly 0 times
+SRR980568	    41498 (0.24%) aligned concordantly exactly 1 time
+SRR980568	    14514 (0.08%) aligned concordantly >1 times
+SRR980568	    ----
+SRR980568	    17202297 pairs aligned concordantly 0 times; of these:
+SRR980568	      308 (0.00%) aligned discordantly 1 time
+SRR980568	    ----
+SRR980568	    17201989 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980568	      34403978 mates make up the pairs; of these:
+SRR980568	        34381261 (99.93%) aligned 0 times
+SRR980568	        12077 (0.04%) aligned exactly 1 time
+SRR980568	        10640 (0.03%) aligned >1 times
+SRR980568	0.39% overall alignment rate
+SRR980568	[samopen] SAM header is present: 593 sequences.
+SRR980568	[bam_sort_core] merging from 2 files...
+SRR980568	[mpileup] 1 samples in 1 input files
+SRR980568	<mpileup> Set max per-file depth to 8000
+SRR980568	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980568	  vals = special.bdtr(k, n, p)
+SRR980568	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980568	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980568		Command being timed: "srst2 --input_pe SRR980568/reads_1.fastq.gz SRR980568/reads_2.fastq.gz --output SRR980568/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980568		User time (seconds): 1823.72
+SRR980568		System time (seconds): 39.61
+SRR980568		Percent of CPU this job got: 98%
+SRR980568		Elapsed (wall clock) time (h:mm:ss or m:ss): 31:37.14
+SRR980568		Average shared text size (kbytes): 0
+SRR980568		Average unshared data size (kbytes): 0
+SRR980568		Average stack size (kbytes): 0
+SRR980568		Average total size (kbytes): 0
+SRR980568		Maximum resident set size (kbytes): 672160
+SRR980568		Average resident set size (kbytes): 0
+SRR980568		Major (requiring I/O) page faults: 0
+SRR980568		Minor (reclaiming a frame) page faults: 467706
+SRR980568		Voluntary context switches: 2010612
+SRR980568		Involuntary context switches: 1026898
+SRR980568		Swaps: 0
+SRR980568		File system inputs: 0
+SRR980568		File system outputs: 5996208
+SRR980568		Socket messages sent: 0
+SRR980568		Socket messages received: 0
+SRR980568		Signals delivered: 0
+SRR980568		Page size (bytes): 4096
+SRR980568		Exit status: 0
+SRR980569	14331396 reads; of these:
+SRR980569	  14331396 (100.00%) were paired; of these:
+SRR980569	    14263999 (99.53%) aligned concordantly 0 times
+SRR980569	    55678 (0.39%) aligned concordantly exactly 1 time
+SRR980569	    11719 (0.08%) aligned concordantly >1 times
+SRR980569	    ----
+SRR980569	    14263999 pairs aligned concordantly 0 times; of these:
+SRR980569	      82 (0.00%) aligned discordantly 1 time
+SRR980569	    ----
+SRR980569	    14263917 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980569	      28527834 mates make up the pairs; of these:
+SRR980569	        28508165 (99.93%) aligned 0 times
+SRR980569	        11927 (0.04%) aligned exactly 1 time
+SRR980569	        7742 (0.03%) aligned >1 times
+SRR980569	0.54% overall alignment rate
+SRR980569	[samopen] SAM header is present: 593 sequences.
+SRR980569	[bam_sort_core] merging from 2 files...
+SRR980569	[mpileup] 1 samples in 1 input files
+SRR980569	<mpileup> Set max per-file depth to 8000
+SRR980569	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980569	  vals = special.bdtr(k, n, p)
+SRR980569	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980569	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980569		Command being timed: "srst2 --input_pe SRR980569/reads_1.fastq.gz SRR980569/reads_2.fastq.gz --output SRR980569/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980569		User time (seconds): 1485.36
+SRR980569		System time (seconds): 31.87
+SRR980569		Percent of CPU this job got: 97%
+SRR980569		Elapsed (wall clock) time (h:mm:ss or m:ss): 25:48.68
+SRR980569		Average shared text size (kbytes): 0
+SRR980569		Average unshared data size (kbytes): 0
+SRR980569		Average stack size (kbytes): 0
+SRR980569		Average total size (kbytes): 0
+SRR980569		Maximum resident set size (kbytes): 667656
+SRR980569		Average resident set size (kbytes): 0
+SRR980569		Major (requiring I/O) page faults: 0
+SRR980569		Minor (reclaiming a frame) page faults: 416402
+SRR980569		Voluntary context switches: 1670889
+SRR980569		Involuntary context switches: 1084407
+SRR980569		Swaps: 0
+SRR980569		File system inputs: 0
+SRR980569		File system outputs: 4723080
+SRR980569		Socket messages sent: 0
+SRR980569		Socket messages received: 0
+SRR980569		Signals delivered: 0
+SRR980569		Page size (bytes): 4096
+SRR980569		Exit status: 0
+SRR980570	15394250 reads; of these:
+SRR980570	  15394250 (100.00%) were paired; of these:
+SRR980570	    15363219 (99.80%) aligned concordantly 0 times
+SRR980570	    15407 (0.10%) aligned concordantly exactly 1 time
+SRR980570	    15624 (0.10%) aligned concordantly >1 times
+SRR980570	    ----
+SRR980570	    15363219 pairs aligned concordantly 0 times; of these:
+SRR980570	      6 (0.00%) aligned discordantly 1 time
+SRR980570	    ----
+SRR980570	    15363213 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980570	      30726426 mates make up the pairs; of these:
+SRR980570	        30715302 (99.96%) aligned 0 times
+SRR980570	        4153 (0.01%) aligned exactly 1 time
+SRR980570	        6971 (0.02%) aligned >1 times
+SRR980570	0.24% overall alignment rate
+SRR980570	[samopen] SAM header is present: 593 sequences.
+SRR980570	[bam_sort_core] merging from 2 files...
+SRR980570	[mpileup] 1 samples in 1 input files
+SRR980570	<mpileup> Set max per-file depth to 8000
+SRR980570	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980570	  vals = special.bdtr(k, n, p)
+SRR980570	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980570	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980570		Command being timed: "srst2 --input_pe SRR980570/reads_1.fastq.gz SRR980570/reads_2.fastq.gz --output SRR980570/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980570		User time (seconds): 1741.34
+SRR980570		System time (seconds): 36.03
+SRR980570		Percent of CPU this job got: 98%
+SRR980570		Elapsed (wall clock) time (h:mm:ss or m:ss): 30:05.03
+SRR980570		Average shared text size (kbytes): 0
+SRR980570		Average unshared data size (kbytes): 0
+SRR980570		Average stack size (kbytes): 0
+SRR980570		Average total size (kbytes): 0
+SRR980570		Maximum resident set size (kbytes): 667836
+SRR980570		Average resident set size (kbytes): 0
+SRR980570		Major (requiring I/O) page faults: 0
+SRR980570		Minor (reclaiming a frame) page faults: 456308
+SRR980570		Voluntary context switches: 1801175
+SRR980570		Involuntary context switches: 919054
+SRR980570		Swaps: 0
+SRR980570		File system inputs: 0
+SRR980570		File system outputs: 5871216
+SRR980570		Socket messages sent: 0
+SRR980570		Socket messages received: 0
+SRR980570		Signals delivered: 0
+SRR980570		Page size (bytes): 4096
+SRR980570		Exit status: 0
+SRR980571	13251039 reads; of these:
+SRR980571	  13251039 (100.00%) were paired; of these:
+SRR980571	    13185553 (99.51%) aligned concordantly 0 times
+SRR980571	    51527 (0.39%) aligned concordantly exactly 1 time
+SRR980571	    13959 (0.11%) aligned concordantly >1 times
+SRR980571	    ----
+SRR980571	    13185553 pairs aligned concordantly 0 times; of these:
+SRR980571	      46 (0.00%) aligned discordantly 1 time
+SRR980571	    ----
+SRR980571	    13185507 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980571	      26371014 mates make up the pairs; of these:
+SRR980571	        26356454 (99.94%) aligned 0 times
+SRR980571	        8379 (0.03%) aligned exactly 1 time
+SRR980571	        6181 (0.02%) aligned >1 times
+SRR980571	0.55% overall alignment rate
+SRR980571	[samopen] SAM header is present: 593 sequences.
+SRR980571	[bam_sort_core] merging from 2 files...
+SRR980571	[mpileup] 1 samples in 1 input files
+SRR980571	<mpileup> Set max per-file depth to 8000
+SRR980571	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980571	  vals = special.bdtr(k, n, p)
+SRR980571	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980571	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980571		Command being timed: "srst2 --input_pe SRR980571/reads_1.fastq.gz SRR980571/reads_2.fastq.gz --output SRR980571/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980571		User time (seconds): 1545.26
+SRR980571		System time (seconds): 31.33
+SRR980571		Percent of CPU this job got: 98%
+SRR980571		Elapsed (wall clock) time (h:mm:ss or m:ss): 26:45.70
+SRR980571		Average shared text size (kbytes): 0
+SRR980571		Average unshared data size (kbytes): 0
+SRR980571		Average stack size (kbytes): 0
+SRR980571		Average total size (kbytes): 0
+SRR980571		Maximum resident set size (kbytes): 667656
+SRR980571		Average resident set size (kbytes): 0
+SRR980571		Major (requiring I/O) page faults: 0
+SRR980571		Minor (reclaiming a frame) page faults: 433160
+SRR980571		Voluntary context switches: 1561349
+SRR980571		Involuntary context switches: 878210
+SRR980571		Swaps: 0
+SRR980571		File system inputs: 0
+SRR980571		File system outputs: 5281792
+SRR980571		Socket messages sent: 0
+SRR980571		Socket messages received: 0
+SRR980571		Signals delivered: 0
+SRR980571		Page size (bytes): 4096
+SRR980571		Exit status: 0
+SRR980572	13683076 reads; of these:
+SRR980572	  13683076 (100.00%) were paired; of these:
+SRR980572	    13651208 (99.77%) aligned concordantly 0 times
+SRR980572	    16991 (0.12%) aligned concordantly exactly 1 time
+SRR980572	    14877 (0.11%) aligned concordantly >1 times
+SRR980572	    ----
+SRR980572	    13651208 pairs aligned concordantly 0 times; of these:
+SRR980572	      9 (0.00%) aligned discordantly 1 time
+SRR980572	    ----
+SRR980572	    13651199 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980572	      27302398 mates make up the pairs; of these:
+SRR980572	        27294393 (99.97%) aligned 0 times
+SRR980572	        2016 (0.01%) aligned exactly 1 time
+SRR980572	        5989 (0.02%) aligned >1 times
+SRR980572	0.26% overall alignment rate
+SRR980572	[samopen] SAM header is present: 593 sequences.
+SRR980572	[bam_sort_core] merging from 2 files...
+SRR980572	[mpileup] 1 samples in 1 input files
+SRR980572	<mpileup> Set max per-file depth to 8000
+SRR980572	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980572	  vals = special.bdtr(k, n, p)
+SRR980572	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980572	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980572		Command being timed: "srst2 --input_pe SRR980572/reads_1.fastq.gz SRR980572/reads_2.fastq.gz --output SRR980572/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980572		User time (seconds): 1584.69
+SRR980572		System time (seconds): 31.59
+SRR980572		Percent of CPU this job got: 97%
+SRR980572		Elapsed (wall clock) time (h:mm:ss or m:ss): 27:32.84
+SRR980572		Average shared text size (kbytes): 0
+SRR980572		Average unshared data size (kbytes): 0
+SRR980572		Average stack size (kbytes): 0
+SRR980572		Average total size (kbytes): 0
+SRR980572		Maximum resident set size (kbytes): 667012
+SRR980572		Average resident set size (kbytes): 0
+SRR980572		Major (requiring I/O) page faults: 0
+SRR980572		Minor (reclaiming a frame) page faults: 439857
+SRR980572		Voluntary context switches: 1673135
+SRR980572		Involuntary context switches: 1093460
+SRR980572		Swaps: 0
+SRR980572		File system inputs: 0
+SRR980572		File system outputs: 5549352
+SRR980572		Socket messages sent: 0
+SRR980572		Socket messages received: 0
+SRR980572		Signals delivered: 0
+SRR980572		Page size (bytes): 4096
+SRR980572		Exit status: 0
+SRR980573	11196913 reads; of these:
+SRR980573	  11196913 (100.00%) were paired; of these:
+SRR980573	    11153110 (99.61%) aligned concordantly 0 times
+SRR980573	    31639 (0.28%) aligned concordantly exactly 1 time
+SRR980573	    12164 (0.11%) aligned concordantly >1 times
+SRR980573	    ----
+SRR980573	    11153110 pairs aligned concordantly 0 times; of these:
+SRR980573	      293 (0.00%) aligned discordantly 1 time
+SRR980573	    ----
+SRR980573	    11152817 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980573	      22305634 mates make up the pairs; of these:
+SRR980573	        22300091 (99.98%) aligned 0 times
+SRR980573	        2395 (0.01%) aligned exactly 1 time
+SRR980573	        3148 (0.01%) aligned >1 times
+SRR980573	0.42% overall alignment rate
+SRR980573	[samopen] SAM header is present: 593 sequences.
+SRR980573	[mpileup] 1 samples in 1 input files
+SRR980573	<mpileup> Set max per-file depth to 8000
+SRR980573	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980573	  vals = special.bdtr(k, n, p)
+SRR980573	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980573	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980573		Command being timed: "srst2 --input_pe SRR980573/reads_1.fastq.gz SRR980573/reads_2.fastq.gz --output SRR980573/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980573		User time (seconds): 1262.94
+SRR980573		System time (seconds): 25.77
+SRR980573		Percent of CPU this job got: 97%
+SRR980573		Elapsed (wall clock) time (h:mm:ss or m:ss): 22:06.02
+SRR980573		Average shared text size (kbytes): 0
+SRR980573		Average unshared data size (kbytes): 0
+SRR980573		Average stack size (kbytes): 0
+SRR980573		Average total size (kbytes): 0
+SRR980573		Maximum resident set size (kbytes): 663948
+SRR980573		Average resident set size (kbytes): 0
+SRR980573		Major (requiring I/O) page faults: 0
+SRR980573		Minor (reclaiming a frame) page faults: 374979
+SRR980573		Voluntary context switches: 1371002
+SRR980573		Involuntary context switches: 963156
+SRR980573		Swaps: 0
+SRR980573		File system inputs: 0
+SRR980573		File system outputs: 3866640
+SRR980573		Socket messages sent: 0
+SRR980573		Socket messages received: 0
+SRR980573		Signals delivered: 0
+SRR980573		Page size (bytes): 4096
+SRR980573		Exit status: 0
+SRR980574	13123973 reads; of these:
+SRR980574	  13123973 (100.00%) were paired; of these:
+SRR980574	    13080711 (99.67%) aligned concordantly 0 times
+SRR980574	    31366 (0.24%) aligned concordantly exactly 1 time
+SRR980574	    11896 (0.09%) aligned concordantly >1 times
+SRR980574	    ----
+SRR980574	    13080711 pairs aligned concordantly 0 times; of these:
+SRR980574	      168 (0.00%) aligned discordantly 1 time
+SRR980574	    ----
+SRR980574	    13080543 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980574	      26161086 mates make up the pairs; of these:
+SRR980574	        26152283 (99.97%) aligned 0 times
+SRR980574	        5068 (0.02%) aligned exactly 1 time
+SRR980574	        3735 (0.01%) aligned >1 times
+SRR980574	0.36% overall alignment rate
+SRR980574	[samopen] SAM header is present: 593 sequences.
+SRR980574	[bam_sort_core] merging from 2 files...
+SRR980574	[mpileup] 1 samples in 1 input files
+SRR980574	<mpileup> Set max per-file depth to 8000
+SRR980574	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980574	  vals = special.bdtr(k, n, p)
+SRR980574	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980574	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980574		Command being timed: "srst2 --input_pe SRR980574/reads_1.fastq.gz SRR980574/reads_2.fastq.gz --output SRR980574/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980574		User time (seconds): 1377.66
+SRR980574		System time (seconds): 29.73
+SRR980574		Percent of CPU this job got: 98%
+SRR980574		Elapsed (wall clock) time (h:mm:ss or m:ss): 23:51.65
+SRR980574		Average shared text size (kbytes): 0
+SRR980574		Average unshared data size (kbytes): 0
+SRR980574		Average stack size (kbytes): 0
+SRR980574		Average total size (kbytes): 0
+SRR980574		Maximum resident set size (kbytes): 667492
+SRR980574		Average resident set size (kbytes): 0
+SRR980574		Major (requiring I/O) page faults: 0
+SRR980574		Minor (reclaiming a frame) page faults: 384870
+SRR980574		Voluntary context switches: 1522003
+SRR980574		Involuntary context switches: 793189
+SRR980574		Swaps: 0
+SRR980574		File system inputs: 0
+SRR980574		File system outputs: 4309240
+SRR980574		Socket messages sent: 0
+SRR980574		Socket messages received: 0
+SRR980574		Signals delivered: 0
+SRR980574		Page size (bytes): 4096
+SRR980574		Exit status: 0
+SRR980575	14792541 reads; of these:
+SRR980575	  14792541 (100.00%) were paired; of these:
+SRR980575	    14752626 (99.73%) aligned concordantly 0 times
+SRR980575	    27291 (0.18%) aligned concordantly exactly 1 time
+SRR980575	    12624 (0.09%) aligned concordantly >1 times
+SRR980575	    ----
+SRR980575	    14752626 pairs aligned concordantly 0 times; of these:
+SRR980575	      123 (0.00%) aligned discordantly 1 time
+SRR980575	    ----
+SRR980575	    14752503 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980575	      29505006 mates make up the pairs; of these:
+SRR980575	        29493759 (99.96%) aligned 0 times
+SRR980575	        5213 (0.02%) aligned exactly 1 time
+SRR980575	        6034 (0.02%) aligned >1 times
+SRR980575	0.31% overall alignment rate
+SRR980575	[samopen] SAM header is present: 593 sequences.
+SRR980575	[bam_sort_core] merging from 2 files...
+SRR980575	[mpileup] 1 samples in 1 input files
+SRR980575	<mpileup> Set max per-file depth to 8000
+SRR980575	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980575	  vals = special.bdtr(k, n, p)
+SRR980575	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980575	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980575		Command being timed: "srst2 --input_pe SRR980575/reads_1.fastq.gz SRR980575/reads_2.fastq.gz --output SRR980575/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980575		User time (seconds): 1518.65
+SRR980575		System time (seconds): 33.49
+SRR980575		Percent of CPU this job got: 97%
+SRR980575		Elapsed (wall clock) time (h:mm:ss or m:ss): 26:24.98
+SRR980575		Average shared text size (kbytes): 0
+SRR980575		Average unshared data size (kbytes): 0
+SRR980575		Average stack size (kbytes): 0
+SRR980575		Average total size (kbytes): 0
+SRR980575		Maximum resident set size (kbytes): 668120
+SRR980575		Average resident set size (kbytes): 0
+SRR980575		Major (requiring I/O) page faults: 0
+SRR980575		Minor (reclaiming a frame) page faults: 410919
+SRR980575		Voluntary context switches: 1722789
+SRR980575		Involuntary context switches: 973151
+SRR980575		Swaps: 0
+SRR980575		File system inputs: 0
+SRR980575		File system outputs: 4816592
+SRR980575		Socket messages sent: 0
+SRR980575		Socket messages received: 0
+SRR980575		Signals delivered: 0
+SRR980575		Page size (bytes): 4096
+SRR980575		Exit status: 0
+SRR980576	13834851 reads; of these:
+SRR980576	  13834851 (100.00%) were paired; of these:
+SRR980576	    13774977 (99.57%) aligned concordantly 0 times
+SRR980576	    47787 (0.35%) aligned concordantly exactly 1 time
+SRR980576	    12087 (0.09%) aligned concordantly >1 times
+SRR980576	    ----
+SRR980576	    13774977 pairs aligned concordantly 0 times; of these:
+SRR980576	      265 (0.00%) aligned discordantly 1 time
+SRR980576	    ----
+SRR980576	    13774712 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980576	      27549424 mates make up the pairs; of these:
+SRR980576	        27530479 (99.93%) aligned 0 times
+SRR980576	        11623 (0.04%) aligned exactly 1 time
+SRR980576	        7322 (0.03%) aligned >1 times
+SRR980576	0.50% overall alignment rate
+SRR980576	[samopen] SAM header is present: 593 sequences.
+SRR980576	[bam_sort_core] merging from 2 files...
+SRR980576	[mpileup] 1 samples in 1 input files
+SRR980576	<mpileup> Set max per-file depth to 8000
+SRR980576	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980576	  vals = special.bdtr(k, n, p)
+SRR980576	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980576	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980576		Command being timed: "srst2 --input_pe SRR980576/reads_1.fastq.gz SRR980576/reads_2.fastq.gz --output SRR980576/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980576		User time (seconds): 1475.24
+SRR980576		System time (seconds): 31.52
+SRR980576		Percent of CPU this job got: 98%
+SRR980576		Elapsed (wall clock) time (h:mm:ss or m:ss): 25:32.39
+SRR980576		Average shared text size (kbytes): 0
+SRR980576		Average unshared data size (kbytes): 0
+SRR980576		Average stack size (kbytes): 0
+SRR980576		Average total size (kbytes): 0
+SRR980576		Maximum resident set size (kbytes): 667940
+SRR980576		Average resident set size (kbytes): 0
+SRR980576		Major (requiring I/O) page faults: 0
+SRR980576		Minor (reclaiming a frame) page faults: 415031
+SRR980576		Voluntary context switches: 1607454
+SRR980576		Involuntary context switches: 1032371
+SRR980576		Swaps: 0
+SRR980576		File system inputs: 0
+SRR980576		File system outputs: 4800464
+SRR980576		Socket messages sent: 0
+SRR980576		Socket messages received: 0
+SRR980576		Signals delivered: 0
+SRR980576		Page size (bytes): 4096
+SRR980576		Exit status: 0
+SRR980577	8974674 reads; of these:
+SRR980577	  8974674 (100.00%) were paired; of these:
+SRR980577	    8934760 (99.56%) aligned concordantly 0 times
+SRR980577	    31967 (0.36%) aligned concordantly exactly 1 time
+SRR980577	    7947 (0.09%) aligned concordantly >1 times
+SRR980577	    ----
+SRR980577	    8934760 pairs aligned concordantly 0 times; of these:
+SRR980577	      74 (0.00%) aligned discordantly 1 time
+SRR980577	    ----
+SRR980577	    8934686 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980577	      17869372 mates make up the pairs; of these:
+SRR980577	        17859845 (99.95%) aligned 0 times
+SRR980577	        6072 (0.03%) aligned exactly 1 time
+SRR980577	        3455 (0.02%) aligned >1 times
+SRR980577	0.50% overall alignment rate
+SRR980577	[samopen] SAM header is present: 593 sequences.
+SRR980577	[mpileup] 1 samples in 1 input files
+SRR980577	<mpileup> Set max per-file depth to 8000
+SRR980577	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980577	  vals = special.bdtr(k, n, p)
+SRR980577	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980577	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980577		Command being timed: "srst2 --input_pe SRR980577/reads_1.fastq.gz SRR980577/reads_2.fastq.gz --output SRR980577/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980577		User time (seconds): 954.17
+SRR980577		System time (seconds): 20.10
+SRR980577		Percent of CPU this job got: 98%
+SRR980577		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:32.11
+SRR980577		Average shared text size (kbytes): 0
+SRR980577		Average unshared data size (kbytes): 0
+SRR980577		Average stack size (kbytes): 0
+SRR980577		Average total size (kbytes): 0
+SRR980577		Maximum resident set size (kbytes): 471952
+SRR980577		Average resident set size (kbytes): 0
+SRR980577		Major (requiring I/O) page faults: 0
+SRR980577		Minor (reclaiming a frame) page faults: 280176
+SRR980577		Voluntary context switches: 1029801
+SRR980577		Involuntary context switches: 703690
+SRR980577		Swaps: 0
+SRR980577		File system inputs: 0
+SRR980577		File system outputs: 2713080
+SRR980577		Socket messages sent: 0
+SRR980577		Socket messages received: 0
+SRR980577		Signals delivered: 0
+SRR980577		Page size (bytes): 4096
+SRR980577		Exit status: 0
+SRR980578	11495276 reads; of these:
+SRR980578	  11495276 (100.00%) were paired; of these:
+SRR980578	    11459300 (99.69%) aligned concordantly 0 times
+SRR980578	    25154 (0.22%) aligned concordantly exactly 1 time
+SRR980578	    10822 (0.09%) aligned concordantly >1 times
+SRR980578	    ----
+SRR980578	    11459300 pairs aligned concordantly 0 times; of these:
+SRR980578	      63 (0.00%) aligned discordantly 1 time
+SRR980578	    ----
+SRR980578	    11459237 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980578	      22918474 mates make up the pairs; of these:
+SRR980578	        22908147 (99.95%) aligned 0 times
+SRR980578	        5229 (0.02%) aligned exactly 1 time
+SRR980578	        5098 (0.02%) aligned >1 times
+SRR980578	0.36% overall alignment rate
+SRR980578	[samopen] SAM header is present: 593 sequences.
+SRR980578	[bam_sort_core] merging from 2 files...
+SRR980578	[mpileup] 1 samples in 1 input files
+SRR980578	<mpileup> Set max per-file depth to 8000
+SRR980578	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980578	  vals = special.bdtr(k, n, p)
+SRR980578	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980578	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980578		Command being timed: "srst2 --input_pe SRR980578/reads_1.fastq.gz SRR980578/reads_2.fastq.gz --output SRR980578/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980578		User time (seconds): 1252.05
+SRR980578		System time (seconds): 26.56
+SRR980578		Percent of CPU this job got: 98%
+SRR980578		Elapsed (wall clock) time (h:mm:ss or m:ss): 21:38.75
+SRR980578		Average shared text size (kbytes): 0
+SRR980578		Average unshared data size (kbytes): 0
+SRR980578		Average stack size (kbytes): 0
+SRR980578		Average total size (kbytes): 0
+SRR980578		Maximum resident set size (kbytes): 668268
+SRR980578		Average resident set size (kbytes): 0
+SRR980578		Major (requiring I/O) page faults: 0
+SRR980578		Minor (reclaiming a frame) page faults: 379601
+SRR980578		Voluntary context switches: 1339754
+SRR980578		Involuntary context switches: 974558
+SRR980578		Swaps: 0
+SRR980578		File system inputs: 0
+SRR980578		File system outputs: 4059776
+SRR980578		Socket messages sent: 0
+SRR980578		Socket messages received: 0
+SRR980578		Signals delivered: 0
+SRR980578		Page size (bytes): 4096
+SRR980578		Exit status: 0
+SRR980579	8694271 reads; of these:
+SRR980579	  8694271 (100.00%) were paired; of these:
+SRR980579	    8670440 (99.73%) aligned concordantly 0 times
+SRR980579	    16059 (0.18%) aligned concordantly exactly 1 time
+SRR980579	    7772 (0.09%) aligned concordantly >1 times
+SRR980579	    ----
+SRR980579	    8670440 pairs aligned concordantly 0 times; of these:
+SRR980579	      98 (0.00%) aligned discordantly 1 time
+SRR980579	    ----
+SRR980579	    8670342 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980579	      17340684 mates make up the pairs; of these:
+SRR980579	        17333677 (99.96%) aligned 0 times
+SRR980579	        3461 (0.02%) aligned exactly 1 time
+SRR980579	        3546 (0.02%) aligned >1 times
+SRR980579	0.32% overall alignment rate
+SRR980579	[samopen] SAM header is present: 593 sequences.
+SRR980579	[mpileup] 1 samples in 1 input files
+SRR980579	<mpileup> Set max per-file depth to 8000
+SRR980579	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980579	  vals = special.bdtr(k, n, p)
+SRR980579	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980579	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980579		Command being timed: "srst2 --input_pe SRR980579/reads_1.fastq.gz SRR980579/reads_2.fastq.gz --output SRR980579/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980579		User time (seconds): 929.24
+SRR980579		System time (seconds): 20.16
+SRR980579		Percent of CPU this job got: 97%
+SRR980579		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:08.85
+SRR980579		Average shared text size (kbytes): 0
+SRR980579		Average unshared data size (kbytes): 0
+SRR980579		Average stack size (kbytes): 0
+SRR980579		Average total size (kbytes): 0
+SRR980579		Maximum resident set size (kbytes): 474696
+SRR980579		Average resident set size (kbytes): 0
+SRR980579		Major (requiring I/O) page faults: 0
+SRR980579		Minor (reclaiming a frame) page faults: 279531
+SRR980579		Voluntary context switches: 1012397
+SRR980579		Involuntary context switches: 709600
+SRR980579		Swaps: 0
+SRR980579		File system inputs: 0
+SRR980579		File system outputs: 2684768
+SRR980579		Socket messages sent: 0
+SRR980579		Socket messages received: 0
+SRR980579		Signals delivered: 0
+SRR980579		Page size (bytes): 4096
+SRR980579		Exit status: 0
+SRR980580	14841718 reads; of these:
+SRR980580	  14841718 (100.00%) were paired; of these:
+SRR980580	    14794771 (99.68%) aligned concordantly 0 times
+SRR980580	    34069 (0.23%) aligned concordantly exactly 1 time
+SRR980580	    12878 (0.09%) aligned concordantly >1 times
+SRR980580	    ----
+SRR980580	    14794771 pairs aligned concordantly 0 times; of these:
+SRR980580	      403 (0.00%) aligned discordantly 1 time
+SRR980580	    ----
+SRR980580	    14794368 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980580	      29588736 mates make up the pairs; of these:
+SRR980580	        29574273 (99.95%) aligned 0 times
+SRR980580	        7510 (0.03%) aligned exactly 1 time
+SRR980580	        6953 (0.02%) aligned >1 times
+SRR980580	0.37% overall alignment rate
+SRR980580	[samopen] SAM header is present: 593 sequences.
+SRR980580	[bam_sort_core] merging from 2 files...
+SRR980580	[mpileup] 1 samples in 1 input files
+SRR980580	<mpileup> Set max per-file depth to 8000
+SRR980580	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980580	  vals = special.bdtr(k, n, p)
+SRR980580	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980580	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980580		Command being timed: "srst2 --input_pe SRR980580/reads_1.fastq.gz SRR980580/reads_2.fastq.gz --output SRR980580/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980580		User time (seconds): 1549.28
+SRR980580		System time (seconds): 33.70
+SRR980580		Percent of CPU this job got: 97%
+SRR980580		Elapsed (wall clock) time (h:mm:ss or m:ss): 26:58.21
+SRR980580		Average shared text size (kbytes): 0
+SRR980580		Average unshared data size (kbytes): 0
+SRR980580		Average stack size (kbytes): 0
+SRR980580		Average total size (kbytes): 0
+SRR980580		Maximum resident set size (kbytes): 667576
+SRR980580		Average resident set size (kbytes): 0
+SRR980580		Major (requiring I/O) page faults: 0
+SRR980580		Minor (reclaiming a frame) page faults: 415389
+SRR980580		Voluntary context switches: 1736077
+SRR980580		Involuntary context switches: 992609
+SRR980580		Swaps: 0
+SRR980580		File system inputs: 0
+SRR980580		File system outputs: 4936976
+SRR980580		Socket messages sent: 0
+SRR980580		Socket messages received: 0
+SRR980580		Signals delivered: 0
+SRR980580		Page size (bytes): 4096
+SRR980580		Exit status: 0
+SRR980581	23079203 reads; of these:
+SRR980581	  23079203 (100.00%) were paired; of these:
+SRR980581	    23018818 (99.74%) aligned concordantly 0 times
+SRR980581	    38770 (0.17%) aligned concordantly exactly 1 time
+SRR980581	    21615 (0.09%) aligned concordantly >1 times
+SRR980581	    ----
+SRR980581	    23018818 pairs aligned concordantly 0 times; of these:
+SRR980581	      347 (0.00%) aligned discordantly 1 time
+SRR980581	    ----
+SRR980581	    23018471 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980581	      46036942 mates make up the pairs; of these:
+SRR980581	        46028808 (99.98%) aligned 0 times
+SRR980581	        3668 (0.01%) aligned exactly 1 time
+SRR980581	        4466 (0.01%) aligned >1 times
+SRR980581	0.28% overall alignment rate
+SRR980581	[samopen] SAM header is present: 593 sequences.
+SRR980581	[bam_sort_core] merging from 2 files...
+SRR980581	[mpileup] 1 samples in 1 input files
+SRR980581	<mpileup> Set max per-file depth to 8000
+SRR980581	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980581	  vals = special.bdtr(k, n, p)
+SRR980581	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980581	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980581		Command being timed: "srst2 --input_pe SRR980581/reads_1.fastq.gz SRR980581/reads_2.fastq.gz --output SRR980581/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980581		User time (seconds): 2303.99
+SRR980581		System time (seconds): 50.42
+SRR980581		Percent of CPU this job got: 97%
+SRR980581		Elapsed (wall clock) time (h:mm:ss or m:ss): 40:16.14
+SRR980581		Average shared text size (kbytes): 0
+SRR980581		Average unshared data size (kbytes): 0
+SRR980581		Average stack size (kbytes): 0
+SRR980581		Average total size (kbytes): 0
+SRR980581		Maximum resident set size (kbytes): 669896
+SRR980581		Average resident set size (kbytes): 0
+SRR980581		Major (requiring I/O) page faults: 0
+SRR980581		Minor (reclaiming a frame) page faults: 500997
+SRR980581		Voluntary context switches: 2731251
+SRR980581		Involuntary context switches: 1349265
+SRR980581		Swaps: 0
+SRR980581		File system inputs: 0
+SRR980581		File system outputs: 7153184
+SRR980581		Socket messages sent: 0
+SRR980581		Socket messages received: 0
+SRR980581		Signals delivered: 0
+SRR980581		Page size (bytes): 4096
+SRR980581		Exit status: 0
+SRR980582	16782698 reads; of these:
+SRR980582	  16782698 (100.00%) were paired; of these:
+SRR980582	    16715513 (99.60%) aligned concordantly 0 times
+SRR980582	    51915 (0.31%) aligned concordantly exactly 1 time
+SRR980582	    15270 (0.09%) aligned concordantly >1 times
+SRR980582	    ----
+SRR980582	    16715513 pairs aligned concordantly 0 times; of these:
+SRR980582	      59 (0.00%) aligned discordantly 1 time
+SRR980582	    ----
+SRR980582	    16715454 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980582	      33430908 mates make up the pairs; of these:
+SRR980582	        33417591 (99.96%) aligned 0 times
+SRR980582	        7494 (0.02%) aligned exactly 1 time
+SRR980582	        5823 (0.02%) aligned >1 times
+SRR980582	0.44% overall alignment rate
+SRR980582	[samopen] SAM header is present: 593 sequences.
+SRR980582	[bam_sort_core] merging from 2 files...
+SRR980582	[mpileup] 1 samples in 1 input files
+SRR980582	<mpileup> Set max per-file depth to 8000
+SRR980582	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980582	  vals = special.bdtr(k, n, p)
+SRR980582	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980582	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980582		Command being timed: "srst2 --input_pe SRR980582/reads_1.fastq.gz SRR980582/reads_2.fastq.gz --output SRR980582/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980582		User time (seconds): 1731.58
+SRR980582		System time (seconds): 37.31
+SRR980582		Percent of CPU this job got: 96%
+SRR980582		Elapsed (wall clock) time (h:mm:ss or m:ss): 30:27.88
+SRR980582		Average shared text size (kbytes): 0
+SRR980582		Average unshared data size (kbytes): 0
+SRR980582		Average stack size (kbytes): 0
+SRR980582		Average total size (kbytes): 0
+SRR980582		Maximum resident set size (kbytes): 670452
+SRR980582		Average resident set size (kbytes): 0
+SRR980582		Major (requiring I/O) page faults: 0
+SRR980582		Minor (reclaiming a frame) page faults: 443717
+SRR980582		Voluntary context switches: 2112878
+SRR980582		Involuntary context switches: 1322158
+SRR980582		Swaps: 0
+SRR980582		File system inputs: 16
+SRR980582		File system outputs: 5556312
+SRR980582		Socket messages sent: 0
+SRR980582		Socket messages received: 0
+SRR980582		Signals delivered: 0
+SRR980582		Page size (bytes): 4096
+SRR980582		Exit status: 0
+SRR980583	11216559 reads; of these:
+SRR980583	  11216559 (100.00%) were paired; of these:
+SRR980583	    11176368 (99.64%) aligned concordantly 0 times
+SRR980583	    31191 (0.28%) aligned concordantly exactly 1 time
+SRR980583	    9000 (0.08%) aligned concordantly >1 times
+SRR980583	    ----
+SRR980583	    11176368 pairs aligned concordantly 0 times; of these:
+SRR980583	      296 (0.00%) aligned discordantly 1 time
+SRR980583	    ----
+SRR980583	    11176072 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980583	      22352144 mates make up the pairs; of these:
+SRR980583	        22332211 (99.91%) aligned 0 times
+SRR980583	        11450 (0.05%) aligned exactly 1 time
+SRR980583	        8483 (0.04%) aligned >1 times
+SRR980583	0.45% overall alignment rate
+SRR980583	[samopen] SAM header is present: 593 sequences.
+SRR980583	[mpileup] 1 samples in 1 input files
+SRR980583	<mpileup> Set max per-file depth to 8000
+SRR980583	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980583	  vals = special.bdtr(k, n, p)
+SRR980583	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980583	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980583		Command being timed: "srst2 --input_pe SRR980583/reads_1.fastq.gz SRR980583/reads_2.fastq.gz --output SRR980583/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980583		User time (seconds): 1169.14
+SRR980583		System time (seconds): 25.20
+SRR980583		Percent of CPU this job got: 96%
+SRR980583		Elapsed (wall clock) time (h:mm:ss or m:ss): 20:38.62
+SRR980583		Average shared text size (kbytes): 0
+SRR980583		Average unshared data size (kbytes): 0
+SRR980583		Average stack size (kbytes): 0
+SRR980583		Average total size (kbytes): 0
+SRR980583		Maximum resident set size (kbytes): 662120
+SRR980583		Average resident set size (kbytes): 0
+SRR980583		Major (requiring I/O) page faults: 0
+SRR980583		Minor (reclaiming a frame) page faults: 373386
+SRR980583		Voluntary context switches: 1451840
+SRR980583		Involuntary context switches: 934366
+SRR980583		Swaps: 0
+SRR980583		File system inputs: 16
+SRR980583		File system outputs: 3566416
+SRR980583		Socket messages sent: 0
+SRR980583		Socket messages received: 0
+SRR980583		Signals delivered: 0
+SRR980583		Page size (bytes): 4096
+SRR980583		Exit status: 0
+SRR980584	17844595 reads; of these:
+SRR980584	  17844595 (100.00%) were paired; of these:
+SRR980584	    17825176 (99.89%) aligned concordantly 0 times
+SRR980584	    35 (0.00%) aligned concordantly exactly 1 time
+SRR980584	    19384 (0.11%) aligned concordantly >1 times
+SRR980584	    ----
+SRR980584	    17825176 pairs aligned concordantly 0 times; of these:
+SRR980584	      1 (0.00%) aligned discordantly 1 time
+SRR980584	    ----
+SRR980584	    17825175 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980584	      35650350 mates make up the pairs; of these:
+SRR980584	        35635973 (99.96%) aligned 0 times
+SRR980584	        61 (0.00%) aligned exactly 1 time
+SRR980584	        14316 (0.04%) aligned >1 times
+SRR980584	0.15% overall alignment rate
+SRR980584	[samopen] SAM header is present: 593 sequences.
+SRR980584	[bam_sort_core] merging from 3 files...
+SRR980584	[mpileup] 1 samples in 1 input files
+SRR980584	<mpileup> Set max per-file depth to 8000
+SRR980584	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980584	  vals = special.bdtr(k, n, p)
+SRR980584	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980584	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980584		Command being timed: "srst2 --input_pe SRR980584/reads_1.fastq.gz SRR980584/reads_2.fastq.gz --output SRR980584/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980584		User time (seconds): 2092.80
+SRR980584		System time (seconds): 42.42
+SRR980584		Percent of CPU this job got: 100%
+SRR980584		Elapsed (wall clock) time (h:mm:ss or m:ss): 35:19.92
+SRR980584		Average shared text size (kbytes): 0
+SRR980584		Average unshared data size (kbytes): 0
+SRR980584		Average stack size (kbytes): 0
+SRR980584		Average total size (kbytes): 0
+SRR980584		Maximum resident set size (kbytes): 672200
+SRR980584		Average resident set size (kbytes): 0
+SRR980584		Major (requiring I/O) page faults: 0
+SRR980584		Minor (reclaiming a frame) page faults: 560847
+SRR980584		Voluntary context switches: 2244301
+SRR980584		Involuntary context switches: 863662
+SRR980584		Swaps: 0
+SRR980584		File system inputs: 0
+SRR980584		File system outputs: 7984728
+SRR980584		Socket messages sent: 0
+SRR980584		Socket messages received: 0
+SRR980584		Signals delivered: 0
+SRR980584		Page size (bytes): 4096
+SRR980584		Exit status: 0
+SRR980585	6078022 reads; of these:
+SRR980585	  6078022 (100.00%) were paired; of these:
+SRR980585	    6022125 (99.08%) aligned concordantly 0 times
+SRR980585	    52483 (0.86%) aligned concordantly exactly 1 time
+SRR980585	    3414 (0.06%) aligned concordantly >1 times
+SRR980585	    ----
+SRR980585	    6022125 pairs aligned concordantly 0 times; of these:
+SRR980585	      227 (0.00%) aligned discordantly 1 time
+SRR980585	    ----
+SRR980585	    6021898 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980585	      12043796 mates make up the pairs; of these:
+SRR980585	        12011299 (99.73%) aligned 0 times
+SRR980585	        25738 (0.21%) aligned exactly 1 time
+SRR980585	        6759 (0.06%) aligned >1 times
+SRR980585	1.19% overall alignment rate
+SRR980585	[samopen] SAM header is present: 593 sequences.
+SRR980585	[mpileup] 1 samples in 1 input files
+SRR980585	<mpileup> Set max per-file depth to 8000
+SRR980585	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980585	  vals = special.bdtr(k, n, p)
+SRR980585	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980585	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980585		Command being timed: "srst2 --input_pe SRR980585/reads_1.fastq.gz SRR980585/reads_2.fastq.gz --output SRR980585/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980585		User time (seconds): 609.46
+SRR980585		System time (seconds): 13.93
+SRR980585		Percent of CPU this job got: 100%
+SRR980585		Elapsed (wall clock) time (h:mm:ss or m:ss): 10:18.96
+SRR980585		Average shared text size (kbytes): 0
+SRR980585		Average unshared data size (kbytes): 0
+SRR980585		Average stack size (kbytes): 0
+SRR980585		Average total size (kbytes): 0
+SRR980585		Maximum resident set size (kbytes): 334328
+SRR980585		Average resident set size (kbytes): 0
+SRR980585		Major (requiring I/O) page faults: 0
+SRR980585		Minor (reclaiming a frame) page faults: 209584
+SRR980585		Voluntary context switches: 743362
+SRR980585		Involuntary context switches: 385303
+SRR980585		Swaps: 0
+SRR980585		File system inputs: 0
+SRR980585		File system outputs: 1751696
+SRR980585		Socket messages sent: 0
+SRR980585		Socket messages received: 0
+SRR980585		Signals delivered: 0
+SRR980585		Page size (bytes): 4096
+SRR980585		Exit status: 0
+SRR980586	5295489 reads; of these:
+SRR980586	  5295489 (100.00%) were paired; of these:
+SRR980586	    5269618 (99.51%) aligned concordantly 0 times
+SRR980586	    22194 (0.42%) aligned concordantly exactly 1 time
+SRR980586	    3677 (0.07%) aligned concordantly >1 times
+SRR980586	    ----
+SRR980586	    5269618 pairs aligned concordantly 0 times; of these:
+SRR980586	      55 (0.00%) aligned discordantly 1 time
+SRR980586	    ----
+SRR980586	    5269563 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980586	      10539126 mates make up the pairs; of these:
+SRR980586	        10522498 (99.84%) aligned 0 times
+SRR980586	        10934 (0.10%) aligned exactly 1 time
+SRR980586	        5694 (0.05%) aligned >1 times
+SRR980586	0.65% overall alignment rate
+SRR980586	[samopen] SAM header is present: 593 sequences.
+SRR980586	[mpileup] 1 samples in 1 input files
+SRR980586	<mpileup> Set max per-file depth to 8000
+SRR980586	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980586	  vals = special.bdtr(k, n, p)
+SRR980586	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980586	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980586		Command being timed: "srst2 --input_pe SRR980586/reads_1.fastq.gz SRR980586/reads_2.fastq.gz --output SRR980586/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980586		User time (seconds): 564.44
+SRR980586		System time (seconds): 12.85
+SRR980586		Percent of CPU this job got: 100%
+SRR980586		Elapsed (wall clock) time (h:mm:ss or m:ss): 9:33.00
+SRR980586		Average shared text size (kbytes): 0
+SRR980586		Average unshared data size (kbytes): 0
+SRR980586		Average stack size (kbytes): 0
+SRR980586		Average total size (kbytes): 0
+SRR980586		Maximum resident set size (kbytes): 323108
+SRR980586		Average resident set size (kbytes): 0
+SRR980586		Major (requiring I/O) page faults: 0
+SRR980586		Minor (reclaiming a frame) page faults: 200580
+SRR980586		Voluntary context switches: 650440
+SRR980586		Involuntary context switches: 365695
+SRR980586		Swaps: 0
+SRR980586		File system inputs: 0
+SRR980586		File system outputs: 1699384
+SRR980586		Socket messages sent: 0
+SRR980586		Socket messages received: 0
+SRR980586		Signals delivered: 0
+SRR980586		Page size (bytes): 4096
+SRR980586		Exit status: 0
+SRR980587	13946198 reads; of these:
+SRR980587	  13946198 (100.00%) were paired; of these:
+SRR980587	    13858009 (99.37%) aligned concordantly 0 times
+SRR980587	    75855 (0.54%) aligned concordantly exactly 1 time
+SRR980587	    12334 (0.09%) aligned concordantly >1 times
+SRR980587	    ----
+SRR980587	    13858009 pairs aligned concordantly 0 times; of these:
+SRR980587	      117 (0.00%) aligned discordantly 1 time
+SRR980587	    ----
+SRR980587	    13857892 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980587	      27715784 mates make up the pairs; of these:
+SRR980587	        27680902 (99.87%) aligned 0 times
+SRR980587	        22787 (0.08%) aligned exactly 1 time
+SRR980587	        12095 (0.04%) aligned >1 times
+SRR980587	0.76% overall alignment rate
+SRR980587	[samopen] SAM header is present: 593 sequences.
+SRR980587	[bam_sort_core] merging from 2 files...
+SRR980587	[mpileup] 1 samples in 1 input files
+SRR980587	<mpileup> Set max per-file depth to 8000
+SRR980587	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980587	  vals = special.bdtr(k, n, p)
+SRR980587	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980587	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980587		Command being timed: "srst2 --input_pe SRR980587/reads_1.fastq.gz SRR980587/reads_2.fastq.gz --output SRR980587/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980587		User time (seconds): 1541.72
+SRR980587		System time (seconds): 33.30
+SRR980587		Percent of CPU this job got: 101%
+SRR980587		Elapsed (wall clock) time (h:mm:ss or m:ss): 25:55.57
+SRR980587		Average shared text size (kbytes): 0
+SRR980587		Average unshared data size (kbytes): 0
+SRR980587		Average stack size (kbytes): 0
+SRR980587		Average total size (kbytes): 0
+SRR980587		Maximum resident set size (kbytes): 671700
+SRR980587		Average resident set size (kbytes): 0
+SRR980587		Major (requiring I/O) page faults: 0
+SRR980587		Minor (reclaiming a frame) page faults: 457714
+SRR980587		Voluntary context switches: 1739022
+SRR980587		Involuntary context switches: 567389
+SRR980587		Swaps: 0
+SRR980587		File system inputs: 8
+SRR980587		File system outputs: 5497344
+SRR980587		Socket messages sent: 0
+SRR980587		Socket messages received: 0
+SRR980587		Signals delivered: 0
+SRR980587		Page size (bytes): 4096
+SRR980587		Exit status: 0
+SRR980588	18118336 reads; of these:
+SRR980588	  18118336 (100.00%) were paired; of these:
+SRR980588	    18079428 (99.79%) aligned concordantly 0 times
+SRR980588	    17169 (0.09%) aligned concordantly exactly 1 time
+SRR980588	    21739 (0.12%) aligned concordantly >1 times
+SRR980588	    ----
+SRR980588	    18079428 pairs aligned concordantly 0 times; of these:
+SRR980588	      33 (0.00%) aligned discordantly 1 time
+SRR980588	    ----
+SRR980588	    18079395 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980588	      36158790 mates make up the pairs; of these:
+SRR980588	        36142142 (99.95%) aligned 0 times
+SRR980588	        3881 (0.01%) aligned exactly 1 time
+SRR980588	        12767 (0.04%) aligned >1 times
+SRR980588	0.26% overall alignment rate
+SRR980588	[samopen] SAM header is present: 593 sequences.
+SRR980588	[bam_sort_core] merging from 3 files...
+SRR980588	[mpileup] 1 samples in 1 input files
+SRR980588	<mpileup> Set max per-file depth to 8000
+SRR980588	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980588	  vals = special.bdtr(k, n, p)
+SRR980588	Attempting to read 7 loci from ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt
+SRR980588	Read ST database /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt successfully
+SRR980588		Command being timed: "srst2 --input_pe SRR980588/reads_1.fastq.gz SRR980588/reads_2.fastq.gz --output SRR980588/srst2.mlst/out --log --mlst_db /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//Enterococcus_faecium.fasta --mlst_definitions /mnt/docker/ARIBA/E_faecium/Ref/srst2.mlst//efaecium.txt --mlst_delimiter _"
+SRR980588		User time (seconds): 2229.75
+SRR980588		System time (seconds): 44.44
+SRR980588		Percent of CPU this job got: 101%
+SRR980588		Elapsed (wall clock) time (h:mm:ss or m:ss): 37:22.44
+SRR980588		Average shared text size (kbytes): 0
+SRR980588		Average unshared data size (kbytes): 0
+SRR980588		Average stack size (kbytes): 0
+SRR980588		Average total size (kbytes): 0
+SRR980588		Maximum resident set size (kbytes): 672272
+SRR980588		Average resident set size (kbytes): 0
+SRR980588		Major (requiring I/O) page faults: 0
+SRR980588		Minor (reclaiming a frame) page faults: 573213
+SRR980588		Voluntary context switches: 2275414
+SRR980588		Involuntary context switches: 557636
+SRR980588		Swaps: 0
+SRR980588		File system inputs: 16
+SRR980588		File system outputs: 8483064
+SRR980588		Socket messages sent: 0
+SRR980588		Socket messages received: 0
+SRR980588		Signals delivered: 0
+SRR980588		Page size (bytes): 4096
+SRR980588		Exit status: 0

@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	ErmC_MLS	MsrC_MLS	TetL_Tet	TetM_Tet
+reads	Aac6-Ii_591*	ErmT_854*	MsrC_304*	TetL_1674*?	TetM_831*

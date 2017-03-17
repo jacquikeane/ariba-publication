@@ -1,0 +1,16 @@
+Sample	DB	gene	allele	coverage	depth	diffs	uncertainty	divergence	length	maxMAF	clusterid	seqid	annotation
+reads	ARGannot.r1	VanB_Gly	VanB_1060	100.0	605.818	1snp		0.097	1029	0.298	120	1060	yes;no;VanB;Gly;AY655721;4857-5885;1029
+reads	ARGannot.r1	Ant6-Ia_AGly	Ant6-Ia_1633	100.0	1171.356			0.0	909	0.055	153	1633	no;yes;Ant6-Ia;AGly;X92945;37965-38873;909
+reads	ARGannot.r1	ErmB_MLS	ErmB_841	100.0	1137.095	3snp		0.407	738	0.28	323	841	no;no;ErmB;MLS;M11180;714-1451;738
+reads	ARGannot.r1	VanS-B_Gly	VanS-B_1672	100.0	730.469	3snp		0.223	1343	0.031	47	1672	no;yes;VanS-B;Gly;AY655721;731-2073;1343
+reads	ARGannot.r1	Aph3-III_AGly	Aph3-III_268	100.0	1099.758			0.0	795	0.033	277	268	no;yes;Aph3-III;AGly;X92945;39505-40299;795
+reads	ARGannot.r1	MsrC_MLS	MsrC_304	100.0	746.2	16snp		1.082	1479	0.118	36	304	no;no;MsrC;MLS;AY004350;496-1974;1479
+reads	ARGannot.r1	Aac6-Aph2_AGly	Aac6-Aph2_1686	100.0	583.965			0.0	1440	0.023	41	1686	no;yes;Aac6-Aph2;AGly;M13771;304-1743;1440
+reads	ARGannot.r1	VanH-B_Gly	VanH-B_552	100.0	623.633	6snp		0.617	972	0.035	133	552	no;yes;VanH-B;Gly;AF192329;27871-28842;972
+reads	ARGannot.r1	VanX-B_Gly	VanX-B_1191	100.0	628.954			0.0	609	0.105	381	1191	no;yes;VanX-B;Gly;AY655721;5891-6499;609
+reads	ARGannot.r1	LnuB_MLS	LnuB_1508	100.0	1125.168	1snp		0.124	804	0.031	267	1508	no;no;LnuB;MLS;AJ238249;127-930;804
+reads	ARGannot.r1	VanW-B_Gly	VanW-B_487	100.0	692.883	1snp		0.121	828	0.154	239	487	no;no;VanW-B;Gly;AY655721;3069-3896;828
+reads	ARGannot.r1	VanY-B_Gly	VanY-B_1502	100.0	674.241			0.0	807	0.049	262	1502	no;yes;VanY-B;Gly;AY655721;2245-3051;807
+reads	ARGannot.r1	VanR-B_Gly	VanR-B_1472	100.0	638.067			0.0	660	0.029	350	1472	no;yes;VanR-B;Gly;AY655721;69-728;660
+reads	ARGannot.r1	TetM_Tet	TetM_831	99.844	1723.739	53snp3indel		2.76	1920	0.063	13	831	no;no;TetM;Tet;U08812;1981-3900;1920
+reads	ARGannot.r1	Aac6-Ii_AGly	Aac6-Ii_591	100.0	696.467	2snp		0.364	549	0.021	402	591	no;yes;Aac6-Ii;AGly;L12710;169-717;549

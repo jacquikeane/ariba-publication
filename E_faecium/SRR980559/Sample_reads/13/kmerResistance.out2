@@ -1,0 +1,4 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    4794	      34	  4692.8	2.62e-23	   73.92	   89.12	11.89	   73.92	   89.12	11.89	    5379	gi|383327320|ref|NC_017022.1|
+Enterococcus_faecium_Aus0085_uid214432	     149	      35	    71.2	2.62e-13	    2.83	    2.72	0.45	   73.88	   86.95	11.84	    5471	gi|529232713|ref|NC_021994.1|
+Enterococcus_faecium_NRRL_B_2354_uid188477	      88	      32	    26.4	2.62e-03	    1.75	    1.76	0.31	   64.88	   86.18	11.54	    5014	gi|447911521|ref|NC_020207.1|

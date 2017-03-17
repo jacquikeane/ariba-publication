@@ -1,0 +1,2 @@
+Sample	Aac6-Aph2_AGly	Ant6-Ia_AGly	Aph3-III_AGly	ErmB_MLS
+subset.1.reads	Aac6-Aph2_1686*?	Ant6-Ia_1633*?	Aph3-III_268*?	ErmB_841*?

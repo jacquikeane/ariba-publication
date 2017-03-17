@@ -1,0 +1,17 @@
+Sample	DB	gene	allele	coverage	depth	diffs	uncertainty	divergence	length	maxMAF	clusterid	seqid	annotation
+reads	ARGannot.r1	VanH-B_Gly	VanH-B_552	100.0	369.562	6snp		0.617	972	0.038	133	552	no;yes;VanH-B;Gly;AF192329;27871-28842;972
+reads	ARGannot.r1	Ant6-Ia_AGly	Ant6-Ia_1633	100.0	818.87			0.0	909	0.077	153	1633	no;yes;Ant6-Ia;AGly;X92945;37965-38873;909
+reads	ARGannot.r1	VanY-B_Gly	VanY-B_1502	100.0	420.579			0.0	807	0.065	262	1502	no;yes;VanY-B;Gly;AY655721;2245-3051;807
+reads	ARGannot.r1	VanS-B_Gly	VanS-B_1672	100.0	440.341	3snp		0.223	1343	0.032	47	1672	no;yes;VanS-B;Gly;AY655721;731-2073;1343
+reads	ARGannot.r1	VanR-B_Gly	VanR-B_1472	100.0	392.277			0.0	660	0.036	350	1472	no;yes;VanR-B;Gly;AY655721;69-728;660
+reads	ARGannot.r1	Sat4A_AGly	Sat4A_586	91.529	562.647	7snp46holes		1.408	543	0.184	407	586	no;no;Sat4A;AGly;X92945;38870-39412;543
+reads	ARGannot.r1	TetM_Tet	TetM_831	99.948	500.086	17snp1indel		0.885	1920	0.076	13	831	no;no;TetM;Tet;U08812;1981-3900;1920
+reads	ARGannot.r1	MsrC_MLS	MsrC_304	100.0	487.986	16snp		1.082	1479	0.109	36	304	no;no;MsrC;MLS;AY004350;496-1974;1479
+reads	ARGannot.r1	VanB_Gly	VanB_1060	100.0	383.523	1snp		0.097	1029	0.324	120	1060	yes;no;VanB;Gly;AY655721;4857-5885;1029
+reads	ARGannot.r1	VanX-B_Gly	VanX-B_1191	100.0	390.507			0.0	609	0.086	381	1191	no;yes;VanX-B;Gly;AY655721;5891-6499;609
+reads	ARGannot.r1	LnuB_MLS	LnuB_1508	100.0	815.355	1snp		0.124	804	0.025	267	1508	no;no;LnuB;MLS;AJ238249;127-930;804
+reads	ARGannot.r1	VanW-B_Gly	VanW-B_487	100.0	427.057	1snp		0.121	828	0.164	239	487	no;no;VanW-B;Gly;AY655721;3069-3896;828
+reads	ARGannot.r1	Aph3-III_AGly	Aph3-III_268	100.0	726.408			0.0	795	0.035	277	268	no;yes;Aph3-III;AGly;X92945;39505-40299;795
+reads	ARGannot.r1	Aac6-Aph2_AGly	Aac6-Aph2_1686	100.0	944.28			0.0	1440	0.022	41	1686	no;yes;Aac6-Aph2;AGly;M13771;304-1743;1440
+reads	ARGannot.r1	ErmB_MLS	ErmB_841	100.0	806.873	3snp		0.407	738	0.293	323	841	no;no;ErmB;MLS;M11180;714-1451;738
+reads	ARGannot.r1	Aac6-Ii_AGly	Aac6-Ii_591	100.0	423.647	2snp		0.364	549	0.03	402	591	no;yes;Aac6-Ii;AGly;L12710;169-717;549

@@ -1,0 +1,9 @@
+input fasta file:	ariba_db.mlst/pubmlst_download/atpA.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/ddl.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/gdh.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/purK.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/gyd.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/pstS.tfa
+input fasta file:	ariba_db.mlst/pubmlst_download/adk.tfa
+input tsv file:	ariba_db.mlst/ref_db/00.auto_metadata.tsv
+genetic_code	11

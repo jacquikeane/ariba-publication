@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	ErmB_MLS	MsrC_MLS	VanB_Gly	VanH-B_Gly	VanR-B_Gly	VanW-B_Gly	VanX-B_Gly	VanY-B_Gly
+subset.21.reads	DfrG_1081*?	ErmB_841*?	MsrC_304*?	VanB_1060	VanH-B_552*	VanR-B_1472*?	VanW-B_487*?	VanX-B_1191	VanY-B_1502*?

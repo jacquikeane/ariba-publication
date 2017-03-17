@@ -1,0 +1,3 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Shigella_sonnei_Ss046_uid58217	    9169	     365	  8129.5	2.62e-23	   93.39	   99.16	23.04	   93.39	   99.16	23.04	    9247	gi|74310614|ref|NC_007384.1|
+Salmonella_enterica_serovar_Dublin_CT_02021853_uid58917	    1267	     418	   428.2	2.62e-23	    0.51	   11.98	0.13	    6.73	   18.03	1.71	   10577	gi|198241740|ref|NC_011205.1|

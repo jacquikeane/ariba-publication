@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	ErmB_MLS
+subset.1.reads	DfrG_1081*?	ErmB_841*?

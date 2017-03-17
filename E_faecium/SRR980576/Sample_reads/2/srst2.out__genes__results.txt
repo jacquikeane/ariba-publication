@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Aph3-III_AGly	ErmB_MLS	VanR-B_Gly	VanY-B_Gly
+subset.2.reads	Aac6-Ii_591*?	Aph3-III_268*?	ErmB_841*?	VanR-B_1472*?	VanY-B_1502*?

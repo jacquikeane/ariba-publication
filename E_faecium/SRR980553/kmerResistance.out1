@@ -1,0 +1,6 @@
+#Template	GenBank	Score	Expected	Kmers in Template	Coverage	Coverage_Corr	Depth	Depth_corr	q_value	p_value	q_best	p_best	Class	Phenotype	PubMed
+gi|389867183|ref|NC_017960.1|	Enterococcus_faecium_DO_uid55353	    4908	     491	    5063	   96.94	0.63212056	  843.77	0.63212056	 3612.87	2.6e-23	43816.64	1.0e-26	na	na	na
+417         	1081        	     483	      56	     483	  100.00	0.64355705	  918.17	0.66317183	13022.21	1.0e-26	 3614.17	1.0e-26	yes;no;DfrG;Tmt;AB205645;1013-1510;498
+402         	591         	     515	      62	     534	   96.44	0.63023104	  875.60	0.64573858	10526.94	1.0e-26	 3680.07	1.0e-26	no;yes;Aac6-Ii;AGly;L12710;169-717;549
+36          	304         	    1367	     171	    1464	   93.37	0.61834255	  820.04	0.62162683	 2451.78	1.0e-26	 9377.36	1.0e-26	no;no;MsrC;MLS;AY004350;496-1974;1479
+13          	831         	    1775	     221	    1905	   93.18	0.61756038	  693.23	0.56026605	 1005.92	1.0e-26	12146.60	1.0e-26	no;no;TetM;Tet;U08812;1981-3900;1920

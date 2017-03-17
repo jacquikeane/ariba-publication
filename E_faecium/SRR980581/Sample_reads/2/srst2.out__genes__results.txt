@@ -1,0 +1,2 @@
+Sample	Ant6-Ia_AGly	Aph3-III_AGly	TetM_Tet
+subset.2.reads	Ant6-Ia_1633*?	Aph3-III_268*?	TetM_831*

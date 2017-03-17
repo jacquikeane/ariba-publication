@@ -1,0 +1,7 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0085_uid214432	    4882	     102	  4584.4	2.62e-23	   73.78	   89.23	89.16	   73.78	   89.23	89.16	    5471	gi|529232713|ref|NC_021994.1|
+Enterococcus_faecium_Aus0004_uid87025	     205	     100	    35.9	2.62e-05	    4.36	    3.81	5.29	   73.53	   89.76	89.15	    5379	gi|383327320|ref|NC_017022.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     196	     102	    29.4	2.62e-04	    0.41	    3.57	0.51	    4.21	    7.85	5.20	    5493	gi|392987295|ref|NC_018081.1|
+Carnobacterium_maltaromaticum_LMA28_uid179370	     195	     110	    23.4	2.62e-02	    0.35	    3.29	0.39	    1.49	    4.27	1.67	    5923	gi|508605261|ref|NC_019425.2|
+Flavobacterium_johnsoniae_UW101_uid58493	     231	     138	    23.2	2.62e-02	    0.25	    3.11	0.23	    1.17	    3.76	1.07	    7421	gi|146297766|ref|NC_009441.1|
+Clostridium_botulinum_E3_Alaska_E43_uid59157	     136	      68	    22.9	2.62e-02	    0.09	    3.74	0.16	    0.53	    4.60	0.98	    3633	gi|188587536|ref|NC_010723.1|

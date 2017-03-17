@@ -1,0 +1,26 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0085_uid214432	    4890	     277	  4119.6	2.62e-23	   74.42	   89.38	459.16	   74.42	   89.38	459.16	    5471	gi|529232713|ref|NC_021994.1|
+Streptococcus_macedonicus_ACA_DC_198_uid81631	     443	     258	    48.8	2.62e-08	    0.68	    8.68	4.54	    1.32	    9.33	8.77	    5104	gi|374337044|ref|NC_016749.1|
+Staphylococcus_pseudintermedius_ED99_uid162109	     611	     401	    43.5	2.62e-07	    0.59	    7.70	2.57	    1.34	    8.29	5.85	    7935	gi|386318029|ref|NC_017568.1|
+Enterococcus_casseliflavus_EC20_uid55693	     629	     369	    67.6	2.62e-12	    0.55	    8.61	2.65	    2.65	   10.08	12.64	    7304	gi|478483683|ref|NC_020995.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     558	     278	    94.0	2.62e-18	    0.46	   10.16	2.90	    4.67	   14.80	29.46	    5493	gi|392987295|ref|NC_018081.1|
+Enterococcus_faecalis_Symbioflor_1_uid183342	     478	     260	    64.5	2.62e-12	    0.41	    9.30	2.74	    3.15	   12.10	21.00	    5140	gi|428765681|ref|NC_019770.1|
+Alkaliphilus_metalliredigens_QYMF_uid58171	     657	     478	    28.3	2.62e-03	    0.31	    6.95	1.09	    1.03	    7.76	3.65	    9450	gi|150387853|ref|NC_009633.1|
+Belliella_baltica_DSM_15883_uid168182	     484	     336	    26.9	2.62e-03	    0.21	    7.29	1.06	    0.74	    8.27	3.78	    6639	gi|390941666|ref|NC_018010.1|
+Brachyspira_intermedia_PWS_A_uid158369	     332	     177	    47.4	2.62e-08	    0.20	    9.49	2.00	    0.53	   11.18	5.18	    3497	gi|384207496|ref|NC_017243.1|
+Flexibacter_litoralis_DSM_6794_uid168257	     567	     306	    77.8	2.62e-14	    0.20	    9.36	1.11	    0.67	   10.94	3.72	    6060	gi|392395704|ref|NC_018018.1|
+Trichodesmium_erythraeum_IMS101_uid57925	     669	     512	    20.9	2.62e-02	    0.18	    6.61	0.56	    1.19	    7.75	3.63	   10124	gi|113473942|ref|NC_008312.1|
+Enterococcus_mundtii_QU_25_uid229420	     595	     328	    77.3	2.62e-14	    0.17	    9.17	0.93	    3.62	   13.35	19.33	    6488	gi|558684762|ref|NC_022878.1|
+Clostridium_phytofermentans_ISDg_uid58519	     505	     369	    21.2	2.62e-02	    0.15	    6.92	0.72	    0.95	    8.56	4.49	    7300	gi|160878162|ref|NC_010001.1|
+Bacillus_cereus_ATCC_10987_uid57673	     587	     409	    31.9	2.62e-04	    0.14	    7.26	0.59	    1.26	    9.10	5.39	    8085	gi|42779081|ref|NC_003909.8|
+Lactococcus_lactis_cremoris_NZ9000_uid167481	     444	     277	    38.7	2.62e-06	    0.13	    8.10	0.81	    1.21	   10.57	7.36	    5480	gi|389853198|ref|NC_017949.1|
+Polaribacter_MED152_uid54207	     243	     151	    21.5	2.62e-02	    0.13	    8.14	1.55	    0.47	   10.45	5.50	    2987	gi|472320519|ref|NC_020830.1|
+Clostridium_beijerinckii_NCIMB_8052_uid58137	     520	     346	    35.0	2.62e-05	    0.13	    7.60	0.65	    0.74	   10.04	3.64	    6842	gi|150014892|ref|NC_009617.1|
+Clostridium_botulinum_E3_Alaska_E43_uid59157	     306	     184	    30.6	2.62e-04	    0.10	    8.42	0.92	    0.42	   11.34	3.93	    3633	gi|188587536|ref|NC_010723.1|
+Carnobacterium_maltaromaticum_LMA28_uid179370	     447	     299	    29.2	2.62e-04	    0.06	    7.55	0.36	    1.60	   10.52	9.15	    5923	gi|508605261|ref|NC_019425.2|
+Arcobacter_nitrofigilis_DSM_7299_uid49001	     296	     186	    25.1	2.62e-03	    0.04	    8.05	0.40	    0.45	   11.88	4.26	    3678	gi|296271545|ref|NC_014166.1|
+Mycoplasma_penetrans_HF_2_uid57729	     160	      85	    22.7	2.62e-02	    0.04	    9.47	0.77	    0.40	   13.14	7.80	    1690	gi|26553452|ref|NC_004432.1|
+Melissococcus_plutonius_DAT561_uid89371	     250	     149	    25.4	2.62e-03	    0.02	    8.46	0.28	    0.91	   13.10	10.74	    2955	gi|379726618|ref|NC_016938.1|
+Listeria_monocytogenes_uid43671	     388	     274	    19.7	2.62e-02	    0.01	    7.17	0.09	    0.76	    9.86	4.92	    5415	gi|662858600|ref|NC_013766.2|
+Leptotrichia_buccalis_C_1013_b_uid59211	     215	     129	    21.7	2.62e-02	    0.01	    8.44	0.12	    0.30	   12.41	4.07	    2546	gi|257124814|ref|NC_013192.1|
+Arcobacter_butzleri_RM4018_uid58557	     187	     109	    20.4	2.62e-02	    0.01	    8.65	0.13	    0.28	   13.79	4.46	    2161	gi|157736271|ref|NC_009850.1|

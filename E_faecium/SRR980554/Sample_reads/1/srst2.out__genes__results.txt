@@ -1,0 +1,2 @@
+Sample	ErmB_MLS
+subset.1.reads	ErmB_841*?

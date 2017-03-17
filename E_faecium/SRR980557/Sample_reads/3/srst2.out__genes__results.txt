@@ -1,0 +1,2 @@
+Sample	VanB_Gly	VanH-B_Gly
+subset.3.reads	VanB_1060*?	VanH-B_552*?

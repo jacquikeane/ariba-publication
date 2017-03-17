@@ -1,0 +1,2 @@
+Sample	CatA_Phe	Sat4A_AGly	TetM_Tet
+subset.1.reads	Cat-pC223_1184*?	Sat4A_586?	TetM_831*?

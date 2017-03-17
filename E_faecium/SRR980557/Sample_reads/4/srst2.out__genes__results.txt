@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	VanB_Gly	VanH-B_Gly	VanX-B_Gly
+subset.4.reads	DfrG_1081*?	VanB_1060*?	VanH-B_552*?	VanX-B_1191?

@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	Aac6-Im_AGly	Ant6-Ia_AGly	Aph2-Ib_AGly	Aph3-III_AGly	ErmB_MLS	MsrC_MLS	Sat4A_AGly	VanB_Gly
+reads	Aac6-Ii_591*	Aac6-Im_594	Ant6-Ia_1633	Aph2-Ib_1453*	Aph3-III_268*	ErmB_841*	MsrC_304*	Sat4A_586	VanB_1060*?

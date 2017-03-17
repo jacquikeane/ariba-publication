@@ -1,0 +1,5 @@
+input fasta file:	card.getref.fa
+input fasta file:	ref_data.sequences.fa
+input tsv file:	card.getref.tsv
+input tsv file:	ref_data.metadata.tsv
+genetic_code	11

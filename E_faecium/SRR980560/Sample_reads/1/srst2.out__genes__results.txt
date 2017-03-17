@@ -1,0 +1,2 @@
+Sample	Aph2-Ib_AGly	Aph3-III_AGly
+subset.1.reads	Aph2-Ib_1453*?	Aph3-III_268*?

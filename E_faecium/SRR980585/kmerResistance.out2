@@ -1,0 +1,19 @@
+#Template	Score	Expected	z	p_value	query coverage [%]	template coverage [%]	depth	total query coverage [%]	total template coverage [%]	total depth	Kmers in Template	Description
+Enterococcus_faecium_Aus0004_uid87025	    5054	     158	  4600.5	2.62e-23	   79.85	   93.96	259.83	   79.85	   93.96	259.83	    5379	gi|383327320|ref|NC_017022.1|
+Streptococcus_lutetiensis_033_uid213397	     221	     133	    22.1	2.62e-02	    0.84	    4.88	3.35	    1.71	    5.68	6.86	    4526	gi|527329219|ref|NC_021900.1|
+Carnobacterium_maltaromaticum_LMA28_uid179370	     348	     173	    58.4	2.62e-10	    0.53	    5.88	1.60	    1.48	    6.87	4.44	    5923	gi|508605261|ref|NC_019425.2|
+Clostridium_pasteurianum_BC1_uid201478	     289	     172	    29.9	2.62e-04	    0.49	    4.93	1.43	    0.98	    5.65	2.89	    5862	gi|488768999|ref|NC_021182.1|
+Spiroplasma_chrysopicola_DF_1_uid205053	     117	      48	    28.4	2.62e-04	    0.34	    7.07	3.69	    0.53	    8.16	5.72	    1654	gi|507379056|ref|NC_021280.1|
+Tetragenococcus_halophilus_uid74441	     229	     132	    26.0	2.62e-03	    0.27	    5.07	1.02	    1.33	    6.51	5.12	    4513	gi|352516173|ref|NC_016052.1|
+Enterococcus_faecalis_V583_uid57669	     307	     167	    41.5	2.62e-06	    0.26	    5.39	0.83	    2.99	    8.01	9.51	    5695	gi|29374661|ref|NC_004668.1|
+Enterococcus_casseliflavus_EC20_uid55693	     320	     214	    21.1	2.62e-02	    0.24	    4.38	0.59	    2.50	    6.17	6.27	    7304	gi|478483683|ref|NC_020995.1|
+Clostridium_perfringens_ATCC_13124_uid57901	     192	      93	    34.2	2.62e-05	    0.21	    6.03	1.22	    0.51	    7.01	2.91	    3182	gi|110798562|ref|NC_008261.1|
+Flavobacterium_johnsoniae_UW101_uid58493	     365	     217	    37.4	2.62e-06	    0.21	    4.92	0.51	    1.19	    5.96	2.91	    7421	gi|146297766|ref|NC_009441.1|
+Enterococcus_mundtii_QU_25_uid229420	     312	     190	    29.6	2.62e-04	    0.18	    4.81	0.50	    3.28	    8.37	9.21	    6488	gi|558684762|ref|NC_022878.1|
+Enterococcus_hirae_ATCC_9790_uid70619	     264	     161	    25.0	2.62e-03	    0.14	    4.81	0.47	    3.90	    9.76	12.92	    5493	gi|392987295|ref|NC_018081.1|
+Fusobacterium_4_8_uid205051	     122	      58	    23.0	2.62e-02	    0.13	    6.19	1.16	    0.31	    8.47	2.78	    1971	gi|507380240|ref|NC_021281.1|
+Clostridium_difficile_630_uid57679	     250	     160	    19.8	2.62e-02	    0.11	    4.58	0.35	    0.97	    6.39	3.13	    5461	gi|126697566|ref|NC_009089.1|
+Flavobacterium_branchiophilum_FL_15_uid73421	     231	     135	    24.9	2.62e-03	    0.09	    4.99	0.34	    0.37	    6.49	1.43	    4625	gi|347534971|ref|NC_016001.1|
+Arcobacter_nitrofigilis_DSM_7299_uid49001	     195	     108	    25.2	2.62e-03	    0.08	    5.30	0.40	    0.58	    7.80	2.84	    3678	gi|296271545|ref|NC_014166.1|
+Flexibacter_litoralis_DSM_6794_uid168257	     307	     177	    34.6	2.62e-05	    0.07	    5.07	0.20	    0.79	    7.18	2.31	    6060	gi|392395704|ref|NC_018018.1|
+Clostridium_saccharoperbutylacetonicum_ATCC_27021_uid189747	     314	     209	    21.0	2.62e-02	    0.06	    4.40	0.15	    0.67	    6.09	1.67	    7144	gi|451816898|ref|NC_020291.1|

@@ -1,0 +1,2 @@
+Sample	ErmB_MLS	ErmC_MLS	MsrC_MLS	TetM_Tet	VanB_Gly	VanS-B_Gly	VanX-B_Gly	VanY-B_Gly
+subset.3.reads	ErmB_841*?	ErmT_854*?	MsrC_304*?	TetM_831*?	VanB_1060?	VanS-B_1672*?	VanX-B_1191*?	VanY-B_1502*?

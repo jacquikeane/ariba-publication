@@ -1,0 +1,1025 @@
+SRR980548	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980548	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980548/ariba.mlst/report.tsv
+SRR980548		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980548/reads_1.fastq.gz SRR980548/reads_2.fastq.gz SRR980548/ariba.mlst"
+SRR980548		User time (seconds): 195.64
+SRR980548		System time (seconds): 7.78
+SRR980548		Percent of CPU this job got: 67%
+SRR980548		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:00.90
+SRR980548		Average shared text size (kbytes): 0
+SRR980548		Average unshared data size (kbytes): 0
+SRR980548		Average stack size (kbytes): 0
+SRR980548		Average total size (kbytes): 0
+SRR980548		Maximum resident set size (kbytes): 123864
+SRR980548		Average resident set size (kbytes): 0
+SRR980548		Major (requiring I/O) page faults: 0
+SRR980548		Minor (reclaiming a frame) page faults: 1567815
+SRR980548		Voluntary context switches: 7182
+SRR980548		Involuntary context switches: 553314
+SRR980548		Swaps: 0
+SRR980548		File system inputs: 6517256
+SRR980548		File system outputs: 341560
+SRR980548		Socket messages sent: 0
+SRR980548		Socket messages received: 0
+SRR980548		Signals delivered: 0
+SRR980548		Page size (bytes): 4096
+SRR980548		Exit status: 0
+SRR980549	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980549	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980549/ariba.mlst/report.tsv
+SRR980549		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980549/reads_1.fastq.gz SRR980549/reads_2.fastq.gz SRR980549/ariba.mlst"
+SRR980549		User time (seconds): 160.97
+SRR980549		System time (seconds): 7.94
+SRR980549		Percent of CPU this job got: 68%
+SRR980549		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:08.31
+SRR980549		Average shared text size (kbytes): 0
+SRR980549		Average unshared data size (kbytes): 0
+SRR980549		Average stack size (kbytes): 0
+SRR980549		Average total size (kbytes): 0
+SRR980549		Maximum resident set size (kbytes): 124040
+SRR980549		Average resident set size (kbytes): 0
+SRR980549		Major (requiring I/O) page faults: 5
+SRR980549		Minor (reclaiming a frame) page faults: 1536306
+SRR980549		Voluntary context switches: 5798
+SRR980549		Involuntary context switches: 467480
+SRR980549		Swaps: 0
+SRR980549		File system inputs: 5197384
+SRR980549		File system outputs: 325912
+SRR980549		Socket messages sent: 0
+SRR980549		Socket messages received: 0
+SRR980549		Signals delivered: 0
+SRR980549		Page size (bytes): 4096
+SRR980549		Exit status: 0
+SRR980550	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980550	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980550/ariba.mlst/report.tsv
+SRR980550		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980550/reads_1.fastq.gz SRR980550/reads_2.fastq.gz SRR980550/ariba.mlst"
+SRR980550		User time (seconds): 229.68
+SRR980550		System time (seconds): 8.32
+SRR980550		Percent of CPU this job got: 70%
+SRR980550		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:36.12
+SRR980550		Average shared text size (kbytes): 0
+SRR980550		Average unshared data size (kbytes): 0
+SRR980550		Average stack size (kbytes): 0
+SRR980550		Average total size (kbytes): 0
+SRR980550		Maximum resident set size (kbytes): 124352
+SRR980550		Average resident set size (kbytes): 0
+SRR980550		Major (requiring I/O) page faults: 0
+SRR980550		Minor (reclaiming a frame) page faults: 1559540
+SRR980550		Voluntary context switches: 8296
+SRR980550		Involuntary context switches: 494116
+SRR980550		Swaps: 0
+SRR980550		File system inputs: 7566128
+SRR980550		File system outputs: 372864
+SRR980550		Socket messages sent: 0
+SRR980550		Socket messages received: 0
+SRR980550		Signals delivered: 0
+SRR980550		Page size (bytes): 4096
+SRR980550		Exit status: 0
+SRR980551	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980551	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980551/ariba.mlst/report.tsv
+SRR980551		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980551/reads_1.fastq.gz SRR980551/reads_2.fastq.gz SRR980551/ariba.mlst"
+SRR980551		User time (seconds): 163.78
+SRR980551		System time (seconds): 9.70
+SRR980551		Percent of CPU this job got: 75%
+SRR980551		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:50.72
+SRR980551		Average shared text size (kbytes): 0
+SRR980551		Average unshared data size (kbytes): 0
+SRR980551		Average stack size (kbytes): 0
+SRR980551		Average total size (kbytes): 0
+SRR980551		Maximum resident set size (kbytes): 124724
+SRR980551		Average resident set size (kbytes): 0
+SRR980551		Major (requiring I/O) page faults: 0
+SRR980551		Minor (reclaiming a frame) page faults: 1848381
+SRR980551		Voluntary context switches: 7123
+SRR980551		Involuntary context switches: 180012
+SRR980551		Swaps: 0
+SRR980551		File system inputs: 5155248
+SRR980551		File system outputs: 345584
+SRR980551		Socket messages sent: 0
+SRR980551		Socket messages received: 0
+SRR980551		Signals delivered: 0
+SRR980551		Page size (bytes): 4096
+SRR980551		Exit status: 0
+SRR980552	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980552	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980552/ariba.mlst/report.tsv
+SRR980552		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980552/reads_1.fastq.gz SRR980552/reads_2.fastq.gz SRR980552/ariba.mlst"
+SRR980552		User time (seconds): 208.68
+SRR980552		System time (seconds): 7.67
+SRR980552		Percent of CPU this job got: 75%
+SRR980552		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:47.31
+SRR980552		Average shared text size (kbytes): 0
+SRR980552		Average unshared data size (kbytes): 0
+SRR980552		Average stack size (kbytes): 0
+SRR980552		Average total size (kbytes): 0
+SRR980552		Maximum resident set size (kbytes): 124400
+SRR980552		Average resident set size (kbytes): 0
+SRR980552		Major (requiring I/O) page faults: 0
+SRR980552		Minor (reclaiming a frame) page faults: 1562144
+SRR980552		Voluntary context switches: 8895
+SRR980552		Involuntary context switches: 392774
+SRR980552		Swaps: 0
+SRR980552		File system inputs: 6852872
+SRR980552		File system outputs: 359264
+SRR980552		Socket messages sent: 0
+SRR980552		Socket messages received: 0
+SRR980552		Signals delivered: 0
+SRR980552		Page size (bytes): 4096
+SRR980552		Exit status: 0
+SRR980553	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980553	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980553/ariba.mlst/report.tsv
+SRR980553		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980553/reads_1.fastq.gz SRR980553/reads_2.fastq.gz SRR980553/ariba.mlst"
+SRR980553		User time (seconds): 195.01
+SRR980553		System time (seconds): 6.82
+SRR980553		Percent of CPU this job got: 72%
+SRR980553		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:36.80
+SRR980553		Average shared text size (kbytes): 0
+SRR980553		Average unshared data size (kbytes): 0
+SRR980553		Average stack size (kbytes): 0
+SRR980553		Average total size (kbytes): 0
+SRR980553		Maximum resident set size (kbytes): 124600
+SRR980553		Average resident set size (kbytes): 0
+SRR980553		Major (requiring I/O) page faults: 0
+SRR980553		Minor (reclaiming a frame) page faults: 1555415
+SRR980553		Voluntary context switches: 8142
+SRR980553		Involuntary context switches: 247681
+SRR980553		Swaps: 0
+SRR980553		File system inputs: 6320920
+SRR980553		File system outputs: 354560
+SRR980553		Socket messages sent: 0
+SRR980553		Socket messages received: 0
+SRR980553		Signals delivered: 0
+SRR980553		Page size (bytes): 4096
+SRR980553		Exit status: 0
+SRR980554	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980554	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980554/ariba.mlst/report.tsv
+SRR980554		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980554/reads_1.fastq.gz SRR980554/reads_2.fastq.gz SRR980554/ariba.mlst"
+SRR980554		User time (seconds): 198.84
+SRR980554		System time (seconds): 7.22
+SRR980554		Percent of CPU this job got: 73%
+SRR980554		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:38.80
+SRR980554		Average shared text size (kbytes): 0
+SRR980554		Average unshared data size (kbytes): 0
+SRR980554		Average stack size (kbytes): 0
+SRR980554		Average total size (kbytes): 0
+SRR980554		Maximum resident set size (kbytes): 124688
+SRR980554		Average resident set size (kbytes): 0
+SRR980554		Major (requiring I/O) page faults: 0
+SRR980554		Minor (reclaiming a frame) page faults: 1546700
+SRR980554		Voluntary context switches: 8304
+SRR980554		Involuntary context switches: 244299
+SRR980554		Swaps: 0
+SRR980554		File system inputs: 6440720
+SRR980554		File system outputs: 362520
+SRR980554		Socket messages sent: 0
+SRR980554		Socket messages received: 0
+SRR980554		Signals delivered: 0
+SRR980554		Page size (bytes): 4096
+SRR980554		Exit status: 0
+SRR980555	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980555	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980555/ariba.mlst/report.tsv
+SRR980555		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980555/reads_1.fastq.gz SRR980555/reads_2.fastq.gz SRR980555/ariba.mlst"
+SRR980555		User time (seconds): 205.70
+SRR980555		System time (seconds): 6.96
+SRR980555		Percent of CPU this job got: 72%
+SRR980555		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:51.47
+SRR980555		Average shared text size (kbytes): 0
+SRR980555		Average unshared data size (kbytes): 0
+SRR980555		Average stack size (kbytes): 0
+SRR980555		Average total size (kbytes): 0
+SRR980555		Maximum resident set size (kbytes): 124708
+SRR980555		Average resident set size (kbytes): 0
+SRR980555		Major (requiring I/O) page faults: 0
+SRR980555		Minor (reclaiming a frame) page faults: 1560464
+SRR980555		Voluntary context switches: 9018
+SRR980555		Involuntary context switches: 316744
+SRR980555		Swaps: 0
+SRR980555		File system inputs: 6856816
+SRR980555		File system outputs: 353648
+SRR980555		Socket messages sent: 0
+SRR980555		Socket messages received: 0
+SRR980555		Signals delivered: 0
+SRR980555		Page size (bytes): 4096
+SRR980555		Exit status: 0
+SRR980556	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980556	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980556/ariba.mlst/report.tsv
+SRR980556		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980556/reads_1.fastq.gz SRR980556/reads_2.fastq.gz SRR980556/ariba.mlst"
+SRR980556		User time (seconds): 201.53
+SRR980556		System time (seconds): 6.88
+SRR980556		Percent of CPU this job got: 73%
+SRR980556		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:42.94
+SRR980556		Average shared text size (kbytes): 0
+SRR980556		Average unshared data size (kbytes): 0
+SRR980556		Average stack size (kbytes): 0
+SRR980556		Average total size (kbytes): 0
+SRR980556		Maximum resident set size (kbytes): 124476
+SRR980556		Average resident set size (kbytes): 0
+SRR980556		Major (requiring I/O) page faults: 0
+SRR980556		Minor (reclaiming a frame) page faults: 1552420
+SRR980556		Voluntary context switches: 8548
+SRR980556		Involuntary context switches: 332194
+SRR980556		Swaps: 0
+SRR980556		File system inputs: 6652288
+SRR980556		File system outputs: 358328
+SRR980556		Socket messages sent: 0
+SRR980556		Socket messages received: 0
+SRR980556		Signals delivered: 0
+SRR980556		Page size (bytes): 4096
+SRR980556		Exit status: 0
+SRR980557	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980557	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980557/ariba.mlst/report.tsv
+SRR980557		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980557/reads_1.fastq.gz SRR980557/reads_2.fastq.gz SRR980557/ariba.mlst"
+SRR980557		User time (seconds): 180.28
+SRR980557		System time (seconds): 8.00
+SRR980557		Percent of CPU this job got: 73%
+SRR980557		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:15.62
+SRR980557		Average shared text size (kbytes): 0
+SRR980557		Average unshared data size (kbytes): 0
+SRR980557		Average stack size (kbytes): 0
+SRR980557		Average total size (kbytes): 0
+SRR980557		Maximum resident set size (kbytes): 124388
+SRR980557		Average resident set size (kbytes): 0
+SRR980557		Major (requiring I/O) page faults: 0
+SRR980557		Minor (reclaiming a frame) page faults: 1569233
+SRR980557		Voluntary context switches: 8101
+SRR980557		Involuntary context switches: 361607
+SRR980557		Swaps: 0
+SRR980557		File system inputs: 6007552
+SRR980557		File system outputs: 329976
+SRR980557		Socket messages sent: 0
+SRR980557		Socket messages received: 0
+SRR980557		Signals delivered: 0
+SRR980557		Page size (bytes): 4096
+SRR980557		Exit status: 0
+SRR980558	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980558	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980558/ariba.mlst/report.tsv
+SRR980558		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980558/reads_1.fastq.gz SRR980558/reads_2.fastq.gz SRR980558/ariba.mlst"
+SRR980558		User time (seconds): 169.42
+SRR980558		System time (seconds): 6.81
+SRR980558		Percent of CPU this job got: 75%
+SRR980558		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:52.79
+SRR980558		Average shared text size (kbytes): 0
+SRR980558		Average unshared data size (kbytes): 0
+SRR980558		Average stack size (kbytes): 0
+SRR980558		Average total size (kbytes): 0
+SRR980558		Maximum resident set size (kbytes): 124368
+SRR980558		Average resident set size (kbytes): 0
+SRR980558		Major (requiring I/O) page faults: 0
+SRR980558		Minor (reclaiming a frame) page faults: 1595404
+SRR980558		Voluntary context switches: 7186
+SRR980558		Involuntary context switches: 490378
+SRR980558		Swaps: 0
+SRR980558		File system inputs: 5473544
+SRR980558		File system outputs: 325504
+SRR980558		Socket messages sent: 0
+SRR980558		Socket messages received: 0
+SRR980558		Signals delivered: 0
+SRR980558		Page size (bytes): 4096
+SRR980558		Exit status: 0
+SRR980559	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980559	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980559/ariba.mlst/report.tsv
+SRR980559		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980559/reads_1.fastq.gz SRR980559/reads_2.fastq.gz SRR980559/ariba.mlst"
+SRR980559		User time (seconds): 136.87
+SRR980559		System time (seconds): 6.20
+SRR980559		Percent of CPU this job got: 77%
+SRR980559		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.95
+SRR980559		Average shared text size (kbytes): 0
+SRR980559		Average unshared data size (kbytes): 0
+SRR980559		Average stack size (kbytes): 0
+SRR980559		Average total size (kbytes): 0
+SRR980559		Maximum resident set size (kbytes): 124428
+SRR980559		Average resident set size (kbytes): 0
+SRR980559		Major (requiring I/O) page faults: 0
+SRR980559		Minor (reclaiming a frame) page faults: 1571679
+SRR980559		Voluntary context switches: 6191
+SRR980559		Involuntary context switches: 477989
+SRR980559		Swaps: 0
+SRR980559		File system inputs: 4146504
+SRR980559		File system outputs: 326928
+SRR980559		Socket messages sent: 0
+SRR980559		Socket messages received: 0
+SRR980559		Signals delivered: 0
+SRR980559		Page size (bytes): 4096
+SRR980559		Exit status: 0
+SRR980560	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980560	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980560/ariba.mlst/report.tsv
+SRR980560		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980560/reads_1.fastq.gz SRR980560/reads_2.fastq.gz SRR980560/ariba.mlst"
+SRR980560		User time (seconds): 167.32
+SRR980560		System time (seconds): 7.04
+SRR980560		Percent of CPU this job got: 76%
+SRR980560		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:47.90
+SRR980560		Average shared text size (kbytes): 0
+SRR980560		Average unshared data size (kbytes): 0
+SRR980560		Average stack size (kbytes): 0
+SRR980560		Average total size (kbytes): 0
+SRR980560		Maximum resident set size (kbytes): 124368
+SRR980560		Average resident set size (kbytes): 0
+SRR980560		Major (requiring I/O) page faults: 0
+SRR980560		Minor (reclaiming a frame) page faults: 1566324
+SRR980560		Voluntary context switches: 7138
+SRR980560		Involuntary context switches: 381307
+SRR980560		Swaps: 0
+SRR980560		File system inputs: 5293504
+SRR980560		File system outputs: 334488
+SRR980560		Socket messages sent: 0
+SRR980560		Socket messages received: 0
+SRR980560		Signals delivered: 0
+SRR980560		Page size (bytes): 4096
+SRR980560		Exit status: 0
+SRR980561	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980561	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980561/ariba.mlst/report.tsv
+SRR980561		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980561/reads_1.fastq.gz SRR980561/reads_2.fastq.gz SRR980561/ariba.mlst"
+SRR980561		User time (seconds): 157.89
+SRR980561		System time (seconds): 6.96
+SRR980561		Percent of CPU this job got: 77%
+SRR980561		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:32.05
+SRR980561		Average shared text size (kbytes): 0
+SRR980561		Average unshared data size (kbytes): 0
+SRR980561		Average stack size (kbytes): 0
+SRR980561		Average total size (kbytes): 0
+SRR980561		Maximum resident set size (kbytes): 124352
+SRR980561		Average resident set size (kbytes): 0
+SRR980561		Major (requiring I/O) page faults: 0
+SRR980561		Minor (reclaiming a frame) page faults: 1565155
+SRR980561		Voluntary context switches: 6623
+SRR980561		Involuntary context switches: 543516
+SRR980561		Swaps: 0
+SRR980561		File system inputs: 4813192
+SRR980561		File system outputs: 341328
+SRR980561		Socket messages sent: 0
+SRR980561		Socket messages received: 0
+SRR980561		Signals delivered: 0
+SRR980561		Page size (bytes): 4096
+SRR980561		Exit status: 0
+SRR980562	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980562	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980562/ariba.mlst/report.tsv
+SRR980562		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980562/reads_1.fastq.gz SRR980562/reads_2.fastq.gz SRR980562/ariba.mlst"
+SRR980562		User time (seconds): 169.41
+SRR980562		System time (seconds): 6.96
+SRR980562		Percent of CPU this job got: 75%
+SRR980562		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:54.09
+SRR980562		Average shared text size (kbytes): 0
+SRR980562		Average unshared data size (kbytes): 0
+SRR980562		Average stack size (kbytes): 0
+SRR980562		Average total size (kbytes): 0
+SRR980562		Maximum resident set size (kbytes): 124468
+SRR980562		Average resident set size (kbytes): 0
+SRR980562		Major (requiring I/O) page faults: 0
+SRR980562		Minor (reclaiming a frame) page faults: 1576888
+SRR980562		Voluntary context switches: 7058
+SRR980562		Involuntary context switches: 539150
+SRR980562		Swaps: 0
+SRR980562		File system inputs: 5311616
+SRR980562		File system outputs: 335320
+SRR980562		Socket messages sent: 0
+SRR980562		Socket messages received: 0
+SRR980562		Signals delivered: 0
+SRR980562		Page size (bytes): 4096
+SRR980562		Exit status: 0
+SRR980563	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980563	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980563/ariba.mlst/report.tsv
+SRR980563		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980563/reads_1.fastq.gz SRR980563/reads_2.fastq.gz SRR980563/ariba.mlst"
+SRR980563		User time (seconds): 167.74
+SRR980563		System time (seconds): 11.11
+SRR980563		Percent of CPU this job got: 73%
+SRR980563		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:02.92
+SRR980563		Average shared text size (kbytes): 0
+SRR980563		Average unshared data size (kbytes): 0
+SRR980563		Average stack size (kbytes): 0
+SRR980563		Average total size (kbytes): 0
+SRR980563		Maximum resident set size (kbytes): 124260
+SRR980563		Average resident set size (kbytes): 0
+SRR980563		Major (requiring I/O) page faults: 0
+SRR980563		Minor (reclaiming a frame) page faults: 2030617
+SRR980563		Voluntary context switches: 7174
+SRR980563		Involuntary context switches: 419480
+SRR980563		Swaps: 0
+SRR980563		File system inputs: 5297256
+SRR980563		File system outputs: 330200
+SRR980563		Socket messages sent: 0
+SRR980563		Socket messages received: 0
+SRR980563		Signals delivered: 0
+SRR980563		Page size (bytes): 4096
+SRR980563		Exit status: 0
+SRR980564	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980564	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980564/ariba.mlst/report.tsv
+SRR980564		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980564/reads_1.fastq.gz SRR980564/reads_2.fastq.gz SRR980564/ariba.mlst"
+SRR980564		User time (seconds): 143.02
+SRR980564		System time (seconds): 10.14
+SRR980564		Percent of CPU this job got: 74%
+SRR980564		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:25.67
+SRR980564		Average shared text size (kbytes): 0
+SRR980564		Average unshared data size (kbytes): 0
+SRR980564		Average stack size (kbytes): 0
+SRR980564		Average total size (kbytes): 0
+SRR980564		Maximum resident set size (kbytes): 124100
+SRR980564		Average resident set size (kbytes): 0
+SRR980564		Major (requiring I/O) page faults: 0
+SRR980564		Minor (reclaiming a frame) page faults: 2024273
+SRR980564		Voluntary context switches: 6582
+SRR980564		Involuntary context switches: 247606
+SRR980564		Swaps: 0
+SRR980564		File system inputs: 4473616
+SRR980564		File system outputs: 312960
+SRR980564		Socket messages sent: 0
+SRR980564		Socket messages received: 0
+SRR980564		Signals delivered: 0
+SRR980564		Page size (bytes): 4096
+SRR980564		Exit status: 0
+SRR980565	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980565	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980565/ariba.mlst/report.tsv
+SRR980565		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980565/reads_1.fastq.gz SRR980565/reads_2.fastq.gz SRR980565/ariba.mlst"
+SRR980565		User time (seconds): 151.06
+SRR980565		System time (seconds): 7.34
+SRR980565		Percent of CPU this job got: 74%
+SRR980565		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:32.17
+SRR980565		Average shared text size (kbytes): 0
+SRR980565		Average unshared data size (kbytes): 0
+SRR980565		Average stack size (kbytes): 0
+SRR980565		Average total size (kbytes): 0
+SRR980565		Maximum resident set size (kbytes): 124352
+SRR980565		Average resident set size (kbytes): 0
+SRR980565		Major (requiring I/O) page faults: 0
+SRR980565		Minor (reclaiming a frame) page faults: 1704572
+SRR980565		Voluntary context switches: 6703
+SRR980565		Involuntary context switches: 271934
+SRR980565		Swaps: 0
+SRR980565		File system inputs: 4723576
+SRR980565		File system outputs: 320832
+SRR980565		Socket messages sent: 0
+SRR980565		Socket messages received: 0
+SRR980565		Signals delivered: 0
+SRR980565		Page size (bytes): 4096
+SRR980565		Exit status: 0
+SRR980566	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980566	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980566/ariba.mlst/report.tsv
+SRR980566		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980566/reads_1.fastq.gz SRR980566/reads_2.fastq.gz SRR980566/ariba.mlst"
+SRR980566		User time (seconds): 169.18
+SRR980566		System time (seconds): 6.90
+SRR980566		Percent of CPU this job got: 74%
+SRR980566		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:55.16
+SRR980566		Average shared text size (kbytes): 0
+SRR980566		Average unshared data size (kbytes): 0
+SRR980566		Average stack size (kbytes): 0
+SRR980566		Average total size (kbytes): 0
+SRR980566		Maximum resident set size (kbytes): 124424
+SRR980566		Average resident set size (kbytes): 0
+SRR980566		Major (requiring I/O) page faults: 0
+SRR980566		Minor (reclaiming a frame) page faults: 1568757
+SRR980566		Voluntary context switches: 7191
+SRR980566		Involuntary context switches: 395308
+SRR980566		Swaps: 0
+SRR980566		File system inputs: 5354144
+SRR980566		File system outputs: 330496
+SRR980566		Socket messages sent: 0
+SRR980566		Socket messages received: 0
+SRR980566		Signals delivered: 0
+SRR980566		Page size (bytes): 4096
+SRR980566		Exit status: 0
+SRR980567	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980567	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980567/ariba.mlst/report.tsv
+SRR980567		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980567/reads_1.fastq.gz SRR980567/reads_2.fastq.gz SRR980567/ariba.mlst"
+SRR980567		User time (seconds): 110.49
+SRR980567		System time (seconds): 6.32
+SRR980567		Percent of CPU this job got: 76%
+SRR980567		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:33.31
+SRR980567		Average shared text size (kbytes): 0
+SRR980567		Average unshared data size (kbytes): 0
+SRR980567		Average stack size (kbytes): 0
+SRR980567		Average total size (kbytes): 0
+SRR980567		Maximum resident set size (kbytes): 124392
+SRR980567		Average resident set size (kbytes): 0
+SRR980567		Major (requiring I/O) page faults: 0
+SRR980567		Minor (reclaiming a frame) page faults: 1557108
+SRR980567		Voluntary context switches: 5372
+SRR980567		Involuntary context switches: 237408
+SRR980567		Swaps: 0
+SRR980567		File system inputs: 3305896
+SRR980567		File system outputs: 294872
+SRR980567		Socket messages sent: 0
+SRR980567		Socket messages received: 0
+SRR980567		Signals delivered: 0
+SRR980567		Page size (bytes): 4096
+SRR980567		Exit status: 0
+SRR980568	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980568	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980568/ariba.mlst/report.tsv
+SRR980568		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980568/reads_1.fastq.gz SRR980568/reads_2.fastq.gz SRR980568/ariba.mlst"
+SRR980568		User time (seconds): 188.70
+SRR980568		System time (seconds): 7.13
+SRR980568		Percent of CPU this job got: 76%
+SRR980568		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:16.05
+SRR980568		Average shared text size (kbytes): 0
+SRR980568		Average unshared data size (kbytes): 0
+SRR980568		Average stack size (kbytes): 0
+SRR980568		Average total size (kbytes): 0
+SRR980568		Maximum resident set size (kbytes): 124280
+SRR980568		Average resident set size (kbytes): 0
+SRR980568		Major (requiring I/O) page faults: 0
+SRR980568		Minor (reclaiming a frame) page faults: 1563043
+SRR980568		Voluntary context switches: 7511
+SRR980568		Involuntary context switches: 269527
+SRR980568		Swaps: 0
+SRR980568		File system inputs: 6024896
+SRR980568		File system outputs: 348328
+SRR980568		Socket messages sent: 0
+SRR980568		Socket messages received: 0
+SRR980568		Signals delivered: 0
+SRR980568		Page size (bytes): 4096
+SRR980568		Exit status: 0
+SRR980569	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980569	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980569/ariba.mlst/report.tsv
+SRR980569		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980569/reads_1.fastq.gz SRR980569/reads_2.fastq.gz SRR980569/ariba.mlst"
+SRR980569		User time (seconds): 154.44
+SRR980569		System time (seconds): 6.33
+SRR980569		Percent of CPU this job got: 79%
+SRR980569		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:21.96
+SRR980569		Average shared text size (kbytes): 0
+SRR980569		Average unshared data size (kbytes): 0
+SRR980569		Average stack size (kbytes): 0
+SRR980569		Average total size (kbytes): 0
+SRR980569		Maximum resident set size (kbytes): 124316
+SRR980569		Average resident set size (kbytes): 0
+SRR980569		Major (requiring I/O) page faults: 0
+SRR980569		Minor (reclaiming a frame) page faults: 1566159
+SRR980569		Voluntary context switches: 6485
+SRR980569		Involuntary context switches: 301339
+SRR980569		Swaps: 0
+SRR980569		File system inputs: 4752552
+SRR980569		File system outputs: 322792
+SRR980569		Socket messages sent: 0
+SRR980569		Socket messages received: 0
+SRR980569		Signals delivered: 0
+SRR980569		Page size (bytes): 4096
+SRR980569		Exit status: 0
+SRR980570	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980570	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980570/ariba.mlst/report.tsv
+SRR980570		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980570/reads_1.fastq.gz SRR980570/reads_2.fastq.gz SRR980570/ariba.mlst"
+SRR980570		User time (seconds): 166.46
+SRR980570		System time (seconds): 6.72
+SRR980570		Percent of CPU this job got: 76%
+SRR980570		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:45.74
+SRR980570		Average shared text size (kbytes): 0
+SRR980570		Average unshared data size (kbytes): 0
+SRR980570		Average stack size (kbytes): 0
+SRR980570		Average total size (kbytes): 0
+SRR980570		Maximum resident set size (kbytes): 124336
+SRR980570		Average resident set size (kbytes): 0
+SRR980570		Major (requiring I/O) page faults: 0
+SRR980570		Minor (reclaiming a frame) page faults: 1559712
+SRR980570		Voluntary context switches: 6826
+SRR980570		Involuntary context switches: 319439
+SRR980570		Swaps: 0
+SRR980570		File system inputs: 5088168
+SRR980570		File system outputs: 340976
+SRR980570		Socket messages sent: 0
+SRR980570		Socket messages received: 0
+SRR980570		Signals delivered: 0
+SRR980570		Page size (bytes): 4096
+SRR980570		Exit status: 0
+SRR980571	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980571	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980571/ariba.mlst/report.tsv
+SRR980571		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980571/reads_1.fastq.gz SRR980571/reads_2.fastq.gz SRR980571/ariba.mlst"
+SRR980571		User time (seconds): 146.71
+SRR980571		System time (seconds): 8.24
+SRR980571		Percent of CPU this job got: 75%
+SRR980571		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:25.86
+SRR980571		Average shared text size (kbytes): 0
+SRR980571		Average unshared data size (kbytes): 0
+SRR980571		Average stack size (kbytes): 0
+SRR980571		Average total size (kbytes): 0
+SRR980571		Maximum resident set size (kbytes): 124472
+SRR980571		Average resident set size (kbytes): 0
+SRR980571		Major (requiring I/O) page faults: 0
+SRR980571		Minor (reclaiming a frame) page faults: 1578948
+SRR980571		Voluntary context switches: 6495
+SRR980571		Involuntary context switches: 279193
+SRR980571		Swaps: 0
+SRR980571		File system inputs: 4399784
+SRR980571		File system outputs: 328544
+SRR980571		Socket messages sent: 0
+SRR980571		Socket messages received: 0
+SRR980571		Signals delivered: 0
+SRR980571		Page size (bytes): 4096
+SRR980571		Exit status: 0
+SRR980572	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980572	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980572/ariba.mlst/report.tsv
+SRR980572		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980572/reads_1.fastq.gz SRR980572/reads_2.fastq.gz SRR980572/ariba.mlst"
+SRR980572		User time (seconds): 151.98
+SRR980572		System time (seconds): 6.78
+SRR980572		Percent of CPU this job got: 75%
+SRR980572		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:29.42
+SRR980572		Average shared text size (kbytes): 0
+SRR980572		Average unshared data size (kbytes): 0
+SRR980572		Average stack size (kbytes): 0
+SRR980572		Average total size (kbytes): 0
+SRR980572		Maximum resident set size (kbytes): 124724
+SRR980572		Average resident set size (kbytes): 0
+SRR980572		Major (requiring I/O) page faults: 0
+SRR980572		Minor (reclaiming a frame) page faults: 1538739
+SRR980572		Voluntary context switches: 6500
+SRR980572		Involuntary context switches: 245178
+SRR980572		Swaps: 0
+SRR980572		File system inputs: 4532768
+SRR980572		File system outputs: 335000
+SRR980572		Socket messages sent: 0
+SRR980572		Socket messages received: 0
+SRR980572		Signals delivered: 0
+SRR980572		Page size (bytes): 4096
+SRR980572		Exit status: 0
+SRR980573	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980573	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980573/ariba.mlst/report.tsv
+SRR980573		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980573/reads_1.fastq.gz SRR980573/reads_2.fastq.gz SRR980573/ariba.mlst"
+SRR980573		User time (seconds): 125.16
+SRR980573		System time (seconds): 6.34
+SRR980573		Percent of CPU this job got: 74%
+SRR980573		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:57.18
+SRR980573		Average shared text size (kbytes): 0
+SRR980573		Average unshared data size (kbytes): 0
+SRR980573		Average stack size (kbytes): 0
+SRR980573		Average total size (kbytes): 0
+SRR980573		Maximum resident set size (kbytes): 124552
+SRR980573		Average resident set size (kbytes): 0
+SRR980573		Major (requiring I/O) page faults: 0
+SRR980573		Minor (reclaiming a frame) page faults: 1567583
+SRR980573		Voluntary context switches: 5800
+SRR980573		Involuntary context switches: 233658
+SRR980573		Swaps: 0
+SRR980573		File system inputs: 3706432
+SRR980573		File system outputs: 309808
+SRR980573		Socket messages sent: 0
+SRR980573		Socket messages received: 0
+SRR980573		Signals delivered: 0
+SRR980573		Page size (bytes): 4096
+SRR980573		Exit status: 0
+SRR980574	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980574	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980574/ariba.mlst/report.tsv
+SRR980574		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980574/reads_1.fastq.gz SRR980574/reads_2.fastq.gz SRR980574/ariba.mlst"
+SRR980574		User time (seconds): 142.52
+SRR980574		System time (seconds): 7.14
+SRR980574		Percent of CPU this job got: 75%
+SRR980574		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:17.41
+SRR980574		Average shared text size (kbytes): 0
+SRR980574		Average unshared data size (kbytes): 0
+SRR980574		Average stack size (kbytes): 0
+SRR980574		Average total size (kbytes): 0
+SRR980574		Maximum resident set size (kbytes): 124352
+SRR980574		Average resident set size (kbytes): 0
+SRR980574		Major (requiring I/O) page faults: 0
+SRR980574		Minor (reclaiming a frame) page faults: 1564869
+SRR980574		Voluntary context switches: 6135
+SRR980574		Involuntary context switches: 314876
+SRR980574		Swaps: 0
+SRR980574		File system inputs: 4357432
+SRR980574		File system outputs: 313744
+SRR980574		Socket messages sent: 0
+SRR980574		Socket messages received: 0
+SRR980574		Signals delivered: 0
+SRR980574		Page size (bytes): 4096
+SRR980574		Exit status: 0
+SRR980575	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980575	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980575/ariba.mlst/report.tsv
+SRR980575		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980575/reads_1.fastq.gz SRR980575/reads_2.fastq.gz SRR980575/ariba.mlst"
+SRR980575		User time (seconds): 160.01
+SRR980575		System time (seconds): 6.73
+SRR980575		Percent of CPU this job got: 75%
+SRR980575		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:41.32
+SRR980575		Average shared text size (kbytes): 0
+SRR980575		Average unshared data size (kbytes): 0
+SRR980575		Average stack size (kbytes): 0
+SRR980575		Average total size (kbytes): 0
+SRR980575		Maximum resident set size (kbytes): 124028
+SRR980575		Average resident set size (kbytes): 0
+SRR980575		Major (requiring I/O) page faults: 0
+SRR980575		Minor (reclaiming a frame) page faults: 1566839
+SRR980575		Voluntary context switches: 6741
+SRR980575		Involuntary context switches: 342186
+SRR980575		Swaps: 0
+SRR980575		File system inputs: 4892640
+SRR980575		File system outputs: 323848
+SRR980575		Socket messages sent: 0
+SRR980575		Socket messages received: 0
+SRR980575		Signals delivered: 0
+SRR980575		Page size (bytes): 4096
+SRR980575		Exit status: 0
+SRR980576	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980576	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980576/ariba.mlst/report.tsv
+SRR980576		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980576/reads_1.fastq.gz SRR980576/reads_2.fastq.gz SRR980576/ariba.mlst"
+SRR980576		User time (seconds): 152.34
+SRR980576		System time (seconds): 7.34
+SRR980576		Percent of CPU this job got: 75%
+SRR980576		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:30.83
+SRR980576		Average shared text size (kbytes): 0
+SRR980576		Average unshared data size (kbytes): 0
+SRR980576		Average stack size (kbytes): 0
+SRR980576		Average total size (kbytes): 0
+SRR980576		Maximum resident set size (kbytes): 124476
+SRR980576		Average resident set size (kbytes): 0
+SRR980576		Major (requiring I/O) page faults: 0
+SRR980576		Minor (reclaiming a frame) page faults: 1553244
+SRR980576		Voluntary context switches: 6439
+SRR980576		Involuntary context switches: 454952
+SRR980576		Swaps: 0
+SRR980576		File system inputs: 4595520
+SRR980576		File system outputs: 326248
+SRR980576		Socket messages sent: 0
+SRR980576		Socket messages received: 0
+SRR980576		Signals delivered: 0
+SRR980576		Page size (bytes): 4096
+SRR980576		Exit status: 0
+SRR980577	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980577	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980577/ariba.mlst/report.tsv
+SRR980577		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980577/reads_1.fastq.gz SRR980577/reads_2.fastq.gz SRR980577/ariba.mlst"
+SRR980577		User time (seconds): 105.11
+SRR980577		System time (seconds): 6.46
+SRR980577		Percent of CPU this job got: 79%
+SRR980577		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:19.52
+SRR980577		Average shared text size (kbytes): 0
+SRR980577		Average unshared data size (kbytes): 0
+SRR980577		Average stack size (kbytes): 0
+SRR980577		Average total size (kbytes): 0
+SRR980577		Maximum resident set size (kbytes): 124536
+SRR980577		Average resident set size (kbytes): 0
+SRR980577		Major (requiring I/O) page faults: 0
+SRR980577		Minor (reclaiming a frame) page faults: 1564197
+SRR980577		Voluntary context switches: 4948
+SRR980577		Involuntary context switches: 493145
+SRR980577		Swaps: 0
+SRR980577		File system inputs: 2972464
+SRR980577		File system outputs: 293704
+SRR980577		Socket messages sent: 0
+SRR980577		Socket messages received: 0
+SRR980577		Signals delivered: 0
+SRR980577		Page size (bytes): 4096
+SRR980577		Exit status: 0
+SRR980578	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980578	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980578/ariba.mlst/report.tsv
+SRR980578		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980578/reads_1.fastq.gz SRR980578/reads_2.fastq.gz SRR980578/ariba.mlst"
+SRR980578		User time (seconds): 130.18
+SRR980578		System time (seconds): 6.34
+SRR980578		Percent of CPU this job got: 78%
+SRR980578		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:53.11
+SRR980578		Average shared text size (kbytes): 0
+SRR980578		Average unshared data size (kbytes): 0
+SRR980578		Average stack size (kbytes): 0
+SRR980578		Average total size (kbytes): 0
+SRR980578		Maximum resident set size (kbytes): 124312
+SRR980578		Average resident set size (kbytes): 0
+SRR980578		Major (requiring I/O) page faults: 0
+SRR980578		Minor (reclaiming a frame) page faults: 1563866
+SRR980578		Voluntary context switches: 5573
+SRR980578		Involuntary context switches: 429671
+SRR980578		Swaps: 0
+SRR980578		File system inputs: 3799784
+SRR980578		File system outputs: 312792
+SRR980578		Socket messages sent: 0
+SRR980578		Socket messages received: 0
+SRR980578		Signals delivered: 0
+SRR980578		Page size (bytes): 4096
+SRR980578		Exit status: 0
+SRR980579	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980579	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980579/ariba.mlst/report.tsv
+SRR980579		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980579/reads_1.fastq.gz SRR980579/reads_2.fastq.gz SRR980579/ariba.mlst"
+SRR980579		User time (seconds): 101.87
+SRR980579		System time (seconds): 6.04
+SRR980579		Percent of CPU this job got: 78%
+SRR980579		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:17.19
+SRR980579		Average shared text size (kbytes): 0
+SRR980579		Average unshared data size (kbytes): 0
+SRR980579		Average stack size (kbytes): 0
+SRR980579		Average total size (kbytes): 0
+SRR980579		Maximum resident set size (kbytes): 124320
+SRR980579		Average resident set size (kbytes): 0
+SRR980579		Major (requiring I/O) page faults: 0
+SRR980579		Minor (reclaiming a frame) page faults: 1600425
+SRR980579		Voluntary context switches: 5328
+SRR980579		Involuntary context switches: 433091
+SRR980579		Swaps: 0
+SRR980579		File system inputs: 2890040
+SRR980579		File system outputs: 295936
+SRR980579		Socket messages sent: 0
+SRR980579		Socket messages received: 0
+SRR980579		Signals delivered: 0
+SRR980579		Page size (bytes): 4096
+SRR980579		Exit status: 0
+SRR980580	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980580	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980580/ariba.mlst/report.tsv
+SRR980580		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980580/reads_1.fastq.gz SRR980580/reads_2.fastq.gz SRR980580/ariba.mlst"
+SRR980580		User time (seconds): 162.47
+SRR980580		System time (seconds): 7.42
+SRR980580		Percent of CPU this job got: 77%
+SRR980580		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:38.87
+SRR980580		Average shared text size (kbytes): 0
+SRR980580		Average unshared data size (kbytes): 0
+SRR980580		Average stack size (kbytes): 0
+SRR980580		Average total size (kbytes): 0
+SRR980580		Maximum resident set size (kbytes): 124292
+SRR980580		Average resident set size (kbytes): 0
+SRR980580		Major (requiring I/O) page faults: 0
+SRR980580		Minor (reclaiming a frame) page faults: 1558318
+SRR980580		Voluntary context switches: 6447
+SRR980580		Involuntary context switches: 371164
+SRR980580		Swaps: 0
+SRR980580		File system inputs: 4915536
+SRR980580		File system outputs: 326920
+SRR980580		Socket messages sent: 0
+SRR980580		Socket messages received: 0
+SRR980580		Signals delivered: 0
+SRR980580		Page size (bytes): 4096
+SRR980580		Exit status: 0
+SRR980581	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980581	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980581/ariba.mlst/report.tsv
+SRR980581		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980581/reads_1.fastq.gz SRR980581/reads_2.fastq.gz SRR980581/ariba.mlst"
+SRR980581		User time (seconds): 242.78
+SRR980581		System time (seconds): 10.69
+SRR980581		Percent of CPU this job got: 76%
+SRR980581		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:31.59
+SRR980581		Average shared text size (kbytes): 0
+SRR980581		Average unshared data size (kbytes): 0
+SRR980581		Average stack size (kbytes): 0
+SRR980581		Average total size (kbytes): 0
+SRR980581		Maximum resident set size (kbytes): 124228
+SRR980581		Average resident set size (kbytes): 0
+SRR980581		Major (requiring I/O) page faults: 0
+SRR980581		Minor (reclaiming a frame) page faults: 1540555
+SRR980581		Voluntary context switches: 8572
+SRR980581		Involuntary context switches: 346442
+SRR980581		Swaps: 0
+SRR980581		File system inputs: 7702848
+SRR980581		File system outputs: 352648
+SRR980581		Socket messages sent: 0
+SRR980581		Socket messages received: 0
+SRR980581		Signals delivered: 0
+SRR980581		Page size (bytes): 4096
+SRR980581		Exit status: 0
+SRR980582	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980582	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980582/ariba.mlst/report.tsv
+SRR980582		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980582/reads_1.fastq.gz SRR980582/reads_2.fastq.gz SRR980582/ariba.mlst"
+SRR980582		User time (seconds): 184.50
+SRR980582		System time (seconds): 8.23
+SRR980582		Percent of CPU this job got: 76%
+SRR980582		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:11.25
+SRR980582		Average shared text size (kbytes): 0
+SRR980582		Average unshared data size (kbytes): 0
+SRR980582		Average stack size (kbytes): 0
+SRR980582		Average total size (kbytes): 0
+SRR980582		Maximum resident set size (kbytes): 124212
+SRR980582		Average resident set size (kbytes): 0
+SRR980582		Major (requiring I/O) page faults: 0
+SRR980582		Minor (reclaiming a frame) page faults: 1572113
+SRR980582		Voluntary context switches: 6925
+SRR980582		Involuntary context switches: 473799
+SRR980582		Swaps: 0
+SRR980582		File system inputs: 5581200
+SRR980582		File system outputs: 332512
+SRR980582		Socket messages sent: 0
+SRR980582		Socket messages received: 0
+SRR980582		Signals delivered: 0
+SRR980582		Page size (bytes): 4096
+SRR980582		Exit status: 0
+SRR980583	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980583	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980583/ariba.mlst/report.tsv
+SRR980583		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980583/reads_1.fastq.gz SRR980583/reads_2.fastq.gz SRR980583/ariba.mlst"
+SRR980583		User time (seconds): 135.38
+SRR980583		System time (seconds): 7.20
+SRR980583		Percent of CPU this job got: 77%
+SRR980583		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:03.57
+SRR980583		Average shared text size (kbytes): 0
+SRR980583		Average unshared data size (kbytes): 0
+SRR980583		Average stack size (kbytes): 0
+SRR980583		Average total size (kbytes): 0
+SRR980583		Maximum resident set size (kbytes): 124300
+SRR980583		Average resident set size (kbytes): 0
+SRR980583		Major (requiring I/O) page faults: 0
+SRR980583		Minor (reclaiming a frame) page faults: 1570347
+SRR980583		Voluntary context switches: 6067
+SRR980583		Involuntary context switches: 248546
+SRR980583		Swaps: 0
+SRR980583		File system inputs: 3781496
+SRR980583		File system outputs: 320104
+SRR980583		Socket messages sent: 0
+SRR980583		Socket messages received: 0
+SRR980583		Signals delivered: 0
+SRR980583		Page size (bytes): 4096
+SRR980583		Exit status: 0
+SRR980584	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980584	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980584/ariba.mlst/report.tsv
+SRR980584		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980584/reads_1.fastq.gz SRR980584/reads_2.fastq.gz SRR980584/ariba.mlst"
+SRR980584		User time (seconds): 208.98
+SRR980584		System time (seconds): 8.73
+SRR980584		Percent of CPU this job got: 76%
+SRR980584		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:45.36
+SRR980584		Average shared text size (kbytes): 0
+SRR980584		Average unshared data size (kbytes): 0
+SRR980584		Average stack size (kbytes): 0
+SRR980584		Average total size (kbytes): 0
+SRR980584		Maximum resident set size (kbytes): 124336
+SRR980584		Average resident set size (kbytes): 0
+SRR980584		Major (requiring I/O) page faults: 0
+SRR980584		Minor (reclaiming a frame) page faults: 1573710
+SRR980584		Voluntary context switches: 7310
+SRR980584		Involuntary context switches: 300397
+SRR980584		Swaps: 0
+SRR980584		File system inputs: 5983544
+SRR980584		File system outputs: 392952
+SRR980584		Socket messages sent: 0
+SRR980584		Socket messages received: 0
+SRR980584		Signals delivered: 0
+SRR980584		Page size (bytes): 4096
+SRR980584		Exit status: 0
+SRR980585	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980585	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980585/ariba.mlst/report.tsv
+SRR980585		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980585/reads_1.fastq.gz SRR980585/reads_2.fastq.gz SRR980585/ariba.mlst"
+SRR980585		User time (seconds): 82.67
+SRR980585		System time (seconds): 7.15
+SRR980585		Percent of CPU this job got: 78%
+SRR980585		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:54.85
+SRR980585		Average shared text size (kbytes): 0
+SRR980585		Average unshared data size (kbytes): 0
+SRR980585		Average stack size (kbytes): 0
+SRR980585		Average total size (kbytes): 0
+SRR980585		Maximum resident set size (kbytes): 124524
+SRR980585		Average resident set size (kbytes): 0
+SRR980585		Major (requiring I/O) page faults: 0
+SRR980585		Minor (reclaiming a frame) page faults: 1560308
+SRR980585		Voluntary context switches: 4243
+SRR980585		Involuntary context switches: 325278
+SRR980585		Swaps: 0
+SRR980585		File system inputs: 2059552
+SRR980585		File system outputs: 288264
+SRR980585		Socket messages sent: 0
+SRR980585		Socket messages received: 0
+SRR980585		Signals delivered: 0
+SRR980585		Page size (bytes): 4096
+SRR980585		Exit status: 0
+SRR980586	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980586	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980586/ariba.mlst/report.tsv
+SRR980586		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980586/reads_1.fastq.gz SRR980586/reads_2.fastq.gz SRR980586/ariba.mlst"
+SRR980586		User time (seconds): 76.25
+SRR980586		System time (seconds): 5.99
+SRR980586		Percent of CPU this job got: 79%
+SRR980586		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:43.76
+SRR980586		Average shared text size (kbytes): 0
+SRR980586		Average unshared data size (kbytes): 0
+SRR980586		Average stack size (kbytes): 0
+SRR980586		Average total size (kbytes): 0
+SRR980586		Maximum resident set size (kbytes): 124472
+SRR980586		Average resident set size (kbytes): 0
+SRR980586		Major (requiring I/O) page faults: 0
+SRR980586		Minor (reclaiming a frame) page faults: 1565705
+SRR980586		Voluntary context switches: 4124
+SRR980586		Involuntary context switches: 288409
+SRR980586		Swaps: 0
+SRR980586		File system inputs: 1803128
+SRR980586		File system outputs: 288616
+SRR980586		Socket messages sent: 0
+SRR980586		Socket messages received: 0
+SRR980586		Signals delivered: 0
+SRR980586		Page size (bytes): 4096
+SRR980586		Exit status: 0
+SRR980587	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980587	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980587/ariba.mlst/report.tsv
+SRR980587		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980587/reads_1.fastq.gz SRR980587/reads_2.fastq.gz SRR980587/ariba.mlst"
+SRR980587		User time (seconds): 162.84
+SRR980587		System time (seconds): 9.70
+SRR980587		Percent of CPU this job got: 77%
+SRR980587		Elapsed (wall clock) time (h:mm:ss or m:ss): 3:43.87
+SRR980587		Average shared text size (kbytes): 0
+SRR980587		Average unshared data size (kbytes): 0
+SRR980587		Average stack size (kbytes): 0
+SRR980587		Average total size (kbytes): 0
+SRR980587		Maximum resident set size (kbytes): 125292
+SRR980587		Average resident set size (kbytes): 0
+SRR980587		Major (requiring I/O) page faults: 0
+SRR980587		Minor (reclaiming a frame) page faults: 1744031
+SRR980587		Voluntary context switches: 6340
+SRR980587		Involuntary context switches: 265668
+SRR980587		Swaps: 0
+SRR980587		File system inputs: 4691640
+SRR980587		File system outputs: 345968
+SRR980587		Socket messages sent: 0
+SRR980587		Socket messages received: 0
+SRR980587		Signals delivered: 0
+SRR980587		Page size (bytes): 4096
+SRR980587		Exit status: 0
+SRR980588	self.mlst_profile_file /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/pubmlst.profile.txt
+SRR980588	self.report_file_filtered /mnt/docker/ARIBA/E_faecium/SRR980588/ariba.mlst/report.tsv
+SRR980588		Command being timed: "ariba run /mnt/docker/ARIBA/E_faecium/Ref/ariba_db.mlst/ref_db/ SRR980588/reads_1.fastq.gz SRR980588/reads_2.fastq.gz SRR980588/ariba.mlst"
+SRR980588		User time (seconds): 207.32
+SRR980588		System time (seconds): 8.32
+SRR980588		Percent of CPU this job got: 76%
+SRR980588		Elapsed (wall clock) time (h:mm:ss or m:ss): 4:40.34
+SRR980588		Average shared text size (kbytes): 0
+SRR980588		Average unshared data size (kbytes): 0
+SRR980588		Average stack size (kbytes): 0
+SRR980588		Average total size (kbytes): 0
+SRR980588		Maximum resident set size (kbytes): 123804
+SRR980588		Average resident set size (kbytes): 0
+SRR980588		Major (requiring I/O) page faults: 0
+SRR980588		Minor (reclaiming a frame) page faults: 1567343
+SRR980588		Voluntary context switches: 7239
+SRR980588		Involuntary context switches: 482616
+SRR980588		Swaps: 0
+SRR980588		File system inputs: 6061616
+SRR980588		File system outputs: 390288
+SRR980588		Socket messages sent: 0
+SRR980588		Socket messages received: 0
+SRR980588		Signals delivered: 0
+SRR980588		Page size (bytes): 4096
+SRR980588		Exit status: 0

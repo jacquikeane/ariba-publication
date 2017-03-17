@@ -1,0 +1,2 @@
+Sample	Aac6-Ii_AGly	CatA_Phe	Dfr_Tmt	ErmB_MLS	MsrC_MLS	TetM_Tet
+reads	Aac6-Ii_591*	Cat-pC223_1184	DfrG_1081	ErmB_841*	MsrC_304*	TetM_831*

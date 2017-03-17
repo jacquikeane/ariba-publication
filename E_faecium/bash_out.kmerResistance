@@ -1,0 +1,1435 @@
+SRR980548	# Reading database of templates
+SRR980548	# Reading inputfile
+SRR980548	# Search statistics
+SRR980548	# Total number of hits: 175052
+SRR980548	# Total number of kmers in templates : 1411539
+SRR980548	# Minimum number of k-mer hits to report template: 0
+SRR980548	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980548	# Printing best matches
+SRR980548	# Searching for matches of input in template
+SRR980548	# Closing files
+SRR980548	
+SRR980548	# DONE!
+SRR980548		Command being timed: "bash -c zcat SRR980548/reads_1.fastq.gz SRR980548/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980548/kmerres/out.1 -o2 SRR980548/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980548		User time (seconds): 5842.28
+SRR980548		System time (seconds): 24.91
+SRR980548		Percent of CPU this job got: 101%
+SRR980548		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:36:37
+SRR980548		Average shared text size (kbytes): 0
+SRR980548		Average unshared data size (kbytes): 0
+SRR980548		Average stack size (kbytes): 0
+SRR980548		Average total size (kbytes): 0
+SRR980548		Maximum resident set size (kbytes): 1320500
+SRR980548		Average resident set size (kbytes): 0
+SRR980548		Major (requiring I/O) page faults: 1
+SRR980548		Minor (reclaiming a frame) page faults: 1421270
+SRR980548		Voluntary context switches: 1061461
+SRR980548		Involuntary context switches: 296668
+SRR980548		Swaps: 0
+SRR980548		File system inputs: 7903304
+SRR980548		File system outputs: 48
+SRR980548		Socket messages sent: 0
+SRR980548		Socket messages received: 0
+SRR980548		Signals delivered: 0
+SRR980548		Page size (bytes): 4096
+SRR980548		Exit status: 0
+SRR980549	# Reading database of templates
+SRR980549	# Reading inputfile
+SRR980549	# Search statistics
+SRR980549	# Total number of hits: 142022
+SRR980549	# Total number of kmers in templates : 1411539
+SRR980549	# Minimum number of k-mer hits to report template: 0
+SRR980549	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980549	# Printing best matches
+SRR980549	# Searching for matches of input in template
+SRR980549	# Closing files
+SRR980549	
+SRR980549	# DONE!
+SRR980549		Command being timed: "bash -c zcat SRR980549/reads_1.fastq.gz SRR980549/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980549/kmerres/out.1 -o2 SRR980549/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980549		User time (seconds): 4609.35
+SRR980549		System time (seconds): 20.50
+SRR980549		Percent of CPU this job got: 99%
+SRR980549		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:17:18
+SRR980549		Average shared text size (kbytes): 0
+SRR980549		Average unshared data size (kbytes): 0
+SRR980549		Average stack size (kbytes): 0
+SRR980549		Average total size (kbytes): 0
+SRR980549		Maximum resident set size (kbytes): 1320960
+SRR980549		Average resident set size (kbytes): 0
+SRR980549		Major (requiring I/O) page faults: 0
+SRR980549		Minor (reclaiming a frame) page faults: 959905
+SRR980549		Voluntary context switches: 1023039
+SRR980549		Involuntary context switches: 864872
+SRR980549		Swaps: 0
+SRR980549		File system inputs: 6583792
+SRR980549		File system outputs: 40
+SRR980549		Socket messages sent: 0
+SRR980549		Socket messages received: 0
+SRR980549		Signals delivered: 0
+SRR980549		Page size (bytes): 4096
+SRR980549		Exit status: 0
+SRR980550	# Reading database of templates
+SRR980550	# Reading inputfile
+SRR980550	# Search statistics
+SRR980550	# Total number of hits: 195079
+SRR980550	# Total number of kmers in templates : 1411539
+SRR980550	# Minimum number of k-mer hits to report template: 0
+SRR980550	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980550	# Printing best matches
+SRR980550	# Searching for matches of input in template
+SRR980550	# Closing files
+SRR980550	
+SRR980550	# DONE!
+SRR980550		Command being timed: "bash -c zcat SRR980550/reads_1.fastq.gz SRR980550/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980550/kmerres/out.1 -o2 SRR980550/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980550		User time (seconds): 6612.16
+SRR980550		System time (seconds): 26.51
+SRR980550		Percent of CPU this job got: 100%
+SRR980550		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:49:38
+SRR980550		Average shared text size (kbytes): 0
+SRR980550		Average unshared data size (kbytes): 0
+SRR980550		Average stack size (kbytes): 0
+SRR980550		Average total size (kbytes): 0
+SRR980550		Maximum resident set size (kbytes): 1320612
+SRR980550		Average resident set size (kbytes): 0
+SRR980550		Major (requiring I/O) page faults: 0
+SRR980550		Minor (reclaiming a frame) page faults: 1489152
+SRR980550		Voluntary context switches: 1267681
+SRR980550		Involuntary context switches: 575098
+SRR980550		Swaps: 0
+SRR980550		File system inputs: 4942344
+SRR980550		File system outputs: 56
+SRR980550		Socket messages sent: 0
+SRR980550		Socket messages received: 0
+SRR980550		Signals delivered: 0
+SRR980550		Page size (bytes): 4096
+SRR980550		Exit status: 0
+SRR980551	# Reading database of templates
+SRR980551	# Reading inputfile
+SRR980551	# Search statistics
+SRR980551	# Total number of hits: 149709
+SRR980551	# Total number of kmers in templates : 1411539
+SRR980551	# Minimum number of k-mer hits to report template: 0
+SRR980551	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980551	# Printing best matches
+SRR980551	# Searching for matches of input in template
+SRR980551	# Closing files
+SRR980551	
+SRR980551	# DONE!
+SRR980551		Command being timed: "bash -c zcat SRR980551/reads_1.fastq.gz SRR980551/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980551/kmerres/out.1 -o2 SRR980551/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980551		User time (seconds): 4336.68
+SRR980551		System time (seconds): 15.65
+SRR980551		Percent of CPU this job got: 100%
+SRR980551		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:11:52
+SRR980551		Average shared text size (kbytes): 0
+SRR980551		Average unshared data size (kbytes): 0
+SRR980551		Average stack size (kbytes): 0
+SRR980551		Average total size (kbytes): 0
+SRR980551		Maximum resident set size (kbytes): 1320604
+SRR980551		Average resident set size (kbytes): 0
+SRR980551		Major (requiring I/O) page faults: 0
+SRR980551		Minor (reclaiming a frame) page faults: 734477
+SRR980551		Voluntary context switches: 896088
+SRR980551		Involuntary context switches: 447495
+SRR980551		Swaps: 0
+SRR980551		File system inputs: 320
+SRR980551		File system outputs: 56
+SRR980551		Socket messages sent: 0
+SRR980551		Socket messages received: 0
+SRR980551		Signals delivered: 0
+SRR980551		Page size (bytes): 4096
+SRR980551		Exit status: 0
+SRR980552	# Reading database of templates
+SRR980552	# Reading inputfile
+SRR980552	# Search statistics
+SRR980552	# Total number of hits: 192239
+SRR980552	# Total number of kmers in templates : 1411539
+SRR980552	# Minimum number of k-mer hits to report template: 0
+SRR980552	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980552	# Printing best matches
+SRR980552	# Searching for matches of input in template
+SRR980552	# Closing files
+SRR980552	
+SRR980552	# DONE!
+SRR980552		Command being timed: "bash -c zcat SRR980552/reads_1.fastq.gz SRR980552/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980552/kmerres/out.1 -o2 SRR980552/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980552		User time (seconds): 6113.27
+SRR980552		System time (seconds): 26.42
+SRR980552		Percent of CPU this job got: 100%
+SRR980552		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:42:16
+SRR980552		Average shared text size (kbytes): 0
+SRR980552		Average unshared data size (kbytes): 0
+SRR980552		Average stack size (kbytes): 0
+SRR980552		Average total size (kbytes): 0
+SRR980552		Maximum resident set size (kbytes): 1320792
+SRR980552		Average resident set size (kbytes): 0
+SRR980552		Major (requiring I/O) page faults: 0
+SRR980552		Minor (reclaiming a frame) page faults: 1674670
+SRR980552		Voluntary context switches: 1271380
+SRR980552		Involuntary context switches: 1037168
+SRR980552		Swaps: 0
+SRR980552		File system inputs: 1153888
+SRR980552		File system outputs: 48
+SRR980552		Socket messages sent: 0
+SRR980552		Socket messages received: 0
+SRR980552		Signals delivered: 0
+SRR980552		Page size (bytes): 4096
+SRR980552		Exit status: 0
+SRR980553	# Reading database of templates
+SRR980553	# Reading inputfile
+SRR980553	# Search statistics
+SRR980553	# Total number of hits: 166447
+SRR980553	# Total number of kmers in templates : 1411539
+SRR980553	# Minimum number of k-mer hits to report template: 0
+SRR980553	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980553	# Printing best matches
+SRR980553	# Searching for matches of input in template
+SRR980553	# Closing files
+SRR980553	
+SRR980553	# DONE!
+SRR980553		Command being timed: "bash -c zcat SRR980553/reads_1.fastq.gz SRR980553/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980553/kmerres/out.1 -o2 SRR980553/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980553		User time (seconds): 5763.23
+SRR980553		System time (seconds): 23.73
+SRR980553		Percent of CPU this job got: 100%
+SRR980553		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:36:24
+SRR980553		Average shared text size (kbytes): 0
+SRR980553		Average unshared data size (kbytes): 0
+SRR980553		Average stack size (kbytes): 0
+SRR980553		Average total size (kbytes): 0
+SRR980553		Maximum resident set size (kbytes): 1320468
+SRR980553		Average resident set size (kbytes): 0
+SRR980553		Major (requiring I/O) page faults: 0
+SRR980553		Minor (reclaiming a frame) page faults: 1024700
+SRR980553		Voluntary context switches: 1286053
+SRR980553		Involuntary context switches: 1047510
+SRR980553		Swaps: 0
+SRR980553		File system inputs: 6320936
+SRR980553		File system outputs: 48
+SRR980553		Socket messages sent: 0
+SRR980553		Socket messages received: 0
+SRR980553		Signals delivered: 0
+SRR980553		Page size (bytes): 4096
+SRR980553		Exit status: 0
+SRR980554	# Reading database of templates
+SRR980554	# Reading inputfile
+SRR980554	# Search statistics
+SRR980554	# Total number of hits: 181008
+SRR980554	# Total number of kmers in templates : 1411539
+SRR980554	# Minimum number of k-mer hits to report template: 0
+SRR980554	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980554	# Printing best matches
+SRR980554	# Searching for matches of input in template
+SRR980554	# Closing files
+SRR980554	
+SRR980554	# DONE!
+SRR980554		Command being timed: "bash -c zcat SRR980554/reads_1.fastq.gz SRR980554/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980554/kmerres/out.1 -o2 SRR980554/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980554		User time (seconds): 5766.50
+SRR980554		System time (seconds): 24.64
+SRR980554		Percent of CPU this job got: 100%
+SRR980554		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:36:30
+SRR980554		Average shared text size (kbytes): 0
+SRR980554		Average unshared data size (kbytes): 0
+SRR980554		Average stack size (kbytes): 0
+SRR980554		Average total size (kbytes): 0
+SRR980554		Maximum resident set size (kbytes): 1320952
+SRR980554		Average resident set size (kbytes): 0
+SRR980554		Major (requiring I/O) page faults: 0
+SRR980554		Minor (reclaiming a frame) page faults: 1246941
+SRR980554		Voluntary context switches: 1334817
+SRR980554		Involuntary context switches: 1140979
+SRR980554		Swaps: 0
+SRR980554		File system inputs: 720336
+SRR980554		File system outputs: 48
+SRR980554		Socket messages sent: 0
+SRR980554		Socket messages received: 0
+SRR980554		Signals delivered: 0
+SRR980554		Page size (bytes): 4096
+SRR980554		Exit status: 0
+SRR980555	# Reading database of templates
+SRR980555	# Reading inputfile
+SRR980555	# Search statistics
+SRR980555	# Total number of hits: 181247
+SRR980555	# Total number of kmers in templates : 1411539
+SRR980555	# Minimum number of k-mer hits to report template: 0
+SRR980555	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980555	# Printing best matches
+SRR980555	# Searching for matches of input in template
+SRR980555	# Closing files
+SRR980555	
+SRR980555	# DONE!
+SRR980555		Command being timed: "bash -c zcat SRR980555/reads_1.fastq.gz SRR980555/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980555/kmerres/out.1 -o2 SRR980555/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980555		User time (seconds): 6181.16
+SRR980555		System time (seconds): 25.74
+SRR980555		Percent of CPU this job got: 99%
+SRR980555		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:43:27
+SRR980555		Average shared text size (kbytes): 0
+SRR980555		Average unshared data size (kbytes): 0
+SRR980555		Average stack size (kbytes): 0
+SRR980555		Average total size (kbytes): 0
+SRR980555		Maximum resident set size (kbytes): 1321212
+SRR980555		Average resident set size (kbytes): 0
+SRR980555		Major (requiring I/O) page faults: 0
+SRR980555		Minor (reclaiming a frame) page faults: 1114262
+SRR980555		Voluntary context switches: 1366184
+SRR980555		Involuntary context switches: 1140949
+SRR980555		Swaps: 0
+SRR980555		File system inputs: 6856816
+SRR980555		File system outputs: 48
+SRR980555		Socket messages sent: 0
+SRR980555		Socket messages received: 0
+SRR980555		Signals delivered: 0
+SRR980555		Page size (bytes): 4096
+SRR980555		Exit status: 0
+SRR980556	# Reading database of templates
+SRR980556	# Reading inputfile
+SRR980556	# Search statistics
+SRR980556	# Total number of hits: 177101
+SRR980556	# Total number of kmers in templates : 1411539
+SRR980556	# Minimum number of k-mer hits to report template: 0
+SRR980556	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980556	# Printing best matches
+SRR980556	# Searching for matches of input in template
+SRR980556	# Closing files
+SRR980556	
+SRR980556	# DONE!
+SRR980556		Command being timed: "bash -c zcat SRR980556/reads_1.fastq.gz SRR980556/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980556/kmerres/out.1 -o2 SRR980556/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980556		User time (seconds): 5879.54
+SRR980556		System time (seconds): 23.54
+SRR980556		Percent of CPU this job got: 100%
+SRR980556		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:38:13
+SRR980556		Average shared text size (kbytes): 0
+SRR980556		Average unshared data size (kbytes): 0
+SRR980556		Average stack size (kbytes): 0
+SRR980556		Average total size (kbytes): 0
+SRR980556		Maximum resident set size (kbytes): 1321980
+SRR980556		Average resident set size (kbytes): 0
+SRR980556		Major (requiring I/O) page faults: 0
+SRR980556		Minor (reclaiming a frame) page faults: 998590
+SRR980556		Voluntary context switches: 1373304
+SRR980556		Involuntary context switches: 1107505
+SRR980556		Swaps: 0
+SRR980556		File system inputs: 6652288
+SRR980556		File system outputs: 48
+SRR980556		Socket messages sent: 0
+SRR980556		Socket messages received: 0
+SRR980556		Signals delivered: 0
+SRR980556		Page size (bytes): 4096
+SRR980556		Exit status: 0
+SRR980557	# Reading database of templates
+SRR980557	# Reading inputfile
+SRR980557	# Search statistics
+SRR980557	# Total number of hits: 169172
+SRR980557	# Total number of kmers in templates : 1411539
+SRR980557	# Minimum number of k-mer hits to report template: 0
+SRR980557	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980557	# Printing best matches
+SRR980557	# Searching for matches of input in template
+SRR980557	# Closing files
+SRR980557	
+SRR980557	# DONE!
+SRR980557		Command being timed: "bash -c zcat SRR980557/reads_1.fastq.gz SRR980557/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980557/kmerres/out.1 -o2 SRR980557/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980557		User time (seconds): 5331.23
+SRR980557		System time (seconds): 22.08
+SRR980557		Percent of CPU this job got: 100%
+SRR980557		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:28:50
+SRR980557		Average shared text size (kbytes): 0
+SRR980557		Average unshared data size (kbytes): 0
+SRR980557		Average stack size (kbytes): 0
+SRR980557		Average total size (kbytes): 0
+SRR980557		Maximum resident set size (kbytes): 1320684
+SRR980557		Average resident set size (kbytes): 0
+SRR980557		Major (requiring I/O) page faults: 0
+SRR980557		Minor (reclaiming a frame) page faults: 856782
+SRR980557		Voluntary context switches: 1180494
+SRR980557		Involuntary context switches: 848517
+SRR980557		Swaps: 0
+SRR980557		File system inputs: 6007552
+SRR980557		File system outputs: 48
+SRR980557		Socket messages sent: 0
+SRR980557		Socket messages received: 0
+SRR980557		Signals delivered: 0
+SRR980557		Page size (bytes): 4096
+SRR980557		Exit status: 0
+SRR980558	# Reading database of templates
+SRR980558	# Reading inputfile
+SRR980558	# Search statistics
+SRR980558	# Total number of hits: 139958
+SRR980558	# Total number of kmers in templates : 1411539
+SRR980558	# Minimum number of k-mer hits to report template: 0
+SRR980558	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980558	# Printing best matches
+SRR980558	# Searching for matches of input in template
+SRR980558	# Closing files
+SRR980558	
+SRR980558	# DONE!
+SRR980558		Command being timed: "bash -c zcat SRR980558/reads_1.fastq.gz SRR980558/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980558/kmerres/out.1 -o2 SRR980558/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980558		User time (seconds): 5067.90
+SRR980558		System time (seconds): 20.30
+SRR980558		Percent of CPU this job got: 100%
+SRR980558		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:24:37
+SRR980558		Average shared text size (kbytes): 0
+SRR980558		Average unshared data size (kbytes): 0
+SRR980558		Average stack size (kbytes): 0
+SRR980558		Average total size (kbytes): 0
+SRR980558		Maximum resident set size (kbytes): 1320628
+SRR980558		Average resident set size (kbytes): 0
+SRR980558		Major (requiring I/O) page faults: 0
+SRR980558		Minor (reclaiming a frame) page faults: 831797
+SRR980558		Voluntary context switches: 1083631
+SRR980558		Involuntary context switches: 843541
+SRR980558		Swaps: 0
+SRR980558		File system inputs: 5473544
+SRR980558		File system outputs: 48
+SRR980558		Socket messages sent: 0
+SRR980558		Socket messages received: 0
+SRR980558		Signals delivered: 0
+SRR980558		Page size (bytes): 4096
+SRR980558		Exit status: 0
+SRR980559	# Reading database of templates
+SRR980559	# Reading inputfile
+SRR980559	# Search statistics
+SRR980559	# Total number of hits: 131382
+SRR980559	# Total number of kmers in templates : 1411539
+SRR980559	# Minimum number of k-mer hits to report template: 0
+SRR980559	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980559	# Printing best matches
+SRR980559	# Searching for matches of input in template
+SRR980559	# Closing files
+SRR980559	
+SRR980559	# DONE!
+SRR980559		Command being timed: "bash -c zcat SRR980559/reads_1.fastq.gz SRR980559/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980559/kmerres/out.1 -o2 SRR980559/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980559		User time (seconds): 3624.58
+SRR980559		System time (seconds): 15.36
+SRR980559		Percent of CPU this job got: 100%
+SRR980559		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:00:29
+SRR980559		Average shared text size (kbytes): 0
+SRR980559		Average unshared data size (kbytes): 0
+SRR980559		Average stack size (kbytes): 0
+SRR980559		Average total size (kbytes): 0
+SRR980559		Maximum resident set size (kbytes): 1321612
+SRR980559		Average resident set size (kbytes): 0
+SRR980559		Major (requiring I/O) page faults: 1
+SRR980559		Minor (reclaiming a frame) page faults: 759855
+SRR980559		Voluntary context switches: 795227
+SRR980559		Involuntary context switches: 614559
+SRR980559		Swaps: 0
+SRR980559		File system inputs: 4146512
+SRR980559		File system outputs: 40
+SRR980559		Socket messages sent: 0
+SRR980559		Socket messages received: 0
+SRR980559		Signals delivered: 0
+SRR980559		Page size (bytes): 4096
+SRR980559		Exit status: 0
+SRR980560	# Reading database of templates
+SRR980560	# Reading inputfile
+SRR980560	# Search statistics
+SRR980560	# Total number of hits: 143893
+SRR980560	# Total number of kmers in templates : 1411539
+SRR980560	# Minimum number of k-mer hits to report template: 0
+SRR980560	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980560	# Printing best matches
+SRR980560	# Searching for matches of input in template
+SRR980560	# Closing files
+SRR980560	
+SRR980560	# DONE!
+SRR980560		Command being timed: "bash -c zcat SRR980560/reads_1.fastq.gz SRR980560/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980560/kmerres/out.1 -o2 SRR980560/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980560		User time (seconds): 4707.72
+SRR980560		System time (seconds): 19.44
+SRR980560		Percent of CPU this job got: 100%
+SRR980560		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18:31
+SRR980560		Average shared text size (kbytes): 0
+SRR980560		Average unshared data size (kbytes): 0
+SRR980560		Average stack size (kbytes): 0
+SRR980560		Average total size (kbytes): 0
+SRR980560		Maximum resident set size (kbytes): 1322420
+SRR980560		Average resident set size (kbytes): 0
+SRR980560		Major (requiring I/O) page faults: 0
+SRR980560		Minor (reclaiming a frame) page faults: 919072
+SRR980560		Voluntary context switches: 1093152
+SRR980560		Involuntary context switches: 819877
+SRR980560		Swaps: 0
+SRR980560		File system inputs: 5293504
+SRR980560		File system outputs: 48
+SRR980560		Socket messages sent: 0
+SRR980560		Socket messages received: 0
+SRR980560		Signals delivered: 0
+SRR980560		Page size (bytes): 4096
+SRR980560		Exit status: 0
+SRR980561	# Reading database of templates
+SRR980561	# Reading inputfile
+SRR980561	# Search statistics
+SRR980561	# Total number of hits: 129143
+SRR980561	# Total number of kmers in templates : 1411539
+SRR980561	# Minimum number of k-mer hits to report template: 0
+SRR980561	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980561	# Printing best matches
+SRR980561	# Searching for matches of input in template
+SRR980561	# Closing files
+SRR980561	
+SRR980561	# DONE!
+SRR980561		Command being timed: "bash -c zcat SRR980561/reads_1.fastq.gz SRR980561/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980561/kmerres/out.1 -o2 SRR980561/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980561		User time (seconds): 4469.47
+SRR980561		System time (seconds): 18.84
+SRR980561		Percent of CPU this job got: 100%
+SRR980561		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14:44
+SRR980561		Average shared text size (kbytes): 0
+SRR980561		Average unshared data size (kbytes): 0
+SRR980561		Average stack size (kbytes): 0
+SRR980561		Average total size (kbytes): 0
+SRR980561		Maximum resident set size (kbytes): 1322376
+SRR980561		Average resident set size (kbytes): 0
+SRR980561		Major (requiring I/O) page faults: 0
+SRR980561		Minor (reclaiming a frame) page faults: 1048409
+SRR980561		Voluntary context switches: 1037486
+SRR980561		Involuntary context switches: 841498
+SRR980561		Swaps: 0
+SRR980561		File system inputs: 4813192
+SRR980561		File system outputs: 40
+SRR980561		Socket messages sent: 0
+SRR980561		Socket messages received: 0
+SRR980561		Signals delivered: 0
+SRR980561		Page size (bytes): 4096
+SRR980561		Exit status: 0
+SRR980562	# Reading database of templates
+SRR980562	# Reading inputfile
+SRR980562	# Search statistics
+SRR980562	# Total number of hits: 150992
+SRR980562	# Total number of kmers in templates : 1411539
+SRR980562	# Minimum number of k-mer hits to report template: 0
+SRR980562	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980562	# Printing best matches
+SRR980562	# Searching for matches of input in template
+SRR980562	# Closing files
+SRR980562	
+SRR980562	# DONE!
+SRR980562		Command being timed: "bash -c zcat SRR980562/reads_1.fastq.gz SRR980562/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980562/kmerres/out.1 -o2 SRR980562/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980562		User time (seconds): 4757.66
+SRR980562		System time (seconds): 20.09
+SRR980562		Percent of CPU this job got: 100%
+SRR980562		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:19:25
+SRR980562		Average shared text size (kbytes): 0
+SRR980562		Average unshared data size (kbytes): 0
+SRR980562		Average stack size (kbytes): 0
+SRR980562		Average total size (kbytes): 0
+SRR980562		Maximum resident set size (kbytes): 1320996
+SRR980562		Average resident set size (kbytes): 0
+SRR980562		Major (requiring I/O) page faults: 0
+SRR980562		Minor (reclaiming a frame) page faults: 999732
+SRR980562		Voluntary context switches: 1094086
+SRR980562		Involuntary context switches: 813558
+SRR980562		Swaps: 0
+SRR980562		File system inputs: 5311616
+SRR980562		File system outputs: 48
+SRR980562		Socket messages sent: 0
+SRR980562		Socket messages received: 0
+SRR980562		Signals delivered: 0
+SRR980562		Page size (bytes): 4096
+SRR980562		Exit status: 0
+SRR980563	# Reading database of templates
+SRR980563	# Reading inputfile
+SRR980563	# Search statistics
+SRR980563	# Total number of hits: 135926
+SRR980563	# Total number of kmers in templates : 1411539
+SRR980563	# Minimum number of k-mer hits to report template: 0
+SRR980563	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980563	# Printing best matches
+SRR980563	# Searching for matches of input in template
+SRR980563	# Closing files
+SRR980563	
+SRR980563	# DONE!
+SRR980563		Command being timed: "bash -c zcat SRR980563/reads_1.fastq.gz SRR980563/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980563/kmerres/out.1 -o2 SRR980563/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980563		User time (seconds): 4699.87
+SRR980563		System time (seconds): 19.00
+SRR980563		Percent of CPU this job got: 100%
+SRR980563		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:18:31
+SRR980563		Average shared text size (kbytes): 0
+SRR980563		Average unshared data size (kbytes): 0
+SRR980563		Average stack size (kbytes): 0
+SRR980563		Average total size (kbytes): 0
+SRR980563		Maximum resident set size (kbytes): 1320432
+SRR980563		Average resident set size (kbytes): 0
+SRR980563		Major (requiring I/O) page faults: 0
+SRR980563		Minor (reclaiming a frame) page faults: 956164
+SRR980563		Voluntary context switches: 1150196
+SRR980563		Involuntary context switches: 914903
+SRR980563		Swaps: 0
+SRR980563		File system inputs: 5297256
+SRR980563		File system outputs: 40
+SRR980563		Socket messages sent: 0
+SRR980563		Socket messages received: 0
+SRR980563		Signals delivered: 0
+SRR980563		Page size (bytes): 4096
+SRR980563		Exit status: 0
+SRR980564	# Reading database of templates
+SRR980564	# Reading inputfile
+SRR980564	# Search statistics
+SRR980564	# Total number of hits: 127559
+SRR980564	# Total number of kmers in templates : 1411539
+SRR980564	# Minimum number of k-mer hits to report template: 0
+SRR980564	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980564	# Printing best matches
+SRR980564	# Searching for matches of input in template
+SRR980564	# Closing files
+SRR980564	
+SRR980564	# DONE!
+SRR980564		Command being timed: "bash -c zcat SRR980564/reads_1.fastq.gz SRR980564/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980564/kmerres/out.1 -o2 SRR980564/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980564		User time (seconds): 4119.72
+SRR980564		System time (seconds): 18.24
+SRR980564		Percent of CPU this job got: 100%
+SRR980564		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:08:57
+SRR980564		Average shared text size (kbytes): 0
+SRR980564		Average unshared data size (kbytes): 0
+SRR980564		Average stack size (kbytes): 0
+SRR980564		Average total size (kbytes): 0
+SRR980564		Maximum resident set size (kbytes): 1320924
+SRR980564		Average resident set size (kbytes): 0
+SRR980564		Major (requiring I/O) page faults: 0
+SRR980564		Minor (reclaiming a frame) page faults: 882055
+SRR980564		Voluntary context switches: 956311
+SRR980564		Involuntary context switches: 828242
+SRR980564		Swaps: 0
+SRR980564		File system inputs: 4473624
+SRR980564		File system outputs: 40
+SRR980564		Socket messages sent: 0
+SRR980564		Socket messages received: 0
+SRR980564		Signals delivered: 0
+SRR980564		Page size (bytes): 4096
+SRR980564		Exit status: 0
+SRR980565	# Reading database of templates
+SRR980565	# Reading inputfile
+SRR980565	# Search statistics
+SRR980565	# Total number of hits: 134235
+SRR980565	# Total number of kmers in templates : 1411539
+SRR980565	# Minimum number of k-mer hits to report template: 0
+SRR980565	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980565	# Printing best matches
+SRR980565	# Searching for matches of input in template
+SRR980565	# Closing files
+SRR980565	
+SRR980565	# DONE!
+SRR980565		Command being timed: "bash -c zcat SRR980565/reads_1.fastq.gz SRR980565/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980565/kmerres/out.1 -o2 SRR980565/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980565		User time (seconds): 4303.92
+SRR980565		System time (seconds): 19.92
+SRR980565		Percent of CPU this job got: 98%
+SRR980565		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:12:52
+SRR980565		Average shared text size (kbytes): 0
+SRR980565		Average unshared data size (kbytes): 0
+SRR980565		Average stack size (kbytes): 0
+SRR980565		Average total size (kbytes): 0
+SRR980565		Maximum resident set size (kbytes): 1320896
+SRR980565		Average resident set size (kbytes): 0
+SRR980565		Major (requiring I/O) page faults: 0
+SRR980565		Minor (reclaiming a frame) page faults: 885094
+SRR980565		Voluntary context switches: 911876
+SRR980565		Involuntary context switches: 1271402
+SRR980565		Swaps: 0
+SRR980565		File system inputs: 4723576
+SRR980565		File system outputs: 48
+SRR980565		Socket messages sent: 0
+SRR980565		Socket messages received: 0
+SRR980565		Signals delivered: 0
+SRR980565		Page size (bytes): 4096
+SRR980565		Exit status: 0
+SRR980566	# Reading database of templates
+SRR980566	# Reading inputfile
+SRR980566	# Search statistics
+SRR980566	# Total number of hits: 150492
+SRR980566	# Total number of kmers in templates : 1411539
+SRR980566	# Minimum number of k-mer hits to report template: 0
+SRR980566	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980566	# Printing best matches
+SRR980566	# Searching for matches of input in template
+SRR980566	# Closing files
+SRR980566	
+SRR980566	# DONE!
+SRR980566		Command being timed: "bash -c zcat SRR980566/reads_1.fastq.gz SRR980566/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980566/kmerres/out.1 -o2 SRR980566/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980566		User time (seconds): 4886.40
+SRR980566		System time (seconds): 22.75
+SRR980566		Percent of CPU this job got: 98%
+SRR980566		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:22:42
+SRR980566		Average shared text size (kbytes): 0
+SRR980566		Average unshared data size (kbytes): 0
+SRR980566		Average stack size (kbytes): 0
+SRR980566		Average total size (kbytes): 0
+SRR980566		Maximum resident set size (kbytes): 1322308
+SRR980566		Average resident set size (kbytes): 0
+SRR980566		Major (requiring I/O) page faults: 0
+SRR980566		Minor (reclaiming a frame) page faults: 909151
+SRR980566		Voluntary context switches: 1036799
+SRR980566		Involuntary context switches: 1395435
+SRR980566		Swaps: 0
+SRR980566		File system inputs: 5354144
+SRR980566		File system outputs: 48
+SRR980566		Socket messages sent: 0
+SRR980566		Socket messages received: 0
+SRR980566		Signals delivered: 0
+SRR980566		Page size (bytes): 4096
+SRR980566		Exit status: 0
+SRR980567	# Reading database of templates
+SRR980567	# Reading inputfile
+SRR980567	# Search statistics
+SRR980567	# Total number of hits: 107573
+SRR980567	# Total number of kmers in templates : 1411539
+SRR980567	# Minimum number of k-mer hits to report template: 0
+SRR980567	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980567	# Printing best matches
+SRR980567	# Searching for matches of input in template
+SRR980567	# Closing files
+SRR980567	
+SRR980567	# DONE!
+SRR980567		Command being timed: "bash -c zcat SRR980567/reads_1.fastq.gz SRR980567/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980567/kmerres/out.1 -o2 SRR980567/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980567		User time (seconds): 2913.13
+SRR980567		System time (seconds): 14.21
+SRR980567		Percent of CPU this job got: 99%
+SRR980567		Elapsed (wall clock) time (h:mm:ss or m:ss): 49:06.10
+SRR980567		Average shared text size (kbytes): 0
+SRR980567		Average unshared data size (kbytes): 0
+SRR980567		Average stack size (kbytes): 0
+SRR980567		Average total size (kbytes): 0
+SRR980567		Maximum resident set size (kbytes): 1321904
+SRR980567		Average resident set size (kbytes): 0
+SRR980567		Major (requiring I/O) page faults: 0
+SRR980567		Minor (reclaiming a frame) page faults: 702433
+SRR980567		Voluntary context switches: 635713
+SRR980567		Involuntary context switches: 755951
+SRR980567		Swaps: 0
+SRR980567		File system inputs: 3305896
+SRR980567		File system outputs: 40
+SRR980567		Socket messages sent: 0
+SRR980567		Socket messages received: 0
+SRR980567		Signals delivered: 0
+SRR980567		Page size (bytes): 4096
+SRR980567		Exit status: 0
+SRR980568	# Reading database of templates
+SRR980568	# Reading inputfile
+SRR980568	# Search statistics
+SRR980568	# Total number of hits: 157828
+SRR980568	# Total number of kmers in templates : 1411539
+SRR980568	# Minimum number of k-mer hits to report template: 0
+SRR980568	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980568	# Printing best matches
+SRR980568	# Searching for matches of input in template
+SRR980568	# Closing files
+SRR980568	
+SRR980568	# DONE!
+SRR980568		Command being timed: "bash -c zcat SRR980568/reads_1.fastq.gz SRR980568/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980568/kmerres/out.1 -o2 SRR980568/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980568		User time (seconds): 5566.33
+SRR980568		System time (seconds): 26.27
+SRR980568		Percent of CPU this job got: 98%
+SRR980568		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:34:10
+SRR980568		Average shared text size (kbytes): 0
+SRR980568		Average unshared data size (kbytes): 0
+SRR980568		Average stack size (kbytes): 0
+SRR980568		Average total size (kbytes): 0
+SRR980568		Maximum resident set size (kbytes): 1320712
+SRR980568		Average resident set size (kbytes): 0
+SRR980568		Major (requiring I/O) page faults: 0
+SRR980568		Minor (reclaiming a frame) page faults: 1039633
+SRR980568		Voluntary context switches: 1196592
+SRR980568		Involuntary context switches: 1677913
+SRR980568		Swaps: 0
+SRR980568		File system inputs: 6024904
+SRR980568		File system outputs: 56
+SRR980568		Socket messages sent: 0
+SRR980568		Socket messages received: 0
+SRR980568		Signals delivered: 0
+SRR980568		Page size (bytes): 4096
+SRR980568		Exit status: 0
+SRR980569	# Reading database of templates
+SRR980569	# Reading inputfile
+SRR980569	# Search statistics
+SRR980569	# Total number of hits: 120148
+SRR980569	# Total number of kmers in templates : 1411539
+SRR980569	# Minimum number of k-mer hits to report template: 0
+SRR980569	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980569	# Printing best matches
+SRR980569	# Searching for matches of input in template
+SRR980569	# Closing files
+SRR980569	
+SRR980569	# DONE!
+SRR980569		Command being timed: "bash -c zcat SRR980569/reads_1.fastq.gz SRR980569/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980569/kmerres/out.1 -o2 SRR980569/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980569		User time (seconds): 4490.88
+SRR980569		System time (seconds): 23.14
+SRR980569		Percent of CPU this job got: 98%
+SRR980569		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:16:43
+SRR980569		Average shared text size (kbytes): 0
+SRR980569		Average unshared data size (kbytes): 0
+SRR980569		Average stack size (kbytes): 0
+SRR980569		Average total size (kbytes): 0
+SRR980569		Maximum resident set size (kbytes): 1321112
+SRR980569		Average resident set size (kbytes): 0
+SRR980569		Major (requiring I/O) page faults: 0
+SRR980569		Minor (reclaiming a frame) page faults: 747529
+SRR980569		Voluntary context switches: 1030080
+SRR980569		Involuntary context switches: 1828836
+SRR980569		Swaps: 0
+SRR980569		File system inputs: 4752552
+SRR980569		File system outputs: 40
+SRR980569		Socket messages sent: 0
+SRR980569		Socket messages received: 0
+SRR980569		Signals delivered: 0
+SRR980569		Page size (bytes): 4096
+SRR980569		Exit status: 0
+SRR980570	# Reading database of templates
+SRR980570	# Reading inputfile
+SRR980570	# Search statistics
+SRR980570	# Total number of hits: 111854
+SRR980570	# Total number of kmers in templates : 1411539
+SRR980570	# Minimum number of k-mer hits to report template: 0
+SRR980570	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980570	# Printing best matches
+SRR980570	# Searching for matches of input in template
+SRR980570	# Closing files
+SRR980570	
+SRR980570	# DONE!
+SRR980570		Command being timed: "bash -c zcat SRR980570/reads_1.fastq.gz SRR980570/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980570/kmerres/out.1 -o2 SRR980570/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980570		User time (seconds): 4798.52
+SRR980570		System time (seconds): 29.82
+SRR980570		Percent of CPU this job got: 96%
+SRR980570		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:23:36
+SRR980570		Average shared text size (kbytes): 0
+SRR980570		Average unshared data size (kbytes): 0
+SRR980570		Average stack size (kbytes): 0
+SRR980570		Average total size (kbytes): 0
+SRR980570		Maximum resident set size (kbytes): 1321688
+SRR980570		Average resident set size (kbytes): 0
+SRR980570		Major (requiring I/O) page faults: 0
+SRR980570		Minor (reclaiming a frame) page faults: 892403
+SRR980570		Voluntary context switches: 1116163
+SRR980570		Involuntary context switches: 2834079
+SRR980570		Swaps: 0
+SRR980570		File system inputs: 5088176
+SRR980570		File system outputs: 40
+SRR980570		Socket messages sent: 0
+SRR980570		Socket messages received: 0
+SRR980570		Signals delivered: 0
+SRR980570		Page size (bytes): 4096
+SRR980570		Exit status: 0
+SRR980571	# Reading database of templates
+SRR980571	# Reading inputfile
+SRR980571	# Search statistics
+SRR980571	# Total number of hits: 109110
+SRR980571	# Total number of kmers in templates : 1411539
+SRR980571	# Minimum number of k-mer hits to report template: 0
+SRR980571	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980571	# Printing best matches
+SRR980571	# Searching for matches of input in template
+SRR980571	# Closing files
+SRR980571	
+SRR980571	# DONE!
+SRR980571		Command being timed: "bash -c zcat SRR980571/reads_1.fastq.gz SRR980571/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980571/kmerres/out.1 -o2 SRR980571/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980571		User time (seconds): 4159.42
+SRR980571		System time (seconds): 24.69
+SRR980571		Percent of CPU this job got: 96%
+SRR980571		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:12:06
+SRR980571		Average shared text size (kbytes): 0
+SRR980571		Average unshared data size (kbytes): 0
+SRR980571		Average stack size (kbytes): 0
+SRR980571		Average total size (kbytes): 0
+SRR980571		Maximum resident set size (kbytes): 1322440
+SRR980571		Average resident set size (kbytes): 0
+SRR980571		Major (requiring I/O) page faults: 0
+SRR980571		Minor (reclaiming a frame) page faults: 1023117
+SRR980571		Voluntary context switches: 882765
+SRR980571		Involuntary context switches: 2220366
+SRR980571		Swaps: 0
+SRR980571		File system inputs: 4399784
+SRR980571		File system outputs: 40
+SRR980571		Socket messages sent: 0
+SRR980571		Socket messages received: 0
+SRR980571		Signals delivered: 0
+SRR980571		Page size (bytes): 4096
+SRR980571		Exit status: 0
+SRR980572	# Reading database of templates
+SRR980572	# Reading inputfile
+SRR980572	# Search statistics
+SRR980572	# Total number of hits: 107675
+SRR980572	# Total number of kmers in templates : 1411539
+SRR980572	# Minimum number of k-mer hits to report template: 0
+SRR980572	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980572	# Printing best matches
+SRR980572	# Searching for matches of input in template
+SRR980572	# Closing files
+SRR980572	
+SRR980572	# DONE!
+SRR980572		Command being timed: "bash -c zcat SRR980572/reads_1.fastq.gz SRR980572/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980572/kmerres/out.1 -o2 SRR980572/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980572		User time (seconds): 4210.30
+SRR980572		System time (seconds): 24.16
+SRR980572		Percent of CPU this job got: 96%
+SRR980572		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:13:07
+SRR980572		Average shared text size (kbytes): 0
+SRR980572		Average unshared data size (kbytes): 0
+SRR980572		Average stack size (kbytes): 0
+SRR980572		Average total size (kbytes): 0
+SRR980572		Maximum resident set size (kbytes): 1322448
+SRR980572		Average resident set size (kbytes): 0
+SRR980572		Major (requiring I/O) page faults: 0
+SRR980572		Minor (reclaiming a frame) page faults: 565750
+SRR980572		Voluntary context switches: 1011033
+SRR980572		Involuntary context switches: 2487690
+SRR980572		Swaps: 0
+SRR980572		File system inputs: 4532768
+SRR980572		File system outputs: 40
+SRR980572		Socket messages sent: 0
+SRR980572		Socket messages received: 0
+SRR980572		Signals delivered: 0
+SRR980572		Page size (bytes): 4096
+SRR980572		Exit status: 0
+SRR980573	# Reading database of templates
+SRR980573	# Reading inputfile
+SRR980573	# Search statistics
+SRR980573	# Total number of hits: 92205
+SRR980573	# Total number of kmers in templates : 1411539
+SRR980573	# Minimum number of k-mer hits to report template: 0
+SRR980573	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980573	# Printing best matches
+SRR980573	# Searching for matches of input in template
+SRR980573	# Closing files
+SRR980573	
+SRR980573	# DONE!
+SRR980573		Command being timed: "bash -c zcat SRR980573/reads_1.fastq.gz SRR980573/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980573/kmerres/out.1 -o2 SRR980573/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980573		User time (seconds): 3437.74
+SRR980573		System time (seconds): 20.56
+SRR980573		Percent of CPU this job got: 96%
+SRR980573		Elapsed (wall clock) time (h:mm:ss or m:ss): 59:32.30
+SRR980573		Average shared text size (kbytes): 0
+SRR980573		Average unshared data size (kbytes): 0
+SRR980573		Average stack size (kbytes): 0
+SRR980573		Average total size (kbytes): 0
+SRR980573		Maximum resident set size (kbytes): 1322464
+SRR980573		Average resident set size (kbytes): 0
+SRR980573		Major (requiring I/O) page faults: 0
+SRR980573		Minor (reclaiming a frame) page faults: 651935
+SRR980573		Voluntary context switches: 807319
+SRR980573		Involuntary context switches: 1956648
+SRR980573		Swaps: 0
+SRR980573		File system inputs: 3706432
+SRR980573		File system outputs: 40
+SRR980573		Socket messages sent: 0
+SRR980573		Socket messages received: 0
+SRR980573		Signals delivered: 0
+SRR980573		Page size (bytes): 4096
+SRR980573		Exit status: 0
+SRR980574	# Reading database of templates
+SRR980574	# Reading inputfile
+SRR980574	# Search statistics
+SRR980574	# Total number of hits: 111701
+SRR980574	# Total number of kmers in templates : 1411539
+SRR980574	# Minimum number of k-mer hits to report template: 0
+SRR980574	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980574	# Printing best matches
+SRR980574	# Searching for matches of input in template
+SRR980574	# Closing files
+SRR980574	
+SRR980574	# DONE!
+SRR980574		Command being timed: "bash -c zcat SRR980574/reads_1.fastq.gz SRR980574/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980574/kmerres/out.1 -o2 SRR980574/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980574		User time (seconds): 4257.72
+SRR980574		System time (seconds): 23.53
+SRR980574		Percent of CPU this job got: 97%
+SRR980574		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:13:12
+SRR980574		Average shared text size (kbytes): 0
+SRR980574		Average unshared data size (kbytes): 0
+SRR980574		Average stack size (kbytes): 0
+SRR980574		Average total size (kbytes): 0
+SRR980574		Maximum resident set size (kbytes): 1321376
+SRR980574		Average resident set size (kbytes): 0
+SRR980574		Major (requiring I/O) page faults: 0
+SRR980574		Minor (reclaiming a frame) page faults: 918391
+SRR980574		Voluntary context switches: 972531
+SRR980574		Involuntary context switches: 2006726
+SRR980574		Swaps: 0
+SRR980574		File system inputs: 3753552
+SRR980574		File system outputs: 40
+SRR980574		Socket messages sent: 0
+SRR980574		Socket messages received: 0
+SRR980574		Signals delivered: 0
+SRR980574		Page size (bytes): 4096
+SRR980574		Exit status: 0
+SRR980575	# Reading database of templates
+SRR980575	# Reading inputfile
+SRR980575	# Search statistics
+SRR980575	# Total number of hits: 121909
+SRR980575	# Total number of kmers in templates : 1411539
+SRR980575	# Minimum number of k-mer hits to report template: 0
+SRR980575	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980575	# Printing best matches
+SRR980575	# Searching for matches of input in template
+SRR980575	# Closing files
+SRR980575	
+SRR980575	# DONE!
+SRR980575		Command being timed: "bash -c zcat SRR980575/reads_1.fastq.gz SRR980575/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980575/kmerres/out.1 -o2 SRR980575/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980575		User time (seconds): 4639.52
+SRR980575		System time (seconds): 24.36
+SRR980575		Percent of CPU this job got: 98%
+SRR980575		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:19:17
+SRR980575		Average shared text size (kbytes): 0
+SRR980575		Average unshared data size (kbytes): 0
+SRR980575		Average stack size (kbytes): 0
+SRR980575		Average total size (kbytes): 0
+SRR980575		Maximum resident set size (kbytes): 1322292
+SRR980575		Average resident set size (kbytes): 0
+SRR980575		Major (requiring I/O) page faults: 0
+SRR980575		Minor (reclaiming a frame) page faults: 742999
+SRR980575		Voluntary context switches: 1099134
+SRR980575		Involuntary context switches: 1950466
+SRR980575		Swaps: 0
+SRR980575		File system inputs: 3558736
+SRR980575		File system outputs: 40
+SRR980575		Socket messages sent: 0
+SRR980575		Socket messages received: 0
+SRR980575		Signals delivered: 0
+SRR980575		Page size (bytes): 4096
+SRR980575		Exit status: 0
+SRR980576	# Reading database of templates
+SRR980576	# Reading inputfile
+SRR980576	# Search statistics
+SRR980576	# Total number of hits: 121130
+SRR980576	# Total number of kmers in templates : 1411539
+SRR980576	# Minimum number of k-mer hits to report template: 0
+SRR980576	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980576	# Printing best matches
+SRR980576	# Searching for matches of input in template
+SRR980576	# Closing files
+SRR980576	
+SRR980576	# DONE!
+SRR980576		Command being timed: "bash -c zcat SRR980576/reads_1.fastq.gz SRR980576/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980576/kmerres/out.1 -o2 SRR980576/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980576		User time (seconds): 4417.90
+SRR980576		System time (seconds): 22.10
+SRR980576		Percent of CPU this job got: 98%
+SRR980576		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:15:16
+SRR980576		Average shared text size (kbytes): 0
+SRR980576		Average unshared data size (kbytes): 0
+SRR980576		Average stack size (kbytes): 0
+SRR980576		Average total size (kbytes): 0
+SRR980576		Maximum resident set size (kbytes): 1322472
+SRR980576		Average resident set size (kbytes): 0
+SRR980576		Major (requiring I/O) page faults: 0
+SRR980576		Minor (reclaiming a frame) page faults: 751979
+SRR980576		Voluntary context switches: 915116
+SRR980576		Involuntary context switches: 1536631
+SRR980576		Swaps: 0
+SRR980576		File system inputs: 0
+SRR980576		File system outputs: 48
+SRR980576		Socket messages sent: 0
+SRR980576		Socket messages received: 0
+SRR980576		Signals delivered: 0
+SRR980576		Page size (bytes): 4096
+SRR980576		Exit status: 0
+SRR980577	# Reading database of templates
+SRR980577	# Reading inputfile
+SRR980577	# Search statistics
+SRR980577	# Total number of hits: 82170
+SRR980577	# Total number of kmers in templates : 1411539
+SRR980577	# Minimum number of k-mer hits to report template: 0
+SRR980577	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980577	# Printing best matches
+SRR980577	# Searching for matches of input in template
+SRR980577	# Closing files
+SRR980577	
+SRR980577	# DONE!
+SRR980577		Command being timed: "bash -c zcat SRR980577/reads_1.fastq.gz SRR980577/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980577/kmerres/out.1 -o2 SRR980577/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980577		User time (seconds): 2785.15
+SRR980577		System time (seconds): 14.27
+SRR980577		Percent of CPU this job got: 98%
+SRR980577		Elapsed (wall clock) time (h:mm:ss or m:ss): 47:24.11
+SRR980577		Average shared text size (kbytes): 0
+SRR980577		Average unshared data size (kbytes): 0
+SRR980577		Average stack size (kbytes): 0
+SRR980577		Average total size (kbytes): 0
+SRR980577		Maximum resident set size (kbytes): 1322156
+SRR980577		Average resident set size (kbytes): 0
+SRR980577		Major (requiring I/O) page faults: 0
+SRR980577		Minor (reclaiming a frame) page faults: 566188
+SRR980577		Voluntary context switches: 583349
+SRR980577		Involuntary context switches: 954215
+SRR980577		Swaps: 0
+SRR980577		File system inputs: 0
+SRR980577		File system outputs: 40
+SRR980577		Socket messages sent: 0
+SRR980577		Socket messages received: 0
+SRR980577		Signals delivered: 0
+SRR980577		Page size (bytes): 4096
+SRR980577		Exit status: 0
+SRR980578	# Reading database of templates
+SRR980578	# Reading inputfile
+SRR980578	# Search statistics
+SRR980578	# Total number of hits: 99020
+SRR980578	# Total number of kmers in templates : 1411539
+SRR980578	# Minimum number of k-mer hits to report template: 0
+SRR980578	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980578	# Printing best matches
+SRR980578	# Searching for matches of input in template
+SRR980578	# Closing files
+SRR980578	
+SRR980578	# DONE!
+SRR980578		Command being timed: "bash -c zcat SRR980578/reads_1.fastq.gz SRR980578/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980578/kmerres/out.1 -o2 SRR980578/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980578		User time (seconds): 3650.53
+SRR980578		System time (seconds): 20.24
+SRR980578		Percent of CPU this job got: 97%
+SRR980578		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:02:48
+SRR980578		Average shared text size (kbytes): 0
+SRR980578		Average unshared data size (kbytes): 0
+SRR980578		Average stack size (kbytes): 0
+SRR980578		Average total size (kbytes): 0
+SRR980578		Maximum resident set size (kbytes): 1321756
+SRR980578		Average resident set size (kbytes): 0
+SRR980578		Major (requiring I/O) page faults: 0
+SRR980578		Minor (reclaiming a frame) page faults: 797571
+SRR980578		Voluntary context switches: 750885
+SRR980578		Involuntary context switches: 1511902
+SRR980578		Swaps: 0
+SRR980578		File system inputs: 0
+SRR980578		File system outputs: 48
+SRR980578		Socket messages sent: 0
+SRR980578		Socket messages received: 0
+SRR980578		Signals delivered: 0
+SRR980578		Page size (bytes): 4096
+SRR980578		Exit status: 0
+SRR980579	# Reading database of templates
+SRR980579	# Reading inputfile
+SRR980579	# Search statistics
+SRR980579	# Total number of hits: 92016
+SRR980579	# Total number of kmers in templates : 1411539
+SRR980579	# Minimum number of k-mer hits to report template: 0
+SRR980579	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980579	# Printing best matches
+SRR980579	# Searching for matches of input in template
+SRR980579	# Closing files
+SRR980579	
+SRR980579	# DONE!
+SRR980579		Command being timed: "bash -c zcat SRR980579/reads_1.fastq.gz SRR980579/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980579/kmerres/out.1 -o2 SRR980579/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980579		User time (seconds): 2753.50
+SRR980579		System time (seconds): 15.77
+SRR980579		Percent of CPU this job got: 97%
+SRR980579		Elapsed (wall clock) time (h:mm:ss or m:ss): 47:22.25
+SRR980579		Average shared text size (kbytes): 0
+SRR980579		Average unshared data size (kbytes): 0
+SRR980579		Average stack size (kbytes): 0
+SRR980579		Average total size (kbytes): 0
+SRR980579		Maximum resident set size (kbytes): 1321924
+SRR980579		Average resident set size (kbytes): 0
+SRR980579		Major (requiring I/O) page faults: 0
+SRR980579		Minor (reclaiming a frame) page faults: 694074
+SRR980579		Voluntary context switches: 583185
+SRR980579		Involuntary context switches: 1219391
+SRR980579		Swaps: 0
+SRR980579		File system inputs: 0
+SRR980579		File system outputs: 32
+SRR980579		Socket messages sent: 0
+SRR980579		Socket messages received: 0
+SRR980579		Signals delivered: 0
+SRR980579		Page size (bytes): 4096
+SRR980579		Exit status: 0
+SRR980580	# Reading database of templates
+SRR980580	# Reading inputfile
+SRR980580	# Search statistics
+SRR980580	# Total number of hits: 124817
+SRR980580	# Total number of kmers in templates : 1411539
+SRR980580	# Minimum number of k-mer hits to report template: 0
+SRR980580	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980580	# Printing best matches
+SRR980580	# Searching for matches of input in template
+SRR980580	# Closing files
+SRR980580	
+SRR980580	# DONE!
+SRR980580		Command being timed: "bash -c zcat SRR980580/reads_1.fastq.gz SRR980580/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980580/kmerres/out.1 -o2 SRR980580/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980580		User time (seconds): 4697.92
+SRR980580		System time (seconds): 25.58
+SRR980580		Percent of CPU this job got: 97%
+SRR980580		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:20:26
+SRR980580		Average shared text size (kbytes): 0
+SRR980580		Average unshared data size (kbytes): 0
+SRR980580		Average stack size (kbytes): 0
+SRR980580		Average total size (kbytes): 0
+SRR980580		Maximum resident set size (kbytes): 1322372
+SRR980580		Average resident set size (kbytes): 0
+SRR980580		Major (requiring I/O) page faults: 0
+SRR980580		Minor (reclaiming a frame) page faults: 1057937
+SRR980580		Voluntary context switches: 1017128
+SRR980580		Involuntary context switches: 1807447
+SRR980580		Swaps: 0
+SRR980580		File system inputs: 2437776
+SRR980580		File system outputs: 40
+SRR980580		Socket messages sent: 0
+SRR980580		Socket messages received: 0
+SRR980580		Signals delivered: 0
+SRR980580		Page size (bytes): 4096
+SRR980580		Exit status: 0
+SRR980581	# Reading database of templates
+SRR980581	# Reading inputfile
+SRR980581	# Search statistics
+SRR980581	# Total number of hits: 132595
+SRR980581	# Total number of kmers in templates : 1411539
+SRR980581	# Minimum number of k-mer hits to report template: 0
+SRR980581	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980581	# Printing best matches
+SRR980581	# Searching for matches of input in template
+SRR980581	# Closing files
+SRR980581	
+SRR980581	# DONE!
+SRR980581		Command being timed: "bash -c zcat SRR980581/reads_1.fastq.gz SRR980581/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980581/kmerres/out.1 -o2 SRR980581/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980581		User time (seconds): 7268.46
+SRR980581		System time (seconds): 37.24
+SRR980581		Percent of CPU this job got: 97%
+SRR980581		Elapsed (wall clock) time (h:mm:ss or m:ss): 2:04:16
+SRR980581		Average shared text size (kbytes): 0
+SRR980581		Average unshared data size (kbytes): 0
+SRR980581		Average stack size (kbytes): 0
+SRR980581		Average total size (kbytes): 0
+SRR980581		Maximum resident set size (kbytes): 1321088
+SRR980581		Average resident set size (kbytes): 0
+SRR980581		Major (requiring I/O) page faults: 0
+SRR980581		Minor (reclaiming a frame) page faults: 1017625
+SRR980581		Voluntary context switches: 1649715
+SRR980581		Involuntary context switches: 2965252
+SRR980581		Swaps: 0
+SRR980581		File system inputs: 3846224
+SRR980581		File system outputs: 48
+SRR980581		Socket messages sent: 0
+SRR980581		Socket messages received: 0
+SRR980581		Signals delivered: 0
+SRR980581		Page size (bytes): 4096
+SRR980581		Exit status: 0
+SRR980582	# Reading database of templates
+SRR980582	# Reading inputfile
+SRR980582	# Search statistics
+SRR980582	# Total number of hits: 108995
+SRR980582	# Total number of kmers in templates : 1411539
+SRR980582	# Minimum number of k-mer hits to report template: 0
+SRR980582	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980582	# Printing best matches
+SRR980582	# Searching for matches of input in template
+SRR980582	# Closing files
+SRR980582	
+SRR980582	# DONE!
+SRR980582		Command being timed: "bash -c zcat SRR980582/reads_1.fastq.gz SRR980582/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980582/kmerres/out.1 -o2 SRR980582/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980582		User time (seconds): 5297.16
+SRR980582		System time (seconds): 27.33
+SRR980582		Percent of CPU this job got: 97%
+SRR980582		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:30:47
+SRR980582		Average shared text size (kbytes): 0
+SRR980582		Average unshared data size (kbytes): 0
+SRR980582		Average stack size (kbytes): 0
+SRR980582		Average total size (kbytes): 0
+SRR980582		Maximum resident set size (kbytes): 1322224
+SRR980582		Average resident set size (kbytes): 0
+SRR980582		Major (requiring I/O) page faults: 0
+SRR980582		Minor (reclaiming a frame) page faults: 885137
+SRR980582		Voluntary context switches: 1187589
+SRR980582		Involuntary context switches: 2171893
+SRR980582		Swaps: 0
+SRR980582		File system inputs: 262592
+SRR980582		File system outputs: 40
+SRR980582		Socket messages sent: 0
+SRR980582		Socket messages received: 0
+SRR980582		Signals delivered: 0
+SRR980582		Page size (bytes): 4096
+SRR980582		Exit status: 0
+SRR980583	# Reading database of templates
+SRR980583	# Reading inputfile
+SRR980583	# Search statistics
+SRR980583	# Total number of hits: 94220
+SRR980583	# Total number of kmers in templates : 1411539
+SRR980583	# Minimum number of k-mer hits to report template: 0
+SRR980583	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980583	# Printing best matches
+SRR980583	# Searching for matches of input in template
+SRR980583	# Closing files
+SRR980583	
+SRR980583	# DONE!
+SRR980583		Command being timed: "bash -c zcat SRR980583/reads_1.fastq.gz SRR980583/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980583/kmerres/out.1 -o2 SRR980583/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980583		User time (seconds): 3521.85
+SRR980583		System time (seconds): 19.01
+SRR980583		Percent of CPU this job got: 98%
+SRR980583		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:00:05
+SRR980583		Average shared text size (kbytes): 0
+SRR980583		Average unshared data size (kbytes): 0
+SRR980583		Average stack size (kbytes): 0
+SRR980583		Average total size (kbytes): 0
+SRR980583		Maximum resident set size (kbytes): 1321024
+SRR980583		Average resident set size (kbytes): 0
+SRR980583		Major (requiring I/O) page faults: 0
+SRR980583		Minor (reclaiming a frame) page faults: 619105
+SRR980583		Voluntary context switches: 721279
+SRR980583		Involuntary context switches: 1288421
+SRR980583		Swaps: 0
+SRR980583		File system inputs: 0
+SRR980583		File system outputs: 32
+SRR980583		Socket messages sent: 0
+SRR980583		Socket messages received: 0
+SRR980583		Signals delivered: 0
+SRR980583		Page size (bytes): 4096
+SRR980583		Exit status: 0
+SRR980584	# Reading database of templates
+SRR980584	# Reading inputfile
+SRR980584	# Search statistics
+SRR980584	# Total number of hits: 115236
+SRR980584	# Total number of kmers in templates : 1411539
+SRR980584	# Minimum number of k-mer hits to report template: 0
+SRR980584	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980584	# Printing best matches
+SRR980584	# Searching for matches of input in template
+SRR980584	# Closing files
+SRR980584	
+SRR980584	# DONE!
+SRR980584		Command being timed: "bash -c zcat SRR980584/reads_1.fastq.gz SRR980584/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980584/kmerres/out.1 -o2 SRR980584/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980584		User time (seconds): 5519.56
+SRR980584		System time (seconds): 28.12
+SRR980584		Percent of CPU this job got: 98%
+SRR980584		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:33:45
+SRR980584		Average shared text size (kbytes): 0
+SRR980584		Average unshared data size (kbytes): 0
+SRR980584		Average stack size (kbytes): 0
+SRR980584		Average total size (kbytes): 0
+SRR980584		Maximum resident set size (kbytes): 1320560
+SRR980584		Average resident set size (kbytes): 0
+SRR980584		Major (requiring I/O) page faults: 0
+SRR980584		Minor (reclaiming a frame) page faults: 949343
+SRR980584		Voluntary context switches: 1261177
+SRR980584		Involuntary context switches: 1974063
+SRR980584		Swaps: 0
+SRR980584		File system inputs: 5983544
+SRR980584		File system outputs: 40
+SRR980584		Socket messages sent: 0
+SRR980584		Socket messages received: 0
+SRR980584		Signals delivered: 0
+SRR980584		Page size (bytes): 4096
+SRR980584		Exit status: 0
+SRR980585	# Reading database of templates
+SRR980585	# Reading inputfile
+SRR980585	# Search statistics
+SRR980585	# Total number of hits: 65361
+SRR980585	# Total number of kmers in templates : 1411539
+SRR980585	# Minimum number of k-mer hits to report template: 0
+SRR980585	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980585	# Printing best matches
+SRR980585	# Searching for matches of input in template
+SRR980585	# Closing files
+SRR980585	
+SRR980585	# DONE!
+SRR980585		Command being timed: "bash -c zcat SRR980585/reads_1.fastq.gz SRR980585/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980585/kmerres/out.1 -o2 SRR980585/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980585		User time (seconds): 1873.25
+SRR980585		System time (seconds): 11.73
+SRR980585		Percent of CPU this job got: 97%
+SRR980585		Elapsed (wall clock) time (h:mm:ss or m:ss): 32:11.28
+SRR980585		Average shared text size (kbytes): 0
+SRR980585		Average unshared data size (kbytes): 0
+SRR980585		Average stack size (kbytes): 0
+SRR980585		Average total size (kbytes): 0
+SRR980585		Maximum resident set size (kbytes): 1320976
+SRR980585		Average resident set size (kbytes): 0
+SRR980585		Major (requiring I/O) page faults: 0
+SRR980585		Minor (reclaiming a frame) page faults: 451996
+SRR980585		Voluntary context switches: 411729
+SRR980585		Involuntary context switches: 848663
+SRR980585		Swaps: 0
+SRR980585		File system inputs: 2059552
+SRR980585		File system outputs: 32
+SRR980585		Socket messages sent: 0
+SRR980585		Socket messages received: 0
+SRR980585		Signals delivered: 0
+SRR980585		Page size (bytes): 4096
+SRR980585		Exit status: 0
+SRR980586	# Reading database of templates
+SRR980586	# Reading inputfile
+SRR980586	# Search statistics
+SRR980586	# Total number of hits: 61460
+SRR980586	# Total number of kmers in templates : 1411539
+SRR980586	# Minimum number of k-mer hits to report template: 0
+SRR980586	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980586	# Printing best matches
+SRR980586	# Searching for matches of input in template
+SRR980586	# Closing files
+SRR980586	
+SRR980586	# DONE!
+SRR980586		Command being timed: "bash -c zcat SRR980586/reads_1.fastq.gz SRR980586/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980586/kmerres/out.1 -o2 SRR980586/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980586		User time (seconds): 1692.38
+SRR980586		System time (seconds): 10.15
+SRR980586		Percent of CPU this job got: 98%
+SRR980586		Elapsed (wall clock) time (h:mm:ss or m:ss): 28:53.81
+SRR980586		Average shared text size (kbytes): 0
+SRR980586		Average unshared data size (kbytes): 0
+SRR980586		Average stack size (kbytes): 0
+SRR980586		Average total size (kbytes): 0
+SRR980586		Maximum resident set size (kbytes): 1320576
+SRR980586		Average resident set size (kbytes): 0
+SRR980586		Major (requiring I/O) page faults: 0
+SRR980586		Minor (reclaiming a frame) page faults: 432231
+SRR980586		Voluntary context switches: 347089
+SRR980586		Involuntary context switches: 619585
+SRR980586		Swaps: 0
+SRR980586		File system inputs: 1803128
+SRR980586		File system outputs: 32
+SRR980586		Socket messages sent: 0
+SRR980586		Socket messages received: 0
+SRR980586		Signals delivered: 0
+SRR980586		Page size (bytes): 4096
+SRR980586		Exit status: 0
+SRR980587	# Reading database of templates
+SRR980587	# Reading inputfile
+SRR980587	# Search statistics
+SRR980587	# Total number of hits: 102053
+SRR980587	# Total number of kmers in templates : 1411539
+SRR980587	# Minimum number of k-mer hits to report template: 0
+SRR980587	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980587	# Printing best matches
+SRR980587	# Searching for matches of input in template
+SRR980587	# Closing files
+SRR980587	
+SRR980587	# DONE!
+SRR980587		Command being timed: "bash -c zcat SRR980587/reads_1.fastq.gz SRR980587/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980587/kmerres/out.1 -o2 SRR980587/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980587		User time (seconds): 4376.12
+SRR980587		System time (seconds): 23.37
+SRR980587		Percent of CPU this job got: 98%
+SRR980587		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:14:42
+SRR980587		Average shared text size (kbytes): 0
+SRR980587		Average unshared data size (kbytes): 0
+SRR980587		Average stack size (kbytes): 0
+SRR980587		Average total size (kbytes): 0
+SRR980587		Maximum resident set size (kbytes): 1320548
+SRR980587		Average resident set size (kbytes): 0
+SRR980587		Major (requiring I/O) page faults: 0
+SRR980587		Minor (reclaiming a frame) page faults: 920836
+SRR980587		Voluntary context switches: 1026931
+SRR980587		Involuntary context switches: 1570339
+SRR980587		Swaps: 0
+SRR980587		File system inputs: 4691640
+SRR980587		File system outputs: 48
+SRR980587		Socket messages sent: 0
+SRR980587		Socket messages received: 0
+SRR980587		Signals delivered: 0
+SRR980587		Page size (bytes): 4096
+SRR980587		Exit status: 0
+SRR980588	# Reading database of templates
+SRR980588	# Reading inputfile
+SRR980588	# Search statistics
+SRR980588	# Total number of hits: 112787
+SRR980588	# Total number of kmers in templates : 1411539
+SRR980588	# Minimum number of k-mer hits to report template: 0
+SRR980588	# Maximum multiple testing corrected E-value to report match : 0.05
+SRR980588	# Printing best matches
+SRR980588	# Searching for matches of input in template
+SRR980588	# Closing files
+SRR980588	
+SRR980588	# DONE!
+SRR980588		Command being timed: "bash -c zcat SRR980588/reads_1.fastq.gz SRR980588/reads_2.fastq.gz | /mnt/docker/bin/kmerresistance/KmerResistance.py -t_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta.kres_db -o SRR980588/kmerres/out.1 -o2 SRR980588/kmerres/out.2 -w -s_db /mnt/docker/bin/kmerresistance/database/complete_genomes.ATGAC "
+SRR980588		User time (seconds): 5593.81
+SRR980588		System time (seconds): 30.72
+SRR980588		Percent of CPU this job got: 97%
+SRR980588		Elapsed (wall clock) time (h:mm:ss or m:ss): 1:35:53
+SRR980588		Average shared text size (kbytes): 0
+SRR980588		Average unshared data size (kbytes): 0
+SRR980588		Average stack size (kbytes): 0
+SRR980588		Average total size (kbytes): 0
+SRR980588		Maximum resident set size (kbytes): 1322172
+SRR980588		Average resident set size (kbytes): 0
+SRR980588		Major (requiring I/O) page faults: 0
+SRR980588		Minor (reclaiming a frame) page faults: 812535
+SRR980588		Voluntary context switches: 1191656
+SRR980588		Involuntary context switches: 2123206
+SRR980588		Swaps: 0
+SRR980588		File system inputs: 6061616
+SRR980588		File system outputs: 40
+SRR980588		Socket messages sent: 0
+SRR980588		Socket messages received: 0
+SRR980588		Signals delivered: 0
+SRR980588		Page size (bytes): 4096
+SRR980588		Exit status: 0

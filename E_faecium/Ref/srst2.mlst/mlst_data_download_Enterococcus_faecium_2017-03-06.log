@@ -1,0 +1,33 @@
+definitions: efaecium.txt
+1291 profiles
+sourced from: https://pubmlst.org/data/profiles/efaecium.txt
+
+locus atpA
+atpA.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/atpA.tfa
+
+locus ddl
+ddl.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/ddl.tfa
+
+locus gdh
+gdh.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/gdh.tfa
+
+locus purK
+purK.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/purK.tfa
+
+locus gyd
+gyd.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/gyd.tfa
+
+locus pstS
+pstS.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/pstS.tfa
+
+locus adk
+adk.tfa
+Sourced from https://pubmlst.org/data/alleles/efaecium/adk.tfa
+
+all loci: Enterococcus_faecium.fasta

@@ -1,0 +1,1685 @@
+SRR980548	18559693 reads; of these:
+SRR980548	  18559693 (100.00%) were paired; of these:
+SRR980548	    18503350 (99.70%) aligned concordantly 0 times
+SRR980548	    56305 (0.30%) aligned concordantly exactly 1 time
+SRR980548	    38 (0.00%) aligned concordantly >1 times
+SRR980548	    ----
+SRR980548	    18503350 pairs aligned concordantly 0 times; of these:
+SRR980548	      2339 (0.01%) aligned discordantly 1 time
+SRR980548	    ----
+SRR980548	    18501011 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980548	      37002022 mates make up the pairs; of these:
+SRR980548	        36964628 (99.90%) aligned 0 times
+SRR980548	        37277 (0.10%) aligned exactly 1 time
+SRR980548	        117 (0.00%) aligned >1 times
+SRR980548	0.42% overall alignment rate
+SRR980548	[samopen] SAM header is present: 1654 sequences.
+SRR980548	[mpileup] 1 samples in 1 input files
+SRR980548	<mpileup> Set max per-file depth to 8000
+SRR980548		Command being timed: "srst2 --input_pe SRR980548/reads_1.fastq.gz SRR980548/reads_2.fastq.gz --output SRR980548/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980548		User time (seconds): 1092.84
+SRR980548		System time (seconds): 31.90
+SRR980548		Percent of CPU this job got: 102%
+SRR980548		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:20.54
+SRR980548		Average shared text size (kbytes): 0
+SRR980548		Average unshared data size (kbytes): 0
+SRR980548		Average stack size (kbytes): 0
+SRR980548		Average total size (kbytes): 0
+SRR980548		Maximum resident set size (kbytes): 47860
+SRR980548		Average resident set size (kbytes): 0
+SRR980548		Major (requiring I/O) page faults: 0
+SRR980548		Minor (reclaiming a frame) page faults: 64285
+SRR980548		Voluntary context switches: 2099094
+SRR980548		Involuntary context switches: 314835
+SRR980548		Swaps: 0
+SRR980548		File system inputs: 16
+SRR980548		File system outputs: 260016
+SRR980548		Socket messages sent: 0
+SRR980548		Socket messages received: 0
+SRR980548		Signals delivered: 0
+SRR980548		Page size (bytes): 4096
+SRR980548		Exit status: 0
+SRR980549	14785806 reads; of these:
+SRR980549	  14785806 (100.00%) were paired; of these:
+SRR980549	    14688656 (99.34%) aligned concordantly 0 times
+SRR980549	    86159 (0.58%) aligned concordantly exactly 1 time
+SRR980549	    10991 (0.07%) aligned concordantly >1 times
+SRR980549	    ----
+SRR980549	    14688656 pairs aligned concordantly 0 times; of these:
+SRR980549	      2086 (0.01%) aligned discordantly 1 time
+SRR980549	    ----
+SRR980549	    14686570 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980549	      29373140 mates make up the pairs; of these:
+SRR980549	        29342585 (99.90%) aligned 0 times
+SRR980549	        27166 (0.09%) aligned exactly 1 time
+SRR980549	        3389 (0.01%) aligned >1 times
+SRR980549	0.77% overall alignment rate
+SRR980549	[samopen] SAM header is present: 1654 sequences.
+SRR980549	[mpileup] 1 samples in 1 input files
+SRR980549	<mpileup> Set max per-file depth to 8000
+SRR980549		Command being timed: "srst2 --input_pe SRR980549/reads_1.fastq.gz SRR980549/reads_2.fastq.gz --output SRR980549/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980549		User time (seconds): 940.48
+SRR980549		System time (seconds): 26.64
+SRR980549		Percent of CPU this job got: 101%
+SRR980549		Elapsed (wall clock) time (h:mm:ss or m:ss): 15:51.70
+SRR980549		Average shared text size (kbytes): 0
+SRR980549		Average unshared data size (kbytes): 0
+SRR980549		Average stack size (kbytes): 0
+SRR980549		Average total size (kbytes): 0
+SRR980549		Maximum resident set size (kbytes): 82920
+SRR980549		Average resident set size (kbytes): 0
+SRR980549		Major (requiring I/O) page faults: 0
+SRR980549		Minor (reclaiming a frame) page faults: 88323
+SRR980549		Voluntary context switches: 1665984
+SRR980549		Involuntary context switches: 304589
+SRR980549		Swaps: 0
+SRR980549		File system inputs: 8
+SRR980549		File system outputs: 500616
+SRR980549		Socket messages sent: 0
+SRR980549		Socket messages received: 0
+SRR980549		Signals delivered: 0
+SRR980549		Page size (bytes): 4096
+SRR980549		Exit status: 0
+SRR980550	21420072 reads; of these:
+SRR980550	  21420072 (100.00%) were paired; of these:
+SRR980550	    21286391 (99.38%) aligned concordantly 0 times
+SRR980550	    120149 (0.56%) aligned concordantly exactly 1 time
+SRR980550	    13532 (0.06%) aligned concordantly >1 times
+SRR980550	    ----
+SRR980550	    21286391 pairs aligned concordantly 0 times; of these:
+SRR980550	      4261 (0.02%) aligned discordantly 1 time
+SRR980550	    ----
+SRR980550	    21282130 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980550	      42564260 mates make up the pairs; of these:
+SRR980550	        42520278 (99.90%) aligned 0 times
+SRR980550	        33559 (0.08%) aligned exactly 1 time
+SRR980550	        10423 (0.02%) aligned >1 times
+SRR980550	0.75% overall alignment rate
+SRR980550	[samopen] SAM header is present: 1654 sequences.
+SRR980550	[mpileup] 1 samples in 1 input files
+SRR980550	<mpileup> Set max per-file depth to 8000
+SRR980550		Command being timed: "srst2 --input_pe SRR980550/reads_1.fastq.gz SRR980550/reads_2.fastq.gz --output SRR980550/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980550		User time (seconds): 1274.92
+SRR980550		System time (seconds): 38.66
+SRR980550		Percent of CPU this job got: 102%
+SRR980550		Elapsed (wall clock) time (h:mm:ss or m:ss): 21:25.85
+SRR980550		Average shared text size (kbytes): 0
+SRR980550		Average unshared data size (kbytes): 0
+SRR980550		Average stack size (kbytes): 0
+SRR980550		Average total size (kbytes): 0
+SRR980550		Maximum resident set size (kbytes): 118760
+SRR980550		Average resident set size (kbytes): 0
+SRR980550		Major (requiring I/O) page faults: 0
+SRR980550		Minor (reclaiming a frame) page faults: 114668
+SRR980550		Voluntary context switches: 2425011
+SRR980550		Involuntary context switches: 390107
+SRR980550		Swaps: 0
+SRR980550		File system inputs: 32
+SRR980550		File system outputs: 708120
+SRR980550		Socket messages sent: 0
+SRR980550		Socket messages received: 0
+SRR980550		Signals delivered: 0
+SRR980550		Page size (bytes): 4096
+SRR980550		Exit status: 0
+SRR980551	14633937 reads; of these:
+SRR980551	  14633937 (100.00%) were paired; of these:
+SRR980551	    14605363 (99.80%) aligned concordantly 0 times
+SRR980551	    28558 (0.20%) aligned concordantly exactly 1 time
+SRR980551	    16 (0.00%) aligned concordantly >1 times
+SRR980551	    ----
+SRR980551	    14605363 pairs aligned concordantly 0 times; of these:
+SRR980551	      8 (0.00%) aligned discordantly 1 time
+SRR980551	    ----
+SRR980551	    14605355 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980551	      29210710 mates make up the pairs; of these:
+SRR980551	        29199363 (99.96%) aligned 0 times
+SRR980551	        11311 (0.04%) aligned exactly 1 time
+SRR980551	        36 (0.00%) aligned >1 times
+SRR980551	0.23% overall alignment rate
+SRR980551	[samopen] SAM header is present: 1654 sequences.
+SRR980551	[mpileup] 1 samples in 1 input files
+SRR980551	<mpileup> Set max per-file depth to 8000
+SRR980551		Command being timed: "srst2 --input_pe SRR980551/reads_1.fastq.gz SRR980551/reads_2.fastq.gz --output SRR980551/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980551		User time (seconds): 849.30
+SRR980551		System time (seconds): 25.19
+SRR980551		Percent of CPU this job got: 102%
+SRR980551		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:16.57
+SRR980551		Average shared text size (kbytes): 0
+SRR980551		Average unshared data size (kbytes): 0
+SRR980551		Average stack size (kbytes): 0
+SRR980551		Average total size (kbytes): 0
+SRR980551		Maximum resident set size (kbytes): 47228
+SRR980551		Average resident set size (kbytes): 0
+SRR980551		Major (requiring I/O) page faults: 0
+SRR980551		Minor (reclaiming a frame) page faults: 49849
+SRR980551		Voluntary context switches: 1644685
+SRR980551		Involuntary context switches: 310487
+SRR980551		Swaps: 0
+SRR980551		File system inputs: 0
+SRR980551		File system outputs: 131584
+SRR980551		Socket messages sent: 0
+SRR980551		Socket messages received: 0
+SRR980551		Signals delivered: 0
+SRR980551		Page size (bytes): 4096
+SRR980551		Exit status: 0
+SRR980552	19430296 reads; of these:
+SRR980552	  19430296 (100.00%) were paired; of these:
+SRR980552	    19281184 (99.23%) aligned concordantly 0 times
+SRR980552	    132083 (0.68%) aligned concordantly exactly 1 time
+SRR980552	    17029 (0.09%) aligned concordantly >1 times
+SRR980552	    ----
+SRR980552	    19281184 pairs aligned concordantly 0 times; of these:
+SRR980552	      2599 (0.01%) aligned discordantly 1 time
+SRR980552	    ----
+SRR980552	    19278585 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980552	      38557170 mates make up the pairs; of these:
+SRR980552	        38516759 (99.90%) aligned 0 times
+SRR980552	        35936 (0.09%) aligned exactly 1 time
+SRR980552	        4475 (0.01%) aligned >1 times
+SRR980552	0.88% overall alignment rate
+SRR980552	[samopen] SAM header is present: 1654 sequences.
+SRR980552	[mpileup] 1 samples in 1 input files
+SRR980552	<mpileup> Set max per-file depth to 8000
+SRR980552		Command being timed: "srst2 --input_pe SRR980552/reads_1.fastq.gz SRR980552/reads_2.fastq.gz --output SRR980552/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980552		User time (seconds): 1270.25
+SRR980552		System time (seconds): 37.30
+SRR980552		Percent of CPU this job got: 101%
+SRR980552		Elapsed (wall clock) time (h:mm:ss or m:ss): 21:22.81
+SRR980552		Average shared text size (kbytes): 0
+SRR980552		Average unshared data size (kbytes): 0
+SRR980552		Average stack size (kbytes): 0
+SRR980552		Average total size (kbytes): 0
+SRR980552		Maximum resident set size (kbytes): 123636
+SRR980552		Average resident set size (kbytes): 0
+SRR980552		Major (requiring I/O) page faults: 2
+SRR980552		Minor (reclaiming a frame) page faults: 118649
+SRR980552		Voluntary context switches: 2206790
+SRR980552		Involuntary context switches: 380665
+SRR980552		Swaps: 0
+SRR980552		File system inputs: 40
+SRR980552		File system outputs: 753432
+SRR980552		Socket messages sent: 0
+SRR980552		Socket messages received: 0
+SRR980552		Signals delivered: 0
+SRR980552		Page size (bytes): 4096
+SRR980552		Exit status: 0
+SRR980553	17981326 reads; of these:
+SRR980553	  17981326 (100.00%) were paired; of these:
+SRR980553	    17949588 (99.82%) aligned concordantly 0 times
+SRR980553	    28346 (0.16%) aligned concordantly exactly 1 time
+SRR980553	    3392 (0.02%) aligned concordantly >1 times
+SRR980553	    ----
+SRR980553	    17949588 pairs aligned concordantly 0 times; of these:
+SRR980553	      18 (0.00%) aligned discordantly 1 time
+SRR980553	    ----
+SRR980553	    17949570 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980553	      35899140 mates make up the pairs; of these:
+SRR980553	        35882344 (99.95%) aligned 0 times
+SRR980553	        15952 (0.04%) aligned exactly 1 time
+SRR980553	        844 (0.00%) aligned >1 times
+SRR980553	0.22% overall alignment rate
+SRR980553	[samopen] SAM header is present: 1654 sequences.
+SRR980553	[mpileup] 1 samples in 1 input files
+SRR980553	<mpileup> Set max per-file depth to 8000
+SRR980553		Command being timed: "srst2 --input_pe SRR980553/reads_1.fastq.gz SRR980553/reads_2.fastq.gz --output SRR980553/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980553		User time (seconds): 1080.49
+SRR980553		System time (seconds): 32.40
+SRR980553		Percent of CPU this job got: 101%
+SRR980553		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:13.33
+SRR980553		Average shared text size (kbytes): 0
+SRR980553		Average unshared data size (kbytes): 0
+SRR980553		Average stack size (kbytes): 0
+SRR980553		Average total size (kbytes): 0
+SRR980553		Maximum resident set size (kbytes): 47740
+SRR980553		Average resident set size (kbytes): 0
+SRR980553		Major (requiring I/O) page faults: 9
+SRR980553		Minor (reclaiming a frame) page faults: 51200
+SRR980553		Voluntary context switches: 2029279
+SRR980553		Involuntary context switches: 330221
+SRR980553		Swaps: 0
+SRR980553		File system inputs: 384
+SRR980553		File system outputs: 148128
+SRR980553		Socket messages sent: 0
+SRR980553		Socket messages received: 0
+SRR980553		Signals delivered: 0
+SRR980553		Page size (bytes): 4096
+SRR980553		Exit status: 0
+SRR980554	18274393 reads; of these:
+SRR980554	  18274393 (100.00%) were paired; of these:
+SRR980554	    18192789 (99.55%) aligned concordantly 0 times
+SRR980554	    69444 (0.38%) aligned concordantly exactly 1 time
+SRR980554	    12160 (0.07%) aligned concordantly >1 times
+SRR980554	    ----
+SRR980554	    18192789 pairs aligned concordantly 0 times; of these:
+SRR980554	      1556 (0.01%) aligned discordantly 1 time
+SRR980554	    ----
+SRR980554	    18191233 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980554	      36382466 mates make up the pairs; of these:
+SRR980554	        36362677 (99.95%) aligned 0 times
+SRR980554	        16849 (0.05%) aligned exactly 1 time
+SRR980554	        2940 (0.01%) aligned >1 times
+SRR980554	0.51% overall alignment rate
+SRR980554	[samopen] SAM header is present: 1654 sequences.
+SRR980554	[mpileup] 1 samples in 1 input files
+SRR980554	<mpileup> Set max per-file depth to 8000
+SRR980554		Command being timed: "srst2 --input_pe SRR980554/reads_1.fastq.gz SRR980554/reads_2.fastq.gz --output SRR980554/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980554		User time (seconds): 1098.77
+SRR980554		System time (seconds): 32.93
+SRR980554		Percent of CPU this job got: 102%
+SRR980554		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:28.90
+SRR980554		Average shared text size (kbytes): 0
+SRR980554		Average unshared data size (kbytes): 0
+SRR980554		Average stack size (kbytes): 0
+SRR980554		Average total size (kbytes): 0
+SRR980554		Maximum resident set size (kbytes): 72632
+SRR980554		Average resident set size (kbytes): 0
+SRR980554		Major (requiring I/O) page faults: 0
+SRR980554		Minor (reclaiming a frame) page faults: 82431
+SRR980554		Voluntary context switches: 2069168
+SRR980554		Involuntary context switches: 355194
+SRR980554		Swaps: 0
+SRR980554		File system inputs: 56
+SRR980554		File system outputs: 432144
+SRR980554		Socket messages sent: 0
+SRR980554		Socket messages received: 0
+SRR980554		Signals delivered: 0
+SRR980554		Page size (bytes): 4096
+SRR980554		Exit status: 0
+SRR980555	19540713 reads; of these:
+SRR980555	  19540713 (100.00%) were paired; of these:
+SRR980555	    19445369 (99.51%) aligned concordantly 0 times
+SRR980555	    95292 (0.49%) aligned concordantly exactly 1 time
+SRR980555	    52 (0.00%) aligned concordantly >1 times
+SRR980555	    ----
+SRR980555	    19445369 pairs aligned concordantly 0 times; of these:
+SRR980555	      3913 (0.02%) aligned discordantly 1 time
+SRR980555	    ----
+SRR980555	    19441456 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980555	      38882912 mates make up the pairs; of these:
+SRR980555	        38847660 (99.91%) aligned 0 times
+SRR980555	        35189 (0.09%) aligned exactly 1 time
+SRR980555	        63 (0.00%) aligned >1 times
+SRR980555	0.60% overall alignment rate
+SRR980555	[samopen] SAM header is present: 1654 sequences.
+SRR980555	[mpileup] 1 samples in 1 input files
+SRR980555	<mpileup> Set max per-file depth to 8000
+SRR980555		Command being timed: "srst2 --input_pe SRR980555/reads_1.fastq.gz SRR980555/reads_2.fastq.gz --output SRR980555/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980555		User time (seconds): 1117.33
+SRR980555		System time (seconds): 36.32
+SRR980555		Percent of CPU this job got: 98%
+SRR980555		Elapsed (wall clock) time (h:mm:ss or m:ss): 19:34.47
+SRR980555		Average shared text size (kbytes): 0
+SRR980555		Average unshared data size (kbytes): 0
+SRR980555		Average stack size (kbytes): 0
+SRR980555		Average total size (kbytes): 0
+SRR980555		Maximum resident set size (kbytes): 73464
+SRR980555		Average resident set size (kbytes): 0
+SRR980555		Major (requiring I/O) page faults: 178
+SRR980555		Minor (reclaiming a frame) page faults: 80271
+SRR980555		Voluntary context switches: 2394223
+SRR980555		Involuntary context switches: 653526
+SRR980555		Swaps: 0
+SRR980555		File system inputs: 97608
+SRR980555		File system outputs: 429576
+SRR980555		Socket messages sent: 0
+SRR980555		Socket messages received: 0
+SRR980555		Signals delivered: 0
+SRR980555		Page size (bytes): 4096
+SRR980555		Exit status: 0
+SRR980556	18908592 reads; of these:
+SRR980556	  18908592 (100.00%) were paired; of these:
+SRR980556	    18895441 (99.93%) aligned concordantly 0 times
+SRR980556	    13128 (0.07%) aligned concordantly exactly 1 time
+SRR980556	    23 (0.00%) aligned concordantly >1 times
+SRR980556	    ----
+SRR980556	    18895441 pairs aligned concordantly 0 times; of these:
+SRR980556	      4 (0.00%) aligned discordantly 1 time
+SRR980556	    ----
+SRR980556	    18895437 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980556	      37790874 mates make up the pairs; of these:
+SRR980556	        37785764 (99.99%) aligned 0 times
+SRR980556	        5072 (0.01%) aligned exactly 1 time
+SRR980556	        38 (0.00%) aligned >1 times
+SRR980556	0.08% overall alignment rate
+SRR980556	[samopen] SAM header is present: 1654 sequences.
+SRR980556	[mpileup] 1 samples in 1 input files
+SRR980556	<mpileup> Set max per-file depth to 8000
+SRR980556		Command being timed: "srst2 --input_pe SRR980556/reads_1.fastq.gz SRR980556/reads_2.fastq.gz --output SRR980556/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980556		User time (seconds): 1083.02
+SRR980556		System time (seconds): 32.17
+SRR980556		Percent of CPU this job got: 96%
+SRR980556		Elapsed (wall clock) time (h:mm:ss or m:ss): 19:19.75
+SRR980556		Average shared text size (kbytes): 0
+SRR980556		Average unshared data size (kbytes): 0
+SRR980556		Average stack size (kbytes): 0
+SRR980556		Average total size (kbytes): 0
+SRR980556		Maximum resident set size (kbytes): 66616
+SRR980556		Average resident set size (kbytes): 0
+SRR980556		Major (requiring I/O) page faults: 0
+SRR980556		Minor (reclaiming a frame) page faults: 38885
+SRR980556		Voluntary context switches: 2259976
+SRR980556		Involuntary context switches: 1220655
+SRR980556		Swaps: 0
+SRR980556		File system inputs: 0
+SRR980556		File system outputs: 60536
+SRR980556		Socket messages sent: 0
+SRR980556		Socket messages received: 0
+SRR980556		Signals delivered: 0
+SRR980556		Page size (bytes): 4096
+SRR980556		Exit status: 0
+SRR980557	17123154 reads; of these:
+SRR980557	  17123154 (100.00%) were paired; of these:
+SRR980557	    16933389 (98.89%) aligned concordantly 0 times
+SRR980557	    136808 (0.80%) aligned concordantly exactly 1 time
+SRR980557	    52957 (0.31%) aligned concordantly >1 times
+SRR980557	    ----
+SRR980557	    16933389 pairs aligned concordantly 0 times; of these:
+SRR980557	      1363 (0.01%) aligned discordantly 1 time
+SRR980557	    ----
+SRR980557	    16932026 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980557	      33864052 mates make up the pairs; of these:
+SRR980557	        33807353 (99.83%) aligned 0 times
+SRR980557	        49550 (0.15%) aligned exactly 1 time
+SRR980557	        7149 (0.02%) aligned >1 times
+SRR980557	1.28% overall alignment rate
+SRR980557	[samopen] SAM header is present: 1654 sequences.
+SRR980557	[mpileup] 1 samples in 1 input files
+SRR980557	<mpileup> Set max per-file depth to 8000
+SRR980557		Command being timed: "srst2 --input_pe SRR980557/reads_1.fastq.gz SRR980557/reads_2.fastq.gz --output SRR980557/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980557		User time (seconds): 1190.32
+SRR980557		System time (seconds): 31.02
+SRR980557		Percent of CPU this job got: 97%
+SRR980557		Elapsed (wall clock) time (h:mm:ss or m:ss): 20:50.12
+SRR980557		Average shared text size (kbytes): 0
+SRR980557		Average unshared data size (kbytes): 0
+SRR980557		Average stack size (kbytes): 0
+SRR980557		Average total size (kbytes): 0
+SRR980557		Maximum resident set size (kbytes): 208944
+SRR980557		Average resident set size (kbytes): 0
+SRR980557		Major (requiring I/O) page faults: 0
+SRR980557		Minor (reclaiming a frame) page faults: 165617
+SRR980557		Voluntary context switches: 1971530
+SRR980557		Involuntary context switches: 873789
+SRR980557		Swaps: 0
+SRR980557		File system inputs: 0
+SRR980557		File system outputs: 1216112
+SRR980557		Socket messages sent: 0
+SRR980557		Socket messages received: 0
+SRR980557		Signals delivered: 0
+SRR980557		Page size (bytes): 4096
+SRR980557		Exit status: 0
+SRR980558	15659177 reads; of these:
+SRR980558	  15659177 (100.00%) were paired; of these:
+SRR980558	    15576301 (99.47%) aligned concordantly 0 times
+SRR980558	    78111 (0.50%) aligned concordantly exactly 1 time
+SRR980558	    4765 (0.03%) aligned concordantly >1 times
+SRR980558	    ----
+SRR980558	    15576301 pairs aligned concordantly 0 times; of these:
+SRR980558	      2282 (0.01%) aligned discordantly 1 time
+SRR980558	    ----
+SRR980558	    15574019 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980558	      31148038 mates make up the pairs; of these:
+SRR980558	        31120465 (99.91%) aligned 0 times
+SRR980558	        27097 (0.09%) aligned exactly 1 time
+SRR980558	        476 (0.00%) aligned >1 times
+SRR980558	0.63% overall alignment rate
+SRR980558	[samopen] SAM header is present: 1654 sequences.
+SRR980558	[mpileup] 1 samples in 1 input files
+SRR980558	<mpileup> Set max per-file depth to 8000
+SRR980558		Command being timed: "srst2 --input_pe SRR980558/reads_1.fastq.gz SRR980558/reads_2.fastq.gz --output SRR980558/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980558		User time (seconds): 961.94
+SRR980558		System time (seconds): 27.73
+SRR980558		Percent of CPU this job got: 96%
+SRR980558		Elapsed (wall clock) time (h:mm:ss or m:ss): 17:01.08
+SRR980558		Average shared text size (kbytes): 0
+SRR980558		Average unshared data size (kbytes): 0
+SRR980558		Average stack size (kbytes): 0
+SRR980558		Average total size (kbytes): 0
+SRR980558		Maximum resident set size (kbytes): 66856
+SRR980558		Average resident set size (kbytes): 0
+SRR980558		Major (requiring I/O) page faults: 0
+SRR980558		Minor (reclaiming a frame) page faults: 75086
+SRR980558		Voluntary context switches: 1843543
+SRR980558		Involuntary context switches: 897777
+SRR980558		Swaps: 0
+SRR980558		File system inputs: 0
+SRR980558		File system outputs: 390424
+SRR980558		Socket messages sent: 0
+SRR980558		Socket messages received: 0
+SRR980558		Signals delivered: 0
+SRR980558		Page size (bytes): 4096
+SRR980558		Exit status: 0
+SRR980559	11771941 reads; of these:
+SRR980559	  11771941 (100.00%) were paired; of these:
+SRR980559	    11713355 (99.50%) aligned concordantly 0 times
+SRR980559	    55887 (0.47%) aligned concordantly exactly 1 time
+SRR980559	    2699 (0.02%) aligned concordantly >1 times
+SRR980559	    ----
+SRR980559	    11713355 pairs aligned concordantly 0 times; of these:
+SRR980559	      2586 (0.02%) aligned discordantly 1 time
+SRR980559	    ----
+SRR980559	    11710769 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980559	      23421538 mates make up the pairs; of these:
+SRR980559	        23395464 (99.89%) aligned 0 times
+SRR980559	        25547 (0.11%) aligned exactly 1 time
+SRR980559	        527 (0.00%) aligned >1 times
+SRR980559	0.63% overall alignment rate
+SRR980559	[samopen] SAM header is present: 1654 sequences.
+SRR980559	[mpileup] 1 samples in 1 input files
+SRR980559	<mpileup> Set max per-file depth to 8000
+SRR980559		Command being timed: "srst2 --input_pe SRR980559/reads_1.fastq.gz SRR980559/reads_2.fastq.gz --output SRR980559/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980559		User time (seconds): 728.22
+SRR980559		System time (seconds): 20.37
+SRR980559		Percent of CPU this job got: 95%
+SRR980559		Elapsed (wall clock) time (h:mm:ss or m:ss): 13:01.30
+SRR980559		Average shared text size (kbytes): 0
+SRR980559		Average unshared data size (kbytes): 0
+SRR980559		Average stack size (kbytes): 0
+SRR980559		Average total size (kbytes): 0
+SRR980559		Maximum resident set size (kbytes): 67404
+SRR980559		Average resident set size (kbytes): 0
+SRR980559		Major (requiring I/O) page faults: 0
+SRR980559		Minor (reclaiming a frame) page faults: 64122
+SRR980559		Voluntary context switches: 1408085
+SRR980559		Involuntary context switches: 749559
+SRR980559		Swaps: 0
+SRR980559		File system inputs: 0
+SRR980559		File system outputs: 287176
+SRR980559		Socket messages sent: 0
+SRR980559		Socket messages received: 0
+SRR980559		Signals delivered: 0
+SRR980559		Page size (bytes): 4096
+SRR980559		Exit status: 0
+SRR980560	15145149 reads; of these:
+SRR980560	  15145149 (100.00%) were paired; of these:
+SRR980560	    15054751 (99.40%) aligned concordantly 0 times
+SRR980560	    86955 (0.57%) aligned concordantly exactly 1 time
+SRR980560	    3443 (0.02%) aligned concordantly >1 times
+SRR980560	    ----
+SRR980560	    15054751 pairs aligned concordantly 0 times; of these:
+SRR980560	      5699 (0.04%) aligned discordantly 1 time
+SRR980560	    ----
+SRR980560	    15049052 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980560	      30098104 mates make up the pairs; of these:
+SRR980560	        30065469 (99.89%) aligned 0 times
+SRR980560	        32171 (0.11%) aligned exactly 1 time
+SRR980560	        464 (0.00%) aligned >1 times
+SRR980560	0.74% overall alignment rate
+SRR980560	[samopen] SAM header is present: 1654 sequences.
+SRR980560	[mpileup] 1 samples in 1 input files
+SRR980560	<mpileup> Set max per-file depth to 8000
+SRR980560		Command being timed: "srst2 --input_pe SRR980560/reads_1.fastq.gz SRR980560/reads_2.fastq.gz --output SRR980560/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980560		User time (seconds): 962.62
+SRR980560		System time (seconds): 26.42
+SRR980560		Percent of CPU this job got: 96%
+SRR980560		Elapsed (wall clock) time (h:mm:ss or m:ss): 17:02.57
+SRR980560		Average shared text size (kbytes): 0
+SRR980560		Average unshared data size (kbytes): 0
+SRR980560		Average stack size (kbytes): 0
+SRR980560		Average total size (kbytes): 0
+SRR980560		Maximum resident set size (kbytes): 76176
+SRR980560		Average resident set size (kbytes): 0
+SRR980560		Major (requiring I/O) page faults: 0
+SRR980560		Minor (reclaiming a frame) page faults: 81975
+SRR980560		Voluntary context switches: 1784457
+SRR980560		Involuntary context switches: 908305
+SRR980560		Swaps: 0
+SRR980560		File system inputs: 0
+SRR980560		File system outputs: 440016
+SRR980560		Socket messages sent: 0
+SRR980560		Socket messages received: 0
+SRR980560		Signals delivered: 0
+SRR980560		Page size (bytes): 4096
+SRR980560		Exit status: 0
+SRR980561	13765896 reads; of these:
+SRR980561	  13765896 (100.00%) were paired; of these:
+SRR980561	    13723544 (99.69%) aligned concordantly 0 times
+SRR980561	    42339 (0.31%) aligned concordantly exactly 1 time
+SRR980561	    13 (0.00%) aligned concordantly >1 times
+SRR980561	    ----
+SRR980561	    13723544 pairs aligned concordantly 0 times; of these:
+SRR980561	      1460 (0.01%) aligned discordantly 1 time
+SRR980561	    ----
+SRR980561	    13722084 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980561	      27444168 mates make up the pairs; of these:
+SRR980561	        27428589 (99.94%) aligned 0 times
+SRR980561	        15552 (0.06%) aligned exactly 1 time
+SRR980561	        27 (0.00%) aligned >1 times
+SRR980561	0.37% overall alignment rate
+SRR980561	[samopen] SAM header is present: 1654 sequences.
+SRR980561	[mpileup] 1 samples in 1 input files
+SRR980561	<mpileup> Set max per-file depth to 8000
+SRR980561		Command being timed: "srst2 --input_pe SRR980561/reads_1.fastq.gz SRR980561/reads_2.fastq.gz --output SRR980561/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980561		User time (seconds): 815.40
+SRR980561		System time (seconds): 23.34
+SRR980561		Percent of CPU this job got: 96%
+SRR980561		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:28.46
+SRR980561		Average shared text size (kbytes): 0
+SRR980561		Average unshared data size (kbytes): 0
+SRR980561		Average stack size (kbytes): 0
+SRR980561		Average total size (kbytes): 0
+SRR980561		Maximum resident set size (kbytes): 66124
+SRR980561		Average resident set size (kbytes): 0
+SRR980561		Major (requiring I/O) page faults: 0
+SRR980561		Minor (reclaiming a frame) page faults: 52704
+SRR980561		Voluntary context switches: 1634507
+SRR980561		Involuntary context switches: 855827
+SRR980561		Swaps: 0
+SRR980561		File system inputs: 0
+SRR980561		File system outputs: 188640
+SRR980561		Socket messages sent: 0
+SRR980561		Socket messages received: 0
+SRR980561		Signals delivered: 0
+SRR980561		Page size (bytes): 4096
+SRR980561		Exit status: 0
+SRR980562	15127375 reads; of these:
+SRR980562	  15127375 (100.00%) were paired; of these:
+SRR980562	    15065203 (99.59%) aligned concordantly 0 times
+SRR980562	    58507 (0.39%) aligned concordantly exactly 1 time
+SRR980562	    3665 (0.02%) aligned concordantly >1 times
+SRR980562	    ----
+SRR980562	    15065203 pairs aligned concordantly 0 times; of these:
+SRR980562	      1607 (0.01%) aligned discordantly 1 time
+SRR980562	    ----
+SRR980562	    15063596 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980562	      30127192 mates make up the pairs; of these:
+SRR980562	        30107205 (99.93%) aligned 0 times
+SRR980562	        19497 (0.06%) aligned exactly 1 time
+SRR980562	        490 (0.00%) aligned >1 times
+SRR980562	0.49% overall alignment rate
+SRR980562	[samopen] SAM header is present: 1654 sequences.
+SRR980562	[mpileup] 1 samples in 1 input files
+SRR980562	<mpileup> Set max per-file depth to 8000
+SRR980562		Command being timed: "srst2 --input_pe SRR980562/reads_1.fastq.gz SRR980562/reads_2.fastq.gz --output SRR980562/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980562		User time (seconds): 921.71
+SRR980562		System time (seconds): 26.33
+SRR980562		Percent of CPU this job got: 98%
+SRR980562		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:05.48
+SRR980562		Average shared text size (kbytes): 0
+SRR980562		Average unshared data size (kbytes): 0
+SRR980562		Average stack size (kbytes): 0
+SRR980562		Average total size (kbytes): 0
+SRR980562		Maximum resident set size (kbytes): 67212
+SRR980562		Average resident set size (kbytes): 0
+SRR980562		Major (requiring I/O) page faults: 0
+SRR980562		Minor (reclaiming a frame) page faults: 64919
+SRR980562		Voluntary context switches: 1774371
+SRR980562		Involuntary context switches: 727448
+SRR980562		Swaps: 0
+SRR980562		File system inputs: 0
+SRR980562		File system outputs: 292272
+SRR980562		Socket messages sent: 0
+SRR980562		Socket messages received: 0
+SRR980562		Signals delivered: 0
+SRR980562		Page size (bytes): 4096
+SRR980562		Exit status: 0
+SRR980563	15183377 reads; of these:
+SRR980563	  15183377 (100.00%) were paired; of these:
+SRR980563	    15122291 (99.60%) aligned concordantly 0 times
+SRR980563	    61069 (0.40%) aligned concordantly exactly 1 time
+SRR980563	    17 (0.00%) aligned concordantly >1 times
+SRR980563	    ----
+SRR980563	    15122291 pairs aligned concordantly 0 times; of these:
+SRR980563	      1417 (0.01%) aligned discordantly 1 time
+SRR980563	    ----
+SRR980563	    15120874 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980563	      30241748 mates make up the pairs; of these:
+SRR980563	        30214955 (99.91%) aligned 0 times
+SRR980563	        26762 (0.09%) aligned exactly 1 time
+SRR980563	        31 (0.00%) aligned >1 times
+SRR980563	0.50% overall alignment rate
+SRR980563	[samopen] SAM header is present: 1654 sequences.
+SRR980563	[mpileup] 1 samples in 1 input files
+SRR980563	<mpileup> Set max per-file depth to 8000
+SRR980563		Command being timed: "srst2 --input_pe SRR980563/reads_1.fastq.gz SRR980563/reads_2.fastq.gz --output SRR980563/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980563		User time (seconds): 926.09
+SRR980563		System time (seconds): 25.89
+SRR980563		Percent of CPU this job got: 96%
+SRR980563		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:24.28
+SRR980563		Average shared text size (kbytes): 0
+SRR980563		Average unshared data size (kbytes): 0
+SRR980563		Average stack size (kbytes): 0
+SRR980563		Average total size (kbytes): 0
+SRR980563		Maximum resident set size (kbytes): 67892
+SRR980563		Average resident set size (kbytes): 0
+SRR980563		Major (requiring I/O) page faults: 0
+SRR980563		Minor (reclaiming a frame) page faults: 61031
+SRR980563		Voluntary context switches: 1758102
+SRR980563		Involuntary context switches: 781394
+SRR980563		Swaps: 0
+SRR980563		File system inputs: 0
+SRR980563		File system outputs: 263464
+SRR980563		Socket messages sent: 0
+SRR980563		Socket messages received: 0
+SRR980563		Signals delivered: 0
+SRR980563		Page size (bytes): 4096
+SRR980563		Exit status: 0
+SRR980564	12823274 reads; of these:
+SRR980564	  12823274 (100.00%) were paired; of these:
+SRR980564	    12752992 (99.45%) aligned concordantly 0 times
+SRR980564	    63596 (0.50%) aligned concordantly exactly 1 time
+SRR980564	    6686 (0.05%) aligned concordantly >1 times
+SRR980564	    ----
+SRR980564	    12752992 pairs aligned concordantly 0 times; of these:
+SRR980564	      1002 (0.01%) aligned discordantly 1 time
+SRR980564	    ----
+SRR980564	    12751990 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980564	      25503980 mates make up the pairs; of these:
+SRR980564	        25468481 (99.86%) aligned 0 times
+SRR980564	        33864 (0.13%) aligned exactly 1 time
+SRR980564	        1635 (0.01%) aligned >1 times
+SRR980564	0.69% overall alignment rate
+SRR980564	[samopen] SAM header is present: 1654 sequences.
+SRR980564	[mpileup] 1 samples in 1 input files
+SRR980564	<mpileup> Set max per-file depth to 8000
+SRR980564		Command being timed: "srst2 --input_pe SRR980564/reads_1.fastq.gz SRR980564/reads_2.fastq.gz --output SRR980564/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980564		User time (seconds): 805.80
+SRR980564		System time (seconds): 22.58
+SRR980564		Percent of CPU this job got: 96%
+SRR980564		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:17.00
+SRR980564		Average shared text size (kbytes): 0
+SRR980564		Average unshared data size (kbytes): 0
+SRR980564		Average stack size (kbytes): 0
+SRR980564		Average total size (kbytes): 0
+SRR980564		Maximum resident set size (kbytes): 66624
+SRR980564		Average resident set size (kbytes): 0
+SRR980564		Major (requiring I/O) page faults: 5
+SRR980564		Minor (reclaiming a frame) page faults: 73608
+SRR980564		Voluntary context switches: 1494949
+SRR980564		Involuntary context switches: 679095
+SRR980564		Swaps: 0
+SRR980564		File system inputs: 4504
+SRR980564		File system outputs: 355584
+SRR980564		Socket messages sent: 0
+SRR980564		Socket messages received: 0
+SRR980564		Signals delivered: 0
+SRR980564		Page size (bytes): 4096
+SRR980564		Exit status: 0
+SRR980565	13523505 reads; of these:
+SRR980565	  13523505 (100.00%) were paired; of these:
+SRR980565	    13453417 (99.48%) aligned concordantly 0 times
+SRR980565	    67045 (0.50%) aligned concordantly exactly 1 time
+SRR980565	    3043 (0.02%) aligned concordantly >1 times
+SRR980565	    ----
+SRR980565	    13453417 pairs aligned concordantly 0 times; of these:
+SRR980565	      1787 (0.01%) aligned discordantly 1 time
+SRR980565	    ----
+SRR980565	    13451630 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980565	      26903260 mates make up the pairs; of these:
+SRR980565	        26877014 (99.90%) aligned 0 times
+SRR980565	        25749 (0.10%) aligned exactly 1 time
+SRR980565	        497 (0.00%) aligned >1 times
+SRR980565	0.63% overall alignment rate
+SRR980565	[samopen] SAM header is present: 1654 sequences.
+SRR980565	[mpileup] 1 samples in 1 input files
+SRR980565	<mpileup> Set max per-file depth to 8000
+SRR980565		Command being timed: "srst2 --input_pe SRR980565/reads_1.fastq.gz SRR980565/reads_2.fastq.gz --output SRR980565/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980565		User time (seconds): 832.62
+SRR980565		System time (seconds): 23.84
+SRR980565		Percent of CPU this job got: 96%
+SRR980565		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:47.48
+SRR980565		Average shared text size (kbytes): 0
+SRR980565		Average unshared data size (kbytes): 0
+SRR980565		Average stack size (kbytes): 0
+SRR980565		Average total size (kbytes): 0
+SRR980565		Maximum resident set size (kbytes): 66832
+SRR980565		Average resident set size (kbytes): 0
+SRR980565		Major (requiring I/O) page faults: 50
+SRR980565		Minor (reclaiming a frame) page faults: 70813
+SRR980565		Voluntary context switches: 1562787
+SRR980565		Involuntary context switches: 720255
+SRR980565		Swaps: 0
+SRR980565		File system inputs: 21752
+SRR980565		File system outputs: 334488
+SRR980565		Socket messages sent: 0
+SRR980565		Socket messages received: 0
+SRR980565		Signals delivered: 0
+SRR980565		Page size (bytes): 4096
+SRR980565		Exit status: 0
+SRR980566	15339247 reads; of these:
+SRR980566	  15339247 (100.00%) were paired; of these:
+SRR980566	    15265849 (99.52%) aligned concordantly 0 times
+SRR980566	    70253 (0.46%) aligned concordantly exactly 1 time
+SRR980566	    3145 (0.02%) aligned concordantly >1 times
+SRR980566	    ----
+SRR980566	    15265849 pairs aligned concordantly 0 times; of these:
+SRR980566	      1702 (0.01%) aligned discordantly 1 time
+SRR980566	    ----
+SRR980566	    15264147 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980566	      30528294 mates make up the pairs; of these:
+SRR980566	        30492821 (99.88%) aligned 0 times
+SRR980566	        35037 (0.11%) aligned exactly 1 time
+SRR980566	        436 (0.00%) aligned >1 times
+SRR980566	0.61% overall alignment rate
+SRR980566	[samopen] SAM header is present: 1654 sequences.
+SRR980566	[mpileup] 1 samples in 1 input files
+SRR980566	<mpileup> Set max per-file depth to 8000
+SRR980566	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980566	  vals = special.bdtr(k, n, p)
+SRR980566		Command being timed: "srst2 --input_pe SRR980566/reads_1.fastq.gz SRR980566/reads_2.fastq.gz --output SRR980566/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980566		User time (seconds): 978.51
+SRR980566		System time (seconds): 27.94
+SRR980566		Percent of CPU this job got: 98%
+SRR980566		Elapsed (wall clock) time (h:mm:ss or m:ss): 17:05.81
+SRR980566		Average shared text size (kbytes): 0
+SRR980566		Average unshared data size (kbytes): 0
+SRR980566		Average stack size (kbytes): 0
+SRR980566		Average total size (kbytes): 0
+SRR980566		Maximum resident set size (kbytes): 61876
+SRR980566		Average resident set size (kbytes): 0
+SRR980566		Major (requiring I/O) page faults: 0
+SRR980566		Minor (reclaiming a frame) page faults: 75356
+SRR980566		Voluntary context switches: 1808971
+SRR980566		Involuntary context switches: 685596
+SRR980566		Swaps: 0
+SRR980566		File system inputs: 48
+SRR980566		File system outputs: 365664
+SRR980566		Socket messages sent: 0
+SRR980566		Socket messages received: 0
+SRR980566		Signals delivered: 0
+SRR980566		Page size (bytes): 4096
+SRR980566		Exit status: 0
+SRR980567	9438551 reads; of these:
+SRR980567	  9438551 (100.00%) were paired; of these:
+SRR980567	    9408833 (99.69%) aligned concordantly 0 times
+SRR980567	    26789 (0.28%) aligned concordantly exactly 1 time
+SRR980567	    2929 (0.03%) aligned concordantly >1 times
+SRR980567	    ----
+SRR980567	    9408833 pairs aligned concordantly 0 times; of these:
+SRR980567	      324 (0.00%) aligned discordantly 1 time
+SRR980567	    ----
+SRR980567	    9408509 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980567	      18817018 mates make up the pairs; of these:
+SRR980567	        18799077 (99.90%) aligned 0 times
+SRR980567	        17243 (0.09%) aligned exactly 1 time
+SRR980567	        698 (0.00%) aligned >1 times
+SRR980567	0.41% overall alignment rate
+SRR980567	[samopen] SAM header is present: 1654 sequences.
+SRR980567	[mpileup] 1 samples in 1 input files
+SRR980567	<mpileup> Set max per-file depth to 8000
+SRR980567		Command being timed: "srst2 --input_pe SRR980567/reads_1.fastq.gz SRR980567/reads_2.fastq.gz --output SRR980567/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980567		User time (seconds): 579.83
+SRR980567		System time (seconds): 16.82
+SRR980567		Percent of CPU this job got: 96%
+SRR980567		Elapsed (wall clock) time (h:mm:ss or m:ss): 10:19.42
+SRR980567		Average shared text size (kbytes): 0
+SRR980567		Average unshared data size (kbytes): 0
+SRR980567		Average stack size (kbytes): 0
+SRR980567		Average total size (kbytes): 0
+SRR980567		Maximum resident set size (kbytes): 66280
+SRR980567		Average resident set size (kbytes): 0
+SRR980567		Major (requiring I/O) page faults: 0
+SRR980567		Minor (reclaiming a frame) page faults: 51125
+SRR980567		Voluntary context switches: 1109431
+SRR980567		Involuntary context switches: 674511
+SRR980567		Swaps: 0
+SRR980567		File system inputs: 0
+SRR980567		File system outputs: 149576
+SRR980567		Socket messages sent: 0
+SRR980567		Socket messages received: 0
+SRR980567		Signals delivered: 0
+SRR980567		Page size (bytes): 4096
+SRR980567		Exit status: 0
+SRR980568	17258309 reads; of these:
+SRR980568	  17258309 (100.00%) were paired; of these:
+SRR980568	    17194578 (99.63%) aligned concordantly 0 times
+SRR980568	    63621 (0.37%) aligned concordantly exactly 1 time
+SRR980568	    110 (0.00%) aligned concordantly >1 times
+SRR980568	    ----
+SRR980568	    17194578 pairs aligned concordantly 0 times; of these:
+SRR980568	      1440 (0.01%) aligned discordantly 1 time
+SRR980568	    ----
+SRR980568	    17193138 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980568	      34386276 mates make up the pairs; of these:
+SRR980568	        34348229 (99.89%) aligned 0 times
+SRR980568	        38002 (0.11%) aligned exactly 1 time
+SRR980568	        45 (0.00%) aligned >1 times
+SRR980568	0.49% overall alignment rate
+SRR980568	[samopen] SAM header is present: 1654 sequences.
+SRR980568	[mpileup] 1 samples in 1 input files
+SRR980568	<mpileup> Set max per-file depth to 8000
+SRR980568		Command being timed: "srst2 --input_pe SRR980568/reads_1.fastq.gz SRR980568/reads_2.fastq.gz --output SRR980568/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980568		User time (seconds): 1022.38
+SRR980568		System time (seconds): 30.12
+SRR980568		Percent of CPU this job got: 96%
+SRR980568		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:11.64
+SRR980568		Average shared text size (kbytes): 0
+SRR980568		Average unshared data size (kbytes): 0
+SRR980568		Average stack size (kbytes): 0
+SRR980568		Average total size (kbytes): 0
+SRR980568		Maximum resident set size (kbytes): 68152
+SRR980568		Average resident set size (kbytes): 0
+SRR980568		Major (requiring I/O) page faults: 0
+SRR980568		Minor (reclaiming a frame) page faults: 66233
+SRR980568		Voluntary context switches: 1996109
+SRR980568		Involuntary context switches: 931941
+SRR980568		Swaps: 0
+SRR980568		File system inputs: 0
+SRR980568		File system outputs: 298784
+SRR980568		Socket messages sent: 0
+SRR980568		Socket messages received: 0
+SRR980568		Signals delivered: 0
+SRR980568		Page size (bytes): 4096
+SRR980568		Exit status: 0
+SRR980569	14331396 reads; of these:
+SRR980569	  14331396 (100.00%) were paired; of these:
+SRR980569	    14246570 (99.41%) aligned concordantly 0 times
+SRR980569	    80710 (0.56%) aligned concordantly exactly 1 time
+SRR980569	    4116 (0.03%) aligned concordantly >1 times
+SRR980569	    ----
+SRR980569	    14246570 pairs aligned concordantly 0 times; of these:
+SRR980569	      2073 (0.01%) aligned discordantly 1 time
+SRR980569	    ----
+SRR980569	    14244497 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980569	      28488994 mates make up the pairs; of these:
+SRR980569	        28464195 (99.91%) aligned 0 times
+SRR980569	        24308 (0.09%) aligned exactly 1 time
+SRR980569	        491 (0.00%) aligned >1 times
+SRR980569	0.69% overall alignment rate
+SRR980569	[samopen] SAM header is present: 1654 sequences.
+SRR980569	[mpileup] 1 samples in 1 input files
+SRR980569	<mpileup> Set max per-file depth to 8000
+SRR980569		Command being timed: "srst2 --input_pe SRR980569/reads_1.fastq.gz SRR980569/reads_2.fastq.gz --output SRR980569/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980569		User time (seconds): 879.29
+SRR980569		System time (seconds): 25.78
+SRR980569		Percent of CPU this job got: 96%
+SRR980569		Elapsed (wall clock) time (h:mm:ss or m:ss): 15:38.06
+SRR980569		Average shared text size (kbytes): 0
+SRR980569		Average unshared data size (kbytes): 0
+SRR980569		Average stack size (kbytes): 0
+SRR980569		Average total size (kbytes): 0
+SRR980569		Maximum resident set size (kbytes): 70624
+SRR980569		Average resident set size (kbytes): 0
+SRR980569		Major (requiring I/O) page faults: 0
+SRR980569		Minor (reclaiming a frame) page faults: 77669
+SRR980569		Voluntary context switches: 1670857
+SRR980569		Involuntary context switches: 764965
+SRR980569		Swaps: 0
+SRR980569		File system inputs: 0
+SRR980569		File system outputs: 406768
+SRR980569		Socket messages sent: 0
+SRR980569		Socket messages received: 0
+SRR980569		Signals delivered: 0
+SRR980569		Page size (bytes): 4096
+SRR980569		Exit status: 0
+SRR980570	15394250 reads; of these:
+SRR980570	  15394250 (100.00%) were paired; of these:
+SRR980570	    15344580 (99.68%) aligned concordantly 0 times
+SRR980570	    49657 (0.32%) aligned concordantly exactly 1 time
+SRR980570	    13 (0.00%) aligned concordantly >1 times
+SRR980570	    ----
+SRR980570	    15344580 pairs aligned concordantly 0 times; of these:
+SRR980570	      1252 (0.01%) aligned discordantly 1 time
+SRR980570	    ----
+SRR980570	    15343328 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980570	      30686656 mates make up the pairs; of these:
+SRR980570	        30666462 (99.93%) aligned 0 times
+SRR980570	        20178 (0.07%) aligned exactly 1 time
+SRR980570	        16 (0.00%) aligned >1 times
+SRR980570	0.40% overall alignment rate
+SRR980570	[samopen] SAM header is present: 1654 sequences.
+SRR980570	[mpileup] 1 samples in 1 input files
+SRR980570	<mpileup> Set max per-file depth to 8000
+SRR980570		Command being timed: "srst2 --input_pe SRR980570/reads_1.fastq.gz SRR980570/reads_2.fastq.gz --output SRR980570/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980570		User time (seconds): 902.21
+SRR980570		System time (seconds): 26.73
+SRR980570		Percent of CPU this job got: 96%
+SRR980570		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:03.13
+SRR980570		Average shared text size (kbytes): 0
+SRR980570		Average unshared data size (kbytes): 0
+SRR980570		Average stack size (kbytes): 0
+SRR980570		Average total size (kbytes): 0
+SRR980570		Maximum resident set size (kbytes): 67496
+SRR980570		Average resident set size (kbytes): 0
+SRR980570		Major (requiring I/O) page faults: 0
+SRR980570		Minor (reclaiming a frame) page faults: 54813
+SRR980570		Voluntary context switches: 1755265
+SRR980570		Involuntary context switches: 832726
+SRR980570		Swaps: 0
+SRR980570		File system inputs: 0
+SRR980570		File system outputs: 218400
+SRR980570		Socket messages sent: 0
+SRR980570		Socket messages received: 0
+SRR980570		Signals delivered: 0
+SRR980570		Page size (bytes): 4096
+SRR980570		Exit status: 0
+SRR980571	13251039 reads; of these:
+SRR980571	  13251039 (100.00%) were paired; of these:
+SRR980571	    13223994 (99.80%) aligned concordantly 0 times
+SRR980571	    23778 (0.18%) aligned concordantly exactly 1 time
+SRR980571	    3267 (0.02%) aligned concordantly >1 times
+SRR980571	    ----
+SRR980571	    13223994 pairs aligned concordantly 0 times; of these:
+SRR980571	      82 (0.00%) aligned discordantly 1 time
+SRR980571	    ----
+SRR980571	    13223912 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980571	      26447824 mates make up the pairs; of these:
+SRR980571	        26442468 (99.98%) aligned 0 times
+SRR980571	        4760 (0.02%) aligned exactly 1 time
+SRR980571	        596 (0.00%) aligned >1 times
+SRR980571	0.22% overall alignment rate
+SRR980571	[samopen] SAM header is present: 1654 sequences.
+SRR980571	[mpileup] 1 samples in 1 input files
+SRR980571	<mpileup> Set max per-file depth to 8000
+SRR980571		Command being timed: "srst2 --input_pe SRR980571/reads_1.fastq.gz SRR980571/reads_2.fastq.gz --output SRR980571/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980571		User time (seconds): 790.63
+SRR980571		System time (seconds): 23.45
+SRR980571		Percent of CPU this job got: 96%
+SRR980571		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:02.84
+SRR980571		Average shared text size (kbytes): 0
+SRR980571		Average unshared data size (kbytes): 0
+SRR980571		Average stack size (kbytes): 0
+SRR980571		Average total size (kbytes): 0
+SRR980571		Maximum resident set size (kbytes): 47476
+SRR980571		Average resident set size (kbytes): 0
+SRR980571		Major (requiring I/O) page faults: 0
+SRR980571		Minor (reclaiming a frame) page faults: 46048
+SRR980571		Voluntary context switches: 1534364
+SRR980571		Involuntary context switches: 845303
+SRR980571		Swaps: 0
+SRR980571		File system inputs: 0
+SRR980571		File system outputs: 124776
+SRR980571		Socket messages sent: 0
+SRR980571		Socket messages received: 0
+SRR980571		Signals delivered: 0
+SRR980571		Page size (bytes): 4096
+SRR980571		Exit status: 0
+SRR980572	13683076 reads; of these:
+SRR980572	  13683076 (100.00%) were paired; of these:
+SRR980572	    13620739 (99.54%) aligned concordantly 0 times
+SRR980572	    61980 (0.45%) aligned concordantly exactly 1 time
+SRR980572	    357 (0.00%) aligned concordantly >1 times
+SRR980572	    ----
+SRR980572	    13620739 pairs aligned concordantly 0 times; of these:
+SRR980572	      1156 (0.01%) aligned discordantly 1 time
+SRR980572	    ----
+SRR980572	    13619583 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980572	      27239166 mates make up the pairs; of these:
+SRR980572	        27217697 (99.92%) aligned 0 times
+SRR980572	        21452 (0.08%) aligned exactly 1 time
+SRR980572	        17 (0.00%) aligned >1 times
+SRR980572	0.54% overall alignment rate
+SRR980572	[samopen] SAM header is present: 1654 sequences.
+SRR980572	[mpileup] 1 samples in 1 input files
+SRR980572	<mpileup> Set max per-file depth to 8000
+SRR980572		Command being timed: "srst2 --input_pe SRR980572/reads_1.fastq.gz SRR980572/reads_2.fastq.gz --output SRR980572/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980572		User time (seconds): 799.58
+SRR980572		System time (seconds): 23.18
+SRR980572		Percent of CPU this job got: 96%
+SRR980572		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:11.97
+SRR980572		Average shared text size (kbytes): 0
+SRR980572		Average unshared data size (kbytes): 0
+SRR980572		Average stack size (kbytes): 0
+SRR980572		Average total size (kbytes): 0
+SRR980572		Maximum resident set size (kbytes): 67748
+SRR980572		Average resident set size (kbytes): 0
+SRR980572		Major (requiring I/O) page faults: 0
+SRR980572		Minor (reclaiming a frame) page faults: 61805
+SRR980572		Voluntary context switches: 1617880
+SRR980572		Involuntary context switches: 1028047
+SRR980572		Swaps: 0
+SRR980572		File system inputs: 0
+SRR980572		File system outputs: 270760
+SRR980572		Socket messages sent: 0
+SRR980572		Socket messages received: 0
+SRR980572		Signals delivered: 0
+SRR980572		Page size (bytes): 4096
+SRR980572		Exit status: 0
+SRR980573	11196913 reads; of these:
+SRR980573	  11196913 (100.00%) were paired; of these:
+SRR980573	    11150018 (99.58%) aligned concordantly 0 times
+SRR980573	    46676 (0.42%) aligned concordantly exactly 1 time
+SRR980573	    219 (0.00%) aligned concordantly >1 times
+SRR980573	    ----
+SRR980573	    11150018 pairs aligned concordantly 0 times; of these:
+SRR980573	      1052 (0.01%) aligned discordantly 1 time
+SRR980573	    ----
+SRR980573	    11148966 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980573	      22297932 mates make up the pairs; of these:
+SRR980573	        22288367 (99.96%) aligned 0 times
+SRR980573	        9522 (0.04%) aligned exactly 1 time
+SRR980573	        43 (0.00%) aligned >1 times
+SRR980573	0.47% overall alignment rate
+SRR980573	[samopen] SAM header is present: 1654 sequences.
+SRR980573	[mpileup] 1 samples in 1 input files
+SRR980573	<mpileup> Set max per-file depth to 8000
+SRR980573		Command being timed: "srst2 --input_pe SRR980573/reads_1.fastq.gz SRR980573/reads_2.fastq.gz --output SRR980573/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980573		User time (seconds): 688.65
+SRR980573		System time (seconds): 20.01
+SRR980573		Percent of CPU this job got: 97%
+SRR980573		Elapsed (wall clock) time (h:mm:ss or m:ss): 12:10.21
+SRR980573		Average shared text size (kbytes): 0
+SRR980573		Average unshared data size (kbytes): 0
+SRR980573		Average stack size (kbytes): 0
+SRR980573		Average total size (kbytes): 0
+SRR980573		Maximum resident set size (kbytes): 49576
+SRR980573		Average resident set size (kbytes): 0
+SRR980573		Major (requiring I/O) page faults: 6
+SRR980573		Minor (reclaiming a frame) page faults: 55599
+SRR980573		Voluntary context switches: 1304021
+SRR980573		Involuntary context switches: 890384
+SRR980573		Swaps: 0
+SRR980573		File system inputs: 1160
+SRR980573		File system outputs: 194584
+SRR980573		Socket messages sent: 0
+SRR980573		Socket messages received: 0
+SRR980573		Signals delivered: 0
+SRR980573		Page size (bytes): 4096
+SRR980573		Exit status: 0
+SRR980574	13123973 reads; of these:
+SRR980574	  13123973 (100.00%) were paired; of these:
+SRR980574	    13031893 (99.30%) aligned concordantly 0 times
+SRR980574	    84134 (0.64%) aligned concordantly exactly 1 time
+SRR980574	    7946 (0.06%) aligned concordantly >1 times
+SRR980574	    ----
+SRR980574	    13031893 pairs aligned concordantly 0 times; of these:
+SRR980574	      1463 (0.01%) aligned discordantly 1 time
+SRR980574	    ----
+SRR980574	    13030430 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980574	      26060860 mates make up the pairs; of these:
+SRR980574	        26044998 (99.94%) aligned 0 times
+SRR980574	        15029 (0.06%) aligned exactly 1 time
+SRR980574	        833 (0.00%) aligned >1 times
+SRR980574	0.77% overall alignment rate
+SRR980574	[samopen] SAM header is present: 1654 sequences.
+SRR980574	[mpileup] 1 samples in 1 input files
+SRR980574	<mpileup> Set max per-file depth to 8000
+SRR980574		Command being timed: "srst2 --input_pe SRR980574/reads_1.fastq.gz SRR980574/reads_2.fastq.gz --output SRR980574/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980574		User time (seconds): 826.09
+SRR980574		System time (seconds): 23.54
+SRR980574		Percent of CPU this job got: 97%
+SRR980574		Elapsed (wall clock) time (h:mm:ss or m:ss): 14:32.62
+SRR980574		Average shared text size (kbytes): 0
+SRR980574		Average unshared data size (kbytes): 0
+SRR980574		Average stack size (kbytes): 0
+SRR980574		Average total size (kbytes): 0
+SRR980574		Maximum resident set size (kbytes): 73280
+SRR980574		Average resident set size (kbytes): 0
+SRR980574		Major (requiring I/O) page faults: 0
+SRR980574		Minor (reclaiming a frame) page faults: 81466
+SRR980574		Voluntary context switches: 1525767
+SRR980574		Involuntary context switches: 917975
+SRR980574		Swaps: 0
+SRR980574		File system inputs: 13896
+SRR980574		File system outputs: 429616
+SRR980574		Socket messages sent: 0
+SRR980574		Socket messages received: 0
+SRR980574		Signals delivered: 0
+SRR980574		Page size (bytes): 4096
+SRR980574		Exit status: 0
+SRR980575	14792541 reads; of these:
+SRR980575	  14792541 (100.00%) were paired; of these:
+SRR980575	    14710782 (99.45%) aligned concordantly 0 times
+SRR980575	    77191 (0.52%) aligned concordantly exactly 1 time
+SRR980575	    4568 (0.03%) aligned concordantly >1 times
+SRR980575	    ----
+SRR980575	    14710782 pairs aligned concordantly 0 times; of these:
+SRR980575	      1413 (0.01%) aligned discordantly 1 time
+SRR980575	    ----
+SRR980575	    14709369 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980575	      29418738 mates make up the pairs; of these:
+SRR980575	        29392837 (99.91%) aligned 0 times
+SRR980575	        25577 (0.09%) aligned exactly 1 time
+SRR980575	        324 (0.00%) aligned >1 times
+SRR980575	0.65% overall alignment rate
+SRR980575	[samopen] SAM header is present: 1654 sequences.
+SRR980575	[mpileup] 1 samples in 1 input files
+SRR980575	<mpileup> Set max per-file depth to 8000
+SRR980575		Command being timed: "srst2 --input_pe SRR980575/reads_1.fastq.gz SRR980575/reads_2.fastq.gz --output SRR980575/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980575		User time (seconds): 928.67
+SRR980575		System time (seconds): 26.15
+SRR980575		Percent of CPU this job got: 97%
+SRR980575		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:20.31
+SRR980575		Average shared text size (kbytes): 0
+SRR980575		Average unshared data size (kbytes): 0
+SRR980575		Average stack size (kbytes): 0
+SRR980575		Average total size (kbytes): 0
+SRR980575		Maximum resident set size (kbytes): 66948
+SRR980575		Average resident set size (kbytes): 0
+SRR980575		Major (requiring I/O) page faults: 0
+SRR980575		Minor (reclaiming a frame) page faults: 76777
+SRR980575		Voluntary context switches: 1714796
+SRR980575		Involuntary context switches: 873058
+SRR980575		Swaps: 0
+SRR980575		File system inputs: 0
+SRR980575		File system outputs: 388736
+SRR980575		Socket messages sent: 0
+SRR980575		Socket messages received: 0
+SRR980575		Signals delivered: 0
+SRR980575		Page size (bytes): 4096
+SRR980575		Exit status: 0
+SRR980576	13834851 reads; of these:
+SRR980576	  13834851 (100.00%) were paired; of these:
+SRR980576	    13763959 (99.49%) aligned concordantly 0 times
+SRR980576	    65418 (0.47%) aligned concordantly exactly 1 time
+SRR980576	    5474 (0.04%) aligned concordantly >1 times
+SRR980576	    ----
+SRR980576	    13763959 pairs aligned concordantly 0 times; of these:
+SRR980576	      1539 (0.01%) aligned discordantly 1 time
+SRR980576	    ----
+SRR980576	    13762420 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980576	      27524840 mates make up the pairs; of these:
+SRR980576	        27499695 (99.91%) aligned 0 times
+SRR980576	        24201 (0.09%) aligned exactly 1 time
+SRR980576	        944 (0.00%) aligned >1 times
+SRR980576	0.61% overall alignment rate
+SRR980576	[samopen] SAM header is present: 1654 sequences.
+SRR980576	[mpileup] 1 samples in 1 input files
+SRR980576	<mpileup> Set max per-file depth to 8000
+SRR980576		Command being timed: "srst2 --input_pe SRR980576/reads_1.fastq.gz SRR980576/reads_2.fastq.gz --output SRR980576/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980576		User time (seconds): 881.43
+SRR980576		System time (seconds): 24.44
+SRR980576		Percent of CPU this job got: 97%
+SRR980576		Elapsed (wall clock) time (h:mm:ss or m:ss): 15:31.82
+SRR980576		Average shared text size (kbytes): 0
+SRR980576		Average unshared data size (kbytes): 0
+SRR980576		Average stack size (kbytes): 0
+SRR980576		Average total size (kbytes): 0
+SRR980576		Maximum resident set size (kbytes): 67664
+SRR980576		Average resident set size (kbytes): 0
+SRR980576		Major (requiring I/O) page faults: 0
+SRR980576		Minor (reclaiming a frame) page faults: 72931
+SRR980576		Voluntary context switches: 1606672
+SRR980576		Involuntary context switches: 695564
+SRR980576		Swaps: 0
+SRR980576		File system inputs: 0
+SRR980576		File system outputs: 343800
+SRR980576		Socket messages sent: 0
+SRR980576		Socket messages received: 0
+SRR980576		Signals delivered: 0
+SRR980576		Page size (bytes): 4096
+SRR980576		Exit status: 0
+SRR980577	8974674 reads; of these:
+SRR980577	  8974674 (100.00%) were paired; of these:
+SRR980577	    8939199 (99.60%) aligned concordantly 0 times
+SRR980577	    34776 (0.39%) aligned concordantly exactly 1 time
+SRR980577	    699 (0.01%) aligned concordantly >1 times
+SRR980577	    ----
+SRR980577	    8939199 pairs aligned concordantly 0 times; of these:
+SRR980577	      446 (0.00%) aligned discordantly 1 time
+SRR980577	    ----
+SRR980577	    8938753 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980577	      17877506 mates make up the pairs; of these:
+SRR980577	        17870463 (99.96%) aligned 0 times
+SRR980577	        6943 (0.04%) aligned exactly 1 time
+SRR980577	        100 (0.00%) aligned >1 times
+SRR980577	0.44% overall alignment rate
+SRR980577	[samopen] SAM header is present: 1654 sequences.
+SRR980577	[mpileup] 1 samples in 1 input files
+SRR980577	<mpileup> Set max per-file depth to 8000
+SRR980577		Command being timed: "srst2 --input_pe SRR980577/reads_1.fastq.gz SRR980577/reads_2.fastq.gz --output SRR980577/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980577		User time (seconds): 537.28
+SRR980577		System time (seconds): 15.36
+SRR980577		Percent of CPU this job got: 97%
+SRR980577		Elapsed (wall clock) time (h:mm:ss or m:ss): 9:25.11
+SRR980577		Average shared text size (kbytes): 0
+SRR980577		Average unshared data size (kbytes): 0
+SRR980577		Average stack size (kbytes): 0
+SRR980577		Average total size (kbytes): 0
+SRR980577		Maximum resident set size (kbytes): 66084
+SRR980577		Average resident set size (kbytes): 0
+SRR980577		Major (requiring I/O) page faults: 0
+SRR980577		Minor (reclaiming a frame) page faults: 50847
+SRR980577		Voluntary context switches: 1053885
+SRR980577		Involuntary context switches: 579782
+SRR980577		Swaps: 0
+SRR980577		File system inputs: 0
+SRR980577		File system outputs: 156624
+SRR980577		Socket messages sent: 0
+SRR980577		Socket messages received: 0
+SRR980577		Signals delivered: 0
+SRR980577		Page size (bytes): 4096
+SRR980577		Exit status: 0
+SRR980578	11495276 reads; of these:
+SRR980578	  11495276 (100.00%) were paired; of these:
+SRR980578	    11473036 (99.81%) aligned concordantly 0 times
+SRR980578	    19937 (0.17%) aligned concordantly exactly 1 time
+SRR980578	    2303 (0.02%) aligned concordantly >1 times
+SRR980578	    ----
+SRR980578	    11473036 pairs aligned concordantly 0 times; of these:
+SRR980578	      21 (0.00%) aligned discordantly 1 time
+SRR980578	    ----
+SRR980578	    11473015 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980578	      22946030 mates make up the pairs; of these:
+SRR980578	        22936173 (99.96%) aligned 0 times
+SRR980578	        9485 (0.04%) aligned exactly 1 time
+SRR980578	        372 (0.00%) aligned >1 times
+SRR980578	0.24% overall alignment rate
+SRR980578	[samopen] SAM header is present: 1654 sequences.
+SRR980578	[mpileup] 1 samples in 1 input files
+SRR980578	<mpileup> Set max per-file depth to 8000
+SRR980578		Command being timed: "srst2 --input_pe SRR980578/reads_1.fastq.gz SRR980578/reads_2.fastq.gz --output SRR980578/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980578		User time (seconds): 686.07
+SRR980578		System time (seconds): 19.76
+SRR980578		Percent of CPU this job got: 96%
+SRR980578		Elapsed (wall clock) time (h:mm:ss or m:ss): 12:10.26
+SRR980578		Average shared text size (kbytes): 0
+SRR980578		Average unshared data size (kbytes): 0
+SRR980578		Average stack size (kbytes): 0
+SRR980578		Average total size (kbytes): 0
+SRR980578		Maximum resident set size (kbytes): 49656
+SRR980578		Average resident set size (kbytes): 0
+SRR980578		Major (requiring I/O) page faults: 0
+SRR980578		Minor (reclaiming a frame) page faults: 45288
+SRR980578		Voluntary context switches: 1350744
+SRR980578		Involuntary context switches: 694672
+SRR980578		Swaps: 0
+SRR980578		File system inputs: 0
+SRR980578		File system outputs: 103064
+SRR980578		Socket messages sent: 0
+SRR980578		Socket messages received: 0
+SRR980578		Signals delivered: 0
+SRR980578		Page size (bytes): 4096
+SRR980578		Exit status: 0
+SRR980579	8694271 reads; of these:
+SRR980579	  8694271 (100.00%) were paired; of these:
+SRR980579	    8640658 (99.38%) aligned concordantly 0 times
+SRR980579	    50566 (0.58%) aligned concordantly exactly 1 time
+SRR980579	    3047 (0.04%) aligned concordantly >1 times
+SRR980579	    ----
+SRR980579	    8640658 pairs aligned concordantly 0 times; of these:
+SRR980579	      798 (0.01%) aligned discordantly 1 time
+SRR980579	    ----
+SRR980579	    8639860 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980579	      17279720 mates make up the pairs; of these:
+SRR980579	        17264090 (99.91%) aligned 0 times
+SRR980579	        15335 (0.09%) aligned exactly 1 time
+SRR980579	        295 (0.00%) aligned >1 times
+SRR980579	0.72% overall alignment rate
+SRR980579	[samopen] SAM header is present: 1654 sequences.
+SRR980579	[mpileup] 1 samples in 1 input files
+SRR980579	<mpileup> Set max per-file depth to 8000
+SRR980579		Command being timed: "srst2 --input_pe SRR980579/reads_1.fastq.gz SRR980579/reads_2.fastq.gz --output SRR980579/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980579		User time (seconds): 551.97
+SRR980579		System time (seconds): 15.21
+SRR980579		Percent of CPU this job got: 97%
+SRR980579		Elapsed (wall clock) time (h:mm:ss or m:ss): 9:43.07
+SRR980579		Average shared text size (kbytes): 0
+SRR980579		Average unshared data size (kbytes): 0
+SRR980579		Average stack size (kbytes): 0
+SRR980579		Average total size (kbytes): 0
+SRR980579		Maximum resident set size (kbytes): 66904
+SRR980579		Average resident set size (kbytes): 0
+SRR980579		Major (requiring I/O) page faults: 0
+SRR980579		Minor (reclaiming a frame) page faults: 62692
+SRR980579		Voluntary context switches: 1018078
+SRR980579		Involuntary context switches: 827081
+SRR980579		Swaps: 0
+SRR980579		File system inputs: 0
+SRR980579		File system outputs: 247904
+SRR980579		Socket messages sent: 0
+SRR980579		Socket messages received: 0
+SRR980579		Signals delivered: 0
+SRR980579		Page size (bytes): 4096
+SRR980579		Exit status: 0
+SRR980580	14841718 reads; of these:
+SRR980580	  14841718 (100.00%) were paired; of these:
+SRR980580	    14788666 (99.64%) aligned concordantly 0 times
+SRR980580	    47008 (0.32%) aligned concordantly exactly 1 time
+SRR980580	    6044 (0.04%) aligned concordantly >1 times
+SRR980580	    ----
+SRR980580	    14788666 pairs aligned concordantly 0 times; of these:
+SRR980580	      932 (0.01%) aligned discordantly 1 time
+SRR980580	    ----
+SRR980580	    14787734 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980580	      29575468 mates make up the pairs; of these:
+SRR980580	        29557208 (99.94%) aligned 0 times
+SRR980580	        17313 (0.06%) aligned exactly 1 time
+SRR980580	        947 (0.00%) aligned >1 times
+SRR980580	0.43% overall alignment rate
+SRR980580	[samopen] SAM header is present: 1654 sequences.
+SRR980580	[mpileup] 1 samples in 1 input files
+SRR980580	<mpileup> Set max per-file depth to 8000
+SRR980580		Command being timed: "srst2 --input_pe SRR980580/reads_1.fastq.gz SRR980580/reads_2.fastq.gz --output SRR980580/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980580		User time (seconds): 903.60
+SRR980580		System time (seconds): 25.31
+SRR980580		Percent of CPU this job got: 95%
+SRR980580		Elapsed (wall clock) time (h:mm:ss or m:ss): 16:08.73
+SRR980580		Average shared text size (kbytes): 0
+SRR980580		Average unshared data size (kbytes): 0
+SRR980580		Average stack size (kbytes): 0
+SRR980580		Average total size (kbytes): 0
+SRR980580		Maximum resident set size (kbytes): 50812
+SRR980580		Average resident set size (kbytes): 0
+SRR980580		Major (requiring I/O) page faults: 0
+SRR980580		Minor (reclaiming a frame) page faults: 66448
+SRR980580		Voluntary context switches: 1749542
+SRR980580		Involuntary context switches: 1034012
+SRR980580		Swaps: 0
+SRR980580		File system inputs: 0
+SRR980580		File system outputs: 262456
+SRR980580		Socket messages sent: 0
+SRR980580		Socket messages received: 0
+SRR980580		Signals delivered: 0
+SRR980580		Page size (bytes): 4096
+SRR980580		Exit status: 0
+SRR980581	23079203 reads; of these:
+SRR980581	  23079203 (100.00%) were paired; of these:
+SRR980581	    22958436 (99.48%) aligned concordantly 0 times
+SRR980581	    111168 (0.48%) aligned concordantly exactly 1 time
+SRR980581	    9599 (0.04%) aligned concordantly >1 times
+SRR980581	    ----
+SRR980581	    22958436 pairs aligned concordantly 0 times; of these:
+SRR980581	      1703 (0.01%) aligned discordantly 1 time
+SRR980581	    ----
+SRR980581	    22956733 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980581	      45913466 mates make up the pairs; of these:
+SRR980581	        45899314 (99.97%) aligned 0 times
+SRR980581	        13899 (0.03%) aligned exactly 1 time
+SRR980581	        253 (0.00%) aligned >1 times
+SRR980581	0.56% overall alignment rate
+SRR980581	[samopen] SAM header is present: 1654 sequences.
+SRR980581	[mpileup] 1 samples in 1 input files
+SRR980581	<mpileup> Set max per-file depth to 8000
+SRR980581		Command being timed: "srst2 --input_pe SRR980581/reads_1.fastq.gz SRR980581/reads_2.fastq.gz --output SRR980581/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980581		User time (seconds): 1474.18
+SRR980581		System time (seconds): 40.11
+SRR980581		Percent of CPU this job got: 97%
+SRR980581		Elapsed (wall clock) time (h:mm:ss or m:ss): 25:48.22
+SRR980581		Average shared text size (kbytes): 0
+SRR980581		Average unshared data size (kbytes): 0
+SRR980581		Average stack size (kbytes): 0
+SRR980581		Average total size (kbytes): 0
+SRR980581		Maximum resident set size (kbytes): 92092
+SRR980581		Average resident set size (kbytes): 0
+SRR980581		Major (requiring I/O) page faults: 1
+SRR980581		Minor (reclaiming a frame) page faults: 92047
+SRR980581		Voluntary context switches: 2694816
+SRR980581		Involuntary context switches: 1035405
+SRR980581		Swaps: 0
+SRR980581		File system inputs: 416
+SRR980581		File system outputs: 548056
+SRR980581		Socket messages sent: 0
+SRR980581		Socket messages received: 0
+SRR980581		Signals delivered: 0
+SRR980581		Page size (bytes): 4096
+SRR980581		Exit status: 0
+SRR980582	16782698 reads; of these:
+SRR980582	  16782698 (100.00%) were paired; of these:
+SRR980582	    16674658 (99.36%) aligned concordantly 0 times
+SRR980582	    101174 (0.60%) aligned concordantly exactly 1 time
+SRR980582	    6866 (0.04%) aligned concordantly >1 times
+SRR980582	    ----
+SRR980582	    16674658 pairs aligned concordantly 0 times; of these:
+SRR980582	      923 (0.01%) aligned discordantly 1 time
+SRR980582	    ----
+SRR980582	    16673735 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980582	      33347470 mates make up the pairs; of these:
+SRR980582	        33330294 (99.95%) aligned 0 times
+SRR980582	        16855 (0.05%) aligned exactly 1 time
+SRR980582	        321 (0.00%) aligned >1 times
+SRR980582	0.70% overall alignment rate
+SRR980582	[samopen] SAM header is present: 1654 sequences.
+SRR980582	[mpileup] 1 samples in 1 input files
+SRR980582	<mpileup> Set max per-file depth to 8000
+SRR980582		Command being timed: "srst2 --input_pe SRR980582/reads_1.fastq.gz SRR980582/reads_2.fastq.gz --output SRR980582/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980582		User time (seconds): 1112.23
+SRR980582		System time (seconds): 29.82
+SRR980582		Percent of CPU this job got: 97%
+SRR980582		Elapsed (wall clock) time (h:mm:ss or m:ss): 19:29.30
+SRR980582		Average shared text size (kbytes): 0
+SRR980582		Average unshared data size (kbytes): 0
+SRR980582		Average stack size (kbytes): 0
+SRR980582		Average total size (kbytes): 0
+SRR980582		Maximum resident set size (kbytes): 85164
+SRR980582		Average resident set size (kbytes): 0
+SRR980582		Major (requiring I/O) page faults: 0
+SRR980582		Minor (reclaiming a frame) page faults: 87607
+SRR980582		Voluntary context switches: 1943780
+SRR980582		Involuntary context switches: 1031031
+SRR980582		Swaps: 0
+SRR980582		File system inputs: 13896
+SRR980582		File system outputs: 495168
+SRR980582		Socket messages sent: 0
+SRR980582		Socket messages received: 0
+SRR980582		Signals delivered: 0
+SRR980582		Page size (bytes): 4096
+SRR980582		Exit status: 0
+SRR980583	11216559 reads; of these:
+SRR980583	  11216559 (100.00%) were paired; of these:
+SRR980583	    11162127 (99.51%) aligned concordantly 0 times
+SRR980583	    52171 (0.47%) aligned concordantly exactly 1 time
+SRR980583	    2261 (0.02%) aligned concordantly >1 times
+SRR980583	    ----
+SRR980583	    11162127 pairs aligned concordantly 0 times; of these:
+SRR980583	      2461 (0.02%) aligned discordantly 1 time
+SRR980583	    ----
+SRR980583	    11159666 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980583	      22319332 mates make up the pairs; of these:
+SRR980583	        22291761 (99.88%) aligned 0 times
+SRR980583	        27094 (0.12%) aligned exactly 1 time
+SRR980583	        477 (0.00%) aligned >1 times
+SRR980583	0.63% overall alignment rate
+SRR980583	[samopen] SAM header is present: 1654 sequences.
+SRR980583	[mpileup] 1 samples in 1 input files
+SRR980583	<mpileup> Set max per-file depth to 8000
+SRR980583	/usr/local/lib/python2.7/dist-packages/scipy/stats/_discrete_distns.py:57: RuntimeWarning: floating point number truncated to an integer
+SRR980583	  vals = special.bdtr(k, n, p)
+SRR980583		Command being timed: "srst2 --input_pe SRR980583/reads_1.fastq.gz SRR980583/reads_2.fastq.gz --output SRR980583/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980583		User time (seconds): 698.05
+SRR980583		System time (seconds): 19.70
+SRR980583		Percent of CPU this job got: 97%
+SRR980583		Elapsed (wall clock) time (h:mm:ss or m:ss): 12:17.19
+SRR980583		Average shared text size (kbytes): 0
+SRR980583		Average unshared data size (kbytes): 0
+SRR980583		Average stack size (kbytes): 0
+SRR980583		Average total size (kbytes): 0
+SRR980583		Maximum resident set size (kbytes): 67056
+SRR980583		Average resident set size (kbytes): 0
+SRR980583		Major (requiring I/O) page faults: 0
+SRR980583		Minor (reclaiming a frame) page faults: 67305
+SRR980583		Voluntary context switches: 1284713
+SRR980583		Involuntary context switches: 811406
+SRR980583		Swaps: 0
+SRR980583		File system inputs: 48
+SRR980583		File system outputs: 280648
+SRR980583		Socket messages sent: 0
+SRR980583		Socket messages received: 0
+SRR980583		Signals delivered: 0
+SRR980583		Page size (bytes): 4096
+SRR980583		Exit status: 0
+SRR980584	17844595 reads; of these:
+SRR980584	  17844595 (100.00%) were paired; of these:
+SRR980584	    17830659 (99.92%) aligned concordantly 0 times
+SRR980584	    13933 (0.08%) aligned concordantly exactly 1 time
+SRR980584	    3 (0.00%) aligned concordantly >1 times
+SRR980584	    ----
+SRR980584	    17830659 pairs aligned concordantly 0 times; of these:
+SRR980584	      3 (0.00%) aligned discordantly 1 time
+SRR980584	    ----
+SRR980584	    17830656 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980584	      35661312 mates make up the pairs; of these:
+SRR980584	        35654081 (99.98%) aligned 0 times
+SRR980584	        7213 (0.02%) aligned exactly 1 time
+SRR980584	        18 (0.00%) aligned >1 times
+SRR980584	0.10% overall alignment rate
+SRR980584	[samopen] SAM header is present: 1654 sequences.
+SRR980584	[mpileup] 1 samples in 1 input files
+SRR980584	<mpileup> Set max per-file depth to 8000
+SRR980584		Command being timed: "srst2 --input_pe SRR980584/reads_1.fastq.gz SRR980584/reads_2.fastq.gz --output SRR980584/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980584		User time (seconds): 1039.00
+SRR980584		System time (seconds): 30.20
+SRR980584		Percent of CPU this job got: 97%
+SRR980584		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:21.07
+SRR980584		Average shared text size (kbytes): 0
+SRR980584		Average unshared data size (kbytes): 0
+SRR980584		Average stack size (kbytes): 0
+SRR980584		Average total size (kbytes): 0
+SRR980584		Maximum resident set size (kbytes): 66780
+SRR980584		Average resident set size (kbytes): 0
+SRR980584		Major (requiring I/O) page faults: 0
+SRR980584		Minor (reclaiming a frame) page faults: 39403
+SRR980584		Voluntary context switches: 2031363
+SRR980584		Involuntary context switches: 962820
+SRR980584		Swaps: 0
+SRR980584		File system inputs: 0
+SRR980584		File system outputs: 65848
+SRR980584		Socket messages sent: 0
+SRR980584		Socket messages received: 0
+SRR980584		Signals delivered: 0
+SRR980584		Page size (bytes): 4096
+SRR980584		Exit status: 0
+SRR980585	6078022 reads; of these:
+SRR980585	  6078022 (100.00%) were paired; of these:
+SRR980585	    6049473 (99.53%) aligned concordantly 0 times
+SRR980585	    24533 (0.40%) aligned concordantly exactly 1 time
+SRR980585	    4016 (0.07%) aligned concordantly >1 times
+SRR980585	    ----
+SRR980585	    6049473 pairs aligned concordantly 0 times; of these:
+SRR980585	      227 (0.00%) aligned discordantly 1 time
+SRR980585	    ----
+SRR980585	    6049246 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980585	      12098492 mates make up the pairs; of these:
+SRR980585	        12080343 (99.85%) aligned 0 times
+SRR980585	        15872 (0.13%) aligned exactly 1 time
+SRR980585	        2277 (0.02%) aligned >1 times
+SRR980585	0.62% overall alignment rate
+SRR980585	[samopen] SAM header is present: 1654 sequences.
+SRR980585	[mpileup] 1 samples in 1 input files
+SRR980585	<mpileup> Set max per-file depth to 8000
+SRR980585		Command being timed: "srst2 --input_pe SRR980585/reads_1.fastq.gz SRR980585/reads_2.fastq.gz --output SRR980585/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980585		User time (seconds): 393.02
+SRR980585		System time (seconds): 11.04
+SRR980585		Percent of CPU this job got: 97%
+SRR980585		Elapsed (wall clock) time (h:mm:ss or m:ss): 6:56.37
+SRR980585		Average shared text size (kbytes): 0
+SRR980585		Average unshared data size (kbytes): 0
+SRR980585		Average stack size (kbytes): 0
+SRR980585		Average total size (kbytes): 0
+SRR980585		Maximum resident set size (kbytes): 67312
+SRR980585		Average resident set size (kbytes): 0
+SRR980585		Major (requiring I/O) page faults: 0
+SRR980585		Minor (reclaiming a frame) page faults: 51922
+SRR980585		Voluntary context switches: 681656
+SRR980585		Involuntary context switches: 426128
+SRR980585		Swaps: 0
+SRR980585		File system inputs: 0
+SRR980585		File system outputs: 158280
+SRR980585		Socket messages sent: 0
+SRR980585		Socket messages received: 0
+SRR980585		Signals delivered: 0
+SRR980585		Page size (bytes): 4096
+SRR980585		Exit status: 0
+SRR980586	5295489 reads; of these:
+SRR980586	  5295489 (100.00%) were paired; of these:
+SRR980586	    5278418 (99.68%) aligned concordantly 0 times
+SRR980586	    14793 (0.28%) aligned concordantly exactly 1 time
+SRR980586	    2278 (0.04%) aligned concordantly >1 times
+SRR980586	    ----
+SRR980586	    5278418 pairs aligned concordantly 0 times; of these:
+SRR980586	      138 (0.00%) aligned discordantly 1 time
+SRR980586	    ----
+SRR980586	    5278280 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980586	      10556560 mates make up the pairs; of these:
+SRR980586	        10544686 (99.89%) aligned 0 times
+SRR980586	        10471 (0.10%) aligned exactly 1 time
+SRR980586	        1403 (0.01%) aligned >1 times
+SRR980586	0.44% overall alignment rate
+SRR980586	[samopen] SAM header is present: 1654 sequences.
+SRR980586	[mpileup] 1 samples in 1 input files
+SRR980586	<mpileup> Set max per-file depth to 8000
+SRR980586		Command being timed: "srst2 --input_pe SRR980586/reads_1.fastq.gz SRR980586/reads_2.fastq.gz --output SRR980586/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980586		User time (seconds): 338.58
+SRR980586		System time (seconds): 9.51
+SRR980586		Percent of CPU this job got: 97%
+SRR980586		Elapsed (wall clock) time (h:mm:ss or m:ss): 5:57.40
+SRR980586		Average shared text size (kbytes): 0
+SRR980586		Average unshared data size (kbytes): 0
+SRR980586		Average stack size (kbytes): 0
+SRR980586		Average total size (kbytes): 0
+SRR980586		Maximum resident set size (kbytes): 66440
+SRR980586		Average resident set size (kbytes): 0
+SRR980586		Major (requiring I/O) page faults: 0
+SRR980586		Minor (reclaiming a frame) page faults: 43911
+SRR980586		Voluntary context switches: 610768
+SRR980586		Involuntary context switches: 509663
+SRR980586		Swaps: 0
+SRR980586		File system inputs: 0
+SRR980586		File system outputs: 95752
+SRR980586		Socket messages sent: 0
+SRR980586		Socket messages received: 0
+SRR980586		Signals delivered: 0
+SRR980586		Page size (bytes): 4096
+SRR980586		Exit status: 0
+SRR980587	13946198 reads; of these:
+SRR980587	  13946198 (100.00%) were paired; of these:
+SRR980587	    13908154 (99.73%) aligned concordantly 0 times
+SRR980587	    33062 (0.24%) aligned concordantly exactly 1 time
+SRR980587	    4982 (0.04%) aligned concordantly >1 times
+SRR980587	    ----
+SRR980587	    13908154 pairs aligned concordantly 0 times; of these:
+SRR980587	      15 (0.00%) aligned discordantly 1 time
+SRR980587	    ----
+SRR980587	    13908139 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980587	      27816278 mates make up the pairs; of these:
+SRR980587	        27792412 (99.91%) aligned 0 times
+SRR980587	        21848 (0.08%) aligned exactly 1 time
+SRR980587	        2018 (0.01%) aligned >1 times
+SRR980587	0.36% overall alignment rate
+SRR980587	[samopen] SAM header is present: 1654 sequences.
+SRR980587	[mpileup] 1 samples in 1 input files
+SRR980587	<mpileup> Set max per-file depth to 8000
+SRR980587		Command being timed: "srst2 --input_pe SRR980587/reads_1.fastq.gz SRR980587/reads_2.fastq.gz --output SRR980587/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980587		User time (seconds): 876.28
+SRR980587		System time (seconds): 24.77
+SRR980587		Percent of CPU this job got: 97%
+SRR980587		Elapsed (wall clock) time (h:mm:ss or m:ss): 15:21.44
+SRR980587		Average shared text size (kbytes): 0
+SRR980587		Average unshared data size (kbytes): 0
+SRR980587		Average stack size (kbytes): 0
+SRR980587		Average total size (kbytes): 0
+SRR980587		Maximum resident set size (kbytes): 47828
+SRR980587		Average resident set size (kbytes): 0
+SRR980587		Major (requiring I/O) page faults: 4
+SRR980587		Minor (reclaiming a frame) page faults: 56594
+SRR980587		Voluntary context switches: 1614347
+SRR980587		Involuntary context switches: 913259
+SRR980587		Swaps: 0
+SRR980587		File system inputs: 4488
+SRR980587		File system outputs: 202592
+SRR980587		Socket messages sent: 0
+SRR980587		Socket messages received: 0
+SRR980587		Signals delivered: 0
+SRR980587		Page size (bytes): 4096
+SRR980587		Exit status: 0
+SRR980588	18118336 reads; of these:
+SRR980588	  18118336 (100.00%) were paired; of these:
+SRR980588	    18103095 (99.92%) aligned concordantly 0 times
+SRR980588	    15238 (0.08%) aligned concordantly exactly 1 time
+SRR980588	    3 (0.00%) aligned concordantly >1 times
+SRR980588	    ----
+SRR980588	    18103095 pairs aligned concordantly 0 times; of these:
+SRR980588	      5 (0.00%) aligned discordantly 1 time
+SRR980588	    ----
+SRR980588	    18103090 pairs aligned 0 times concordantly or discordantly; of these:
+SRR980588	      36206180 mates make up the pairs; of these:
+SRR980588	        36199510 (99.98%) aligned 0 times
+SRR980588	        6655 (0.02%) aligned exactly 1 time
+SRR980588	        15 (0.00%) aligned >1 times
+SRR980588	0.10% overall alignment rate
+SRR980588	[samopen] SAM header is present: 1654 sequences.
+SRR980588	[mpileup] 1 samples in 1 input files
+SRR980588	<mpileup> Set max per-file depth to 8000
+SRR980588		Command being timed: "srst2 --input_pe SRR980588/reads_1.fastq.gz SRR980588/reads_2.fastq.gz --output SRR980588/srst2/out --log --gene_db /mnt/docker/ARIBA/E_faecium/Ref/ARGannot.r1.fasta"
+SRR980588		User time (seconds): 1047.52
+SRR980588		System time (seconds): 30.38
+SRR980588		Percent of CPU this job got: 97%
+SRR980588		Elapsed (wall clock) time (h:mm:ss or m:ss): 18:30.77
+SRR980588		Average shared text size (kbytes): 0
+SRR980588		Average unshared data size (kbytes): 0
+SRR980588		Average stack size (kbytes): 0
+SRR980588		Average total size (kbytes): 0
+SRR980588		Maximum resident set size (kbytes): 66052
+SRR980588		Average resident set size (kbytes): 0
+SRR980588		Major (requiring I/O) page faults: 0
+SRR980588		Minor (reclaiming a frame) page faults: 39899
+SRR980588		Voluntary context switches: 2106615
+SRR980588		Involuntary context switches: 1012333
+SRR980588		Swaps: 0
+SRR980588		File system inputs: 13960
+SRR980588		File system outputs: 69344
+SRR980588		Socket messages sent: 0
+SRR980588		Socket messages received: 0
+SRR980588		Signals delivered: 0
+SRR980588		Page size (bytes): 4096
+SRR980588		Exit status: 0

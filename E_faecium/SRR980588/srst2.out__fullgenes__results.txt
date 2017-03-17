@@ -1,0 +1,3 @@
+Sample	DB	gene	allele	coverage	depth	diffs	uncertainty	divergence	length	maxMAF	clusterid	seqid	annotation
+reads	ARGannot.r1	MsrC_MLS	MsrC_304	99.932	1447.897	14snp1indel		0.947	1479	0.126	36	304	no;no;MsrC;MLS;AY004350;496-1974;1479
+reads	ARGannot.r1	Aac6-Ii_AGly	Aac6-Ii_591	100.0	1196.795	1snp		0.182	549	0.015	402	591	no;yes;Aac6-Ii;AGly;L12710;169-717;549
