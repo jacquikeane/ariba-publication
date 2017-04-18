@@ -6,7 +6,8 @@ root_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && cd .. && pwd )"
 script_dir=$root_dir/Scripts
 
 # _________________________ Run time and memory _______________________________
-rm -f $root_dir/Time_and_memory/*
+rm -rf $root_dir/Time_and_memory
+mkdir $root_dir/Time_and_memory
 $script_dir/get_time_and_memory.py $root_dir
 cd $root_dir/Time_and_memory
 R CMD BATCH $script_dir/plot_resources.R
@@ -57,7 +58,8 @@ R CMD BATCH $script_dir/n_gonorrhoeae_figure5.R
 
 # ____________________ copying figure pdf files and making xlsx _______________
 cd $root_dir
-rm -f Figures/figure_{2,3,4,5}.pdf Supplementary_LaTeX/pics-autogen/*
+rm -f Figures/figure_{2,3,4,5}.pdf Supplementary_LaTeX/pics-autogen
+mkdir Supplementary_LaTeX/pics-autogen
 
 cp E_faecium/summary.depth_plot.all.pdf Figures/figure_2.pdf
 for x in B H R S X; do cp E_faecium/summary.depth_plot.Van$x.pdf Supplementary_LaTeX/pics-autogen/e_faecium.depth_plot.Van$x.pdf; done
