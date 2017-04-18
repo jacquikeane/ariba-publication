@@ -5,13 +5,13 @@ import openpyxl
 
 filenames_to_load = [
     'E_faecium/summary.supplementary_table.tsv',
-    'Time_and_memory/resources.tsv',
     'S_sonnei/shigella_supplementary_holt2012.tsv',
     'S_sonnei/Ref/ref_data.in.tsv',
-    'S_sonnei/summary.calls.tsv',
+    'S_sonnei/summary.amr_genes.tsv',
     'N_gonorrhoeae/fig5.mic_data.csv',
     'N_gonorrhoeae/suppl_table_gono_antibios.xlsx',
-    'S_sonnei/summary.amr_genes.tsv',
+    'Time_and_memory/resources.tsv',
+    'S_sonnei/summary.calls.tsv',
 ]
 
 
