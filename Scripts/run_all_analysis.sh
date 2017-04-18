@@ -58,7 +58,8 @@ R CMD BATCH $script_dir/n_gonorrhoeae_figure5.R
 
 # ____________________ copying figure pdf files and making xlsx _______________
 cd $root_dir
-rm -f Figures/figure_{2,3,4,5}.pdf Supplementary_LaTeX/pics-autogen
+rm -f Figures/figure_{2,3,4,5}.pdf
+rm -rf Supplementary_LaTeX/pics-autogen
 mkdir Supplementary_LaTeX/pics-autogen
 
 cp E_faecium/summary.depth_plot.all.pdf Figures/figure_2.pdf
