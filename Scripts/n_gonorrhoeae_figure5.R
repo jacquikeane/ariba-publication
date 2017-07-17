@@ -76,7 +76,7 @@ copyNumber <- function(ariba.table, mic.table, mutation, sec.mut=NULL, antibioti
     for (x in 1:length(breaks)){ p3 <- p3+geom_vline(xintercept=breaks[x], linetype="dotted", colour=accent[2]) }
     p3 <- p3+geom_count(colour=paired[10], alpha=.8)+scale_size(range=c(2,15), breaks = c(5,10,50,100,250))+
       geom_smooth(method="lm", col="#330f53")+
-      xlab(paste("% reads with 23S 2597T mutation"))+ylab(bquote(.(antibiotic) ~ "log(MIC) " ~ mu * "g/mL"))+
+      xlab(paste("% reads with 23S 2597T mutation"))+ylab(bquote(.(antibiotic) ~ "MIC (" * mu * "g/mL)"))+
       scale_x_continuous(breaks=seq(0,100,by=25), limits = c(0,100))+
       scale_y_continuous(breaks=log2(azm_mics), labels=azm_mics)+
       theme_bw()+
