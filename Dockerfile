@@ -9,7 +9,7 @@ RUN apt-get update \
   && wget -q http://downloads.sourceforge.net/project/bowtie-bio/bowtie2/2.2.9/bowtie2-2.2.9-linux-x86_64.zip \
   && unzip bowtie2-2.2.9-linux-x86_64.zip \
   && rm bowtie2-2.2.9-linux-x86_64.zip \
-  && pip3 install scipy ariba==2.8.1 cairosvg==2.0.0 openpyxl==2.4.1
+  && pip3 install scipy ariba==2.10.0 cairosvg==2.0.0 openpyxl==2.4.1
 
 ENV ARIBA_BOWTIE2=$PWD/bowtie2-2.2.9/bowtie2 ARIBA_CDHIT=cdhit-est
 

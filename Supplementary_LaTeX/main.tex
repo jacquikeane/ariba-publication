@@ -88,16 +88,25 @@ $k=15$).
 \begin{picture}(200,200)
 \put(-20,0){\includegraphics[width=16cm]{ariba_read_map_critera.pdf}}
 \end{picture}
-\caption{Visualisation of criteria used to determine whether or not a read was considered to
-be mapped by minimap. See text for details.}
+\caption{Visualisation of criteria used to determine whether or not a read (in black)
+was considered to be mapped to the reference (in purple) by minimap.
+$q_s$ and $q_e$ are the start and end positions in the read
+of the minimap match. $r_s$ and $r_e$ are the start
+and end positions in the reference of the minimap match.
+See text for details.}
 \label{figure: ariba read map criteria}
 \end{figure}
 
 
 Let $q_\ell$ and $r_\ell$ be the length of the read and reference sequences
-respectively, let $\varepsilon = 1.1k$, and assume that
-$q_s < q_e$ and $r_s < r_e$, where we use the labels in Supplementary Figure
-\ref{figure: ariba read map criteria}.  The first requirement is that enough
+respectively, $q_s$ and $q_e$ the match start and end positions in the read,
+$r_s$ and $r_e$ the the match start and end positions in the reference,
+and $\varepsilon = 1.1k$.
+The possible orientations are shown in
+\ref{figure: ariba read map criteria}.
+Assume that $q_s < q_e$ and $r_s < r_e$ (by reverse-complementing the read if
+necessary).
+The first requirement is that enough
 of the read matches, specifically that
 $$
     q_e  - q_s \geqslant \min(50, q_\ell / 2).
@@ -481,7 +490,9 @@ ie a one base insertion in the reads, supported at high quality by 795 of the
 \subsection{Reference data}
 The extra reference sequences, the details of which are in
 Supplementary Table S3,  were downloaded using the script
-\verb+s_sonnei_get_extra_ref_seqs.py+. The CARD data was downloaded
+\verb+s_sonnei_get_extra_ref_seqs.py+ (which is included in the
+\texttt{Scripts/} directory of the ariba-publication GitHub repository).
+The CARD data was downloaded
 with the command
 \begin{verbatim}
    ariba getref --version 1.1.2 card card.getref
@@ -627,7 +638,8 @@ Figure \ref{figure: s sonnei ERR024606 ACT}.}
 The reference data were prepared for ARIBA using the methods described in the main text.
 The workflow is automated in the script
 \texttt{n\_gonorrhoeae\_make\_ariba\_db.sh}, which contains all the
-commands that were used.
+commands that were used and is included in the
+\texttt{Scripts/} directory of the ariba-publication GitHub repository.
 
 
 
@@ -637,14 +649,14 @@ commands that were used.
 \end{picture}
 \caption{Phandango visualisation of ARIBA
 results for \textit{N. gonorrhoeae}
-aligned against a phylogentic tree of the isolates
+aligned against a phylogenetic tree of the isolates
 to illustrate that resistance determinants have emerged multiple times in the
 population. Colours in columns showing the presence (yes) or absence (no) of a
 particular substitution are indicated in the substitution presence key. For
 the 23S C2597T substitution the percentage of mapped reads containing the
 substitution are shown in the 2597T.\% column,
 for which the key is labelled \%
-of mapped reads. The meaning of colours in the metR.assembled column are shown
+of mapped reads. The meaning of colours in the mtrR.assembled column are shown
 in the gene presence key, and indicate isolates for which the assembly for the
 \emph{mtrR} gene is complete (yes),
 interrupted, partial, fragmented or absent (no).}
