@@ -4,10 +4,6 @@ Supplementary data and scripts for the ARIBA publication.
 
 ## How to rerun the analysis
 
-Build the Docker container:
-
-    docker build -t ariba-publication .
-
 Run the analysis to reproduce the publication results and figures:
 
     docker pull martinghunt/ariba-publication:publication
